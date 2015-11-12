@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="r4.1">
+    <folder id="0">
+        <file id="0" name="Starship-1st-draft_0000_line-art.png" width="229" height="359" pivot_x="0.497817" pivot_y="0.047354"/>
+        <file id="1" name="Starship-1st-draft_0001_trim.png" width="214" height="245" pivot_x="0.53271" pivot_y="0.036735"/>
+        <file id="2" name="Starship-1st-draft_0002_belt.png" width="206" height="91" pivot_x="0.490291" pivot_y="0.472527"/>
+        <file id="3" name="Starship-1st-draft_0003_body.png" width="212" height="349" pivot_x="0.490566" pivot_y="0.017192"/>
+        <file id="4" name="Starship-1st-draft_0004_thrusters.png" width="223" height="65" pivot_x="0.502242" pivot_y="0.215385"/>
+        <file id="5" name="Starship-1st-draft_0005_viewport.png" width="73" height="73" pivot_x="0.479452" pivot_y="0.479452"/>
+        <file id="6" name="Starship-1st-draft_0006_flame-1-yellow.png" width="198" height="67" pivot_x="0.479798" pivot_y="0.522388"/>
+        <file id="7" name="Starship-1st-draft_0007_flame-1-orange-.png" width="215" height="84" pivot_x="0.488372" pivot_y="0.47619"/>
+        <file id="8" name="Starship-1st-draft_0008_flames-1-red.png" width="247" height="106" pivot_x="0.502024" pivot_y="0.320755"/>
+    </folder>
+    <entity id="0" name="Starship">
+        <obj_info name="bone_000" type="bone" w="283.186" h="10"/>
+        <obj_info name="bone_001" type="bone" w="84.507" h="10"/>
+        <obj_info name="bone_002" type="bone" w="143.91" h="10"/>
+        <obj_info name="bone_003" type="bone" w="88.7436" h="10"/>
+        <obj_info name="bone_004" type="bone" w="135.241" h="10"/>
+        <animation id="0" name="still" length="1000" interval="100">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="6" key="0" z_index="0"/>
+                    <object_ref id="1" timeline="7" key="0" z_index="1"/>
+                    <object_ref id="2" timeline="8" key="0" z_index="2"/>
+                    <object_ref id="3" timeline="5" key="0" z_index="3"/>
+                    <object_ref id="4" timeline="4" key="0" z_index="4"/>
+                    <object_ref id="5" timeline="3" key="0" z_index="5"/>
+                    <object_ref id="6" timeline="2" key="0" z_index="6"/>
+                    <object_ref id="7" timeline="1" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="0" key="0" z_index="8"/>
+                </key>
+                <key id="1" time="498">
+                    <object_ref id="0" timeline="6" key="1" z_index="0"/>
+                    <object_ref id="1" timeline="7" key="1" z_index="1"/>
+                    <object_ref id="2" timeline="8" key="1" z_index="2"/>
+                    <object_ref id="3" timeline="5" key="0" z_index="3"/>
+                    <object_ref id="4" timeline="4" key="0" z_index="4"/>
+                    <object_ref id="5" timeline="3" key="0" z_index="5"/>
+                    <object_ref id="6" timeline="2" key="0" z_index="6"/>
+                    <object_ref id="7" timeline="1" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="0" key="0" z_index="8"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="Starship-1st-draft_0000_line-art">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="-3" y="-123"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="Starship-1st-draft_0001_trim">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="4" y="-67"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="Starship-1st-draft_0002_belt">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="-4" y="-20"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="Starship-1st-draft_0003_body">
+                <key id="0" spin="0">
+                    <object folder="0" file="3" x="-3" y="-128"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="Starship-1st-draft_0004_thrusters">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="-3" y="-123"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="Starship-1st-draft_0005_viewport">
+                <key id="0" spin="0">
+                    <object folder="0" file="5" x="-4.359352" y="120.239764"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="Starship-1st-draft_0008_flames-1-red">
+                <key id="0" spin="0">
+                    <object folder="0" file="8" x="-0.803437" y="-157.05397" angle="359.803128" scale_x="0.908351" scale_y="1.013947"/>
+                </key>
+                <key id="1" time="498" spin="0">
+                    <object folder="0" file="8" x="-1.343978" y="-162.999916" angle="359.803128" scale_x="0.908351" scale_y="1.013947"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="Starship-1st-draft_0007_flame-1-orange-">
+                <key id="0" spin="0">
+                    <object folder="0" file="7" x="-3.887994" y="-122.921303" angle="359.803128" scale_x="0.908351" scale_y="1.013947"/>
+                </key>
+                <key id="1" time="498" spin="0">
+                    <object folder="0" file="7" x="-4.428534" y="-128.867249" angle="359.803128" scale_x="0.908351" scale_y="1.013947"/>
+                </key>
+            </timeline>
+            <timeline id="8" name="Starship-1st-draft_0006_flame-1-yellow">
+                <key id="0" spin="0">
+                    <object folder="0" file="6" x="-5.240391" y="-109.315754" angle="359.803128" scale_x="0.908351" scale_y="1.013947"/>
+                </key>
+                <key id="1" time="498" spin="0">
+                    <object folder="0" file="6" x="-5.780931" y="-115.261699" angle="359.803128" scale_x="0.908351" scale_y="1.013947"/>
+                </key>
+            </timeline>
+        </animation>
+        <animation id="1" name="moving" length="1000" interval="100">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" timeline="6" key="0" z_index="0"/>
+                    <object_ref id="1" timeline="7" key="0" z_index="1"/>
+                    <object_ref id="2" timeline="8" key="0" z_index="2"/>
+                    <object_ref id="3" timeline="5" key="0" z_index="3"/>
+                    <object_ref id="4" timeline="4" key="0" z_index="4"/>
+                    <object_ref id="5" timeline="3" key="0" z_index="5"/>
+                    <object_ref id="6" timeline="2" key="0" z_index="6"/>
+                    <object_ref id="7" timeline="1" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="0" key="0" z_index="8"/>
+                </key>
+                <key id="1" time="499">
+                    <object_ref id="0" timeline="6" key="1" z_index="0"/>
+                    <object_ref id="1" timeline="7" key="1" z_index="1"/>
+                    <object_ref id="2" timeline="8" key="1" z_index="2"/>
+                    <object_ref id="3" timeline="5" key="0" z_index="3"/>
+                    <object_ref id="4" timeline="4" key="0" z_index="4"/>
+                    <object_ref id="5" timeline="3" key="0" z_index="5"/>
+                    <object_ref id="6" timeline="2" key="0" z_index="6"/>
+                    <object_ref id="7" timeline="1" key="0" z_index="7"/>
+                    <object_ref id="8" timeline="0" key="0" z_index="8"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="Starship-1st-draft_0000_line-art">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="-3" y="-123"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="Starship-1st-draft_0001_trim">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="4" y="-67"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="Starship-1st-draft_0002_belt">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="-4" y="-20"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="Starship-1st-draft_0003_body">
+                <key id="0" spin="0">
+                    <object folder="0" file="3" x="-3" y="-128"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="Starship-1st-draft_0004_thrusters">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="-3" y="-123"/>
+                </key>
+            </timeline>
+            <timeline id="5" name="Starship-1st-draft_0005_viewport">
+                <key id="0" spin="0">
+                    <object folder="0" file="5" x="-4.359352" y="120.239764"/>
+                </key>
+            </timeline>
+            <timeline id="6" name="Starship-1st-draft_0008_flames-1-red">
+                <key id="0" spin="0">
+                    <object folder="0" file="8" x="-0.2985" y="-196.54076" angle="359.803128" scale_x="1.011724" scale_y="1.129337"/>
+                </key>
+                <key id="1" time="499" spin="0">
+                    <object folder="0" file="8" x="1.531002" y="-239.82628" angle="359.803128" scale_x="0.910133" scale_y="1.840067"/>
+                </key>
+            </timeline>
+            <timeline id="7" name="Starship-1st-draft_0007_flame-1-orange-">
+                <key id="0" spin="0">
+                    <object folder="0" file="7" x="-3.734087" y="-158.523705" angle="359.803128" scale_x="1.011724" scale_y="1.129337"/>
+                </key>
+                <key id="1" time="499" spin="0">
+                    <object folder="0" file="7" x="-1.464309" y="-177.892731" angle="359.803128" scale_x="0.910133" scale_y="1.840067"/>
+                </key>
+            </timeline>
+            <timeline id="8" name="Starship-1st-draft_0006_flame-1-yellow">
+                <key id="0" spin="0">
+                    <object folder="0" file="6" x="-5.240391" y="-143.369808" angle="359.803128" scale_x="1.011724" scale_y="1.129337"/>
+                </key>
+                <key id="1" time="499" spin="0">
+                    <object folder="0" file="6" x="-2.781374" y="-153.205873" angle="359.803128" scale_x="0.910133" scale_y="1.840067"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

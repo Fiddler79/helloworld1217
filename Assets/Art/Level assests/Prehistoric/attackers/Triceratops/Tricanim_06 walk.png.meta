@@ -1,0 +1,737 @@
+fileFormatVersion: 2
+guid: 005c0f9148ffed645b37bed57c2d220b
+timeCreated: 1446647884
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tricanim_06 walk_0
+    21300002: Tricanim_06 walk_1
+    21300004: Tricanim_06 walk_2
+    21300006: Tricanim_06 walk_3
+    21300008: Tricanim_06 walk_4
+    21300010: Tricanim_06 walk_5
+    21300012: Tricanim_06 walk_6
+    21300014: Tricanim_06 walk_7
+    21300016: Tricanim_06 walk_8
+    21300018: Tricanim_06 walk_9
+    21300020: Tricanim_06 walk_10
+    21300022: Tricanim_06 walk_11
+    21300024: Tricanim_06 walk_12
+    21300026: Tricanim_06 walk_13
+    21300028: Tricanim_06 walk_14
+    21300030: Tricanim_06 walk_15
+    21300032: Tricanim_06 walk_16
+    21300034: Tricanim_06 walk_17
+    21300036: Tricanim_06 walk_18
+    21300038: Tricanim_06 walk_19
+    21300040: Tricanim_06 walk_20
+    21300042: Tricanim_06 walk_21
+    21300044: Tricanim_06 walk_22
+    21300046: Tricanim_06 walk_23
+    21300048: Tricanim_06 walk_24
+    21300050: Tricanim_06 walk_25
+    21300052: Tricanim_06 walk_26
+    21300054: Tricanim_06 walk_27
+    21300056: Tricanim_06 walk_28
+    21300058: Tricanim_06 walk_29
+    21300060: Tricanim_06 walk_30
+    21300062: Tricanim_06 walk_31
+    21300064: Tricanim_06 walk_32
+    21300066: Tricanim_06 walk_33
+    21300068: Tricanim_06 walk_34
+    21300070: Tricanim_06 walk_35
+    21300072: Tricanim_06 walk_36
+    21300074: Tricanim_06 walk_37
+    21300076: Tricanim_06 walk_38
+    21300078: Tricanim_06 walk_39
+    21300080: Tricanim_06 walk_40
+    21300082: Tricanim_06 walk_41
+    21300084: Tricanim_06 walk_42
+    21300086: Tricanim_06 walk_43
+    21300088: Tricanim_06 walk_44
+    21300090: Tricanim_06 walk_45
+    21300092: Tricanim_06 walk_46
+    21300094: Tricanim_06 walk_47
+    21300096: Tricanim_06 walk_48
+    21300098: Tricanim_06 walk_49
+    21300100: Tricanim_06 walk_50
+    21300102: Tricanim_06 walk_51
+    21300104: Tricanim_06 walk_52
+    21300106: Tricanim_06 walk_53
+    21300108: Tricanim_06 walk_54
+    21300110: Tricanim_06 walk_55
+    21300112: Tricanim_06 walk_56
+    21300114: Tricanim_06 walk_57
+    21300116: Tricanim_06 walk_58
+    21300118: Tricanim_06 walk_59
+    21300120: Tricanim_06 walk_60
+    21300122: Tricanim_06 walk_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tricanim_06 walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2394
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2394
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_2
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2394
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_3
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 2394
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_4
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 2394
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_5
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 2394
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_6
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 2394
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_7
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 2394
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2052
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2052
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_10
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2052
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_11
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 2052
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_12
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 2052
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_13
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 2052
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_14
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 2052
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_15
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 2052
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1710
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_17
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1710
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_18
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1710
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_19
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1710
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_20
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 1710
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_21
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 1710
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_22
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 1710
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_23
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 1710
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1368
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_26
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1368
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_27
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1368
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_28
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 1368
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_29
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 1368
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_30
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 1368
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_31
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 1368
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_33
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1026
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_34
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1026
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_35
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1026
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_36
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 1026
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_37
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 1026
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_38
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 1026
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_39
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 1026
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_41
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 684
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_42
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 684
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_43
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 684
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_44
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 684
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_45
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 684
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_46
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 684
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_47
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 684
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_49
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 342
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_50
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 342
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_51
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 342
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_52
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 342
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_53
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 342
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_54
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 342
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_55
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 342
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_57
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_58
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 0
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_59
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 0
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_60
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 0
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tricanim_06 walk_61
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 0
+        width: 548
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,737 @@
+fileFormatVersion: 2
+guid: 4f5e1b33775aa8f4998258dbb6e94068
+timeCreated: 1446732250
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Caveman clubbing_0
+    21300002: Caveman clubbing_1
+    21300004: Caveman clubbing_2
+    21300006: Caveman clubbing_3
+    21300008: Caveman clubbing_4
+    21300010: Caveman clubbing_5
+    21300012: Caveman clubbing_6
+    21300014: Caveman clubbing_7
+    21300016: Caveman clubbing_8
+    21300018: Caveman clubbing_9
+    21300020: Caveman clubbing_10
+    21300022: Caveman clubbing_11
+    21300024: Caveman clubbing_12
+    21300026: Caveman clubbing_13
+    21300028: Caveman clubbing_14
+    21300030: Caveman clubbing_15
+    21300032: Caveman clubbing_16
+    21300034: Caveman clubbing_17
+    21300036: Caveman clubbing_18
+    21300038: Caveman clubbing_19
+    21300040: Caveman clubbing_20
+    21300042: Caveman clubbing_21
+    21300044: Caveman clubbing_22
+    21300046: Caveman clubbing_23
+    21300048: Caveman clubbing_24
+    21300050: Caveman clubbing_25
+    21300052: Caveman clubbing_26
+    21300054: Caveman clubbing_27
+    21300056: Caveman clubbing_28
+    21300058: Caveman clubbing_29
+    21300060: Caveman clubbing_30
+    21300062: Caveman clubbing_31
+    21300064: Caveman clubbing_32
+    21300066: Caveman clubbing_33
+    21300068: Caveman clubbing_34
+    21300070: Caveman clubbing_35
+    21300072: Caveman clubbing_36
+    21300074: Caveman clubbing_37
+    21300076: Caveman clubbing_38
+    21300078: Caveman clubbing_39
+    21300080: Caveman clubbing_40
+    21300082: Caveman clubbing_41
+    21300084: Caveman clubbing_42
+    21300086: Caveman clubbing_43
+    21300088: Caveman clubbing_44
+    21300090: Caveman clubbing_45
+    21300092: Caveman clubbing_46
+    21300094: Caveman clubbing_47
+    21300096: Caveman clubbing_48
+    21300098: Caveman clubbing_49
+    21300100: Caveman clubbing_50
+    21300102: Caveman clubbing_51
+    21300104: Caveman clubbing_52
+    21300106: Caveman clubbing_53
+    21300108: Caveman clubbing_54
+    21300110: Caveman clubbing_55
+    21300112: Caveman clubbing_56
+    21300114: Caveman clubbing_57
+    21300116: Caveman clubbing_58
+    21300118: Caveman clubbing_59
+    21300120: Caveman clubbing_60
+    21300122: Caveman clubbing_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Caveman clubbing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2842
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2842
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_2
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 2842
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_3
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2842
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_4
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2842
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_5
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2842
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_6
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 2842
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_7
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 2842
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2436
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2436
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_10
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 2436
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_11
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2436
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_12
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2436
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_13
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2436
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_14
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 2436
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_15
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 2436
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2030
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2030
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_18
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 2030
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_19
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2030
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_20
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 2030
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_21
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2030
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_22
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 2030
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_23
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 2030
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1624
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_25
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1624
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_26
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1624
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_27
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1624
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_28
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1624
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_29
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1624
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_30
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 1624
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_31
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 1624
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1218
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_33
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1218
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_34
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1218
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_35
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1218
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_36
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1218
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_37
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1218
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_38
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 1218
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_39
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 1218
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_41
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 812
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_42
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 812
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_43
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 812
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_44
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 812
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_45
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 812
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_46
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 812
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_47
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 812
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_49
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 406
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_50
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 406
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_51
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 406
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_52
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 406
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_53
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 406
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_54
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 406
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_55
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 406
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_57
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_58
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 0
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_59
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 0
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_60
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 0
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman clubbing_61
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 0
+        width: 467
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
