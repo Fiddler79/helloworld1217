@@ -9,8 +9,10 @@ public class Attacker : MonoBehaviour {
 	private float currentSpeed;
 	private GameObject currentTarget;
 	private Animator animator;
-	
+	private StarDisplay starDisplay;
+
 	void Start () {
+		starDisplay = GameObject.FindObjectOfType<StarDisplay>();
 		animator = GetComponent<Animator>();
 	}
 	
@@ -42,5 +44,8 @@ public class Attacker : MonoBehaviour {
 	
 	public void Attack (GameObject obj) {
 		currentTarget = obj;
+	}
+	public void AddStars (int amount) {
+		starDisplay.AddStars (amount);
 	}
 }
