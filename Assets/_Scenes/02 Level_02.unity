@@ -682,6 +682,7 @@ GameObject:
   - 222: {fileID: 361192927}
   - 114: {fileID: 361192926}
   - 95: {fileID: 361192925}
+  - 114: {fileID: 361192928}
   m_Layer: 5
   m_Name: crops (2)
   m_TagString: Untagged
@@ -750,6 +751,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 361192923}
+--- !u!114 &361192928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 361192923}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49d564e7712b5ef458b3fbcb93db5fb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &386496657 stripped
 Transform:
   m_PrefabParentObject: {fileID: 466122, guid: 1ad2699995fb42845934742a640cceb6, type: 2}
@@ -1622,6 +1634,7 @@ GameObject:
   - 222: {fileID: 934524438}
   - 114: {fileID: 934524437}
   - 95: {fileID: 934524439}
+  - 114: {fileID: 934524440}
   m_Layer: 5
   m_Name: crops
   m_TagString: Untagged
@@ -1690,6 +1703,17 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &934524440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 934524435}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49d564e7712b5ef458b3fbcb93db5fb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1077742786
 Transform:
   m_ObjectHideFlags: 0
@@ -2249,9 +2273,21 @@ Prefab:
       propertyPath: orthographic size
       value: 4.69148302
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8100000, guid: 2bfe2b1bf4a544646aaf0e0ec87a34cd, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 2bfe2b1bf4a544646aaf0e0ec87a34cd, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1333997704 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100000, guid: 2bfe2b1bf4a544646aaf0e0ec87a34cd, type: 2}
+  m_PrefabInternal: {fileID: 1333997703}
+--- !u!81 &1333997705
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1333997704}
+  m_Enabled: 1
 --- !u!4 &1387861770 stripped
 Transform:
   m_PrefabParentObject: {fileID: 466122, guid: 1ad2699995fb42845934742a640cceb6, type: 2}
@@ -3672,6 +3708,7 @@ GameObject:
   - 222: {fileID: 1906954324}
   - 114: {fileID: 1906954323}
   - 95: {fileID: 1906954322}
+  - 114: {fileID: 1906954325}
   m_Layer: 5
   m_Name: crops (1)
   m_TagString: Untagged
@@ -3740,6 +3777,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1906954320}
+--- !u!114 &1906954325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1906954320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49d564e7712b5ef458b3fbcb93db5fb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1908063136
 GameObject:
   m_ObjectHideFlags: 0

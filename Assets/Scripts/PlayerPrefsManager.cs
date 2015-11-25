@@ -6,6 +6,7 @@ public class PlayerPrefsManager : MonoBehaviour {
 	const string MASTER_VOLUME_KEY = "master_volume";
 	const string DIFFICULTY_KEY = "difficulty";
 	const string LEVEL_KEY = "level_unlocked_";
+	const string CURRENCY_KEY = "currency amount";
 
 	public static void SetMasterVolume (float volume) {
 		if (volume >= 0f && volume <= 1f) {
@@ -52,4 +53,19 @@ public class PlayerPrefsManager : MonoBehaviour {
 	public static float GetDifficulty () {
 		return PlayerPrefs.GetFloat (DIFFICULTY_KEY);
 	}
+
+
+
+	public static void SetCurrencyAmount (float amount) {
+		if (amount > 0) {
+			PlayerPrefs.SetFloat (CURRENCY_KEY, amount);
+		} else {
+			Debug.LogError ("Currency out of range");
+		}
+		}
+
+	public static float GetCurrencyAmount (){
+	  return PlayerPrefs.GetFloat (CURRENCY_KEY);
+	}
+
 }
