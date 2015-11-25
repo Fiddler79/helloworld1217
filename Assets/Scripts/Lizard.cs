@@ -6,9 +6,11 @@ public class Lizard : MonoBehaviour {
 	
 	private Animator anim;
 	private Attacker attacker;
+	private AudioSource audioSource;
 	
 	// Use this for initialization
 	void Start () {
+		audioSource = GetComponent<AudioSource>();
 		anim = GetComponent<Animator>();
 		attacker = GetComponent<Attacker>();
 	}
@@ -28,5 +30,9 @@ public class Lizard : MonoBehaviour {
 		
 		anim.SetBool ("isAttacking", true);
 		attacker.Attack (obj);
+
+	}
+	public void PlayAudio(){
+		audioSource.Play ();
 	}
 }
