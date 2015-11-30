@@ -201,6 +201,8 @@ GameObject:
   - 4: {fileID: 51088854}
   - 212: {fileID: 51088855}
   - 95: {fileID: 51088856}
+  - 114: {fileID: 51088857}
+  - 61: {fileID: 51088858}
   m_Layer: 0
   m_Name: dino head
   m_TagString: Untagged
@@ -263,6 +265,32 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &51088857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 51088853}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5843de2e449e64d489cfd5de3f687c08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dinoPrefabArray:
+  - {fileID: 51088853}
+--- !u!61 &51088858
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 51088853}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: -2.3074522, y: .832582355}
+  serializedVersion: 2
+  m_Size: {x: 8.18510818, y: 3.53662157}
 --- !u!1 &66598622
 GameObject:
   m_ObjectHideFlags: 0
@@ -3303,6 +3331,8 @@ GameObject:
   - 4: {fileID: 1734963894}
   - 212: {fileID: 1734963896}
   - 95: {fileID: 1734963895}
+  - 114: {fileID: 1734963897}
+  - 61: {fileID: 1734963898}
   m_Layer: 0
   m_Name: dino head
   m_TagString: Untagged
@@ -3365,6 +3395,32 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: bdb6efa47dd9c044da25ca36b54a19cd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!114 &1734963897
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1734963893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5843de2e449e64d489cfd5de3f687c08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dinoPrefabArray:
+  - {fileID: 1734963893}
+--- !u!61 &1734963898
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1734963893}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: -2.3074522, y: .832582355}
+  serializedVersion: 2
+  m_Size: {x: 8.18510818, y: 3.53662157}
 --- !u!1 &1768838992
 GameObject:
   m_ObjectHideFlags: 0
@@ -4127,6 +4183,8 @@ GameObject:
   - 4: {fileID: 1937088476}
   - 212: {fileID: 1937088478}
   - 95: {fileID: 1937088477}
+  - 114: {fileID: 1937088479}
+  - 61: {fileID: 1937088480}
   m_Layer: 0
   m_Name: dino head
   m_TagString: Untagged
@@ -4189,6 +4247,32 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: bdb6efa47dd9c044da25ca36b54a19cd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!114 &1937088479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1937088475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5843de2e449e64d489cfd5de3f687c08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dinoPrefabArray:
+  - {fileID: 1937088475}
+--- !u!61 &1937088480
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1937088475}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: -2.3074522, y: .832582355}
+  serializedVersion: 2
+  m_Size: {x: 8.18510818, y: 3.53662157}
 --- !u!1001 &1960024252
 Prefab:
   m_ObjectHideFlags: 0
