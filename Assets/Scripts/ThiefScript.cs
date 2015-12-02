@@ -3,7 +3,9 @@ using System.Collections;
 
 public class ThiefScript : MonoBehaviour {
 
+	public GameObject crops;
 	private Animator anim;
+	private Animator animother;
 	public GameObject[] dinoPrefabArray;
 
 	void Start() {
@@ -18,6 +20,11 @@ public class ThiefScript : MonoBehaviour {
 			}
 		}	
 
+	}
+	void Resetcrops(){
+	
+	animother = crops.GetComponent<Animator> ();
+		animother.SetTrigger ("reset");
 	}
 
 	void OnMouseDown () {

@@ -276,6 +276,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5843de2e449e64d489cfd5de3f687c08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  crops: {fileID: 934524435}
   dinoPrefabArray:
   - {fileID: 51088853}
 --- !u!61 &51088858
@@ -3036,6 +3037,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26cadeaed72934464917116cc579c970, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!61 &1541965188
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1541965185}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 2.043051, y: -.0117406845}
+  serializedVersion: 2
+  m_Size: {x: .389430523, y: 6.89432526}
 --- !u!1001 &1554140136
 Prefab:
   m_ObjectHideFlags: 0
@@ -3406,6 +3420,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5843de2e449e64d489cfd5de3f687c08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  crops: {fileID: 361192923}
   dinoPrefabArray:
   - {fileID: 1734963893}
 --- !u!61 &1734963898
@@ -4258,6 +4273,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5843de2e449e64d489cfd5de3f687c08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  crops: {fileID: 1906954320}
   dinoPrefabArray:
   - {fileID: 1937088475}
 --- !u!61 &1937088480
@@ -4270,9 +4286,9 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_Offset: {x: -2.3074522, y: .832582355}
+  m_Offset: {x: -2.13165641, y: .525699973}
   serializedVersion: 2
-  m_Size: {x: 8.18510818, y: 3.53662157}
+  m_Size: {x: 8.18510723, y: 3.22404313}
 --- !u!1001 &1960024252
 Prefab:
   m_ObjectHideFlags: 0
