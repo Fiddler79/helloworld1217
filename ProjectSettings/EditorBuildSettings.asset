@@ -12,9 +12,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/01b Options.unity
   - enabled: 1
-    path: Assets/_Scenes/02 Level_01.unity
+    path: Assets/_Scenes/01c Clock.unity
   - enabled: 1
-    path: Assets/_Scenes/02 Level_02.unity
+    path: Assets/_Scenes/01d Prehistoric.unity
+  - enabled: 1
+    path: Assets/_Scenes/01d Middle Ages.unity
+  - enabled: 1
+    path: Assets/_Scenes/02 Level_01.unity
   - enabled: 1
     path: Assets/_Scenes/02 Level_03.unity
   - enabled: 1
