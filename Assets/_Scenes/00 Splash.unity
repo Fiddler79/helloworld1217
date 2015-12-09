@@ -37,9 +37,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
---- !u!127 &3
-LevelGameManager:
-  m_ObjectHideFlags: 0
 --- !u!157 &4
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -68,6 +65,7 @@ LightmapSettings:
     m_TextureCompression: 0
     m_FinalGather: 0
     m_FinalGatherRayCount: 1024
+    m_ReflectionCompression: 2
   m_LightmapSnapshot: {fileID: 0}
   m_RuntimeCPUUsage: 25
 --- !u!196 &5
@@ -134,6 +132,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: e1fd607ddda169448922bea7fec55ef4, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
@@ -268,7 +272,7 @@ MonoBehaviour:
   m_Script: {fileID: 1997211142, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AllowActivationOnStandalone: 0
+  m_ForceModuleActive: 0
 --- !u!114 &756551996
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -286,7 +290,7 @@ MonoBehaviour:
   m_CancelButton: Cancel
   m_InputActionsPerSecond: 10
   m_RepeatDelay: .5
-  m_AllowActivationOnMobileDevice: 0
+  m_ForceModuleActive: 0
 --- !u!114 &756551997
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -390,6 +394,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 471d99fd6e5bc4f40ac965ca92d3a919, type: 3}
     m_FontSize: 77
@@ -474,6 +484,7 @@ AudioSource:
   m_Pitch: 1
   Loop: 0
   Mute: 0
+  Spatialize: 0
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
@@ -570,10 +581,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelMusicChangeArray:
   - {fileID: 0}
-  - {fileID: 8300000, guid: 04be182dd87dc174685e00e004efd827, type: 3}
-  - {fileID: 8300000, guid: c92fdafed7b8e9b4da50d7dd9f5d3436, type: 3}
-  - {fileID: 8300000, guid: 1bda48330a93afa4282df063a1a8e607, type: 3}
-  - {fileID: 8300000, guid: 415f88ec4036d4646bc1d867d678724c, type: 3}
+  - {fileID: 8300000, guid: e22e7897403a12b44b154892c30ab81a, type: 3}
+  - {fileID: 8300000, guid: 173457d053030ff4792211cc09b0e8ed, type: 3}
+  - {fileID: 8300000, guid: fece58925538af34d9ddea91caa48164, type: 3}
+  - {fileID: 8300000, guid: 9e4403df89240e1408f59416697e6120, type: 3}
+  - {fileID: 8300000, guid: cc23297f54c9e5e48a0dd47dc7eac05e, type: 3}
+  - {fileID: 8300000, guid: 48e29b728a114a1469a0915f1609d797, type: 3}
+  - {fileID: 8300000, guid: 2de21659a47a3594ba9529be04022535, type: 3}
+  - {fileID: 8300000, guid: baec7f9f0b8c930458bc556c8075a956, type: 3}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
@@ -604,6 +619,7 @@ AudioSource:
   m_Pitch: 1
   Loop: 0
   Mute: 0
+  Spatialize: 0
   Priority: 256
   DopplerLevel: 1
   MinDistance: 1
@@ -726,6 +742,7 @@ Camera:
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
+  m_TargetEye: 3
   m_HDR: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
