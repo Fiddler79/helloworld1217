@@ -276,7 +276,7 @@ RectTransform:
   m_RootOrder: 4
   m_AnchorMin: {x: .5, y: .5}
   m_AnchorMax: {x: .5, y: .5}
-  m_AnchoredPosition: {x: 419, y: 9.53674316e-06}
+  m_AnchoredPosition: {x: 419, y: 15}
   m_SizeDelta: {x: 231, y: 149}
   m_Pivot: {x: .5, y: .5}
 --- !u!114 &994815625
@@ -298,7 +298,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 004aef77544dce74e83623f937d49577, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 73723b69709c71f44ac3bd3ba45dcca3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -331,7 +331,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_NormalColor: {r: .397058845, g: .397058845, b: .397058845, a: 1}
     m_HighlightedColor: {r: .960784316, g: .960784316, b: .960784316, a: 1}
     m_PressedColor: {r: .784313738, g: .784313738, b: .784313738, a: 1}
     m_DisabledColor: {r: .784313738, g: .784313738, b: .784313738, a: .501960814}
@@ -599,7 +599,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_NormalColor: {r: .33088237, g: .33088237, b: .33088237, a: 1}
     m_HighlightedColor: {r: .960784316, g: .960784316, b: .960784316, a: 1}
     m_PressedColor: {r: .784313738, g: .784313738, b: .784313738, a: 1}
     m_DisabledColor: {r: .784313738, g: .784313738, b: .784313738, a: .501960814}
@@ -651,7 +651,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: a2833c801c43a924a926491518d4ebf0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a0a4fabfa7182f44c820d1b24d4f2fc2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -850,7 +850,7 @@ RectTransform:
   m_RootOrder: 6
   m_AnchorMin: {x: .5, y: .5}
   m_AnchorMax: {x: .5, y: .5}
-  m_AnchoredPosition: {x: -431, y: 0}
+  m_AnchoredPosition: {x: -431, y: 14.9999933}
   m_SizeDelta: {x: 231, y: 149}
   m_Pivot: {x: .5, y: .5}
 --- !u!114 &1464010894
@@ -872,7 +872,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_NormalColor: {r: .448529422, g: .448529422, b: .448529422, a: 1}
     m_HighlightedColor: {r: .960784316, g: .960784316, b: .960784316, a: 1}
     m_PressedColor: {r: .784313738, g: .784313738, b: .784313738, a: 1}
     m_DisabledColor: {r: .784313738, g: .784313738, b: .784313738, a: .501960814}
@@ -924,7 +924,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: db19323240e699c4ca3a97f340bb8ac3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ea8661b5f0ee86647a3215ae7432e6b7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -986,17 +986,6 @@ MonoBehaviour:
     type: 2}
   m_PrefabInternal: {fileID: 1796890187}
   m_Script: {fileID: 11500000, guid: 377f5e03982614d9cae4ea69d2bb9ff3, type: 3}
---- !u!1 &1796890189 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 100000, guid: ed65dde16a38c42a79b8011ae4ed0bbb, type: 2}
-  m_PrefabInternal: {fileID: 1796890187}
---- !u!81 &1796890190
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1796890189}
-  m_Enabled: 1
 --- !u!1 &2140242846
 GameObject:
   m_ObjectHideFlags: 0
@@ -1034,7 +1023,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: b07a42f29439b0f42a62e463130916af, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 78dab87722e9ce648b1f71b6ae936d1a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1084,7 +1073,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_NormalColor: {r: .522058845, g: .522058845, b: .522058845, a: 1}
     m_HighlightedColor: {r: .960784316, g: .960784316, b: .960784316, a: 1}
     m_PressedColor: {r: .784313738, g: .784313738, b: .784313738, a: 1}
     m_DisabledColor: {r: .784313738, g: .784313738, b: .784313738, a: .501960814}

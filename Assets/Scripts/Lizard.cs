@@ -11,7 +11,8 @@ public class Lizard : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		audioSource = GetComponent<AudioSource>();
-		anim = GetComponent<Animator>();
+        audioSource.volume = PlayerPrefsManager.GetMasterVolume();
+        anim = GetComponent<Animator>();
 		attacker = GetComponent<Attacker>();
 	}
 	

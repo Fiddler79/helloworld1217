@@ -9,7 +9,8 @@ public class Defender : MonoBehaviour {
 
 	void Start () {
 		audioSource = GetComponent<AudioSource>();
-		starDisplay = GameObject.FindObjectOfType<StarDisplay>();
+        audioSource.volume = PlayerPrefsManager.GetMasterVolume();
+        starDisplay = GameObject.FindObjectOfType<StarDisplay>();
 	}
 
 	public void PlayAudio(){

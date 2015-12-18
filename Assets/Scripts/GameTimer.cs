@@ -14,7 +14,8 @@ public class GameTimer : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		slider = GetComponent<Slider>();
+     
+        slider = GetComponent<Slider>();
 		audioSource = GetComponent<AudioSource>();
 		levelManager = GameObject.FindObjectOfType<LevelManager>();
 		FindYouWin ();
@@ -44,7 +45,8 @@ public class GameTimer : MonoBehaviour {
 		DestroyAllTaggedObjects();
 		audioSource.Play ();
 		winLabel.SetActive (true);
-		Invoke ("LoadNextLevel", audioSource.clip.length);
+        PlayerPrefsManager.UnlockLevel(2);
+        Invoke ("LoadNextLevel", audioSource.clip.length);
 		isEndOfLevel = true;
 	}
 	
@@ -56,8 +58,10 @@ public class GameTimer : MonoBehaviour {
 			Destroy (taggedObject);
 		}
 	}
-	
-	void LoadNextLevel () {
-		levelManager.LoadNextLevel();
+
+    void LoadNextLevel () {
+        
+         levelManager.LoadLevel ("01d Prehistoric") ;
+
 	}
 }
