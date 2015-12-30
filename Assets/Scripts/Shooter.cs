@@ -6,11 +6,11 @@ public class Shooter : MonoBehaviour {
 	public GameObject projectile, gun;
 	
 	private GameObject projectileParent;
-	private Animator animator;
+	public Animator animator;
 	private Spawner myLaneSpawner;
 	
 	void Start () {
-		animator = GameObject.FindObjectOfType<Animator>();
+		
 		
 		// Creates a parent if necessary
 		projectileParent = GameObject.Find ("Projectiles");
@@ -23,7 +23,9 @@ public class Shooter : MonoBehaviour {
 	
 	void Update () {
 		if (IsAttackerAheadInLane()) {
+            print("im getting here");
 			animator.SetBool ("isAttacking", true);
+            print("Im getting here too");
 		} else {
 			animator.SetBool ("isAttacking", false);
 		}

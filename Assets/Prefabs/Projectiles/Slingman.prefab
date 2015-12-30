@@ -33,9 +33,10 @@ GameObject:
   - 4: {fileID: 496966}
   - 212: {fileID: 21238938}
   - 61: {fileID: 6137372}
+  - 114: {fileID: 11449946}
   m_Layer: 0
   m_Name: Body
-  m_TagString: Untagged
+  m_TagString: dontattackme
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -136,6 +137,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   seenEverySeconds: 0
+--- !u!114 &11449946
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 156442}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0168ba44761e451448ff53be389adc60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &11451048
 MonoBehaviour:
   m_ObjectHideFlags: 1

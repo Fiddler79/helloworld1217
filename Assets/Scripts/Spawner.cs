@@ -13,11 +13,15 @@ public class Spawner : MonoBehaviour {
 	}
 	
 	void OnTriggerEnter2D (Collider2D collider){
-		
-		
-		// the game object is what im colliding with 
-		GameObject obj = collider.gameObject;
-		obj.transform.parent = thisSpawner.transform;
-	}
+
+
+        // the game object is what im colliding with 
+
+        GameObject obj = collider.gameObject;
+        if (!obj.GetComponent<rangedattackerhitbox>())
+        {
+            obj.transform.parent = thisSpawner.transform;
+        }
+    }
 }
 

@@ -1,0 +1,1431 @@
+fileFormatVersion: 2
+guid: 0cb23334f6c395443b7ee907dd1dd5d0
+timeCreated: 1451481961
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: yurt slingman2_0
+    21300002: yurt slingman2_1
+    21300004: yurt slingman2_2
+    21300006: yurt slingman2_3
+    21300008: yurt slingman2_4
+    21300010: yurt slingman2_5
+    21300012: yurt slingman2_6
+    21300014: yurt slingman2_7
+    21300016: yurt slingman2_8
+    21300018: yurt slingman2_9
+    21300020: yurt slingman2_10
+    21300022: yurt slingman2_11
+    21300024: yurt slingman2_12
+    21300026: yurt slingman2_13
+    21300028: yurt slingman2_14
+    21300030: yurt slingman2_15
+    21300032: yurt slingman2_16
+    21300034: yurt slingman2_17
+    21300036: yurt slingman2_18
+    21300038: yurt slingman2_19
+    21300040: yurt slingman2_20
+    21300042: yurt slingman2_21
+    21300044: yurt slingman2_22
+    21300046: yurt slingman2_23
+    21300048: yurt slingman2_24
+    21300050: yurt slingman2_25
+    21300052: yurt slingman2_26
+    21300054: yurt slingman2_27
+    21300056: yurt slingman2_28
+    21300058: yurt slingman2_29
+    21300060: yurt slingman2_30
+    21300062: yurt slingman2_31
+    21300064: yurt slingman2_32
+    21300066: yurt slingman2_33
+    21300068: yurt slingman2_34
+    21300070: yurt slingman2_35
+    21300072: yurt slingman2_36
+    21300074: yurt slingman2_37
+    21300076: yurt slingman2_38
+    21300078: yurt slingman2_39
+    21300080: yurt slingman2_40
+    21300082: yurt slingman2_41
+    21300084: yurt slingman2_42
+    21300086: yurt slingman2_43
+    21300088: yurt slingman2_44
+    21300090: yurt slingman2_45
+    21300092: yurt slingman2_46
+    21300094: yurt slingman2_47
+    21300096: yurt slingman2_48
+    21300098: yurt slingman2_49
+    21300100: yurt slingman2_50
+    21300102: yurt slingman2_51
+    21300104: yurt slingman2_52
+    21300106: yurt slingman2_53
+    21300108: yurt slingman2_54
+    21300110: yurt slingman2_55
+    21300112: yurt slingman2_56
+    21300114: yurt slingman2_57
+    21300116: yurt slingman2_58
+    21300118: yurt slingman2_59
+    21300120: yurt slingman2_60
+    21300122: yurt slingman2_61
+    21300124: yurt slingman2_62
+    21300126: yurt slingman2_63
+    21300128: yurt slingman2_64
+    21300130: yurt slingman2_65
+    21300132: yurt slingman2_66
+    21300134: yurt slingman2_67
+    21300136: yurt slingman2_68
+    21300138: yurt slingman2_69
+    21300140: yurt slingman2_70
+    21300142: yurt slingman2_71
+    21300144: yurt slingman2_72
+    21300146: yurt slingman2_73
+    21300148: yurt slingman2_74
+    21300150: yurt slingman2_75
+    21300152: yurt slingman2_76
+    21300154: yurt slingman2_77
+    21300156: yurt slingman2_78
+    21300158: yurt slingman2_79
+    21300160: yurt slingman2_80
+    21300162: yurt slingman2_81
+    21300164: yurt slingman2_82
+    21300166: yurt slingman2_83
+    21300168: yurt slingman2_84
+    21300170: yurt slingman2_85
+    21300172: yurt slingman2_86
+    21300174: yurt slingman2_87
+    21300176: yurt slingman2_88
+    21300178: yurt slingman2_89
+    21300180: yurt slingman2_90
+    21300182: yurt slingman2_91
+    21300184: yurt slingman2_92
+    21300186: yurt slingman2_93
+    21300188: yurt slingman2_94
+    21300190: yurt slingman2_95
+    21300192: yurt slingman2_96
+    21300194: yurt slingman2_97
+    21300196: yurt slingman2_98
+    21300198: yurt slingman2_99
+    21300200: yurt slingman2_100
+    21300202: yurt slingman2_101
+    21300204: yurt slingman2_102
+    21300206: yurt slingman2_103
+    21300208: yurt slingman2_104
+    21300210: yurt slingman2_105
+    21300212: yurt slingman2_106
+    21300214: yurt slingman2_107
+    21300216: yurt slingman2_108
+    21300218: yurt slingman2_109
+    21300220: yurt slingman2_110
+    21300222: yurt slingman2_111
+    21300224: yurt slingman2_112
+    21300226: yurt slingman2_113
+    21300228: yurt slingman2_114
+    21300230: yurt slingman2_115
+    21300232: yurt slingman2_116
+    21300234: yurt slingman2_117
+    21300236: yurt slingman2_118
+    21300238: yurt slingman2_119
+    21300240: yurt slingman2_120
+    21300242: yurt slingman2_121
+    21300244: yurt slingman2_122
+    21300246: yurt slingman2_123
+    21300248: yurt slingman2_124
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: yurt slingman2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6390
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 6390
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 6390
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 6390
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_4
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 6390
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_5
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 6390
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_6
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 6390
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_7
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 6390
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5964
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 5964
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_10
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 5964
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_11
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 5964
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_12
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 5964
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_13
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 5964
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_14
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 5964
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_15
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 5964
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5538
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_17
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 5538
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_18
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 5538
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_19
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 5538
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_20
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 5538
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_21
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 5538
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_22
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 5538
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_23
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 5538
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5112
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 5112
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_26
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 5112
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_27
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 5112
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_28
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 5112
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_29
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 5112
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_30
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 5112
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_31
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 5112
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4686
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_33
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 4686
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_34
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 4686
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_35
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 4686
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_36
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 4686
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_37
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 4686
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_38
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 4686
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_39
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 4686
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4260
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_41
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 4260
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_42
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 4260
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_43
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 4260
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_44
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 4260
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_45
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 4260
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_46
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 4260
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_47
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 4260
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3834
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_49
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3834
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_50
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3834
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_51
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 3834
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_52
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 3834
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_53
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 3834
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_54
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 3834
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_55
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 3834
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3408
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_57
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3408
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_58
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3408
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_59
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 3408
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_60
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 3408
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_61
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 3408
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_62
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 3408
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_63
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 3408
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2982
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_65
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2982
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_66
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2982
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_67
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2982
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_68
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2982
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_69
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2982
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_70
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2982
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_71
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 2982
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2556
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_73
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2556
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_74
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2556
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_75
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2556
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_76
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2556
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_77
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2556
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_78
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2556
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_79
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 2556
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2130
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_81
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2130
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_82
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2130
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_83
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2130
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_84
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2130
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_85
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2130
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_86
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2130
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_87
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 2130
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1704
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_89
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1704
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_90
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1704
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_91
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1704
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_92
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1704
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_93
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1704
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_94
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1704
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_95
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1704
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1278
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_97
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1278
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_98
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1278
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_99
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1278
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_100
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1278
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_101
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1278
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_102
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1278
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_103
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1278
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_105
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 852
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_106
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 852
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_107
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 852
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_108
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 852
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_109
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 852
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_110
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 852
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_111
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 852
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_113
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 426
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_114
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 426
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_115
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 426
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_116
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 426
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_117
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 426
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_118
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 426
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_119
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 426
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_121
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_122
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_123
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yurt slingman2_124
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 0
+        width: 311
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
