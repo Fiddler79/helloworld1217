@@ -1,0 +1,881 @@
+fileFormatVersion: 2
+guid: 5c8e382878cf8954ba265e1d9a423746
+timeCreated: 1451394575
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slingman_0
+    21300002: slingman_1
+    21300004: slingman_2
+    21300006: slingman_3
+    21300008: slingman_4
+    21300010: slingman_5
+    21300012: slingman_6
+    21300014: slingman_7
+    21300016: slingman_8
+    21300018: slingman_9
+    21300020: slingman_10
+    21300022: slingman_11
+    21300024: slingman_12
+    21300026: slingman_13
+    21300028: slingman_14
+    21300030: slingman_15
+    21300032: slingman_16
+    21300034: slingman_17
+    21300036: slingman_18
+    21300038: slingman_19
+    21300040: slingman_20
+    21300042: slingman_21
+    21300044: slingman_22
+    21300046: slingman_23
+    21300048: slingman_24
+    21300050: slingman_25
+    21300052: slingman_26
+    21300054: slingman_27
+    21300056: slingman_28
+    21300058: slingman_29
+    21300060: slingman_30
+    21300062: slingman_31
+    21300064: slingman_32
+    21300066: slingman_33
+    21300068: slingman_34
+    21300070: slingman_35
+    21300072: slingman_36
+    21300074: slingman_37
+    21300076: slingman_38
+    21300078: slingman_39
+    21300080: slingman_40
+    21300082: slingman_41
+    21300084: slingman_42
+    21300086: slingman_43
+    21300088: slingman_44
+    21300090: slingman_45
+    21300092: slingman_46
+    21300094: slingman_47
+    21300096: slingman_48
+    21300098: slingman_49
+    21300100: slingman_50
+    21300102: slingman_51
+    21300104: slingman_52
+    21300106: slingman_53
+    21300108: slingman_54
+    21300110: slingman_55
+    21300112: slingman_56
+    21300114: slingman_57
+    21300116: slingman_58
+    21300118: slingman_59
+    21300120: slingman_60
+    21300122: slingman_61
+    21300124: slingman_62
+    21300126: slingman_63
+    21300128: slingman_64
+    21300130: slingman_65
+    21300132: slingman_66
+    21300134: slingman_67
+    21300136: slingman_68
+    21300138: slingman_69
+    21300140: slingman_70
+    21300142: slingman_71
+    21300144: slingman_72
+    21300146: slingman_73
+    21300148: slingman_74
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: slingman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2556
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2556
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2556
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2556
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2556
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2556
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_6
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2556
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_7
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2556
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2272
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2272
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2272
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2272
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2272
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_13
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2272
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_14
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2272
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_15
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2272
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1988
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1988
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1988
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1988
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1988
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_21
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1988
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_22
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1988
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_23
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1988
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1704
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1704
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1704
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1704
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_28
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1704
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1704
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_30
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1704
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_31
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1704
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1420
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1420
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1420
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1420
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1420
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_37
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1420
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_38
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1420
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_39
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1420
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1136
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1136
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1136
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_43
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1136
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_44
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1136
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_45
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1136
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_46
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1136
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_47
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1136
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 852
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 852
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_51
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 852
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_52
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 852
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_53
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 852
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_54
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 852
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_55
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 852
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 568
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 568
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 568
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_60
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 568
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_61
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 568
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_62
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 568
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_63
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 568
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 284
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 284
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_67
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 284
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_68
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 284
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_69
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 284
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_70
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 284
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_71
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 284
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slingman_74
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
