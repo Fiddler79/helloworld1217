@@ -23,9 +23,9 @@ public class Shooter : MonoBehaviour {
 	
 	void Update () {
 		if (IsAttackerAheadInLane()) {
-            print("im getting here");
+
 			animator.SetBool ("isAttacking", true);
-            print("Im getting here too");
+         
 		} else {
 			animator.SetBool ("isAttacking", false);
 		}

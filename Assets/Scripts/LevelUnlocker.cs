@@ -6,8 +6,12 @@ public class LevelUnlocker : MonoBehaviour {
 	
     // Use this for initialization
 	void Start () {
-          if (PlayerPrefsManager.IsLevelUnlocked (2)) {
+          if (PlayerPrefsManager.IsLevelUnlocked (9)) {
             LevelArray[0].SetActive(true);
+        }
+          if (PlayerPrefsManager.IsLevelUnlocked (10))
+        {
+            LevelArray[1].SetActive(true);
         }
 	}
 	

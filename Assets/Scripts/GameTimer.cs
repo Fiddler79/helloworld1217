@@ -44,8 +44,8 @@ public class GameTimer : MonoBehaviour {
 	{
 		DestroyAllTaggedObjects();
 		audioSource.Play ();
+        UnlockLevel();
 		winLabel.SetActive (true);
-        PlayerPrefsManager.UnlockLevel(2);
         Invoke ("LoadNextLevel", audioSource.clip.length);
 		isEndOfLevel = true;
 	}
@@ -64,4 +64,14 @@ public class GameTimer : MonoBehaviour {
          levelManager.LoadLevel ("01d Prehistoric") ;
 
 	}
+    void UnlockLevel()
+    {
+
+        print(Application.loadedLevel);
+        int LevelCounter = (Application.loadedLevel + 1);
+        print(LevelCounter);
+            PlayerPrefsManager.UnlockLevel(LevelCounter);
+        print("unlocked level " + LevelCounter);
+      
+    }
 }
