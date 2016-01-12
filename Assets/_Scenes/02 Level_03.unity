@@ -2800,7 +2800,11 @@ RectTransform:
   - {fileID: 1203164313}
   - {fileID: 1809826698}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 12
+=======
+  m_RootOrder: 9
+>>>>>>> a8de918c900f20322e37677a9a86afcb94b1f0bd
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 4.11999989, y: 3.98000002}
@@ -3483,6 +3487,7 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ed65dde16a38c42a79b8011ae4ed0bbb, type: 2}
   m_IsPrefabParent: 0
+<<<<<<< HEAD
 --- !u!1001 &1800020911
 Prefab:
   m_ObjectHideFlags: 0
@@ -3525,6 +3530,8 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c7f3dabde7fbad34ea894510ec483126, type: 2}
   m_IsPrefabParent: 0
+=======
+>>>>>>> a8de918c900f20322e37677a9a86afcb94b1f0bd
 --- !u!4 &1806240466
 Transform:
   m_ObjectHideFlags: 0
@@ -3625,7 +3632,13 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
+<<<<<<< HEAD
 --- !u!1001 &1825265153
+=======
+<<<<<<< HEAD
+=======
+--- !u!1001 &1826363962
+>>>>>>> a8de918c900f20322e37677a9a86afcb94b1f0bd
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -3667,6 +3680,14 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 70bae3c26d6da8544a7cdbc8ca4a1a39, type: 2}
   m_IsPrefabParent: 0
+<<<<<<< HEAD
+=======
+--- !u!4 &1843885361 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 424948, guid: 0d27d4908f7391c48b2edad32c4abac6, type: 2}
+  m_PrefabInternal: {fileID: 1826363962}
+>>>>>>> 6bbf931e1417ab5bc583ab49631f13dde7046642
+>>>>>>> a8de918c900f20322e37677a9a86afcb94b1f0bd
 --- !u!4 &1845045764 stripped
 Transform:
   m_PrefabParentObject: {fileID: 466122, guid: 1ad2699995fb42845934742a640cceb6, type: 2}
