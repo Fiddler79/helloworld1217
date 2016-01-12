@@ -1,0 +1,1431 @@
+fileFormatVersion: 2
+guid: d4d95300f78ca3e42a0ae7320bfce3ab
+timeCreated: 1452600144
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mammoth attack_0
+    21300002: Mammoth attack_1
+    21300004: Mammoth attack_2
+    21300006: Mammoth attack_3
+    21300008: Mammoth attack_4
+    21300010: Mammoth attack_5
+    21300012: Mammoth attack_6
+    21300014: Mammoth attack_7
+    21300016: Mammoth attack_8
+    21300018: Mammoth attack_9
+    21300020: Mammoth attack_10
+    21300022: Mammoth attack_11
+    21300024: Mammoth attack_12
+    21300026: Mammoth attack_13
+    21300028: Mammoth attack_14
+    21300030: Mammoth attack_15
+    21300032: Mammoth attack_16
+    21300034: Mammoth attack_17
+    21300036: Mammoth attack_18
+    21300038: Mammoth attack_19
+    21300040: Mammoth attack_20
+    21300042: Mammoth attack_21
+    21300044: Mammoth attack_22
+    21300046: Mammoth attack_23
+    21300048: Mammoth attack_24
+    21300050: Mammoth attack_25
+    21300052: Mammoth attack_26
+    21300054: Mammoth attack_27
+    21300056: Mammoth attack_28
+    21300058: Mammoth attack_29
+    21300060: Mammoth attack_30
+    21300062: Mammoth attack_31
+    21300064: Mammoth attack_32
+    21300066: Mammoth attack_33
+    21300068: Mammoth attack_34
+    21300070: Mammoth attack_35
+    21300072: Mammoth attack_36
+    21300074: Mammoth attack_37
+    21300076: Mammoth attack_38
+    21300078: Mammoth attack_39
+    21300080: Mammoth attack_40
+    21300082: Mammoth attack_41
+    21300084: Mammoth attack_42
+    21300086: Mammoth attack_43
+    21300088: Mammoth attack_44
+    21300090: Mammoth attack_45
+    21300092: Mammoth attack_46
+    21300094: Mammoth attack_47
+    21300096: Mammoth attack_48
+    21300098: Mammoth attack_49
+    21300100: Mammoth attack_50
+    21300102: Mammoth attack_51
+    21300104: Mammoth attack_52
+    21300106: Mammoth attack_53
+    21300108: Mammoth attack_54
+    21300110: Mammoth attack_55
+    21300112: Mammoth attack_56
+    21300114: Mammoth attack_57
+    21300116: Mammoth attack_58
+    21300118: Mammoth attack_59
+    21300120: Mammoth attack_60
+    21300122: Mammoth attack_61
+    21300124: Mammoth attack_62
+    21300126: Mammoth attack_63
+    21300128: Mammoth attack_64
+    21300130: Mammoth attack_65
+    21300132: Mammoth attack_66
+    21300134: Mammoth attack_67
+    21300136: Mammoth attack_68
+    21300138: Mammoth attack_69
+    21300140: Mammoth attack_70
+    21300142: Mammoth attack_71
+    21300144: Mammoth attack_72
+    21300146: Mammoth attack_73
+    21300148: Mammoth attack_74
+    21300150: Mammoth attack_75
+    21300152: Mammoth attack_76
+    21300154: Mammoth attack_77
+    21300156: Mammoth attack_78
+    21300158: Mammoth attack_79
+    21300160: Mammoth attack_80
+    21300162: Mammoth attack_81
+    21300164: Mammoth attack_82
+    21300166: Mammoth attack_83
+    21300168: Mammoth attack_84
+    21300170: Mammoth attack_85
+    21300172: Mammoth attack_86
+    21300174: Mammoth attack_87
+    21300176: Mammoth attack_88
+    21300178: Mammoth attack_89
+    21300180: Mammoth attack_90
+    21300182: Mammoth attack_91
+    21300184: Mammoth attack_92
+    21300186: Mammoth attack_93
+    21300188: Mammoth attack_94
+    21300190: Mammoth attack_95
+    21300192: Mammoth attack_96
+    21300194: Mammoth attack_97
+    21300196: Mammoth attack_98
+    21300198: Mammoth attack_99
+    21300200: Mammoth attack_100
+    21300202: Mammoth attack_101
+    21300204: Mammoth attack_102
+    21300206: Mammoth attack_103
+    21300208: Mammoth attack_104
+    21300210: Mammoth attack_105
+    21300212: Mammoth attack_106
+    21300214: Mammoth attack_107
+    21300216: Mammoth attack_108
+    21300218: Mammoth attack_109
+    21300220: Mammoth attack_110
+    21300222: Mammoth attack_111
+    21300224: Mammoth attack_112
+    21300226: Mammoth attack_113
+    21300228: Mammoth attack_114
+    21300230: Mammoth attack_115
+    21300232: Mammoth attack_116
+    21300234: Mammoth attack_117
+    21300236: Mammoth attack_118
+    21300238: Mammoth attack_119
+    21300240: Mammoth attack_120
+    21300242: Mammoth attack_121
+    21300244: Mammoth attack_122
+    21300246: Mammoth attack_123
+    21300248: Mammoth attack_124
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mammoth attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3490
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3490
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_2
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 3490
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_3
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 3490
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_4
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 3490
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_5
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 3490
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_6
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 3490
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_7
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 3490
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_8
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 3490
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_9
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 3490
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_10
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 3490
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_11
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 3490
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3141
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3141
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_14
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 3141
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_15
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 3141
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_16
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 3141
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_17
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 3141
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_18
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 3141
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_19
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 3141
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_20
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 3141
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_21
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 3141
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_22
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 3141
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_23
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 3141
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2792
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_25
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2792
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_26
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2792
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_27
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2792
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_28
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2792
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_29
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2792
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_30
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2792
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_31
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 2792
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_32
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2792
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_33
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 2792
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_34
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 2792
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_35
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 2792
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2443
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_37
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2443
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_38
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2443
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_39
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2443
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_40
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2443
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_41
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2443
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_42
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2443
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_43
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 2443
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_44
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2443
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_45
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 2443
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_46
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 2443
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_47
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 2443
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2094
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_49
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2094
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_50
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2094
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_51
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2094
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_52
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2094
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_53
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2094
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_54
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2094
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_55
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 2094
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_56
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2094
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_57
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 2094
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_58
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 2094
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_59
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 2094
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1745
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_61
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1745
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_62
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1745
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_63
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1745
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_64
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1745
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_65
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1745
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_66
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1745
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_67
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 1745
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_68
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 1745
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_69
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 1745
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_70
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 1745
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_71
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 1745
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1396
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_73
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1396
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_74
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1396
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_75
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1396
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_76
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1396
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_77
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1396
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_78
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1396
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_79
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 1396
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_80
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 1396
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_81
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 1396
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_82
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 1396
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_83
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 1396
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1047
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_85
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1047
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_86
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1047
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_87
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1047
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_88
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1047
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_89
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1047
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_90
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1047
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_91
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 1047
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_92
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 1047
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_93
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 1047
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_94
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 1047
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_95
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 1047
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_97
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 698
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_98
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 698
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_99
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 698
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_100
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 698
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_101
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 698
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_102
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 698
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_103
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 698
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_104
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 698
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_105
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 698
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_106
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 698
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_107
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 698
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_109
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 349
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_110
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 349
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_111
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 349
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_112
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 349
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_113
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 349
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_114
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 349
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_115
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 349
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_116
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 349
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_117
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 349
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_118
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 349
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_119
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 349
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_121
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_122
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 0
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_123
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 0
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mammoth attack_124
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 0
+        width: 409
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
