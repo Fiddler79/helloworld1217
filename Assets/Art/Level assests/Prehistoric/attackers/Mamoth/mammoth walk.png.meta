@@ -1,0 +1,1431 @@
+fileFormatVersion: 2
+guid: 34bfae7fe0818e247992f09bc370887d
+timeCreated: 1452600242
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mammoth walk_0
+    21300002: mammoth walk_1
+    21300004: mammoth walk_2
+    21300006: mammoth walk_3
+    21300008: mammoth walk_4
+    21300010: mammoth walk_5
+    21300012: mammoth walk_6
+    21300014: mammoth walk_7
+    21300016: mammoth walk_8
+    21300018: mammoth walk_9
+    21300020: mammoth walk_10
+    21300022: mammoth walk_11
+    21300024: mammoth walk_12
+    21300026: mammoth walk_13
+    21300028: mammoth walk_14
+    21300030: mammoth walk_15
+    21300032: mammoth walk_16
+    21300034: mammoth walk_17
+    21300036: mammoth walk_18
+    21300038: mammoth walk_19
+    21300040: mammoth walk_20
+    21300042: mammoth walk_21
+    21300044: mammoth walk_22
+    21300046: mammoth walk_23
+    21300048: mammoth walk_24
+    21300050: mammoth walk_25
+    21300052: mammoth walk_26
+    21300054: mammoth walk_27
+    21300056: mammoth walk_28
+    21300058: mammoth walk_29
+    21300060: mammoth walk_30
+    21300062: mammoth walk_31
+    21300064: mammoth walk_32
+    21300066: mammoth walk_33
+    21300068: mammoth walk_34
+    21300070: mammoth walk_35
+    21300072: mammoth walk_36
+    21300074: mammoth walk_37
+    21300076: mammoth walk_38
+    21300078: mammoth walk_39
+    21300080: mammoth walk_40
+    21300082: mammoth walk_41
+    21300084: mammoth walk_42
+    21300086: mammoth walk_43
+    21300088: mammoth walk_44
+    21300090: mammoth walk_45
+    21300092: mammoth walk_46
+    21300094: mammoth walk_47
+    21300096: mammoth walk_48
+    21300098: mammoth walk_49
+    21300100: mammoth walk_50
+    21300102: mammoth walk_51
+    21300104: mammoth walk_52
+    21300106: mammoth walk_53
+    21300108: mammoth walk_54
+    21300110: mammoth walk_55
+    21300112: mammoth walk_56
+    21300114: mammoth walk_57
+    21300116: mammoth walk_58
+    21300118: mammoth walk_59
+    21300120: mammoth walk_60
+    21300122: mammoth walk_61
+    21300124: mammoth walk_62
+    21300126: mammoth walk_63
+    21300128: mammoth walk_64
+    21300130: mammoth walk_65
+    21300132: mammoth walk_66
+    21300134: mammoth walk_67
+    21300136: mammoth walk_68
+    21300138: mammoth walk_69
+    21300140: mammoth walk_70
+    21300142: mammoth walk_71
+    21300144: mammoth walk_72
+    21300146: mammoth walk_73
+    21300148: mammoth walk_74
+    21300150: mammoth walk_75
+    21300152: mammoth walk_76
+    21300154: mammoth walk_77
+    21300156: mammoth walk_78
+    21300158: mammoth walk_79
+    21300160: mammoth walk_80
+    21300162: mammoth walk_81
+    21300164: mammoth walk_82
+    21300166: mammoth walk_83
+    21300168: mammoth walk_84
+    21300170: mammoth walk_85
+    21300172: mammoth walk_86
+    21300174: mammoth walk_87
+    21300176: mammoth walk_88
+    21300178: mammoth walk_89
+    21300180: mammoth walk_90
+    21300182: mammoth walk_91
+    21300184: mammoth walk_92
+    21300186: mammoth walk_93
+    21300188: mammoth walk_94
+    21300190: mammoth walk_95
+    21300192: mammoth walk_96
+    21300194: mammoth walk_97
+    21300196: mammoth walk_98
+    21300198: mammoth walk_99
+    21300200: mammoth walk_100
+    21300202: mammoth walk_101
+    21300204: mammoth walk_102
+    21300206: mammoth walk_103
+    21300208: mammoth walk_104
+    21300210: mammoth walk_105
+    21300212: mammoth walk_106
+    21300214: mammoth walk_107
+    21300216: mammoth walk_108
+    21300218: mammoth walk_109
+    21300220: mammoth walk_110
+    21300222: mammoth walk_111
+    21300224: mammoth walk_112
+    21300226: mammoth walk_113
+    21300228: mammoth walk_114
+    21300230: mammoth walk_115
+    21300232: mammoth walk_116
+    21300234: mammoth walk_117
+    21300236: mammoth walk_118
+    21300238: mammoth walk_119
+    21300240: mammoth walk_120
+    21300242: mammoth walk_121
+    21300244: mammoth walk_122
+    21300246: mammoth walk_123
+    21300248: mammoth walk_124
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mammoth walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2510
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2510
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2510
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_3
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2510
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_4
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2510
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_5
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2510
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_6
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2510
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_7
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 2510
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_8
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 2510
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_9
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 2510
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_10
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 2510
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_11
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 2510
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2259
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2259
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2259
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_15
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2259
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_16
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2259
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_17
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2259
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_18
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2259
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_19
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 2259
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_20
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 2259
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_21
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 2259
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_22
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 2259
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_23
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 2259
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2008
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_25
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2008
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_26
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2008
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_27
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2008
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_28
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2008
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_29
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2008
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_30
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2008
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_31
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 2008
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_32
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 2008
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_33
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 2008
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_34
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 2008
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_35
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 2008
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1757
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_37
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1757
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_38
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1757
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_39
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1757
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_40
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1757
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_41
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1757
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_42
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1757
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_43
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 1757
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_44
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1757
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_45
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1757
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_46
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1757
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_47
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 1757
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_49
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1506
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_50
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1506
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_51
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1506
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_52
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1506
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_53
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1506
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_54
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1506
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_55
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 1506
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_56
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1506
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_57
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1506
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_58
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1506
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_59
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 1506
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1255
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_61
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1255
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_62
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1255
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_63
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1255
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_64
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1255
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_65
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1255
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_66
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1255
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_67
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 1255
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_68
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1255
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_69
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1255
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_70
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1255
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_71
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 1255
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_73
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1004
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_74
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1004
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_75
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1004
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_76
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1004
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_77
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1004
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_78
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1004
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_79
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 1004
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_80
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1004
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_81
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1004
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_82
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1004
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_83
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 1004
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_85
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 753
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_86
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 753
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_87
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 753
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_88
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 753
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_89
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 753
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_90
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 753
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_91
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 753
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_92
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 753
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_93
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 753
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_94
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 753
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_95
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 753
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_97
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 502
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_98
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 502
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_99
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 502
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_100
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 502
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_101
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 502
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_102
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 502
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_103
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 502
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_104
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 502
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_105
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 502
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_106
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 502
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_107
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 502
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_109
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 251
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_110
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 251
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_111
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 251
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_112
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 251
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_113
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 251
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_114
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 251
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_115
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 251
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_116
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 251
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_117
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 251
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_118
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 251
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_119
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 251
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_121
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_122
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_123
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 0
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mammoth walk_124
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 0
+        width: 376
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
