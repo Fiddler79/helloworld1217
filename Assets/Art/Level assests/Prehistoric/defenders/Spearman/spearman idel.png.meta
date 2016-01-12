@@ -1,0 +1,738 @@
+fileFormatVersion: 2
+guid: 8cda6c094e2d184428f65613f3131f27
+timeCreated: 1452600676
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spearman idel_0
+    21300002: spearman idel_1
+    21300004: spearman idel_2
+    21300006: spearman idel_3
+    21300008: spearman idel_4
+    21300010: spearman idel_5
+    21300012: spearman idel_6
+    21300014: spearman idel_7
+    21300016: spearman idel_8
+    21300018: spearman idel_9
+    21300020: spearman idel_10
+    21300022: spearman idel_11
+    21300024: spearman idel_12
+    21300026: spearman idel_13
+    21300028: spearman idel_14
+    21300030: spearman idel_15
+    21300032: spearman idel_16
+    21300034: spearman idel_17
+    21300036: spearman idel_18
+    21300038: spearman idel_19
+    21300040: spearman idel_20
+    21300042: spearman idel_21
+    21300044: spearman idel_22
+    21300046: spearman idel_23
+    21300048: spearman idel_24
+    21300050: spearman idel_25
+    21300052: spearman idel_26
+    21300054: spearman idel_27
+    21300056: spearman idel_28
+    21300058: spearman idel_29
+    21300060: spearman idel_30
+    21300062: spearman idel_31
+    21300064: spearman idel_32
+    21300066: spearman idel_33
+    21300068: spearman idel_34
+    21300070: spearman idel_35
+    21300072: spearman idel_36
+    21300074: spearman idel_37
+    21300076: spearman idel_38
+    21300078: spearman idel_39
+    21300080: spearman idel_40
+    21300082: spearman idel_41
+    21300084: spearman idel_42
+    21300086: spearman idel_43
+    21300088: spearman idel_44
+    21300090: spearman idel_45
+    21300092: spearman idel_46
+    21300094: spearman idel_47
+    21300096: spearman idel_48
+    21300098: spearman idel_49
+    21300100: spearman idel_50
+    21300102: spearman idel_51
+    21300104: spearman idel_52
+    21300106: spearman idel_53
+    21300108: spearman idel_54
+    21300110: spearman idel_55
+    21300112: spearman idel_56
+    21300114: spearman idel_57
+    21300116: spearman idel_58
+    21300118: spearman idel_59
+    21300120: spearman idel_60
+    21300122: spearman idel_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spearman idel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4445
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 4445
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 4445
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 4445
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_4
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 4445
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_5
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 4445
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_6
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 4445
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_7
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 4445
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3810
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3810
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 3810
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_11
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 3810
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_12
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 3810
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_13
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 3810
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_14
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3810
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_15
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3810
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3175
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3175
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_18
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 3175
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_19
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 3175
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_20
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 3175
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_21
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 3175
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_22
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3175
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_23
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3175
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2540
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_25
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2540
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_26
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2540
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_27
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2540
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_28
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 2540
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_29
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2540
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_30
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2540
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_31
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2540
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1905
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1905
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_34
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1905
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_35
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1905
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_36
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1905
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_37
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1905
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_38
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1905
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_39
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1905
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1270
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_41
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1270
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_42
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1270
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_43
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1270
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_44
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1270
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_45
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1270
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_46
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1270
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_47
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1270
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_49
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 635
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_50
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 635
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_51
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 635
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_52
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 635
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_53
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 635
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_54
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 635
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_55
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 635
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_57
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_58
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_59
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_60
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 0
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman idel_61
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 0
+        width: 286
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

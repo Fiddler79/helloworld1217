@@ -1,0 +1,738 @@
+fileFormatVersion: 2
+guid: 9d491abdcb1f4e34d8dd85c0b5fb8d1c
+timeCreated: 1452600439
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spearman attack_0
+    21300002: spearman attack_1
+    21300004: spearman attack_2
+    21300006: spearman attack_3
+    21300008: spearman attack_4
+    21300010: spearman attack_5
+    21300012: spearman attack_6
+    21300014: spearman attack_7
+    21300016: spearman attack_8
+    21300018: spearman attack_9
+    21300020: spearman attack_10
+    21300022: spearman attack_11
+    21300024: spearman attack_12
+    21300026: spearman attack_13
+    21300028: spearman attack_14
+    21300030: spearman attack_15
+    21300032: spearman attack_16
+    21300034: spearman attack_17
+    21300036: spearman attack_18
+    21300038: spearman attack_19
+    21300040: spearman attack_20
+    21300042: spearman attack_21
+    21300044: spearman attack_22
+    21300046: spearman attack_23
+    21300048: spearman attack_24
+    21300050: spearman attack_25
+    21300052: spearman attack_26
+    21300054: spearman attack_27
+    21300056: spearman attack_28
+    21300058: spearman attack_29
+    21300060: spearman attack_30
+    21300062: spearman attack_31
+    21300064: spearman attack_32
+    21300066: spearman attack_33
+    21300068: spearman attack_34
+    21300070: spearman attack_35
+    21300072: spearman attack_36
+    21300074: spearman attack_37
+    21300076: spearman attack_38
+    21300078: spearman attack_39
+    21300080: spearman attack_40
+    21300082: spearman attack_41
+    21300084: spearman attack_42
+    21300086: spearman attack_43
+    21300088: spearman attack_44
+    21300090: spearman attack_45
+    21300092: spearman attack_46
+    21300094: spearman attack_47
+    21300096: spearman attack_48
+    21300098: spearman attack_49
+    21300100: spearman attack_50
+    21300102: spearman attack_51
+    21300104: spearman attack_52
+    21300106: spearman attack_53
+    21300108: spearman attack_54
+    21300110: spearman attack_55
+    21300112: spearman attack_56
+    21300114: spearman attack_57
+    21300116: spearman attack_58
+    21300118: spearman attack_59
+    21300120: spearman attack_60
+    21300122: spearman attack_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spearman attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4508
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_1
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 4508
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_2
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 4508
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_3
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 4508
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_4
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 4508
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_5
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 4508
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_6
+      rect:
+        serializedVersion: 2
+        x: 5532
+        y: 4508
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_7
+      rect:
+        serializedVersion: 2
+        x: 6454
+        y: 4508
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3864
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_9
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3864
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_10
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 3864
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_11
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 3864
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_12
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 3864
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_13
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 3864
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_14
+      rect:
+        serializedVersion: 2
+        x: 5532
+        y: 3864
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_15
+      rect:
+        serializedVersion: 2
+        x: 6454
+        y: 3864
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3220
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_17
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3220
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_18
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 3220
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_19
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 3220
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_20
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 3220
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_21
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 3220
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_22
+      rect:
+        serializedVersion: 2
+        x: 5532
+        y: 3220
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_23
+      rect:
+        serializedVersion: 2
+        x: 6454
+        y: 3220
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2576
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_25
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2576
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_26
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 2576
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_27
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 2576
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_28
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 2576
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_29
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 2576
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_30
+      rect:
+        serializedVersion: 2
+        x: 5532
+        y: 2576
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_31
+      rect:
+        serializedVersion: 2
+        x: 6454
+        y: 2576
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1932
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_33
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1932
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_34
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1932
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_35
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 1932
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_36
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 1932
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_37
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 1932
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_38
+      rect:
+        serializedVersion: 2
+        x: 5532
+        y: 1932
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_39
+      rect:
+        serializedVersion: 2
+        x: 6454
+        y: 1932
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1288
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_41
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1288
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_42
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1288
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_43
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 1288
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_44
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 1288
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_45
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 1288
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_46
+      rect:
+        serializedVersion: 2
+        x: 5532
+        y: 1288
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_47
+      rect:
+        serializedVersion: 2
+        x: 6454
+        y: 1288
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_49
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 644
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_50
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 644
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_51
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 644
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_52
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 644
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_53
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 644
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_54
+      rect:
+        serializedVersion: 2
+        x: 5532
+        y: 644
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_55
+      rect:
+        serializedVersion: 2
+        x: 6454
+        y: 644
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_57
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_58
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 0
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_59
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 0
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_60
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 0
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman attack_61
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 0
+        width: 922
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

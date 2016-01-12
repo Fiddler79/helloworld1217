@@ -1,0 +1,738 @@
+fileFormatVersion: 2
+guid: e3bf57bff572d114eb93ed39a4c07ecd
+timeCreated: 1452600602
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spearman jump_0
+    21300002: spearman jump_1
+    21300004: spearman jump_2
+    21300006: spearman jump_3
+    21300008: spearman jump_4
+    21300010: spearman jump_5
+    21300012: spearman jump_6
+    21300014: spearman jump_7
+    21300016: spearman jump_8
+    21300018: spearman jump_9
+    21300020: spearman jump_10
+    21300022: spearman jump_11
+    21300024: spearman jump_12
+    21300026: spearman jump_13
+    21300028: spearman jump_14
+    21300030: spearman jump_15
+    21300032: spearman jump_16
+    21300034: spearman jump_17
+    21300036: spearman jump_18
+    21300038: spearman jump_19
+    21300040: spearman jump_20
+    21300042: spearman jump_21
+    21300044: spearman jump_22
+    21300046: spearman jump_23
+    21300048: spearman jump_24
+    21300050: spearman jump_25
+    21300052: spearman jump_26
+    21300054: spearman jump_27
+    21300056: spearman jump_28
+    21300058: spearman jump_29
+    21300060: spearman jump_30
+    21300062: spearman jump_31
+    21300064: spearman jump_32
+    21300066: spearman jump_33
+    21300068: spearman jump_34
+    21300070: spearman jump_35
+    21300072: spearman jump_36
+    21300074: spearman jump_37
+    21300076: spearman jump_38
+    21300078: spearman jump_39
+    21300080: spearman jump_40
+    21300082: spearman jump_41
+    21300084: spearman jump_42
+    21300086: spearman jump_43
+    21300088: spearman jump_44
+    21300090: spearman jump_45
+    21300092: spearman jump_46
+    21300094: spearman jump_47
+    21300096: spearman jump_48
+    21300098: spearman jump_49
+    21300100: spearman jump_50
+    21300102: spearman jump_51
+    21300104: spearman jump_52
+    21300106: spearman jump_53
+    21300108: spearman jump_54
+    21300110: spearman jump_55
+    21300112: spearman jump_56
+    21300114: spearman jump_57
+    21300116: spearman jump_58
+    21300118: spearman jump_59
+    21300120: spearman jump_60
+    21300122: spearman jump_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spearman jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6472
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_1
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 6472
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_2
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 6472
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_3
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 6472
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_4
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 6472
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_5
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 6472
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_6
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 6472
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5663
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 5663
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_9
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 5663
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_10
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 5663
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_11
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 5663
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_12
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 5663
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_13
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 5663
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4854
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 4854
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_16
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4854
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_17
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4854
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_18
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 4854
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_19
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4854
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_20
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 4854
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4045
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 4045
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_23
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4045
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_24
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4045
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_25
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 4045
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_26
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4045
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_27
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 4045
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3236
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3236
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_30
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3236
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_31
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3236
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_32
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3236
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_33
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3236
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_34
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 3236
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2427
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2427
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_37
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2427
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_38
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2427
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_39
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2427
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_40
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2427
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_41
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 2427
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1618
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_43
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1618
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_44
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1618
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_45
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1618
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_46
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1618
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_47
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1618
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_48
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1618
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 809
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 809
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_51
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 809
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_52
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 809
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_53
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 809
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_54
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 809
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_55
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 809
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_57
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_58
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_59
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_60
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spearman jump_61
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 672
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
