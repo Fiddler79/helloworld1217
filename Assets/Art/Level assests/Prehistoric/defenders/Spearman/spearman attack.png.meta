@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 9d491abdcb1f4e34d8dd85c0b5fb8d1c
-timeCreated: 1452600439
+timeCreated: 1452673665
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -66,6 +66,7 @@ TextureImporter:
     21300118: spearman attack_59
     21300120: spearman attack_60
     21300122: spearman attack_61
+    21300124: spearman attack_62
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -119,8 +120,8 @@ TextureImporter:
         y: 4508
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_1
       rect:
@@ -129,8 +130,8 @@ TextureImporter:
         y: 4508
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_2
       rect:
@@ -139,8 +140,8 @@ TextureImporter:
         y: 4508
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_3
       rect:
@@ -149,8 +150,8 @@ TextureImporter:
         y: 4508
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_4
       rect:
@@ -159,8 +160,8 @@ TextureImporter:
         y: 4508
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_5
       rect:
@@ -169,8 +170,8 @@ TextureImporter:
         y: 4508
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_6
       rect:
@@ -179,8 +180,8 @@ TextureImporter:
         y: 4508
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_7
       rect:
@@ -189,8 +190,8 @@ TextureImporter:
         y: 4508
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_8
       rect:
@@ -199,8 +200,8 @@ TextureImporter:
         y: 3864
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_9
       rect:
@@ -209,8 +210,8 @@ TextureImporter:
         y: 3864
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_10
       rect:
@@ -219,8 +220,8 @@ TextureImporter:
         y: 3864
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_11
       rect:
@@ -229,8 +230,8 @@ TextureImporter:
         y: 3864
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_12
       rect:
@@ -239,8 +240,8 @@ TextureImporter:
         y: 3864
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_13
       rect:
@@ -249,8 +250,8 @@ TextureImporter:
         y: 3864
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_14
       rect:
@@ -259,8 +260,8 @@ TextureImporter:
         y: 3864
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_15
       rect:
@@ -269,8 +270,8 @@ TextureImporter:
         y: 3864
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_16
       rect:
@@ -279,8 +280,8 @@ TextureImporter:
         y: 3220
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_17
       rect:
@@ -289,8 +290,8 @@ TextureImporter:
         y: 3220
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_18
       rect:
@@ -299,8 +300,8 @@ TextureImporter:
         y: 3220
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_19
       rect:
@@ -309,8 +310,8 @@ TextureImporter:
         y: 3220
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_20
       rect:
@@ -319,8 +320,8 @@ TextureImporter:
         y: 3220
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_21
       rect:
@@ -329,8 +330,8 @@ TextureImporter:
         y: 3220
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_22
       rect:
@@ -339,8 +340,8 @@ TextureImporter:
         y: 3220
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_23
       rect:
@@ -349,8 +350,8 @@ TextureImporter:
         y: 3220
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_24
       rect:
@@ -359,8 +360,8 @@ TextureImporter:
         y: 2576
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_25
       rect:
@@ -369,8 +370,8 @@ TextureImporter:
         y: 2576
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_26
       rect:
@@ -379,8 +380,8 @@ TextureImporter:
         y: 2576
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_27
       rect:
@@ -389,8 +390,8 @@ TextureImporter:
         y: 2576
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_28
       rect:
@@ -399,8 +400,8 @@ TextureImporter:
         y: 2576
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_29
       rect:
@@ -409,8 +410,8 @@ TextureImporter:
         y: 2576
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_30
       rect:
@@ -419,8 +420,8 @@ TextureImporter:
         y: 2576
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_31
       rect:
@@ -429,8 +430,8 @@ TextureImporter:
         y: 2576
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_32
       rect:
@@ -439,8 +440,8 @@ TextureImporter:
         y: 1932
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_33
       rect:
@@ -449,8 +450,8 @@ TextureImporter:
         y: 1932
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_34
       rect:
@@ -459,8 +460,8 @@ TextureImporter:
         y: 1932
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_35
       rect:
@@ -469,8 +470,8 @@ TextureImporter:
         y: 1932
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_36
       rect:
@@ -479,8 +480,8 @@ TextureImporter:
         y: 1932
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_37
       rect:
@@ -489,8 +490,8 @@ TextureImporter:
         y: 1932
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_38
       rect:
@@ -499,8 +500,8 @@ TextureImporter:
         y: 1932
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_39
       rect:
@@ -509,8 +510,8 @@ TextureImporter:
         y: 1932
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_40
       rect:
@@ -519,8 +520,8 @@ TextureImporter:
         y: 1288
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_41
       rect:
@@ -529,8 +530,8 @@ TextureImporter:
         y: 1288
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_42
       rect:
@@ -539,8 +540,8 @@ TextureImporter:
         y: 1288
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_43
       rect:
@@ -549,8 +550,8 @@ TextureImporter:
         y: 1288
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_44
       rect:
@@ -559,8 +560,8 @@ TextureImporter:
         y: 1288
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_45
       rect:
@@ -569,8 +570,8 @@ TextureImporter:
         y: 1288
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_46
       rect:
@@ -579,8 +580,8 @@ TextureImporter:
         y: 1288
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_47
       rect:
@@ -589,8 +590,8 @@ TextureImporter:
         y: 1288
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_48
       rect:
@@ -599,8 +600,8 @@ TextureImporter:
         y: 644
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_49
       rect:
@@ -609,8 +610,8 @@ TextureImporter:
         y: 644
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_50
       rect:
@@ -619,8 +620,8 @@ TextureImporter:
         y: 644
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_51
       rect:
@@ -629,8 +630,8 @@ TextureImporter:
         y: 644
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_52
       rect:
@@ -639,8 +640,8 @@ TextureImporter:
         y: 644
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_53
       rect:
@@ -649,8 +650,8 @@ TextureImporter:
         y: 644
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_54
       rect:
@@ -659,8 +660,8 @@ TextureImporter:
         y: 644
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_55
       rect:
@@ -669,8 +670,8 @@ TextureImporter:
         y: 644
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_56
       rect:
@@ -679,8 +680,8 @@ TextureImporter:
         y: 0
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_57
       rect:
@@ -689,8 +690,8 @@ TextureImporter:
         y: 0
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_58
       rect:
@@ -699,8 +700,8 @@ TextureImporter:
         y: 0
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_59
       rect:
@@ -709,8 +710,8 @@ TextureImporter:
         y: 0
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_60
       rect:
@@ -719,8 +720,8 @@ TextureImporter:
         y: 0
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: spearman attack_61
       rect:
@@ -729,8 +730,8 @@ TextureImporter:
         y: 0
         width: 922
         height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 4
+      pivot: {x: 0, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

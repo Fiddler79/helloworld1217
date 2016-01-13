@@ -28,6 +28,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/02 Level_03.unity
   - enabled: 1
+    path: Assets/_Scenes/02 Level_04.unity
+  - enabled: 1
     path: Assets/_Scenes/03a Win.unity
   - enabled: 1
     path: Assets/_Scenes/03b Lose.unity

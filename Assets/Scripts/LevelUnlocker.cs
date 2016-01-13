@@ -13,6 +13,10 @@ public class LevelUnlocker : MonoBehaviour {
         {
             LevelArray[1].SetActive(true);
         }
+		if (PlayerPrefsManager.IsLevelUnlocked (11))
+		{
+			LevelArray[2].SetActive(true);
+		}
 	}
 	
 	// Update is called once per frame
