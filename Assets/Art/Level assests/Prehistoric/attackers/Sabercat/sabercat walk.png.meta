@@ -1,0 +1,738 @@
+fileFormatVersion: 2
+guid: 7b1fea7d9d18fa849bd80a9f5c782037
+timeCreated: 1452852323
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sabercat walk_0
+    21300002: sabercat walk_1
+    21300004: sabercat walk_2
+    21300006: sabercat walk_3
+    21300008: sabercat walk_4
+    21300010: sabercat walk_5
+    21300012: sabercat walk_6
+    21300014: sabercat walk_7
+    21300016: sabercat walk_8
+    21300018: sabercat walk_9
+    21300020: sabercat walk_10
+    21300022: sabercat walk_11
+    21300024: sabercat walk_12
+    21300026: sabercat walk_13
+    21300028: sabercat walk_14
+    21300030: sabercat walk_15
+    21300032: sabercat walk_16
+    21300034: sabercat walk_17
+    21300036: sabercat walk_18
+    21300038: sabercat walk_19
+    21300040: sabercat walk_20
+    21300042: sabercat walk_21
+    21300044: sabercat walk_22
+    21300046: sabercat walk_23
+    21300048: sabercat walk_24
+    21300050: sabercat walk_25
+    21300052: sabercat walk_26
+    21300054: sabercat walk_27
+    21300056: sabercat walk_28
+    21300058: sabercat walk_29
+    21300060: sabercat walk_30
+    21300062: sabercat walk_31
+    21300064: sabercat walk_32
+    21300066: sabercat walk_33
+    21300068: sabercat walk_34
+    21300070: sabercat walk_35
+    21300072: sabercat walk_36
+    21300074: sabercat walk_37
+    21300076: sabercat walk_38
+    21300078: sabercat walk_39
+    21300080: sabercat walk_40
+    21300082: sabercat walk_41
+    21300084: sabercat walk_42
+    21300086: sabercat walk_43
+    21300088: sabercat walk_44
+    21300090: sabercat walk_45
+    21300092: sabercat walk_46
+    21300094: sabercat walk_47
+    21300096: sabercat walk_48
+    21300098: sabercat walk_49
+    21300100: sabercat walk_50
+    21300102: sabercat walk_51
+    21300104: sabercat walk_52
+    21300106: sabercat walk_53
+    21300108: sabercat walk_54
+    21300110: sabercat walk_55
+    21300112: sabercat walk_56
+    21300114: sabercat walk_57
+    21300116: sabercat walk_58
+    21300118: sabercat walk_59
+    21300120: sabercat walk_60
+    21300122: sabercat walk_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sabercat walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1099
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1099
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1099
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1099
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_4
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1099
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_5
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1099
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_6
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1099
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_7
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1099
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 942
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 942
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 942
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_11
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 942
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_12
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 942
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_13
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 942
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_14
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 942
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_15
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 942
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 785
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_18
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 785
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_19
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 785
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_20
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 785
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_21
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 785
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_22
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 785
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_23
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 785
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_25
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 628
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 628
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_27
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 628
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_28
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 628
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_29
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 628
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_30
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 628
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_31
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 628
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 471
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_34
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 471
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_35
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 471
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_36
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 471
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_37
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 471
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_38
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 471
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_39
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 471
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_41
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 314
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_42
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 314
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_43
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 314
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_44
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 314
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_45
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 314
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_46
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 314
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_47
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 314
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_49
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 157
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_50
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 157
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_51
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 157
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_52
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 157
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_53
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 157
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_54
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 157
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_55
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 157
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_57
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_58
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_59
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_60
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat walk_61
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 0
+        width: 249
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

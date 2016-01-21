@@ -33,9 +33,10 @@ public class Lizard : MonoBehaviour
         {
             return;
         }
-
-        anim.SetBool("isAttacking", true);
-        attacker.Attack(obj);
+		if (!obj.GetComponent<Wolf> ()) {
+			anim.SetBool ("isAttacking", true);
+			attacker.Attack (obj);
+		}
 
     }
     public void PlayAudio()

@@ -1,0 +1,738 @@
+fileFormatVersion: 2
+guid: bac32e18162b6a148969da8a57f63aaa
+timeCreated: 1453279402
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wolf attack_0
+    21300002: wolf attack_1
+    21300004: wolf attack_2
+    21300006: wolf attack_3
+    21300008: wolf attack_4
+    21300010: wolf attack_5
+    21300012: wolf attack_6
+    21300014: wolf attack_7
+    21300016: wolf attack_8
+    21300018: wolf attack_9
+    21300020: wolf attack_10
+    21300022: wolf attack_11
+    21300024: wolf attack_12
+    21300026: wolf attack_13
+    21300028: wolf attack_14
+    21300030: wolf attack_15
+    21300032: wolf attack_16
+    21300034: wolf attack_17
+    21300036: wolf attack_18
+    21300038: wolf attack_19
+    21300040: wolf attack_20
+    21300042: wolf attack_21
+    21300044: wolf attack_22
+    21300046: wolf attack_23
+    21300048: wolf attack_24
+    21300050: wolf attack_25
+    21300052: wolf attack_26
+    21300054: wolf attack_27
+    21300056: wolf attack_28
+    21300058: wolf attack_29
+    21300060: wolf attack_30
+    21300062: wolf attack_31
+    21300064: wolf attack_32
+    21300066: wolf attack_33
+    21300068: wolf attack_34
+    21300070: wolf attack_35
+    21300072: wolf attack_36
+    21300074: wolf attack_37
+    21300076: wolf attack_38
+    21300078: wolf attack_39
+    21300080: wolf attack_40
+    21300082: wolf attack_41
+    21300084: wolf attack_42
+    21300086: wolf attack_43
+    21300088: wolf attack_44
+    21300090: wolf attack_45
+    21300092: wolf attack_46
+    21300094: wolf attack_47
+    21300096: wolf attack_48
+    21300098: wolf attack_49
+    21300100: wolf attack_50
+    21300102: wolf attack_51
+    21300104: wolf attack_52
+    21300106: wolf attack_53
+    21300108: wolf attack_54
+    21300110: wolf attack_55
+    21300112: wolf attack_56
+    21300114: wolf attack_57
+    21300116: wolf attack_58
+    21300118: wolf attack_59
+    21300120: wolf attack_60
+    21300122: wolf attack_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wolf attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1344
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1344
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1344
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_4
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1344
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_5
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1344
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_6
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1344
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_7
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1344
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1152
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_10
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1152
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1152
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_12
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1152
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_13
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1152
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_14
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1152
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_15
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1152
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 960
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 960
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_19
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 960
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_20
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 960
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_21
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 960
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_22
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 960
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_23
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 960
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_25
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 768
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_26
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 768
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_27
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 768
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_28
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 768
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_29
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 768
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_30
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 768
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_31
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 768
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_33
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 576
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_34
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 576
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_35
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 576
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_36
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 576
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_37
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 576
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_38
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 576
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_39
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 576
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 384
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_42
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 384
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_43
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 384
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_44
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 384
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_45
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 384
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_46
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 384
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_47
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 384
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_49
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 192
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_50
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 192
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_51
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 192
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_52
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 192
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_53
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 192
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_54
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 192
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_55
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 192
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_57
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_58
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_59
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_60
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wolf attack_61
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 0
+        width: 284
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

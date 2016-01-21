@@ -32,6 +32,7 @@ GameObject:
   - 114: {fileID: 11409520}
   - 212: {fileID: 21222524}
   - 82: {fileID: 8207414}
+  - 114: {fileID: 11440610}
   m_Layer: 0
   m_Name: Mamoth
   m_TagString: destroyOnWin
@@ -46,7 +47,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 149608}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 16.8199997, y: 4.97399998, z: 0}
+  m_LocalPosition: {x: 14.5600004, y: .99000001, z: 0}
   m_LocalScale: {x: .406288296, y: .416399956, z: .542443395}
   m_Children:
   - {fileID: 474124}
@@ -202,7 +203,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2b549c7a93d9417b8412ddc8c341cb9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 80
+  health: 800
+--- !u!114 &11440610
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 149608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a8745a21577744d98c445f267b3766, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &11454898
 MonoBehaviour:
   m_ObjectHideFlags: 1

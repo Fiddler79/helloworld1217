@@ -447,3 +447,10 @@ AnimationClip:
     floatParameter: 50
     intParameter: 0
     messageOptions: 0
+  - time: 2.17499995
+    functionName: StrikeCurrentTarget
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 50
+    intParameter: 0
+    messageOptions: 0

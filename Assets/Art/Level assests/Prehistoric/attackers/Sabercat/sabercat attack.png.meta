@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: d299e35b9c39d9141a3d654fc2c1a52e
+timeCreated: 1452853084
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sabercat attack_0
+    21300002: sabercat attack_1
+    21300004: sabercat attack_2
+    21300006: sabercat attack_3
+    21300008: sabercat attack_4
+    21300010: sabercat attack_5
+    21300012: sabercat attack_6
+    21300014: sabercat attack_7
+    21300016: sabercat attack_8
+    21300018: sabercat attack_9
+    21300020: sabercat attack_10
+    21300022: sabercat attack_11
+    21300024: sabercat attack_12
+    21300026: sabercat attack_13
+    21300028: sabercat attack_14
+    21300030: sabercat attack_15
+    21300032: sabercat attack_16
+    21300034: sabercat attack_17
+    21300036: sabercat attack_18
+    21300038: sabercat attack_19
+    21300040: sabercat attack_20
+    21300042: sabercat attack_21
+    21300044: sabercat attack_22
+    21300046: sabercat attack_23
+    21300048: sabercat attack_24
+    21300050: sabercat attack_25
+    21300052: sabercat attack_26
+    21300054: sabercat attack_27
+    21300056: sabercat attack_28
+    21300058: sabercat attack_29
+    21300060: sabercat attack_30
+    21300062: sabercat attack_31
+    21300064: sabercat attack_32
+    21300066: sabercat attack_33
+    21300068: sabercat attack_34
+    21300070: sabercat attack_35
+    21300072: sabercat attack_36
+    21300074: sabercat attack_37
+    21300076: sabercat attack_38
+    21300078: sabercat attack_39
+    21300080: sabercat attack_40
+    21300082: sabercat attack_41
+    21300084: sabercat attack_42
+    21300086: sabercat attack_43
+    21300088: sabercat attack_44
+    21300090: sabercat attack_45
+    21300092: sabercat attack_46
+    21300094: sabercat attack_47
+    21300096: sabercat attack_48
+    21300098: sabercat attack_49
+    21300100: sabercat attack_50
+    21300102: sabercat attack_51
+    21300104: sabercat attack_52
+    21300106: sabercat attack_53
+    21300108: sabercat attack_54
+    21300110: sabercat attack_55
+    21300112: sabercat attack_56
+    21300114: sabercat attack_57
+    21300116: sabercat attack_58
+    21300118: sabercat attack_59
+    21300120: sabercat attack_60
+    21300122: sabercat attack_61
+    21300124: sabercat attack_62
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sabercat attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1694
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1694
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1694
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1694
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_4
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1694
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_5
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1694
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_6
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1694
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_7
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1694
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1452
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1452
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_10
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1452
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_11
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1452
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_12
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1452
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_13
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1452
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_14
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1452
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_15
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1452
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1210
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1210
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1210
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_19
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1210
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_20
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1210
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_21
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1210
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_22
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1210
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_23
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1210
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 968
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 968
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_27
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 968
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_28
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 968
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_29
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 968
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_30
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 968
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_31
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 968
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 726
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_34
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 726
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_35
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 726
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_36
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 726
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_37
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 726
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_38
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 726
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_39
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 726
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 484
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_42
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 484
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_43
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 484
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_44
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 484
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_45
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 484
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_46
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 484
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_47
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 484
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 242
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_50
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 242
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_51
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 242
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_52
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 242
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_53
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 242
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_54
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 242
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_55
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 242
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_57
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_58
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_59
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_60
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabercat attack_61
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 258
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

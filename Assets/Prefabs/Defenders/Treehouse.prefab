@@ -358,7 +358,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc2dd2a6951a84e06ab44d5055a84771, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  starCost: 70
+  starCost: 90
 --- !u!114 &11491880
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -550,7 +550,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 0}
       propertyPath: starCost
-      value: 70
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 0}
       propertyPath: projectile
