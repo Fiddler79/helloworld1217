@@ -5,7 +5,7 @@ AnimationClip:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: button clicked
+  m_Name: Redbutton clicked
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -19,9 +19,9 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 21300000, guid: 186b28ecb6191c44bb83259efe59b5e2, type: 3}
+      value: {fileID: 21300000, guid: 3a6a43e3646df23498a0ef2451aa5e7a, type: 3}
     - time: 0.15
-      value: {fileID: 21300000, guid: 431488ec3ae9ed34d9832d72bab01fc6, type: 3}
+      value: {fileID: 21300000, guid: 3f1507e6a53616d49bf6be95d8234214, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -40,8 +40,8 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 21300000, guid: 186b28ecb6191c44bb83259efe59b5e2, type: 3}
-    - {fileID: 21300000, guid: 431488ec3ae9ed34d9832d72bab01fc6, type: 3}
+    - {fileID: 21300000, guid: 3a6a43e3646df23498a0ef2451aa5e7a, type: 3}
+    - {fileID: 21300000, guid: 3f1507e6a53616d49bf6be95d8234214, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

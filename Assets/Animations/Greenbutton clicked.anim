@@ -5,7 +5,7 @@ AnimationClip:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: button clicked
+  m_Name: Greenbutton clicked
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -19,9 +19,9 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 21300000, guid: 186b28ecb6191c44bb83259efe59b5e2, type: 3}
+      value: {fileID: 21300000, guid: 8919f47f454c9fa42ab124bf586f88ad, type: 3}
     - time: 0.15
-      value: {fileID: 21300000, guid: 431488ec3ae9ed34d9832d72bab01fc6, type: 3}
+      value: {fileID: 21300000, guid: af4886e84b01b87459c18e0cb07e24c0, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -40,8 +40,8 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 21300000, guid: 186b28ecb6191c44bb83259efe59b5e2, type: 3}
-    - {fileID: 21300000, guid: 431488ec3ae9ed34d9832d72bab01fc6, type: 3}
+    - {fileID: 21300000, guid: 8919f47f454c9fa42ab124bf586f88ad, type: 3}
+    - {fileID: 21300000, guid: af4886e84b01b87459c18e0cb07e24c0, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
