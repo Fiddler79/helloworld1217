@@ -61,7 +61,7 @@ public class GameTimer : MonoBehaviour {
 
     void LoadNextLevel () {
         
-         levelManager.LoadLevel ("01d Prehistoric") ;
+         levelManager.LoadLevel ("03a Win") ;
 
 	}
     void UnlockLevel()

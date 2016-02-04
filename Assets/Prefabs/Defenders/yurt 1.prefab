@@ -147,8 +147,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 151398}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .159999996, y: -1.32000005, z: 0}
-  m_LocalScale: {x: .554517388, y: .554517627, z: .554517627}
+  m_LocalPosition: {x: 0.16, y: -1.32, z: 0}
+  m_LocalScale: {x: 0.5545174, y: 0.5545176, z: 0.5545176}
   m_Children: []
   m_Father: {fileID: 449644}
   m_RootOrder: 2
@@ -159,8 +159,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 160962}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .189999998, y: -.720000029, z: 0}
-  m_LocalScale: {x: .554517388, y: .554517627, z: .554517627}
+  m_LocalPosition: {x: 0.19, y: -0.72, z: 0}
+  m_LocalScale: {x: 0.5545174, y: 0.5545176, z: 0.5545176}
   m_Children: []
   m_Father: {fileID: 449644}
   m_RootOrder: 3
@@ -171,8 +171,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 171126}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -.0579999983, y: -.00499999989, z: 0}
-  m_LocalScale: {x: .232685462, y: .232685372, z: .232685372}
+  m_LocalPosition: {x: -0.058, y: -0.005, z: 0}
+  m_LocalScale: {x: 0.23268546, y: 0.23268537, z: 0.23268537}
   m_Children:
   - {fileID: 435892}
   - {fileID: 493554}
@@ -188,8 +188,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 146100}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -.0799999982, y: -1.64999998, z: 0}
-  m_LocalScale: {x: .554517388, y: .554517627, z: .554517627}
+  m_LocalPosition: {x: -0.08, y: -1.65, z: 0}
+  m_LocalScale: {x: 0.5545174, y: 0.5545176, z: 0.5545176}
   m_Children: []
   m_Father: {fileID: 449644}
   m_RootOrder: 4
@@ -200,8 +200,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 136538}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .189999998, y: .550000012, z: 0}
-  m_LocalScale: {x: .554517388, y: .554517627, z: .554517627}
+  m_LocalPosition: {x: 0.19, y: 0.55, z: 0}
+  m_LocalScale: {x: 0.5545174, y: 0.5545176, z: 0.5545176}
   m_Children: []
   m_Father: {fileID: 449644}
   m_RootOrder: 1
@@ -212,6 +212,7 @@ BoxCollider2D:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 127406}
   m_Enabled: 1
+  m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_UsedByEffector: 0
@@ -227,7 +228,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 17ed0398118bd6e4f9b4ef7cb7418778, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 7d25535854a63664f93c39408d54ca3f, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -258,6 +259,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+    m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -268,6 +270,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+    m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -278,6 +281,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+    m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -288,6 +292,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+    m_RotationOrder: 0
 --- !u!95 &9556850
 Animator:
   serializedVersion: 3
@@ -364,13 +369,15 @@ SpriteRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: bc9eeab4296e8324b88ccac36feed08c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
 --- !u!212 &21237698
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -392,13 +399,15 @@ SpriteRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 4b520cc744c9b1d4aac4f5f3b4d9aa72, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
 --- !u!212 &21256698
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -420,13 +429,15 @@ SpriteRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9c4add022e294dd46b6268e9a54372f5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
 --- !u!212 &21279634
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -448,13 +459,15 @@ SpriteRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: bcc678f28292af442a05c2baa775bafc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
@@ -466,6 +479,18 @@ Prefab:
       propertyPath: starCost
       value: 70
       objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: panLevelCustomCurve.m_RotationOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: reverbZoneMixCustomCurve.m_RotationOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 0cd7a61e2bd17bd4880817913ec92ecc, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 127406}
