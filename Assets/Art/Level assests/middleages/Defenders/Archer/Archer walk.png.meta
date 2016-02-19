@@ -1,0 +1,2214 @@
+fileFormatVersion: 2
+guid: fb0ed20babc524b4fa701a9123183c7d
+timeCreated: 1455879531
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Archer walk_0
+    21300002: Archer walk_1
+    21300004: Archer walk_2
+    21300006: Archer walk_3
+    21300008: Archer walk_4
+    21300010: Archer walk_5
+    21300012: Archer walk_6
+    21300014: Archer walk_7
+    21300016: Archer walk_8
+    21300018: Archer walk_9
+    21300020: Archer walk_10
+    21300022: Archer walk_11
+    21300024: Archer walk_12
+    21300026: Archer walk_13
+    21300028: Archer walk_14
+    21300030: Archer walk_15
+    21300032: Archer walk_16
+    21300034: Archer walk_17
+    21300036: Archer walk_18
+    21300038: Archer walk_19
+    21300040: Archer walk_20
+    21300042: Archer walk_21
+    21300044: Archer walk_22
+    21300046: Archer walk_23
+    21300048: Archer walk_24
+    21300050: Archer walk_25
+    21300052: Archer walk_26
+    21300054: Archer walk_27
+    21300056: Archer walk_28
+    21300058: Archer walk_29
+    21300060: Archer walk_30
+    21300062: Archer walk_31
+    21300064: Archer walk_32
+    21300066: Archer walk_33
+    21300068: Archer walk_34
+    21300070: Archer walk_35
+    21300072: Archer walk_36
+    21300074: Archer walk_37
+    21300076: Archer walk_38
+    21300078: Archer walk_39
+    21300080: Archer walk_40
+    21300082: Archer walk_41
+    21300084: Archer walk_42
+    21300086: Archer walk_43
+    21300088: Archer walk_44
+    21300090: Archer walk_45
+    21300092: Archer walk_46
+    21300094: Archer walk_47
+    21300096: Archer walk_48
+    21300098: Archer walk_49
+    21300100: Archer walk_50
+    21300102: Archer walk_51
+    21300104: Archer walk_52
+    21300106: Archer walk_53
+    21300108: Archer walk_54
+    21300110: Archer walk_55
+    21300112: Archer walk_56
+    21300114: Archer walk_57
+    21300116: Archer walk_58
+    21300118: Archer walk_59
+    21300120: Archer walk_60
+    21300122: Archer walk_61
+    21300124: Archer walk_62
+    21300126: Archer walk_63
+    21300128: Archer walk_64
+    21300130: Archer walk_65
+    21300132: Archer walk_66
+    21300134: Archer walk_67
+    21300136: Archer walk_68
+    21300138: Archer walk_69
+    21300140: Archer walk_70
+    21300142: Archer walk_71
+    21300144: Archer walk_72
+    21300146: Archer walk_73
+    21300148: Archer walk_74
+    21300150: Archer walk_75
+    21300152: Archer walk_76
+    21300154: Archer walk_77
+    21300156: Archer walk_78
+    21300158: Archer walk_79
+    21300160: Archer walk_80
+    21300162: Archer walk_81
+    21300164: Archer walk_82
+    21300166: Archer walk_83
+    21300168: Archer walk_84
+    21300170: Archer walk_85
+    21300172: Archer walk_86
+    21300174: Archer walk_87
+    21300176: Archer walk_88
+    21300178: Archer walk_89
+    21300180: Archer walk_90
+    21300182: Archer walk_91
+    21300184: Archer walk_92
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Archer walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2826
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 100.760376}
+        - {x: -70, y: 67.760376}
+        - {x: -70, y: -75.239624}
+        - {x: -59, y: -82.239624}
+        - {x: 62, y: -82.239624}
+        - {x: 62, y: 22.760376}
+        - {x: 41, y: 78.760376}
+        - {x: 20, y: 100.760376}
+    - name: Archer walk_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2826
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 100.760376}
+        - {x: -67.5, y: 34.760376}
+        - {x: -67.5, y: -75.239624}
+        - {x: -53.5, y: -81.239624}
+        - {x: -48.5, y: -83.239624}
+        - {x: 62.5, y: -83.239624}
+        - {x: 62.5, y: 45.760376}
+        - {x: 21.5, y: 100.760376}
+    - name: Archer walk_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2826
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: -82.239624}
+        - {x: -65, y: -84.239624}
+        - {x: -53, y: -84.239624}
+        - {x: -38, y: -75.239624}
+        - {x: -3, y: -84.239624}
+        - {x: 60, y: -84.239624}
+        - {x: 60, y: 45.760376}
+        - {x: 48, y: 101.760376}
+        - {x: -53, y: 101.760376}
+        - {x: -67, y: 57.760376}
+    - name: Archer walk_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2826
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 101.760376}
+        - {x: -64.5, y: -13.239624}
+        - {x: -64.5, y: -71.239624}
+        - {x: -63.5, y: -72.239624}
+        - {x: -47.5, y: -85.239624}
+        - {x: 60.5, y: -85.239624}
+        - {x: 60.5, y: 64.760376}
+        - {x: 18.5, y: 101.760376}
+    - name: Archer walk_4
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2826
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 101.760376}
+        - {x: -64, y: -52.239624}
+        - {x: -64, y: -70.239624}
+        - {x: -46, y: -86.239624}
+        - {x: -44, y: -87.239624}
+        - {x: 58, y: -87.239624}
+        - {x: 58, y: 79.760376}
+        - {x: 24, y: 101.760376}
+    - name: Archer walk_5
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2826
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 101.760376}
+        - {x: -39.5, y: 101.760376}
+        - {x: -44.5, y: 98.760376}
+        - {x: -61.5, y: 15.760376}
+        - {x: -61.5, y: -81.239624}
+        - {x: -49.5, y: -88.239624}
+        - {x: 39.5, y: -88.239624}
+        - {x: 46.5, y: -84.239624}
+        - {x: 46.5, y: -74.239624}
+        - {x: 58.5, y: -32.239624}
+        - {x: 58.5, y: 61.760376}
+    - name: Archer walk_6
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2826
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 101.760376}
+        - {x: -60, y: 11.760376}
+        - {x: -60, y: -83.239624}
+        - {x: -55, y: -87.239624}
+        - {x: -49, y: -89.239624}
+        - {x: 56, y: -89.239624}
+        - {x: 56, y: 72.760376}
+        - {x: 13, y: 101.760376}
+    - name: Archer walk_7
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2826
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 101.760376}
+        - {x: -26.5, y: 101.760376}
+        - {x: -57.5, y: 19.760376}
+        - {x: -57.5, y: -88.239624}
+        - {x: -37.5, y: -90.239624}
+        - {x: -29.5, y: -90.239624}
+        - {x: -27.5, y: -82.239624}
+        - {x: -9.5, y: -90.239624}
+        - {x: 45.5, y: -90.239624}
+        - {x: 56.5, y: -50.239624}
+        - {x: 56.5, y: 59.760376}
+        - {x: 52.5, y: 71.760376}
+    - name: Archer walk_8
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2826
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 101.760376}
+        - {x: -33, y: 70.760376}
+        - {x: -56, y: -39.239624}
+        - {x: -56, y: -77.239624}
+        - {x: -50, y: -87.239624}
+        - {x: -35, y: -91.239624}
+        - {x: -30, y: -91.239624}
+        - {x: -24, y: -78.239624}
+        - {x: 0, y: -91.239624}
+        - {x: 49, y: -91.239624}
+        - {x: 55, y: -86.239624}
+        - {x: 55, y: 65.760376}
+        - {x: 36, y: 101.760376}
+    - name: Archer walk_9
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2826
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: 56.760376}
+        - {x: 26.5, y: 87.760376}
+        - {x: -1.5, y: 101.760376}
+        - {x: -21.5, y: 101.760376}
+        - {x: -40.5, y: 88.760376}
+        - {x: -53.5, y: 12.760376}
+        - {x: -53.5, y: -91.239624}
+        - {x: 35.5, y: -91.239624}
+        - {x: 36.5, y: -90.239624}
+        - {x: 54.5, y: -37.239624}
+        - {x: 55.5, y: -25.239624}
+        - {x: 55.5, y: 34.760376}
+    - name: Archer walk_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2512
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 26.509277}
+        - {x: 51, y: 51.509277}
+        - {x: 44, y: 70.50928}
+        - {x: 15, y: 101.50928}
+        - {x: -29, y: 101.50928}
+        - {x: -52, y: 6.5092773}
+        - {x: -52, y: -93.49072}
+        - {x: 43, y: -93.49072}
+        - {x: 33, y: -81.49072}
+        - {x: 29, y: -78.49072}
+        - {x: 54, y: -32.490723}
+    - name: Archer walk_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2512
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 101.50928}
+        - {x: -33.5, y: 82.50928}
+        - {x: -48.5, y: -8.490723}
+        - {x: -48.5, y: -94.49072}
+        - {x: 49.5, y: -94.49072}
+        - {x: 54.5, y: -61.490723}
+        - {x: 54.5, y: 70.50928}
+        - {x: 1.5, y: 101.50928}
+    - name: Archer walk_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2512
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 101.50928}
+        - {x: -25, y: 101.50928}
+        - {x: -47, y: -2.4907227}
+        - {x: -47, y: -95.49072}
+        - {x: 41, y: -95.49072}
+        - {x: 53, y: -54.490723}
+        - {x: 53, y: 51.509277}
+        - {x: 41, y: 93.50928}
+    - name: Archer walk_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2512
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 101.50928}
+        - {x: -20.5, y: 101.50928}
+        - {x: -35.5, y: 86.50928}
+        - {x: -44.5, y: -17.490723}
+        - {x: -44.5, y: -94.49072}
+        - {x: -39.5, y: -95.49072}
+        - {x: 37.5, y: -95.49072}
+        - {x: 54.5, y: -66.49072}
+        - {x: 54.5, y: 70.50928}
+        - {x: 50.5, y: 95.50928}
+    - name: Archer walk_14
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2512
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -81.49072}
+        - {x: -4, y: -89.49072}
+        - {x: 4, y: -95.49072}
+        - {x: 39, y: -95.49072}
+        - {x: 53, y: -35.490723}
+        - {x: 53, y: 79.50928}
+        - {x: 23, y: 101.50928}
+        - {x: -33, y: 101.50928}
+        - {x: -43, y: 37.509277}
+        - {x: -43, y: -95.49072}
+        - {x: -13, y: -95.49072}
+        - {x: -11, y: -91.49072}
+        - {x: -10, y: -83.49072}
+        - {x: -21, y: -75.49072}
+    - name: Archer walk_15
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2512
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 101.50928}
+        - {x: -36.5, y: 85.50928}
+        - {x: -38.5, y: 69.50928}
+        - {x: -38.5, y: -95.49072}
+        - {x: -36.5, y: -96.49072}
+        - {x: 27.5, y: -96.49072}
+        - {x: 54.5, y: -18.490723}
+        - {x: 54.5, y: 62.509277}
+        - {x: 17.5, y: 101.50928}
+    - name: Archer walk_16
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2512
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 66.50928}
+        - {x: 23, y: 49.509277}
+        - {x: 23, y: 60.509277}
+        - {x: 21, y: 66.50928}
+        - {x: 30, y: 74.50928}
+        - {x: 11, y: 100.50928}
+        - {x: 2, y: 102.50928}
+        - {x: -15, y: 102.50928}
+        - {x: -37, y: 90.50928}
+        - {x: -37, y: -96.49072}
+        - {x: -35, y: -97.49072}
+        - {x: 33, y: -97.49072}
+        - {x: 54, y: -23.490723}
+        - {x: 54, y: 62.509277}
+        - {x: 31, y: 69.50928}
+    - name: Archer walk_17
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2512
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 66.50928}
+        - {x: 32.5, y: 82.50928}
+        - {x: 1.5, y: 102.50928}
+        - {x: -18.5, y: 102.50928}
+        - {x: -29.5, y: 92.50928}
+        - {x: -33.5, y: 52.509277}
+        - {x: -33.5, y: -96.49072}
+        - {x: -28.5, y: -97.49072}
+        - {x: 17.5, y: -97.49072}
+        - {x: 55.5, y: -14.490723}
+        - {x: 55.5, y: 59.509277}
+        - {x: 35.5, y: 67.50928}
+    - name: Archer walk_18
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2512
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 69.50928}
+        - {x: 27, y: 68.50928}
+        - {x: 25, y: 64.50928}
+        - {x: 24, y: 46.509277}
+        - {x: 24, y: 57.509277}
+        - {x: 27, y: 79.50928}
+        - {x: 21, y: 84.50928}
+        - {x: 9, y: 95.50928}
+        - {x: -5, y: 102.50928}
+        - {x: -11, y: 102.50928}
+        - {x: -26, y: 83.50928}
+        - {x: -32, y: 0.50927734}
+        - {x: -32, y: -98.49072}
+        - {x: 13, y: -98.49072}
+        - {x: 40, y: -43.490723}
+        - {x: 55, y: -11.490723}
+        - {x: 55, y: 51.509277}
+    - name: Archer walk_19
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2512
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 69.50928}
+        - {x: 27.5, y: 64.50928}
+        - {x: 26.5, y: 48.509277}
+        - {x: 26.5, y: 53.509277}
+        - {x: 23.5, y: 69.50928}
+        - {x: 34.5, y: 71.50928}
+        - {x: 14.5, y: 102.50928}
+        - {x: -10.5, y: 102.50928}
+        - {x: -29.5, y: 75.50928}
+        - {x: -29.5, y: -98.49072}
+        - {x: 9.5, y: -98.49072}
+        - {x: 50.5, y: -51.490723}
+        - {x: 55.5, y: -11.490723}
+        - {x: 55.5, y: 55.509277}
+    - name: Archer walk_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2198
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 47.258057}
+        - {x: 26, y: 75.25806}
+        - {x: 27, y: 80.25806}
+        - {x: 14, y: 92.25806}
+        - {x: -4, y: 102.25806}
+        - {x: -17, y: 102.25806}
+        - {x: -31, y: 96.25806}
+        - {x: -31, y: -98.74194}
+        - {x: 1, y: -98.74194}
+        - {x: 13, y: -95.74194}
+        - {x: 55, y: -59.741943}
+        - {x: 55, y: 77.25806}
+        - {x: 26, y: 63.258057}
+    - name: Archer walk_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2198
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: 53.258057}
+        - {x: 5.5, y: 103.25806}
+        - {x: -29.5, y: 103.25806}
+        - {x: -29.5, y: -98.74194}
+        - {x: 11.5, y: -98.74194}
+        - {x: 12.5, y: -90.74194}
+        - {x: 53.5, y: -10.741943}
+        - {x: 56.5, y: 1.2580566}
+    - name: Archer walk_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2198
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 67.25806}
+        - {x: 29, y: 61.258057}
+        - {x: 29, y: 81.25806}
+        - {x: 5, y: 103.25806}
+        - {x: -11, y: 103.25806}
+        - {x: -31, y: 82.25806}
+        - {x: -31, y: -94.74194}
+        - {x: -23, y: -98.74194}
+        - {x: 12, y: -98.74194}
+        - {x: 24, y: -96.74194}
+        - {x: 56, y: 0.25805664}
+        - {x: 56, y: 49.258057}
+        - {x: 55, y: 53.258057}
+    - name: Archer walk_23
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2198
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: 71.25806}
+        - {x: 8.5, y: 103.25806}
+        - {x: -13.5, y: 103.25806}
+        - {x: -29.5, y: 71.25806}
+        - {x: -29.5, y: -82.74194}
+        - {x: -21.5, y: -98.74194}
+        - {x: 10.5, y: -98.74194}
+        - {x: 16.5, y: -93.74194}
+        - {x: 57.5, y: -5.7419434}
+        - {x: 57.5, y: 48.258057}
+    - name: Archer walk_24
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2198
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 103.25806}
+        - {x: -32, y: 103.25806}
+        - {x: -32, y: -96.74194}
+        - {x: -24, y: -99.74194}
+        - {x: 25, y: -99.74194}
+        - {x: 48, y: -92.74194}
+        - {x: 57, y: -20.741943}
+        - {x: 57, y: 96.25806}
+    - name: Archer walk_25
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2198
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 103.25806}
+        - {x: -8.5, y: 103.25806}
+        - {x: -27.5, y: 85.25806}
+        - {x: -32.5, y: 21.258057}
+        - {x: -32.5, y: -89.74194}
+        - {x: -12.5, y: -99.74194}
+        - {x: 13.5, y: -99.74194}
+        - {x: 27.5, y: -93.74194}
+        - {x: 58.5, y: -5.7419434}
+        - {x: 58.5, y: 75.25806}
+        - {x: 56.5, y: 93.25806}
+    - name: Archer walk_26
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2198
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 103.25806}
+        - {x: -9, y: 103.25806}
+        - {x: -35, y: 93.25806}
+        - {x: -35, y: -99.74194}
+        - {x: 37, y: -99.74194}
+        - {x: 58, y: -53.741943}
+        - {x: 58, y: 76.25806}
+        - {x: 43, y: 91.25806}
+    - name: Archer walk_27
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2198
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -79.74194}
+        - {x: 58.5, y: 1.2580566}
+        - {x: 58.5, y: 49.258057}
+        - {x: 48.5, y: 74.25806}
+        - {x: 5.5, y: 103.25806}
+        - {x: -12.5, y: 103.25806}
+        - {x: -19.5, y: 90.25806}
+        - {x: -31.5, y: 36.258057}
+        - {x: -36.5, y: -35.741943}
+        - {x: -36.5, y: -84.74194}
+        - {x: -21.5, y: -96.74194}
+        - {x: -16.5, y: -94.74194}
+        - {x: -10.5, y: -88.74194}
+        - {x: -10.5, y: -84.74194}
+        - {x: -8.5, y: -91.74194}
+        - {x: -3.5, y: -98.74194}
+        - {x: 13.5, y: -98.74194}
+        - {x: 20.5, y: -95.74194}
+        - {x: 26.5, y: -91.74194}
+        - {x: 24.5, y: -79.74194}
+    - name: Archer walk_28
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2198
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 103.25806}
+        - {x: -34, y: 88.25806}
+        - {x: -39, y: 37.258057}
+        - {x: -39, y: -87.74194}
+        - {x: -25, y: -96.74194}
+        - {x: -13, y: -90.74194}
+        - {x: -14, y: -84.74194}
+        - {x: -10, y: -92.74194}
+        - {x: -2, y: -98.74194}
+        - {x: 11, y: -98.74194}
+        - {x: 54, y: -97.74194}
+        - {x: 58, y: -54.741943}
+        - {x: 58, y: 103.25806}
+    - name: Archer walk_29
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2198
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: 95.25806}
+        - {x: 22.5, y: 103.25806}
+        - {x: -16.5, y: 103.25806}
+        - {x: -33.5, y: 90.25806}
+        - {x: -40.5, y: 21.258057}
+        - {x: -40.5, y: -93.74194}
+        - {x: -37.5, y: -98.74194}
+        - {x: 23.5, y: -98.74194}
+        - {x: 37.5, y: -92.74194}
+        - {x: 59.5, y: -10.741943}
+        - {x: 59.5, y: 90.25806}
+    - name: Archer walk_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1884
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 50.506958}
+        - {x: 26, y: 103.50696}
+        - {x: -10, y: 103.50696}
+        - {x: -36, y: 94.50696}
+        - {x: -43, y: -5.493042}
+        - {x: -44, y: -16.493042}
+        - {x: -44, y: -98.49304}
+        - {x: 29, y: -98.49304}
+        - {x: 32, y: -89.49304}
+        - {x: 28, y: -79.49304}
+        - {x: 58, y: -1.493042}
+    - name: Archer walk_31
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1884
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 103.50696}
+        - {x: -20.5, y: 103.50696}
+        - {x: -28.5, y: 94.50696}
+        - {x: -44.5, y: -3.493042}
+        - {x: -44.5, y: -86.49304}
+        - {x: -29.5, y: -97.49304}
+        - {x: -26.5, y: -98.49304}
+        - {x: 28.5, y: -98.49304}
+        - {x: 44.5, y: -83.49304}
+        - {x: 59.5, y: -42.493042}
+        - {x: 59.5, y: 79.50696}
+    - name: Archer walk_32
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1884
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 70.50696}
+        - {x: 6, y: 103.50696}
+        - {x: -11, y: 103.50696}
+        - {x: -38, y: 62.506958}
+        - {x: -48, y: -18.493042}
+        - {x: -48, y: -97.49304}
+        - {x: -28, y: -93.49304}
+        - {x: -23, y: -85.49304}
+        - {x: 0, y: -97.49304}
+        - {x: 25, y: -97.49304}
+        - {x: 44, y: -91.49304}
+        - {x: 59, y: -9.493042}
+        - {x: 59, y: 44.506958}
+    - name: Archer walk_33
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1884
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 103.50696}
+        - {x: -34.5, y: 100.50696}
+        - {x: -48.5, y: 12.506958}
+        - {x: -48.5, y: -86.49304}
+        - {x: -36.5, y: -95.49304}
+        - {x: -24.5, y: -84.49304}
+        - {x: -25.5, y: -78.49304}
+        - {x: 1.5, y: -97.49304}
+        - {x: 24.5, y: -97.49304}
+        - {x: 48.5, y: -88.49304}
+        - {x: 60.5, y: -52.493042}
+        - {x: 60.5, y: 85.50696}
+        - {x: 49.5, y: 103.50696}
+    - name: Archer walk_34
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1884
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 103.50696}
+        - {x: -37, y: 96.50696}
+        - {x: -51, y: -17.493042}
+        - {x: -51, y: -89.49304}
+        - {x: -40, y: -90.49304}
+        - {x: -27, y: -84.49304}
+        - {x: -11, y: -97.49304}
+        - {x: 27, y: -97.49304}
+        - {x: 41, y: -90.49304}
+        - {x: 59, y: -2.493042}
+        - {x: 59, y: 50.506958}
+        - {x: 31, y: 103.50696}
+    - name: Archer walk_35
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1884
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 103.50696}
+        - {x: -19.5, y: 103.50696}
+        - {x: -52.5, y: -0.493042}
+        - {x: -52.5, y: -93.49304}
+        - {x: -49.5, y: -96.49304}
+        - {x: 29.5, y: -96.49304}
+        - {x: 49.5, y: -90.49304}
+        - {x: 60.5, y: -48.493042}
+        - {x: 60.5, y: 43.506958}
+    - name: Archer walk_36
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1884
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 103.50696}
+        - {x: -23, y: 86.50696}
+        - {x: -55, y: -36.493042}
+        - {x: -55, y: -82.49304}
+        - {x: -35, y: -96.49304}
+        - {x: 40, y: -96.49304}
+        - {x: 59, y: -30.493042}
+        - {x: 59, y: 50.506958}
+        - {x: 11, y: 103.50696}
+    - name: Archer walk_37
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1884
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 103.50696}
+        - {x: -55.5, y: 17.506958}
+        - {x: -55.5, y: -86.49304}
+        - {x: -50.5, y: -91.49304}
+        - {x: -40.5, y: -87.49304}
+        - {x: 8.5, y: -96.49304}
+        - {x: 28.5, y: -96.49304}
+        - {x: 60.5, y: -78.49304}
+        - {x: 60.5, y: 91.50696}
+        - {x: 46.5, y: 103.50696}
+    - name: Archer walk_38
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1884
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 42.506958}
+        - {x: 32, y: 78.50696}
+        - {x: 6, y: 103.50696}
+        - {x: -6, y: 103.50696}
+        - {x: -15, y: 98.50696}
+        - {x: -59, y: -16.493042}
+        - {x: -59, y: -95.49304}
+        - {x: 34, y: -95.49304}
+        - {x: 45, y: -89.49304}
+        - {x: 59, y: -1.493042}
+        - {x: 59, y: 34.506958}
+        - {x: 50, y: 47.506958}
+    - name: Archer walk_39
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1884
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 103.50696}
+        - {x: -48.5, y: 68.50696}
+        - {x: -59.5, y: -37.493042}
+        - {x: -59.5, y: -94.49304}
+        - {x: 60.5, y: -94.49304}
+        - {x: 60.5, y: 52.506958}
+        - {x: 7.5, y: 103.50696}
+    - name: Archer walk_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1570
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 103.7558}
+        - {x: -16, y: 103.7558}
+        - {x: -62, y: -16.244202}
+        - {x: -62, y: -89.2442}
+        - {x: -58, y: -92.2442}
+        - {x: -39, y: -94.2442}
+        - {x: 30, y: -94.2442}
+        - {x: 47, y: -87.2442}
+        - {x: 58, y: -70.2442}
+        - {x: 59, y: -61.2442}
+        - {x: 59, y: 73.7558}
+    - name: Archer walk_41
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1570
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 103.7558}
+        - {x: -34.5, y: 63.7558}
+        - {x: -62.5, y: -37.2442}
+        - {x: -62.5, y: -76.2442}
+        - {x: -50.5, y: -83.2442}
+        - {x: -42.5, y: -74.2442}
+        - {x: -42.5, y: -68.2442}
+        - {x: 10.5, y: -93.2442}
+        - {x: 40.5, y: -93.2442}
+        - {x: 60.5, y: -19.244202}
+        - {x: 60.5, y: 69.7558}
+        - {x: 10.5, y: 103.7558}
+    - name: Archer walk_42
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1570
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 103.7558}
+        - {x: -65, y: -19.244202}
+        - {x: -65, y: -75.2442}
+        - {x: -58, y: -77.2442}
+        - {x: -49, y: -76.2442}
+        - {x: -16, y: -93.2442}
+        - {x: 38, y: -93.2442}
+        - {x: 40, y: -90.2442}
+        - {x: 47, y: -77.2442}
+        - {x: 59, y: -46.2442}
+        - {x: 59, y: 103.7558}
+    - name: Archer walk_43
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1570
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.5, y: 53.7558}
+        - {x: 25.5, y: 103.7558}
+        - {x: -19.5, y: 103.7558}
+        - {x: -65.5, y: -12.244202}
+        - {x: -65.5, y: -72.2442}
+        - {x: -52.5, y: -92.2442}
+        - {x: 50.5, y: -92.2442}
+        - {x: 48.5, y: -77.2442}
+        - {x: 42.5, y: -70.2442}
+        - {x: 60.5, y: -2.2442017}
+    - name: Archer walk_44
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1570
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 83.7558}
+        - {x: 4, y: 103.7558}
+        - {x: -1, y: 103.7558}
+        - {x: -6, y: 101.7558}
+        - {x: -18, y: 84.7558}
+        - {x: -68, y: -24.244202}
+        - {x: -68, y: -81.2442}
+        - {x: -62, y: -84.2442}
+        - {x: 4, y: -91.2442}
+        - {x: 46, y: -91.2442}
+        - {x: 55, y: -82.2442}
+        - {x: 59, y: -26.244202}
+        - {x: 59, y: 55.7558}
+    - name: Archer walk_45
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1570
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: 44.7558}
+        - {x: 37.5, y: 40.7558}
+        - {x: 35.5, y: 76.7558}
+        - {x: 9.5, y: 102.7558}
+        - {x: -20.5, y: 102.7558}
+        - {x: -68.5, y: -38.2442}
+        - {x: -68.5, y: -70.2442}
+        - {x: -62.5, y: -71.2442}
+        - {x: -52.5, y: -70.2442}
+        - {x: -50.5, y: -65.2442}
+        - {x: -23.5, y: -54.2442}
+        - {x: 9.5, y: -91.2442}
+        - {x: 47.5, y: -91.2442}
+        - {x: 49.5, y: -80.2442}
+        - {x: 60.5, y: -20.244202}
+        - {x: 60.5, y: 44.7558}
+    - name: Archer walk_46
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1570
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 102.7558}
+        - {x: -70, y: 8.755798}
+        - {x: -70, y: -67.2442}
+        - {x: -68, y: -68.2442}
+        - {x: -57, y: -71.2442}
+        - {x: -51, y: -63.2442}
+        - {x: 7, y: -90.2442}
+        - {x: 37, y: -90.2442}
+        - {x: 51, y: -86.2442}
+        - {x: 59, y: -44.2442}
+        - {x: 59, y: 60.7558}
+        - {x: 19, y: 102.7558}
+    - name: Archer walk_47
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1570
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 102.7558}
+        - {x: -67.5, y: 16.755798}
+        - {x: -67.5, y: -73.2442}
+        - {x: -64.5, y: -76.2442}
+        - {x: -50.5, y: -68.2442}
+        - {x: 12.5, y: -91.2442}
+        - {x: 60.5, y: -91.2442}
+        - {x: 60.5, y: 102.7558}
+    - name: Archer walk_48
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1570
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 36.7558}
+        - {x: 53, y: 42.7558}
+        - {x: 35, y: 37.7558}
+        - {x: 35, y: 78.7558}
+        - {x: 25, y: 102.7558}
+        - {x: -17, y: 102.7558}
+        - {x: -67, y: 22.755798}
+        - {x: -67, y: -84.2442}
+        - {x: -33, y: -92.2442}
+        - {x: 43, y: -92.2442}
+        - {x: 50, y: -81.2442}
+        - {x: 42, y: -70.2442}
+        - {x: 59, y: -2.2442017}
+    - name: Archer walk_49
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1570
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 102.7558}
+        - {x: -25.5, y: 102.7558}
+        - {x: -65.5, y: -6.2442017}
+        - {x: -65.5, y: -84.2442}
+        - {x: -36.5, y: -93.2442}
+        - {x: 52.5, y: -93.2442}
+        - {x: 58.5, y: -82.2442}
+        - {x: 60.5, y: -67.2442}
+        - {x: 60.5, y: 60.7558}
+    - name: Archer walk_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1256
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 101.50464}
+        - {x: -16, y: 101.50464}
+        - {x: -65, y: 3.5046387}
+        - {x: -65, y: -94.49536}
+        - {x: 59, y: -94.49536}
+        - {x: 59, y: 75.50464}
+        - {x: 50, y: 90.50464}
+    - name: Archer walk_51
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1256
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.5, y: 100.50464}
+        - {x: 53.5, y: 101.50464}
+        - {x: -22.5, y: 101.50464}
+        - {x: -62.5, y: 13.504639}
+        - {x: -62.5, y: -95.49536}
+        - {x: 39.5, y: -95.49536}
+        - {x: 45.5, y: -87.49536}
+        - {x: 43.5, y: -75.49536}
+        - {x: 39.5, y: -72.49536}
+        - {x: 60.5, y: -34.49536}
+    - name: Archer walk_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1256
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 101.50464}
+        - {x: -20, y: 87.50464}
+        - {x: -62, y: -29.495361}
+        - {x: -62, y: -89.49536}
+        - {x: -55, y: -93.49536}
+        - {x: -40, y: -96.49536}
+        - {x: 53, y: -96.49536}
+        - {x: 59, y: -65.49536}
+        - {x: 59, y: 62.50464}
+        - {x: 9, y: 101.50464}
+    - name: Archer walk_53
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1256
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.5, y: 58.50464}
+        - {x: 11.5, y: 101.50464}
+        - {x: -14.5, y: 101.50464}
+        - {x: -27.5, y: 93.50464}
+        - {x: -59.5, y: 36.50464}
+        - {x: -59.5, y: -96.49536}
+        - {x: 55.5, y: -96.49536}
+        - {x: 57.5, y: -91.49536}
+        - {x: 60.5, y: -73.49536}
+        - {x: 60.5, y: 45.50464}
+    - name: Archer walk_54
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1256
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 101.50464}
+        - {x: -38, y: 101.50464}
+        - {x: -58, y: 97.50464}
+        - {x: -58, y: -97.49536}
+        - {x: 53, y: -97.49536}
+        - {x: 59, y: -54.49536}
+        - {x: 59, y: 50.50464}
+        - {x: 35, y: 77.50464}
+    - name: Archer walk_55
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1256
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 101.50464}
+        - {x: -28.5, y: 87.50464}
+        - {x: -55.5, y: -20.495361}
+        - {x: -55.5, y: -79.49536}
+        - {x: -54.5, y: -82.49536}
+        - {x: -40.5, y: -96.49536}
+        - {x: -35.5, y: -98.49536}
+        - {x: 35.5, y: -98.49536}
+        - {x: 60.5, y: -77.49536}
+        - {x: 60.5, y: 71.50464}
+        - {x: 18.5, y: 101.50464}
+    - name: Archer walk_56
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1256
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 101.50464}
+        - {x: -23, y: 92.50464}
+        - {x: -55, y: -37.49536}
+        - {x: -55, y: -98.49536}
+        - {x: 42, y: -98.49536}
+        - {x: 49, y: -91.49536}
+        - {x: 59, y: -43.49536}
+        - {x: 59, y: 57.50464}
+        - {x: 11, y: 101.50464}
+    - name: Archer walk_57
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1256
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: 49.50464}
+        - {x: 40.5, y: 43.50464}
+        - {x: 34.5, y: 78.50464}
+        - {x: 4.5, y: 100.50464}
+        - {x: -41.5, y: 100.50464}
+        - {x: -52.5, y: 19.504639}
+        - {x: -52.5, y: -98.49536}
+        - {x: 45.5, y: -98.49536}
+        - {x: 59.5, y: -66.49536}
+        - {x: 60.5, y: -56.49536}
+        - {x: 60.5, y: 46.50464}
+    - name: Archer walk_58
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1256
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 100.50464}
+        - {x: -10, y: 100.50464}
+        - {x: -31, y: 61.50464}
+        - {x: -51, y: -42.49536}
+        - {x: -51, y: -92.49536}
+        - {x: -41, y: -93.49536}
+        - {x: -28, y: -88.49536}
+        - {x: -28, y: -83.49536}
+        - {x: -29, y: -75.49536}
+        - {x: -10, y: -61.49536}
+        - {x: 0, y: -98.49536}
+        - {x: 5, y: -99.49536}
+        - {x: 33, y: -99.49536}
+        - {x: 49, y: -91.49536}
+        - {x: 59, y: -56.49536}
+        - {x: 59, y: 96.50464}
+    - name: Archer walk_59
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1256
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 100.50464}
+        - {x: -22.5, y: 98.50464}
+        - {x: -48.5, y: -26.495361}
+        - {x: -48.5, y: -100.49536}
+        - {x: 43.5, y: -100.49536}
+        - {x: 60.5, y: -43.49536}
+        - {x: 60.5, y: 61.50464}
+        - {x: 23.5, y: 100.50464}
+    - name: Archer walk_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 942
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 47.25348}
+        - {x: 32, y: 70.25348}
+        - {x: 15, y: 98.25348}
+        - {x: 2, y: 101.25348}
+        - {x: -7, y: 101.25348}
+        - {x: -17, y: 94.25348}
+        - {x: -29, y: 58.25348}
+        - {x: -47, y: -26.746521}
+        - {x: -48, y: -40.74652}
+        - {x: -48, y: -98.74652}
+        - {x: -41, y: -100.74652}
+        - {x: 59, y: -100.74652}
+        - {x: 59, y: 42.25348}
+        - {x: 46, y: 52.25348}
+    - name: Archer walk_61
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 942
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 49.25348}
+        - {x: 34.5, y: 79.25348}
+        - {x: 2.5, y: 101.25348}
+        - {x: -11.5, y: 101.25348}
+        - {x: -26.5, y: 83.25348}
+        - {x: -44.5, y: -55.74652}
+        - {x: -44.5, y: -77.74652}
+        - {x: -42.5, y: -89.74652}
+        - {x: -26.5, y: -96.74652}
+        - {x: -18.5, y: -91.74652}
+        - {x: -4.5, y: -100.74652}
+        - {x: 44.5, y: -100.74652}
+        - {x: 59.5, y: 0.253479}
+        - {x: 59.5, y: 37.25348}
+        - {x: 49.5, y: 53.25348}
+    - name: Archer walk_62
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 942
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 101.25348}
+        - {x: -28, y: 79.25348}
+        - {x: -44, y: -26.746521}
+        - {x: -44, y: -101.74652}
+        - {x: 28, y: -101.74652}
+        - {x: 39, y: -86.74652}
+        - {x: 58, y: -29.746521}
+        - {x: 58, y: 94.25348}
+        - {x: 28, y: 101.25348}
+    - name: Archer walk_63
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 942
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 100.25348}
+        - {x: -41.5, y: 100.25348}
+        - {x: -41.5, y: -101.74652}
+        - {x: 40.5, y: -101.74652}
+        - {x: 44.5, y: -97.74652}
+        - {x: 59.5, y: -18.746521}
+        - {x: 59.5, y: 49.25348}
+        - {x: 51.5, y: 67.25348}
+    - name: Archer walk_64
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 942
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 51.25348}
+        - {x: 33, y: 75.25348}
+        - {x: 4, y: 100.25348}
+        - {x: -10, y: 100.25348}
+        - {x: -29, y: 88.25348}
+        - {x: -35, y: 35.25348}
+        - {x: -41, y: -18.746521}
+        - {x: -41, y: -96.74652}
+        - {x: -37, y: -101.74652}
+        - {x: 27, y: -101.74652}
+        - {x: 35, y: -95.74652}
+        - {x: 58, y: -4.746521}
+        - {x: 58, y: 49.25348}
+        - {x: 43, y: 58.25348}
+    - name: Archer walk_65
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 942
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 100.25348}
+        - {x: -37.5, y: 30.253479}
+        - {x: -37.5, y: -83.74652}
+        - {x: -28.5, y: -94.74652}
+        - {x: -22.5, y: -100.74652}
+        - {x: -7.5, y: -92.74652}
+        - {x: -3.5, y: -100.74652}
+        - {x: 0.5, y: -102.74652}
+        - {x: 16.5, y: -102.74652}
+        - {x: 33.5, y: -94.74652}
+        - {x: 58.5, y: -46.74652}
+        - {x: 58.5, y: 100.25348}
+    - name: Archer walk_66
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 942
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -14.746521}
+        - {x: 54, y: 10.253479}
+        - {x: 58, y: 16.253479}
+        - {x: 58, y: 40.25348}
+        - {x: 44, y: 64.25348}
+        - {x: 10, y: 94.25348}
+        - {x: -3, y: 100.25348}
+        - {x: -10, y: 100.25348}
+        - {x: -29, y: 83.25348}
+        - {x: -36, y: 30.253479}
+        - {x: -36, y: -90.74652}
+        - {x: -28, y: -99.74652}
+        - {x: -13, y: -99.74652}
+        - {x: -9, y: -89.74652}
+        - {x: -10, y: -86.74652}
+        - {x: -8, y: -82.74652}
+        - {x: -7, y: -98.74652}
+        - {x: -2, y: -102.74652}
+        - {x: 12, y: -102.74652}
+        - {x: 19, y: -100.74652}
+        - {x: 28, y: -93.74652}
+        - {x: 23, y: -81.74652}
+        - {x: 17, y: -81.74652}
+    - name: Archer walk_67
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 942
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 59.25348}
+        - {x: 34.5, y: 55.25348}
+        - {x: 30.5, y: 74.25348}
+        - {x: 19.5, y: 88.25348}
+        - {x: -2.5, y: 100.25348}
+        - {x: -6.5, y: 100.25348}
+        - {x: -10.5, y: 96.25348}
+        - {x: -19.5, y: 83.25348}
+        - {x: -25.5, y: 56.25348}
+        - {x: -33.5, y: -32.74652}
+        - {x: -33.5, y: -90.74652}
+        - {x: -13.5, y: -102.74652}
+        - {x: 19.5, y: -102.74652}
+        - {x: 31.5, y: -97.74652}
+        - {x: 50.5, y: -40.74652}
+        - {x: 58.5, y: -12.746521}
+        - {x: 58.5, y: 71.25348}
+    - name: Archer walk_68
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 942
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 100.25348}
+        - {x: -22, y: 100.25348}
+        - {x: -28, y: 85.25348}
+        - {x: -32, y: 72.25348}
+        - {x: -32, y: -86.74652}
+        - {x: -27, y: -102.74652}
+        - {x: 17, y: -102.74652}
+        - {x: 21, y: -101.74652}
+        - {x: 33, y: -85.74652}
+        - {x: 57, y: -3.746521}
+        - {x: 57, y: 56.25348}
+    - name: Archer walk_69
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 942
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 100.25348}
+        - {x: -29.5, y: 66.25348}
+        - {x: -29.5, y: -100.74652}
+        - {x: -19.5, y: -102.74652}
+        - {x: 56.5, y: -102.74652}
+        - {x: 57.5, y: -88.74652}
+        - {x: 57.5, y: 100.25348}
+    - name: Archer walk_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 100.50232}
+        - {x: -31, y: 76.50232}
+        - {x: -31, y: -102.49768}
+        - {x: 18, y: -102.49768}
+        - {x: 56, y: -60.49768}
+        - {x: 56, y: 67.50232}
+        - {x: 3, y: 100.50232}
+    - name: Archer walk_71
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 628
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 100.50232}
+        - {x: -29.5, y: 77.50232}
+        - {x: -29.5, y: -98.49768}
+        - {x: -19.5, y: -102.49768}
+        - {x: 27.5, y: -102.49768}
+        - {x: 56.5, y: -38.49768}
+        - {x: 56.5, y: 97.50232}
+        - {x: 9.5, y: 100.50232}
+    - name: Archer walk_72
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 628
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: -56.49768}
+        - {x: 55, y: -7.4976807}
+        - {x: 55, y: 56.50232}
+        - {x: 35, y: 63.50232}
+        - {x: 28, y: 59.50232}
+        - {x: 27, y: 78.50232}
+        - {x: 4, y: 100.50232}
+        - {x: -15, y: 100.50232}
+        - {x: -31, y: 67.50232}
+        - {x: -31, y: -101.49768}
+        - {x: 8, y: -101.49768}
+        - {x: 13, y: -95.49768}
+        - {x: 11, y: -88.49768}
+        - {x: 8, y: -84.49768}
+    - name: Archer walk_73
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 628
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: 54.50232}
+        - {x: 36.5, y: 65.50232}
+        - {x: 31.5, y: 62.50232}
+        - {x: 27.5, y: 59.50232}
+        - {x: 30.5, y: 80.50232}
+        - {x: 2.5, y: 100.50232}
+        - {x: -8.5, y: 100.50232}
+        - {x: -19.5, y: 90.50232}
+        - {x: -29.5, y: 36.50232}
+        - {x: -29.5, y: -99.49768}
+        - {x: -19.5, y: -101.49768}
+        - {x: 7.5, y: -101.49768}
+        - {x: 9.5, y: -96.49768}
+        - {x: 45.5, y: -52.49768}
+        - {x: 56.5, y: -0.49768066}
+    - name: Archer walk_74
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 628
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 78.50232}
+        - {x: 17, y: 100.50232}
+        - {x: -15, y: 100.50232}
+        - {x: -31, y: 96.50232}
+        - {x: -31, y: -100.49768}
+        - {x: 5, y: -100.49768}
+        - {x: 10, y: -99.49768}
+        - {x: 55, y: -15.497681}
+        - {x: 55, y: 51.50232}
+        - {x: 28, y: 70.50232}
+    - name: Archer walk_75
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 628
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 71.50232}
+        - {x: 29.5, y: 64.50232}
+        - {x: 25.5, y: 61.50232}
+        - {x: 24.5, y: 42.50232}
+        - {x: 24.5, y: 57.50232}
+        - {x: 28.5, y: 78.50232}
+        - {x: 8.5, y: 95.50232}
+        - {x: -0.5, y: 100.50232}
+        - {x: -13.5, y: 100.50232}
+        - {x: -29.5, y: 81.50232}
+        - {x: -29.5, y: -100.49768}
+        - {x: 15.5, y: -100.49768}
+        - {x: 44.5, y: -48.49768}
+        - {x: 55.5, y: -15.497681}
+        - {x: 55.5, y: 47.50232}
+    - name: Archer walk_76
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 628
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 67.50232}
+        - {x: 23, y: 63.50232}
+        - {x: 23, y: 53.50232}
+        - {x: 23, y: 58.50232}
+        - {x: 22, y: 61.50232}
+        - {x: 27, y: 71.50232}
+        - {x: 27, y: 83.50232}
+        - {x: -2, y: 100.50232}
+        - {x: -16, y: 100.50232}
+        - {x: -31, y: 84.50232}
+        - {x: -33, y: 64.50232}
+        - {x: -33, y: -100.49768}
+        - {x: 17, y: -100.49768}
+        - {x: 48, y: -42.49768}
+        - {x: 54, y: 4.5023193}
+        - {x: 54, y: 50.50232}
+    - name: Archer walk_77
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 628
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 67.50232}
+        - {x: 24.5, y: 63.50232}
+        - {x: 24.5, y: 51.50232}
+        - {x: 22.5, y: 39.50232}
+        - {x: 24.5, y: 53.50232}
+        - {x: 24.5, y: 57.50232}
+        - {x: 22.5, y: 62.50232}
+        - {x: 27.5, y: 78.50232}
+        - {x: 16.5, y: 90.50232}
+        - {x: -3.5, y: 100.50232}
+        - {x: -12.5, y: 100.50232}
+        - {x: -31.5, y: 86.50232}
+        - {x: -34.5, y: 67.50232}
+        - {x: -34.5, y: -99.49768}
+        - {x: 31.5, y: -99.49768}
+        - {x: 54.5, y: -75.49768}
+        - {x: 54.5, y: 76.50232}
+        - {x: 53.5, y: 84.50232}
+    - name: Archer walk_78
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 628
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 68.50232}
+        - {x: 23, y: 64.50232}
+        - {x: 23, y: 45.50232}
+        - {x: 22, y: 45.50232}
+        - {x: 23, y: 53.50232}
+        - {x: 23, y: 58.50232}
+        - {x: 20, y: 67.50232}
+        - {x: 27, y: 72.50232}
+        - {x: 23, y: 83.50232}
+        - {x: 6, y: 100.50232}
+        - {x: -27, y: 100.50232}
+        - {x: -38, y: 95.50232}
+        - {x: -38, y: -99.49768}
+        - {x: 33, y: -99.49768}
+        - {x: 54, y: -19.49768}
+        - {x: 54, y: 48.50232}
+        - {x: 42, y: 62.50232}
+    - name: Archer walk_79
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 628
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -91.49768}
+        - {x: 10.5, y: -97.49768}
+        - {x: 20.5, y: -98.49768}
+        - {x: 35.5, y: -98.49768}
+        - {x: 54.5, y: -21.49768}
+        - {x: 54.5, y: 53.50232}
+        - {x: 31.5, y: 68.50232}
+        - {x: 24.5, y: 66.50232}
+        - {x: 22.5, y: 64.50232}
+        - {x: 27.5, y: 77.50232}
+        - {x: 19.5, y: 89.50232}
+        - {x: -3.5, y: 100.50232}
+        - {x: -20.5, y: 100.50232}
+        - {x: -39.5, y: 94.50232}
+        - {x: -39.5, y: -98.49768}
+        - {x: -9.5, y: -98.49768}
+        - {x: -6.5, y: -94.49768}
+        - {x: -7.5, y: -87.49768}
+        - {x: -11.5, y: -82.49768}
+    - name: Archer walk_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -91.24884}
+        - {x: 8, y: -97.24884}
+        - {x: 35, y: -97.24884}
+        - {x: 53, y: -24.24884}
+        - {x: 53, y: 63.75116}
+        - {x: 31, y: 84.75116}
+        - {x: 4, y: 100.75116}
+        - {x: -12, y: 100.75116}
+        - {x: -28, y: 85.75116}
+        - {x: -43, y: -66.24884}
+        - {x: -43, y: -91.24884}
+        - {x: -31, y: -97.24884}
+        - {x: -15, y: -97.24884}
+        - {x: -12, y: -96.24884}
+        - {x: -11, y: -87.24884}
+        - {x: -12, y: -84.24884}
+        - {x: -16, y: -81.24884}
+    - name: Archer walk_81
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 314
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.5, y: -34.24884}
+        - {x: 54.5, y: 62.75116}
+        - {x: 17.5, y: 97.75116}
+        - {x: 5.5, y: 100.75116}
+        - {x: -33.5, y: 100.75116}
+        - {x: -44.5, y: 45.75116}
+        - {x: -44.5, y: -96.24884}
+        - {x: -10.5, y: -96.24884}
+        - {x: -11.5, y: -84.24884}
+        - {x: 7.5, y: -96.24884}
+        - {x: 42.5, y: -96.24884}
+    - name: Archer walk_82
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 314
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 100.75116}
+        - {x: -32, y: 99.75116}
+        - {x: -48, y: -40.24884}
+        - {x: -48, y: -87.24884}
+        - {x: -45, y: -95.24884}
+        - {x: 37, y: -95.24884}
+        - {x: 53, y: -47.24884}
+        - {x: 53, y: 59.75116}
+        - {x: 12, y: 100.75116}
+    - name: Archer walk_83
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 314
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: -91.24884}
+        - {x: 54.5, y: -46.24884}
+        - {x: 54.5, y: 67.75116}
+        - {x: 3.5, y: 100.75116}
+        - {x: -20.5, y: 100.75116}
+        - {x: -31.5, y: 82.75116}
+        - {x: -49.5, y: -49.24884}
+        - {x: -49.5, y: -82.24884}
+        - {x: -43.5, y: -94.24884}
+        - {x: -20.5, y: -94.24884}
+        - {x: -15.5, y: -82.24884}
+        - {x: 7.5, y: -94.24884}
+        - {x: 29.5, y: -94.24884}
+    - name: Archer walk_84
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 314
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 100.75116}
+        - {x: -29, y: 100.75116}
+        - {x: -52, y: 16.75116}
+        - {x: -52, y: -94.24884}
+        - {x: 36, y: -94.24884}
+        - {x: 54, y: -49.24884}
+        - {x: 54, y: 44.75116}
+        - {x: 48, y: 75.75116}
+    - name: Archer walk_85
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 314
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 100.75116}
+        - {x: -12.5, y: 100.75116}
+        - {x: -29.5, y: 82.75116}
+        - {x: -53.5, y: 8.75116}
+        - {x: -53.5, y: -92.24884}
+        - {x: 43.5, y: -92.24884}
+        - {x: 55.5, y: -64.24884}
+        - {x: 55.5, y: 53.75116}
+        - {x: 54.5, y: 63.75116}
+    - name: Archer walk_86
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 314
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 100.75116}
+        - {x: -57, y: 46.75116}
+        - {x: -57, y: -92.24884}
+        - {x: 46, y: -92.24884}
+        - {x: 55, y: -72.24884}
+        - {x: 55, y: 66.75116}
+        - {x: 14, y: 100.75116}
+    - name: Archer walk_87
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 314
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 100.75116}
+        - {x: -57.5, y: -24.24884}
+        - {x: -57.5, y: -85.24884}
+        - {x: -49.5, y: -90.24884}
+        - {x: 52.5, y: -90.24884}
+        - {x: 56.5, y: -41.24884}
+        - {x: 56.5, y: 58.75116}
+        - {x: 9.5, y: 100.75116}
+    - name: Archer walk_88
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 314
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 100.75116}
+        - {x: -28, y: 100.75116}
+        - {x: -61, y: -10.24884}
+        - {x: -61, y: -89.24884}
+        - {x: 57, y: -89.24884}
+        - {x: 57, y: 42.75116}
+        - {x: 35, y: 96.75116}
+    - name: Archer walk_89
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 314
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 100.75116}
+        - {x: -61.5, y: -57.24884}
+        - {x: -61.5, y: -77.24884}
+        - {x: -42.5, y: -88.24884}
+        - {x: 58.5, y: -88.24884}
+        - {x: 58.5, y: 77.75116}
+        - {x: 15.5, y: 100.75116}
+    - name: Archer walk_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 99.5}
+        - {x: -28, y: 81.5}
+        - {x: -64, y: -28.5}
+        - {x: -64, y: -88.5}
+        - {x: 46, y: -88.5}
+        - {x: 58, y: -73.5}
+        - {x: 58, y: 40.5}
+        - {x: 39, y: 99.5}
+    - name: Archer walk_91
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 99.5}
+        - {x: -64.5, y: 72.5}
+        - {x: -64.5, y: -87.5}
+        - {x: 60.5, y: -87.5}
+        - {x: 60.5, y: 48.5}
+        - {x: 17.5, y: 99.5}
+    - name: Archer walk_92
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 217
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 99.5}
+        - {x: -35, y: 50.5}
+        - {x: -67, y: -26.5}
+        - {x: -67, y: -80.5}
+        - {x: -58, y: -85.5}
+        - {x: 58, y: -85.5}
+        - {x: 60, y: -81.5}
+        - {x: 60, y: 48.5}
+        - {x: 26, y: 99.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
