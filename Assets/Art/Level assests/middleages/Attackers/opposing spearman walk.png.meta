@@ -1,0 +1,1476 @@
+fileFormatVersion: 2
+guid: fd2adbbf6d64ca148bf8b611ee0ad477
+timeCreated: 1456318335
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: opposing spearman walk_0
+    21300002: opposing spearman walk_1
+    21300004: opposing spearman walk_2
+    21300006: opposing spearman walk_3
+    21300008: opposing spearman walk_4
+    21300010: opposing spearman walk_5
+    21300012: opposing spearman walk_6
+    21300014: opposing spearman walk_7
+    21300016: opposing spearman walk_8
+    21300018: opposing spearman walk_9
+    21300020: opposing spearman walk_10
+    21300022: opposing spearman walk_11
+    21300024: opposing spearman walk_12
+    21300026: opposing spearman walk_13
+    21300028: opposing spearman walk_14
+    21300030: opposing spearman walk_15
+    21300032: opposing spearman walk_16
+    21300034: opposing spearman walk_17
+    21300036: opposing spearman walk_18
+    21300038: opposing spearman walk_19
+    21300040: opposing spearman walk_20
+    21300042: opposing spearman walk_21
+    21300044: opposing spearman walk_22
+    21300046: opposing spearman walk_23
+    21300048: opposing spearman walk_24
+    21300050: opposing spearman walk_25
+    21300052: opposing spearman walk_26
+    21300054: opposing spearman walk_27
+    21300056: opposing spearman walk_28
+    21300058: opposing spearman walk_29
+    21300060: opposing spearman walk_30
+    21300062: opposing spearman walk_31
+    21300064: opposing spearman walk_32
+    21300066: opposing spearman walk_33
+    21300068: opposing spearman walk_34
+    21300070: opposing spearman walk_35
+    21300072: opposing spearman walk_36
+    21300074: opposing spearman walk_37
+    21300076: opposing spearman walk_38
+    21300078: opposing spearman walk_39
+    21300080: opposing spearman walk_40
+    21300082: opposing spearman walk_41
+    21300084: opposing spearman walk_42
+    21300086: opposing spearman walk_43
+    21300088: opposing spearman walk_44
+    21300090: opposing spearman walk_45
+    21300092: opposing spearman walk_46
+    21300094: opposing spearman walk_47
+    21300096: opposing spearman walk_48
+    21300098: opposing spearman walk_49
+    21300100: opposing spearman walk_50
+    21300102: opposing spearman walk_51
+    21300104: opposing spearman walk_52
+    21300106: opposing spearman walk_53
+    21300108: opposing spearman walk_54
+    21300110: opposing spearman walk_55
+    21300112: opposing spearman walk_56
+    21300114: opposing spearman walk_57
+    21300116: opposing spearman walk_58
+    21300118: opposing spearman walk_59
+    21300120: opposing spearman walk_60
+    21300122: opposing spearman walk_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: opposing spearman walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1818
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.5, y: 79.69409}
+        - {x: 49.5, y: 67.69409}
+        - {x: -7.5, y: 79.69409}
+        - {x: -54.5, y: 79.69409}
+        - {x: -55.5, y: 77.69409}
+        - {x: -66.5, y: 52.69409}
+        - {x: -101.5, y: -40.30591}
+        - {x: -101.5, y: -71.30591}
+        - {x: -100.5, y: -72.30591}
+        - {x: 16.5, y: -72.30591}
+        - {x: 92.5, y: 37.69409}
+        - {x: 92.5, y: 79.69409}
+    - name: opposing spearman walk_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1818
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.2, y: 79.69409}
+        - {x: -99.2, y: -74.30591}
+        - {x: 11.800003, y: -74.30591}
+        - {x: 93.8, y: 54.69409}
+        - {x: 93.8, y: 79.69409}
+    - name: opposing spearman walk_2
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1818
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.399994, y: 79.69409}
+        - {x: -87.399994, y: 11.694092}
+        - {x: -97.399994, y: -32.30591}
+        - {x: -97.399994, y: -62.30591}
+        - {x: -87.399994, y: -70.30591}
+        - {x: -73.399994, y: -75.30591}
+        - {x: 12.600006, y: -75.30591}
+        - {x: 93.600006, y: 61.69409}
+        - {x: 93.600006, y: 79.69409}
+    - name: opposing spearman walk_3
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1818
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.399963, y: 79.69409}
+        - {x: -63.600037, y: 79.69409}
+        - {x: -95.60004, y: -3.3059082}
+        - {x: -95.60004, y: -65.30591}
+        - {x: -79.60004, y: -75.30591}
+        - {x: -70.60004, y: -71.30591}
+        - {x: -70.60004, y: -63.30591}
+        - {x: -50.600037, y: -47.30591}
+        - {x: -43.600037, y: -76.30591}
+        - {x: 23.399963, y: -76.30591}
+        - {x: 93.39996, y: -9.305908}
+        - {x: 93.39996, y: 79.69409}
+        - {x: 60.399963, y: 72.69409}
+    - name: opposing spearman walk_4
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1818
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.29999, y: 79.69409}
+        - {x: -93.29999, y: -5.305908}
+        - {x: -93.29999, y: -75.30591}
+        - {x: -92.29999, y: -77.30591}
+        - {x: -0.2999878, y: -77.30591}
+        - {x: 93.70001, y: 57.69409}
+        - {x: 93.70001, y: 79.69409}
+    - name: opposing spearman walk_5
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1818
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.5, y: 70.69409}
+        - {x: -21.5, y: 79.69409}
+        - {x: -61.5, y: 79.69409}
+        - {x: -75.5, y: 6.694092}
+        - {x: -80.5, y: -35.30591}
+        - {x: -77.5, y: -36.30591}
+        - {x: -71.5, y: -35.30591}
+        - {x: -64.5, y: -32.30591}
+        - {x: -69.5, y: -34.30591}
+        - {x: -80.5, y: -44.30591}
+        - {x: -91.5, y: -56.30591}
+        - {x: -91.5, y: -62.30591}
+        - {x: -87.5, y: -69.30591}
+        - {x: -77.5, y: -75.30591}
+        - {x: -69.5, y: -77.30591}
+        - {x: -64.5, y: -65.30591}
+        - {x: -45.5, y: -78.30591}
+        - {x: 7.5, y: -78.30591}
+        - {x: 93.5, y: 39.69409}
+        - {x: 93.5, y: 77.69409}
+    - name: opposing spearman walk_6
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1818
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.20007, y: 79.69409}
+        - {x: -88.20007, y: 24.694092}
+        - {x: -88.20007, y: -74.30591}
+        - {x: -82.20007, y: -79.30591}
+        - {x: -69.20007, y: -79.30591}
+        - {x: -65.20007, y: -77.30591}
+        - {x: -61.200073, y: -66.30591}
+        - {x: -30.200073, y: -79.30591}
+        - {x: -17.200073, y: -79.30591}
+        - {x: 94.79993, y: 2.6940918}
+        - {x: 94.79993, y: 79.69409}
+    - name: opposing spearman walk_7
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 1818
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.400024, y: 79.69409}
+        - {x: -86.400024, y: 63.69409}
+        - {x: -86.400024, y: -79.30591}
+        - {x: 3.5999756, y: -79.30591}
+        - {x: 94.599976, y: 53.69409}
+        - {x: 94.599976, y: 76.69409}
+        - {x: 91.599976, y: 79.69409}
+    - name: opposing spearman walk_8
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1818
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.400024, y: 62.69409}
+        - {x: -4.5999756, y: 79.69409}
+        - {x: -59.599976, y: 79.69409}
+        - {x: -83.599976, y: 14.694092}
+        - {x: -84.599976, y: 11.694092}
+        - {x: -84.599976, y: -80.30591}
+        - {x: -17.599976, y: -80.30591}
+        - {x: 94.400024, y: 36.69409}
+        - {x: 94.400024, y: 76.69409}
+        - {x: 87.400024, y: 77.69409}
+    - name: opposing spearman walk_9
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 1818
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.30005, y: 79.69409}
+        - {x: -81.30005, y: 30.694092}
+        - {x: -81.30005, y: -74.30591}
+        - {x: -70.30005, y: -81.30591}
+        - {x: -57.30005, y: -81.30591}
+        - {x: -56.30005, y: -78.30591}
+        - {x: -54.30005, y: -69.30591}
+        - {x: -48.30005, y: -81.30591}
+        - {x: -15.300049, y: -81.30591}
+        - {x: 94.69995, y: 52.69409}
+        - {x: 94.69995, y: 79.69409}
+    - name: opposing spearman walk_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1515
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 79.82843}
+        - {x: -79.5, y: 79.82843}
+        - {x: -80.5, y: 61.82843}
+        - {x: -80.5, y: -80.17157}
+        - {x: -73.5, y: -81.17157}
+        - {x: -59.5, y: -81.17157}
+        - {x: -53.5, y: -78.17157}
+        - {x: -52.5, y: -70.17157}
+        - {x: -56.5, y: -66.17157}
+        - {x: -53.5, y: -66.17157}
+        - {x: -51.5, y: -73.17157}
+        - {x: -53.5, y: -81.17157}
+        - {x: -18.5, y: -81.17157}
+        - {x: 29.5, y: -44.17157}
+        - {x: 94.5, y: 34.82843}
+        - {x: 94.5, y: 73.82843}
+        - {x: 54.5, y: 78.82843}
+    - name: opposing spearman walk_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1515
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95.8, y: 71.82843}
+        - {x: 94.8, y: 71.82843}
+        - {x: 85.8, y: 70.82843}
+        - {x: 63.800003, y: 65.82843}
+        - {x: -26.199997, y: 79.82843}
+        - {x: -56.199997, y: 79.82843}
+        - {x: -72.2, y: 20.82843}
+        - {x: -80.2, y: -31.17157}
+        - {x: -80.2, y: -32.17157}
+        - {x: -78.2, y: -36.17157}
+        - {x: -71.2, y: -35.17157}
+        - {x: -77.2, y: -72.17157}
+        - {x: -65.2, y: -81.17157}
+        - {x: -28.199997, y: -81.17157}
+        - {x: -22.199997, y: -71.17157}
+        - {x: 75.8, y: 28.82843}
+        - {x: 95.8, y: 60.82843}
+    - name: opposing spearman walk_12
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1515
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.399994, y: 79.82843}
+        - {x: -80.399994, y: 20.82843}
+        - {x: -80.399994, y: -81.17157}
+        - {x: -2.399994, y: -81.17157}
+        - {x: 95.600006, y: 48.82843}
+        - {x: 95.600006, y: 75.82843}
+        - {x: 44.600006, y: 79.82843}
+    - name: opposing spearman walk_13
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1515
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95.39996, y: 79.82843}
+        - {x: -73.60004, y: 79.82843}
+        - {x: -81.60004, y: 31.82843}
+        - {x: -81.60004, y: -66.17157}
+        - {x: -80.60004, y: -79.17157}
+        - {x: -70.60004, y: -82.17157}
+        - {x: -31.600037, y: -82.17157}
+        - {x: -28.600037, y: -77.17157}
+        - {x: -22.600037, y: -45.17157}
+        - {x: 77.39996, y: 32.82843}
+        - {x: 95.39996, y: 54.82843}
+    - name: opposing spearman walk_14
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1515
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.29999, y: 79.82843}
+        - {x: -81.29999, y: 72.82843}
+        - {x: -81.29999, y: -82.17157}
+        - {x: -21.299988, y: -82.17157}
+        - {x: 95.70001, y: 2.8284302}
+        - {x: 95.70001, y: 70.82843}
+        - {x: 75.70001, y: 79.82843}
+    - name: opposing spearman walk_15
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1515
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 79.82843}
+        - {x: -74.5, y: 79.82843}
+        - {x: -82.5, y: 39.82843}
+        - {x: -82.5, y: -66.17157}
+        - {x: -66.5, y: -82.17157}
+        - {x: -36.5, y: -82.17157}
+        - {x: 95.5, y: 42.82843}
+        - {x: 95.5, y: 68.82843}
+        - {x: 86.5, y: 70.82843}
+    - name: opposing spearman walk_16
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1515
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.20007, y: 79.82843}
+        - {x: -81.20007, y: 37.82843}
+        - {x: -81.20007, y: -67.17157}
+        - {x: -67.20007, y: -82.17157}
+        - {x: 18.799927, y: -82.17157}
+        - {x: 97.79993, y: -9.17157}
+        - {x: 97.79993, y: 79.82843}
+    - name: opposing spearman walk_17
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 1515
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.400024, y: 79.82843}
+        - {x: -81.400024, y: 4.82843}
+        - {x: -81.400024, y: -53.17157}
+        - {x: -67.400024, y: -70.17157}
+        - {x: -54.400024, y: -82.17157}
+        - {x: -17.400024, y: -82.17157}
+        - {x: 96.599976, y: 27.82843}
+        - {x: 96.599976, y: 79.82843}
+    - name: opposing spearman walk_18
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1515
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.599976, y: 79.82843}
+        - {x: -82.599976, y: -4.17157}
+        - {x: -82.599976, y: -52.17157}
+        - {x: -70.599976, y: -82.17157}
+        - {x: -24.599976, y: -82.17157}
+        - {x: 96.400024, y: 27.82843}
+        - {x: 96.400024, y: 79.82843}
+    - name: opposing spearman walk_19
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 1515
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96.69995, y: 77.82843}
+        - {x: 95.69995, y: 79.82843}
+        - {x: -82.30005, y: 79.82843}
+        - {x: -82.30005, y: -76.17157}
+        - {x: -73.30005, y: -81.17157}
+        - {x: -29.300049, y: -81.17157}
+        - {x: -22.300049, y: -73.17157}
+        - {x: 94.69995, y: 46.82843}
+        - {x: 96.69995, y: 52.82843}
+    - name: opposing spearman walk_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.5, y: 63.962708}
+        - {x: -30.5, y: 79.96271}
+        - {x: -55.5, y: 79.96271}
+        - {x: -83.5, y: 69.96271}
+        - {x: -83.5, y: -81.03729}
+        - {x: -3.5, y: -81.03729}
+        - {x: 96.5, y: 47.962708}
+        - {x: 96.5, y: 64.96271}
+        - {x: 94.5, y: 66.96271}
+    - name: opposing spearman walk_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1212
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.199997, y: -81.03729}
+        - {x: -18.199997, y: -76.03729}
+        - {x: -18.199997, y: -65.03729}
+        - {x: 83.8, y: 32.962708}
+        - {x: 97.8, y: 53.962708}
+        - {x: 97.8, y: 62.962708}
+        - {x: 94.8, y: 65.96271}
+        - {x: 26.800003, y: 79.96271}
+        - {x: -58.199997, y: 79.96271}
+        - {x: -82.2, y: 20.962708}
+        - {x: -82.2, y: -68.03729}
+        - {x: -70.2, y: -81.03729}
+        - {x: -53.199997, y: -81.03729}
+        - {x: -48.199997, y: -71.03729}
+        - {x: -47.199997, y: -75.03729}
+        - {x: -44.199997, y: -81.03729}
+    - name: opposing spearman walk_22
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1212
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.600006, y: 79.96271}
+        - {x: -59.399994, y: 79.96271}
+        - {x: -83.399994, y: 11.9627075}
+        - {x: -83.399994, y: -67.03729}
+        - {x: -77.399994, y: -81.03729}
+        - {x: 19.600006, y: -81.03729}
+        - {x: 97.600006, y: 1.9627075}
+        - {x: 97.600006, y: 62.962708}
+        - {x: 91.600006, y: 64.96271}
+    - name: opposing spearman walk_23
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1212
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.600037, y: -78.03729}
+        - {x: -7.6000366, y: -74.03729}
+        - {x: 97.39996, y: 45.962708}
+        - {x: 97.39996, y: 79.96271}
+        - {x: -58.600037, y: 79.96271}
+        - {x: -64.60004, y: 57.962708}
+        - {x: -83.60004, y: -22.037292}
+        - {x: -83.60004, y: -33.037292}
+        - {x: -78.60004, y: -34.037292}
+        - {x: -81.60004, y: -58.037292}
+        - {x: -77.60004, y: -72.03729}
+        - {x: -67.60004, y: -80.03729}
+        - {x: -61.600037, y: -80.03729}
+        - {x: -58.600037, y: -79.03729}
+        - {x: -55.600037, y: -72.03729}
+        - {x: -39.600037, y: -80.03729}
+        - {x: -27.600037, y: -80.03729}
+    - name: opposing spearman walk_24
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1212
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.29999, y: 79.96271}
+        - {x: -84.29999, y: 24.962708}
+        - {x: -84.29999, y: -78.03729}
+        - {x: -82.29999, y: -79.03729}
+        - {x: 58.700012, y: -79.03729}
+        - {x: 97.70001, y: 30.962708}
+        - {x: 97.70001, y: 79.96271}
+    - name: opposing spearman walk_25
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1212
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -42.037292}
+        - {x: -39.5, y: -43.037292}
+        - {x: -39.5, y: -48.037292}
+        - {x: -40.5, y: -64.03729}
+        - {x: -36.5, y: -77.03729}
+        - {x: -31.5, y: -78.03729}
+        - {x: -18.5, y: -78.03729}
+        - {x: -9.5, y: -74.03729}
+        - {x: -7.5, y: -70.03729}
+        - {x: -10.5, y: -60.037292}
+        - {x: 97.5, y: 25.962708}
+        - {x: 97.5, y: 79.96271}
+        - {x: -81.5, y: 79.96271}
+        - {x: -84.5, y: 62.962708}
+        - {x: -84.5, y: -77.03729}
+        - {x: -82.5, y: -78.03729}
+        - {x: -64.5, y: -78.03729}
+        - {x: -60.5, y: -70.03729}
+        - {x: -39.5, y: -44.037292}
+        - {x: -38.5, y: -40.037292}
+    - name: opposing spearman walk_26
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1212
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.200073, y: 79.96271}
+        - {x: -84.20007, y: -13.0372925}
+        - {x: -84.20007, y: -75.03729}
+        - {x: -83.20007, y: -77.03729}
+        - {x: 15.799927, y: -77.03729}
+        - {x: 98.79993, y: -14.0372925}
+        - {x: 98.79993, y: 79.96271}
+    - name: opposing spearman walk_27
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 1212
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5999756, y: -76.03729}
+        - {x: 98.599976, y: 33.962708}
+        - {x: 98.599976, y: 79.96271}
+        - {x: -55.400024, y: 79.96271}
+        - {x: -62.400024, y: 73.96271}
+        - {x: -86.400024, y: -29.037292}
+        - {x: -86.400024, y: -32.037292}
+        - {x: -77.400024, y: -32.037292}
+        - {x: -84.400024, y: -47.037292}
+        - {x: -86.400024, y: -54.037292}
+        - {x: -86.400024, y: -67.03729}
+        - {x: -78.400024, y: -76.03729}
+        - {x: -69.400024, y: -76.03729}
+        - {x: -66.400024, y: -73.03729}
+        - {x: -65.400024, y: -69.03729}
+        - {x: -45.400024, y: -76.03729}
+    - name: opposing spearman walk_28
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1212
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.599976, y: 79.96271}
+        - {x: -88.599976, y: -3.0372925}
+        - {x: -88.599976, y: -75.03729}
+        - {x: 22.400024, y: -75.03729}
+        - {x: 98.400024, y: 35.962708}
+        - {x: 98.400024, y: 79.96271}
+    - name: opposing spearman walk_29
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 1212
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.69995, y: 79.96271}
+        - {x: -58.30005, y: 79.96271}
+        - {x: -90.30005, y: -0.03729248}
+        - {x: -90.30005, y: -69.03729}
+        - {x: -89.30005, y: -71.03729}
+        - {x: -85.30005, y: -74.03729}
+        - {x: 16.699951, y: -74.03729}
+        - {x: 98.69995, y: 30.962708}
+        - {x: 98.69995, y: 78.96271}
+    - name: opposing spearman walk_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 909
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.5, y: 56.597046}
+        - {x: -14.5, y: 78.597046}
+        - {x: -57.5, y: 78.597046}
+        - {x: -92.5, y: -3.402954}
+        - {x: -92.5, y: -65.402954}
+        - {x: -85.5, y: -73.402954}
+        - {x: 28.5, y: -73.402954}
+        - {x: 98.5, y: 27.597046}
+        - {x: 98.5, y: 59.597046}
+        - {x: 96.5, y: 59.597046}
+    - name: opposing spearman walk_31
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 909
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.8, y: 58.597046}
+        - {x: 63.800003, y: 65.597046}
+        - {x: -18.199997, y: 78.597046}
+        - {x: -56.199997, y: 78.597046}
+        - {x: -85.2, y: -27.402954}
+        - {x: -85.2, y: -29.402954}
+        - {x: -83.2, y: -33.402954}
+        - {x: -93.2, y: -49.402954}
+        - {x: -93.2, y: -58.402954}
+        - {x: -92.2, y: -67.402954}
+        - {x: -89.2, y: -72.402954}
+        - {x: 8.800003, y: -72.402954}
+        - {x: 47.800003, y: -55.402954}
+        - {x: 97.8, y: 30.597046}
+        - {x: 99.8, y: 34.597046}
+    - name: opposing spearman walk_32
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 909
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.600006, y: 78.597046}
+        - {x: -49.399994, y: 78.597046}
+        - {x: -92.399994, y: 10.597046}
+        - {x: -92.399994, y: -73.402954}
+        - {x: 28.600006, y: -73.402954}
+        - {x: 99.600006, y: 27.597046}
+        - {x: 99.600006, y: 60.597046}
+        - {x: 62.600006, y: 61.597046}
+    - name: opposing spearman walk_33
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 909
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.39996, y: 78.597046}
+        - {x: -91.60004, y: 78.597046}
+        - {x: -91.60004, y: -68.402954}
+        - {x: -90.60004, y: -74.402954}
+        - {x: 24.399963, y: -74.402954}
+        - {x: 97.39996, y: 37.597046}
+        - {x: 98.39996, y: 45.597046}
+        - {x: 98.39996, y: 58.597046}
+    - name: opposing spearman walk_34
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 909
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.70001, y: 58.597046}
+        - {x: 22.700012, y: 78.597046}
+        - {x: -76.29999, y: 78.597046}
+        - {x: -89.29999, y: 59.597046}
+        - {x: -89.29999, y: -75.402954}
+        - {x: 12.700012, y: -75.402954}
+        - {x: 98.70001, y: 24.597046}
+        - {x: 98.70001, y: 60.597046}
+        - {x: 96.70001, y: 60.597046}
+    - name: opposing spearman walk_35
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 909
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96.5, y: 61.597046}
+        - {x: 87.5, y: 59.597046}
+        - {x: 62.5, y: 56.597046}
+        - {x: 15.5, y: 78.597046}
+        - {x: -69.5, y: 78.597046}
+        - {x: -88.5, y: 5.597046}
+        - {x: -88.5, y: -73.402954}
+        - {x: -87.5, y: -74.402954}
+        - {x: -81.5, y: -76.402954}
+        - {x: 49.5, y: -76.402954}
+        - {x: 97.5, y: 30.597046}
+        - {x: 97.5, y: 60.597046}
+    - name: opposing spearman walk_36
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 909
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.79993, y: 56.597046}
+        - {x: 59.799927, y: 52.597046}
+        - {x: 58.799927, y: 49.597046}
+        - {x: 58.799927, y: 46.597046}
+        - {x: 41.799927, y: 39.597046}
+        - {x: -16.200073, y: 78.597046}
+        - {x: -65.20007, y: 78.597046}
+        - {x: -85.20007, y: 26.597046}
+        - {x: -85.20007, y: -77.402954}
+        - {x: 27.799927, y: -77.402954}
+        - {x: 98.79993, y: -8.402954}
+        - {x: 98.79993, y: 60.597046}
+        - {x: 97.79993, y: 62.597046}
+    - name: opposing spearman walk_37
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 909
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.400024, y: -78.402954}
+        - {x: 4.5999756, y: -78.402954}
+        - {x: 98.599976, y: 30.597046}
+        - {x: 98.599976, y: 68.597046}
+        - {x: 80.599976, y: 78.597046}
+        - {x: -83.400024, y: 78.597046}
+        - {x: -83.400024, y: -33.402954}
+        - {x: -81.400024, y: -33.402954}
+        - {x: -71.400024, y: -31.402954}
+        - {x: -83.400024, y: -55.402954}
+        - {x: -83.400024, y: -64.402954}
+        - {x: -81.400024, y: -69.402954}
+        - {x: -73.400024, y: -78.402954}
+        - {x: -67.400024, y: -78.402954}
+        - {x: -60.400024, y: -75.402954}
+        - {x: -62.400024, y: -68.402954}
+        - {x: -47.400024, y: -53.402954}
+        - {x: -36.400024, y: -76.402954}
+    - name: opposing spearman walk_38
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 909
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.400024, y: 78.597046}
+        - {x: -79.599976, y: 78.597046}
+        - {x: -84.599976, y: 44.597046}
+        - {x: -84.599976, y: -65.402954}
+        - {x: -80.599976, y: -79.402954}
+        - {x: -7.5999756, y: -79.402954}
+        - {x: 98.400024, y: 26.597046}
+        - {x: 98.400024, y: 65.597046}
+        - {x: 47.400024, y: 76.597046}
+    - name: opposing spearman walk_39
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 909
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.30005, y: 78.597046}
+        - {x: -83.30005, y: -34.402954}
+        - {x: -75.30005, y: -35.402954}
+        - {x: -83.30005, y: -51.402954}
+        - {x: -83.30005, y: -62.402954}
+        - {x: -77.30005, y: -80.402954}
+        - {x: 27.699951, y: -80.402954}
+        - {x: 97.69995, y: -13.402954}
+        - {x: 97.69995, y: 78.597046}
+    - name: opposing spearman walk_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95.5, y: 41.731354}
+        - {x: 97.5, y: 46.731354}
+        - {x: 97.5, y: 63.731354}
+        - {x: 62.5, y: 63.731354}
+        - {x: 26.5, y: 79.73135}
+        - {x: -60.5, y: 79.73135}
+        - {x: -83.5, y: 6.7313538}
+        - {x: -83.5, y: -61.268646}
+        - {x: -74.5, y: -80.26865}
+        - {x: -59.5, y: -80.26865}
+        - {x: -54.5, y: -75.26865}
+        - {x: -43.5, y: -80.26865}
+        - {x: -2.5, y: -80.26865}
+    - name: opposing spearman walk_41
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 606
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94.8, y: 79.73135}
+        - {x: -82.2, y: 79.73135}
+        - {x: -82.2, y: -79.26865}
+        - {x: -77.2, y: -81.26865}
+        - {x: -4.199997, y: -81.26865}
+        - {x: 98.8, y: 46.731354}
+        - {x: 98.8, y: 73.73135}
+    - name: opposing spearman walk_42
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 606
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.399994, y: -79.26865}
+        - {x: -41.399994, y: -81.26865}
+        - {x: 2.600006, y: -81.26865}
+        - {x: 97.600006, y: 45.731354}
+        - {x: 97.600006, y: 69.73135}
+        - {x: 4.600006, y: 79.73135}
+        - {x: -60.399994, y: 79.73135}
+        - {x: -82.399994, y: -2.2686462}
+        - {x: -82.399994, y: -46.268646}
+        - {x: -72.399994, y: -73.26865}
+        - {x: -61.399994, y: -81.26865}
+        - {x: -53.399994, y: -81.26865}
+        - {x: -50.399994, y: -77.26865}
+        - {x: -50.399994, y: -71.26865}
+        - {x: -49.399994, y: -75.26865}
+    - name: opposing spearman walk_43
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 606
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.39996, y: 66.73135}
+        - {x: 95.39996, y: 68.73135}
+        - {x: 61.399963, y: 79.73135}
+        - {x: -62.600037, y: 79.73135}
+        - {x: -82.60004, y: 26.731354}
+        - {x: -82.60004, y: -75.26865}
+        - {x: -74.60004, y: -82.26865}
+        - {x: -18.600037, y: -82.26865}
+        - {x: -16.600037, y: -81.26865}
+        - {x: 91.39996, y: 36.731354}
+        - {x: 97.39996, y: 56.731354}
+    - name: opposing spearman walk_44
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 606
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.70001, y: 67.73135}
+        - {x: 63.700012, y: 64.73135}
+        - {x: -8.299988, y: 79.73135}
+        - {x: -52.299988, y: 79.73135}
+        - {x: -63.299988, y: 54.731354}
+        - {x: -67.29999, y: 20.731354}
+        - {x: -68.29999, y: -4.2686462}
+        - {x: -68.29999, y: -6.2686462}
+        - {x: -82.29999, y: -29.268646}
+        - {x: -82.29999, y: -31.268646}
+        - {x: -81.29999, y: -34.268646}
+        - {x: -68.29999, y: -32.268646}
+        - {x: -76.29999, y: -60.268646}
+        - {x: -64.29999, y: -82.26865}
+        - {x: -11.299988, y: -82.26865}
+        - {x: 93.70001, y: 35.731354}
+        - {x: 96.70001, y: 55.731354}
+        - {x: 96.70001, y: 65.73135}
+    - name: opposing spearman walk_45
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 606
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96.5, y: 68.73135}
+        - {x: 95.5, y: 69.73135}
+        - {x: 64.5, y: 65.73135}
+        - {x: 6.5, y: 79.73135}
+        - {x: -55.5, y: 79.73135}
+        - {x: -66.5, y: 76.73135}
+        - {x: -82.5, y: 33.731354}
+        - {x: -82.5, y: -82.26865}
+        - {x: -28.5, y: -82.26865}
+        - {x: -21.5, y: -81.26865}
+        - {x: 95.5, y: 43.731354}
+        - {x: 96.5, y: 46.731354}
+    - name: opposing spearman walk_46
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 606
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95.79993, y: 69.73135}
+        - {x: 58.799927, y: 79.73135}
+        - {x: -59.200073, y: 79.73135}
+        - {x: -81.20007, y: 17.731354}
+        - {x: -81.20007, y: -69.26865}
+        - {x: -62.200073, y: -82.26865}
+        - {x: -34.200073, y: -82.26865}
+        - {x: -30.200073, y: -75.26865}
+        - {x: 97.79993, y: 45.731354}
+        - {x: 97.79993, y: 66.73135}
+    - name: opposing spearman walk_47
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 606
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.400024, y: 79.73135}
+        - {x: -61.400024, y: 64.73135}
+        - {x: -68.400024, y: 19.731354}
+        - {x: -81.400024, y: -23.268646}
+        - {x: -81.400024, y: -34.268646}
+        - {x: -75.400024, y: -34.268646}
+        - {x: -66.400024, y: -76.26865}
+        - {x: -59.400024, y: -82.26865}
+        - {x: -35.400024, y: -82.26865}
+        - {x: -28.400024, y: -79.26865}
+        - {x: 96.599976, y: 38.731354}
+        - {x: 96.599976, y: 79.73135}
+    - name: opposing spearman walk_48
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 606
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.400024, y: 79.73135}
+        - {x: -60.599976, y: 79.73135}
+        - {x: -81.599976, y: 45.731354}
+        - {x: -81.599976, y: -73.26865}
+        - {x: -80.599976, y: -82.26865}
+        - {x: -7.5999756, y: -82.26865}
+        - {x: 96.400024, y: -10.268646}
+        - {x: 96.400024, y: 70.73135}
+        - {x: 58.400024, y: 71.73135}
+    - name: opposing spearman walk_49
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 606
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.30005, y: 79.73135}
+        - {x: -81.30005, y: -82.26865}
+        - {x: -25.300049, y: -82.26865}
+        - {x: 95.69995, y: 32.731354}
+        - {x: 95.69995, y: 79.73135}
+    - name: opposing spearman walk_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.5, y: 78.86568}
+        - {x: -81.5, y: -82.13432}
+        - {x: -4.5, y: -82.13432}
+        - {x: 95.5, y: -5.134323}
+        - {x: 95.5, y: 70.86568}
+        - {x: 86.5, y: 78.86568}
+    - name: opposing spearman walk_51
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 303
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.8, y: 71.86568}
+        - {x: 86.8, y: 68.86568}
+        - {x: 62.800003, y: 66.86568}
+        - {x: -5.199997, y: 78.86568}
+        - {x: -61.199997, y: 78.86568}
+        - {x: -76.2, y: 72.86568}
+        - {x: -80.2, y: -0.13432312}
+        - {x: -80.2, y: -82.13432}
+        - {x: -29.199997, y: -82.13432}
+        - {x: -25.199997, y: -80.13432}
+        - {x: 93.8, y: 40.865677}
+        - {x: 95.8, y: 51.865677}
+        - {x: 95.8, y: 67.86568}
+    - name: opposing spearman walk_52
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 303
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.399994, y: -39.134323}
+        - {x: -22.399994, y: -27.134323}
+        - {x: 66.600006, y: 28.865677}
+        - {x: 90.600006, y: 49.865677}
+        - {x: 95.600006, y: 63.865677}
+        - {x: 95.600006, y: 73.86568}
+        - {x: 61.600006, y: 68.86568}
+        - {x: -24.399994, y: 78.86568}
+        - {x: -55.399994, y: 78.86568}
+        - {x: -62.399994, y: 52.865677}
+        - {x: -69.399994, y: 19.865677}
+        - {x: -80.399994, y: -9.134323}
+        - {x: -80.399994, y: -78.13432}
+        - {x: -75.399994, y: -82.13432}
+        - {x: -23.399994, y: -82.13432}
+        - {x: -23.399994, y: -72.13432}
+        - {x: -29.399994, y: -68.13432}
+        - {x: -23.399994, y: -46.134323}
+    - name: opposing spearman walk_53
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 303
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.600037, y: 78.86568}
+        - {x: -80.60004, y: 72.86568}
+        - {x: -80.60004, y: -32.134323}
+        - {x: -79.60004, y: -35.134323}
+        - {x: -73.60004, y: -36.134323}
+        - {x: -80.60004, y: -54.134323}
+        - {x: -80.60004, y: -70.13432}
+        - {x: -75.60004, y: -81.13432}
+        - {x: -56.600037, y: -81.13432}
+        - {x: -54.600037, y: -78.13432}
+        - {x: -52.600037, y: -69.13432}
+        - {x: -46.600037, y: -78.13432}
+        - {x: -40.600037, y: -81.13432}
+        - {x: -8.600037, y: -81.13432}
+        - {x: 95.39996, y: 42.865677}
+        - {x: 95.39996, y: 78.86568}
+    - name: opposing spearman walk_54
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 303
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.700012, y: 69.86568}
+        - {x: 17.700012, y: 78.86568}
+        - {x: -58.299988, y: 78.86568}
+        - {x: -83.29999, y: 57.865677}
+        - {x: -83.29999, y: -80.13432}
+        - {x: 0.7000122, y: -80.13432}
+        - {x: 94.70001, y: 59.865677}
+        - {x: 94.70001, y: 74.86568}
+        - {x: 93.70001, y: 74.86568}
+    - name: opposing spearman walk_55
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 303
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 78.86568}
+        - {x: -84.5, y: -35.134323}
+        - {x: -78.5, y: -37.134323}
+        - {x: -71.5, y: -36.134323}
+        - {x: -67.5, y: -33.134323}
+        - {x: -85.5, y: -58.134323}
+        - {x: -85.5, y: -71.13432}
+        - {x: -71.5, y: -80.13432}
+        - {x: -13.5, y: -80.13432}
+        - {x: 94.5, y: 23.865677}
+        - {x: 94.5, y: 78.86568}
+    - name: opposing spearman walk_56
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 303
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.20007, y: 78.86568}
+        - {x: -87.20007, y: 22.865677}
+        - {x: -87.20007, y: -75.13432}
+        - {x: -77.20007, y: -76.13432}
+        - {x: -64.20007, y: -78.13432}
+        - {x: -62.200073, y: -74.13432}
+        - {x: -60.200073, y: -69.13432}
+        - {x: -40.200073, y: -79.13432}
+        - {x: -14.200073, y: -79.13432}
+        - {x: -12.200073, y: -78.13432}
+        - {x: 94.79993, y: 52.865677}
+        - {x: 94.79993, y: 78.86568}
+    - name: opposing spearman walk_57
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 303
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.400024, y: 78.86568}
+        - {x: -89.400024, y: 3.8656769}
+        - {x: -89.400024, y: -78.13432}
+        - {x: -2.4000244, y: -78.13432}
+        - {x: 94.599976, y: 39.865677}
+        - {x: 94.599976, y: 78.86568}
+    - name: opposing spearman walk_58
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 303
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.599976, y: -78.13432}
+        - {x: 36.400024, y: -78.13432}
+        - {x: 93.400024, y: -38.134323}
+        - {x: 93.400024, y: 78.86568}
+        - {x: -81.599976, y: 78.86568}
+        - {x: -92.599976, y: 27.865677}
+        - {x: -92.599976, y: -70.13432}
+    - name: opposing spearman walk_59
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 303
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.69995, y: 75.86568}
+        - {x: 58.69995, y: 71.86568}
+        - {x: -13.300049, y: 78.86568}
+        - {x: -53.30005, y: 78.86568}
+        - {x: -68.30005, y: 57.865677}
+        - {x: -83.30005, y: -37.134323}
+        - {x: -94.30005, y: -52.134323}
+        - {x: -94.30005, y: -63.134323}
+        - {x: -81.30005, y: -75.13432}
+        - {x: -65.30005, y: -77.13432}
+        - {x: 21.699951, y: -77.13432}
+        - {x: 93.69995, y: 56.865677}
+        - {x: 93.69995, y: 75.86568}
+        - {x: 91.69995, y: 76.86568}
+    - name: opposing spearman walk_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91.5, y: 78.5}
+        - {x: -97.5, y: 78.5}
+        - {x: -97.5, y: -76.5}
+        - {x: -79.5, y: -76.5}
+        - {x: -71.5, y: -72.5}
+        - {x: -56.5, y: -76.5}
+        - {x: -9.5, y: -76.5}
+        - {x: 0.5, y: -63.5}
+        - {x: 93.5, y: 46.5}
+        - {x: 93.5, y: 73.5}
+    - name: opposing spearman walk_61
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 0
+        width: 373
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.8, y: 76.5}
+        - {x: 87.8, y: 76.5}
+        - {x: 78.8, y: 78.5}
+        - {x: -82.2, y: 78.5}
+        - {x: -97.2, y: 41.5}
+        - {x: -97.2, y: -75.5}
+        - {x: 4.800003, y: -75.5}
+        - {x: 79.8, y: 33.5}
+        - {x: 93.8, y: 60.5}
+        - {x: 93.8, y: 75.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

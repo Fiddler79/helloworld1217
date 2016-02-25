@@ -1,0 +1,1429 @@
+fileFormatVersion: 2
+guid: 25713c6e8cc207a488a54a96940601ec
+timeCreated: 1456318381
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: opposing spearman attack_0
+    21300002: opposing spearman attack_1
+    21300004: opposing spearman attack_2
+    21300006: opposing spearman attack_3
+    21300008: opposing spearman attack_4
+    21300010: opposing spearman attack_5
+    21300012: opposing spearman attack_6
+    21300014: opposing spearman attack_7
+    21300016: opposing spearman attack_8
+    21300018: opposing spearman attack_9
+    21300020: opposing spearman attack_10
+    21300022: opposing spearman attack_11
+    21300024: opposing spearman attack_12
+    21300026: opposing spearman attack_13
+    21300028: opposing spearman attack_14
+    21300030: opposing spearman attack_15
+    21300032: opposing spearman attack_16
+    21300034: opposing spearman attack_17
+    21300036: opposing spearman attack_18
+    21300038: opposing spearman attack_19
+    21300040: opposing spearman attack_20
+    21300042: opposing spearman attack_21
+    21300044: opposing spearman attack_22
+    21300046: opposing spearman attack_23
+    21300048: opposing spearman attack_24
+    21300050: opposing spearman attack_25
+    21300052: opposing spearman attack_26
+    21300054: opposing spearman attack_27
+    21300056: opposing spearman attack_28
+    21300058: opposing spearman attack_29
+    21300060: opposing spearman attack_30
+    21300062: opposing spearman attack_31
+    21300064: opposing spearman attack_32
+    21300066: opposing spearman attack_33
+    21300068: opposing spearman attack_34
+    21300070: opposing spearman attack_35
+    21300072: opposing spearman attack_36
+    21300074: opposing spearman attack_37
+    21300076: opposing spearman attack_38
+    21300078: opposing spearman attack_39
+    21300080: opposing spearman attack_40
+    21300082: opposing spearman attack_41
+    21300084: opposing spearman attack_42
+    21300086: opposing spearman attack_43
+    21300088: opposing spearman attack_44
+    21300090: opposing spearman attack_45
+    21300092: opposing spearman attack_46
+    21300094: opposing spearman attack_47
+    21300096: opposing spearman attack_48
+    21300098: opposing spearman attack_49
+    21300100: opposing spearman attack_50
+    21300102: opposing spearman attack_51
+    21300104: opposing spearman attack_52
+    21300106: opposing spearman attack_53
+    21300108: opposing spearman attack_54
+    21300110: opposing spearman attack_55
+    21300112: opposing spearman attack_56
+    21300114: opposing spearman attack_57
+    21300116: opposing spearman attack_58
+    21300118: opposing spearman attack_59
+    21300120: opposing spearman attack_60
+    21300122: opposing spearman attack_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: opposing spearman attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2892
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 84.5}
+        - {x: -61.5, y: 60.5}
+        - {x: -61.5, y: -84.5}
+        - {x: -20.5, y: -84.5}
+        - {x: -14.5, y: -67.5}
+        - {x: -14.5, y: 67.5}
+        - {x: -23.5, y: 84.5}
+    - name: opposing spearman attack_1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2892
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.23651, y: 82.5}
+        - {x: -60.23651, y: 38.5}
+        - {x: -60.23651, y: -67.5}
+        - {x: -48.23651, y: -84.5}
+        - {x: -21.236511, y: -84.5}
+        - {x: -9.236511, y: -73.5}
+        - {x: -9.236511, y: 82.5}
+    - name: opposing spearman attack_2
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2892
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.473022, y: 77.5}
+        - {x: -15.473022, y: 73.5}
+        - {x: -23.473022, y: 56.5}
+        - {x: -43.473022, y: 25.5}
+        - {x: -60.473022, y: -1.5}
+        - {x: -60.473022, y: -56.5}
+        - {x: -48.473022, y: -84.5}
+        - {x: -19.473022, y: -84.5}
+        - {x: -1.4730225, y: 13.5}
+        - {x: -1.4730225, y: 67.5}
+        - {x: -9.473022, y: 77.5}
+    - name: opposing spearman attack_3
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2892
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.709534, y: -37.5}
+        - {x: -25.709534, y: -32.5}
+        - {x: -26.709534, y: -40.5}
+        - {x: -27.709534, y: -54.5}
+        - {x: -25.709534, y: -66.5}
+        - {x: 5.2904663, y: -20.5}
+        - {x: 5.2904663, y: 72.5}
+        - {x: -21.709534, y: 72.5}
+        - {x: -59.709534, y: 40.5}
+        - {x: -59.709534, y: -70.5}
+        - {x: -47.709534, y: -84.5}
+        - {x: -26.709534, y: -84.5}
+        - {x: -22.709534, y: -77.5}
+        - {x: -30.709534, y: -72.5}
+        - {x: -27.709534, y: -52.5}
+    - name: opposing spearman attack_4
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2892
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.553955, y: 65.5}
+        - {x: -9.446045, y: 48.5}
+        - {x: -7.446045, y: 43.5}
+        - {x: -39.446045, y: 24.5}
+        - {x: -59.446045, y: -7.5}
+        - {x: -59.446045, y: -72.5}
+        - {x: -57.446045, y: -84.5}
+        - {x: -21.446045, y: -84.5}
+        - {x: 12.553955, y: 16.5}
+        - {x: 12.553955, y: 65.5}
+    - name: opposing spearman attack_5
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 2892
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.817444, y: 58.5}
+        - {x: -14.182556, y: 48.5}
+        - {x: -57.182556, y: 14.5}
+        - {x: -57.182556, y: -72.5}
+        - {x: -53.182556, y: -84.5}
+        - {x: -20.182556, y: -84.5}
+        - {x: 19.817444, y: 19.5}
+        - {x: 19.817444, y: 58.5}
+    - name: opposing spearman attack_6
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 2892
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.580933, y: 50.5}
+        - {x: 3.5809326, y: 38.5}
+        - {x: 3.5809326, y: 28.5}
+        - {x: -0.41906738, y: 17.5}
+        - {x: -31.419067, y: 22.5}
+        - {x: -50.419067, y: 7.5}
+        - {x: -57.419067, y: -24.5}
+        - {x: -57.419067, y: -59.5}
+        - {x: -48.419067, y: -84.5}
+        - {x: -4.4190674, y: -84.5}
+        - {x: 25.580933, y: 17.5}
+        - {x: 25.580933, y: 50.5}
+    - name: opposing spearman attack_7
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 2892
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.655518, y: -6.5}
+        - {x: -57.655518, y: -48.5}
+        - {x: -52.655518, y: -83.5}
+        - {x: -50.655518, y: -84.5}
+        - {x: -17.655518, y: -84.5}
+        - {x: 30.344482, y: 19.5}
+        - {x: 30.344482, y: 42.5}
+        - {x: 1.3444824, y: 42.5}
+        - {x: -36.655518, y: 25.5}
+    - name: opposing spearman attack_8
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 2892
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.39209, y: -79.5}
+        - {x: -53.39209, y: -84.5}
+        - {x: -17.39209, y: -84.5}
+        - {x: 35.60791, y: 16.5}
+        - {x: 35.60791, y: 33.5}
+        - {x: -31.39209, y: 33.5}
+        - {x: -57.39209, y: 22.5}
+    - name: opposing spearman attack_9
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 2892
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.12854, y: 24.5}
+        - {x: -57.12854, y: -13.5}
+        - {x: -57.12854, y: -77.5}
+        - {x: -44.12854, y: -84.5}
+        - {x: -26.12854, y: -84.5}
+        - {x: 39.87146, y: -28.5}
+        - {x: 39.87146, y: 24.5}
+    - name: opposing spearman attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2410
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: 17.5}
+        - {x: -63.5, y: 12.5}
+        - {x: -63.5, y: -81.5}
+        - {x: -62.5, y: -84.5}
+        - {x: -5.5, y: -84.5}
+        - {x: 41.5, y: -40.5}
+        - {x: 41.5, y: 14.5}
+        - {x: 36.5, y: 17.5}
+    - name: opposing spearman attack_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2410
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.23651, y: 17.5}
+        - {x: -69.23651, y: -44.5}
+        - {x: -69.23651, y: -66.5}
+        - {x: -68.23651, y: -66.5}
+        - {x: -58.23651, y: -64.5}
+        - {x: -48.23651, y: -84.5}
+        - {x: -23.236511, y: -84.5}
+        - {x: 43.76349, y: -12.5}
+        - {x: 43.76349, y: 17.5}
+    - name: opposing spearman attack_12
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2410
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.473022, y: 17.5}
+        - {x: -74.47302, y: -45.5}
+        - {x: -74.47302, y: -73.5}
+        - {x: -51.473022, y: -84.5}
+        - {x: -24.473022, y: -84.5}
+        - {x: -7.4730225, y: -77.5}
+        - {x: 43.526978, y: -15.5}
+        - {x: 43.526978, y: 7.5}
+        - {x: -4.4730225, y: 17.5}
+    - name: opposing spearman attack_13
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2410
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.709534, y: 16.5}
+        - {x: -45.709534, y: 10.5}
+        - {x: -80.70953, y: -48.5}
+        - {x: -81.70953, y: -51.5}
+        - {x: -81.70953, y: -59.5}
+        - {x: -77.70953, y: -61.5}
+        - {x: -52.709534, y: -84.5}
+        - {x: -3.7095337, y: -84.5}
+        - {x: 42.290466, y: -31.5}
+        - {x: 42.290466, y: 9.5}
+        - {x: 25.290466, y: 16.5}
+    - name: opposing spearman attack_14
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2410
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.446045, y: -71.5}
+        - {x: -79.446045, y: -84.5}
+        - {x: 7.553955, y: -84.5}
+        - {x: 41.553955, y: -65.5}
+        - {x: 41.553955, y: -11.5}
+        - {x: 4.553955, y: 16.5}
+        - {x: -33.446045, y: 16.5}
+        - {x: -41.446045, y: 8.5}
+        - {x: -86.446045, y: -40.5}
+    - name: opposing spearman attack_15
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 2410
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.182556, y: -84.5}
+        - {x: -16.182556, y: -84.5}
+        - {x: 39.817444, y: -54.5}
+        - {x: 39.817444, y: -15.5}
+        - {x: 14.817444, y: 15.5}
+        - {x: -55.182556, y: 15.5}
+        - {x: -90.182556, y: -18.5}
+        - {x: -90.182556, y: -68.5}
+    - name: opposing spearman attack_16
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 2410
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.580933, y: -40.5}
+        - {x: 35.580933, y: -38.5}
+        - {x: 33.580933, y: -36.5}
+        - {x: 23.580933, y: -27.5}
+        - {x: -16.419067, y: 15.5}
+        - {x: -23.419067, y: 15.5}
+        - {x: -36.419067, y: 5.5}
+        - {x: -95.41907, y: -24.5}
+        - {x: -95.41907, y: -59.5}
+        - {x: -70.41907, y: -84.5}
+        - {x: -25.419067, y: -84.5}
+        - {x: -23.419067, y: -77.5}
+        - {x: 23.580933, y: -50.5}
+        - {x: 32.580933, y: -44.5}
+    - name: opposing spearman attack_17
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 2410
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.344482, y: 14.5}
+        - {x: -44.655518, y: 14.5}
+        - {x: -99.65552, y: -26.5}
+        - {x: -99.65552, y: -43.5}
+        - {x: -45.655518, y: -84.5}
+        - {x: -25.655518, y: -84.5}
+        - {x: -23.655518, y: -83.5}
+        - {x: 31.344482, y: -66.5}
+        - {x: 31.344482, y: -13.5}
+    - name: opposing spearman attack_18
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 2410
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.39209, y: -84.5}
+        - {x: -11.39209, y: -84.5}
+        - {x: 26.60791, y: -62.5}
+        - {x: 26.60791, y: -35.5}
+        - {x: 0.60791016, y: 14.5}
+        - {x: -60.39209, y: 14.5}
+        - {x: -102.39209, y: -7.5}
+        - {x: -102.39209, y: -34.5}
+    - name: opposing spearman attack_19
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 2410
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.12854, y: 13.5}
+        - {x: -50.12854, y: 13.5}
+        - {x: -101.12854, y: -22.5}
+        - {x: -101.12854, y: -41.5}
+        - {x: -47.12854, y: -84.5}
+        - {x: 10.87146, y: -84.5}
+        - {x: 25.87146, y: -68.5}
+        - {x: 25.87146, y: -51.5}
+        - {x: 10.87146, y: -35.5}
+    - name: opposing spearman attack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1928
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -45.5}
+        - {x: 17.5, y: -17.5}
+        - {x: -6.5, y: 12.5}
+        - {x: -60.5, y: 12.5}
+        - {x: -97.5, y: -19.5}
+        - {x: -97.5, y: -53.5}
+        - {x: -51.5, y: -81.5}
+        - {x: -46.5, y: -84.5}
+        - {x: -27.5, y: -84.5}
+        - {x: -24.5, y: -77.5}
+        - {x: 29.5, y: -62.5}
+        - {x: 30.5, y: -61.5}
+    - name: opposing spearman attack_21
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1928
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.236511, y: 12.5}
+        - {x: -22.236511, y: 12.5}
+        - {x: -33.23651, y: 5.5}
+        - {x: -47.23651, y: -15.5}
+        - {x: -90.23651, y: -28.5}
+        - {x: -91.23651, y: -30.5}
+        - {x: -91.23651, y: -35.5}
+        - {x: -75.23651, y: -84.5}
+        - {x: 36.76349, y: -84.5}
+        - {x: 36.76349, y: -51.5}
+        - {x: 22.763489, y: -42.5}
+    - name: opposing spearman attack_22
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1928
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.473022, y: 11.5}
+        - {x: -47.473022, y: -14.5}
+        - {x: -87.47302, y: -30.5}
+        - {x: -87.47302, y: -37.5}
+        - {x: -49.473022, y: -84.5}
+        - {x: 0.52697754, y: -84.5}
+        - {x: 41.526978, y: -59.5}
+        - {x: 41.526978, y: -37.5}
+        - {x: -9.473022, y: 11.5}
+    - name: opposing spearman attack_23
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1928
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.290466, y: -57.5}
+        - {x: 47.290466, y: -53.5}
+        - {x: 30.290466, y: -40.5}
+        - {x: 9.290466, y: 10.5}
+        - {x: -34.709534, y: 10.5}
+        - {x: -82.70953, y: -25.5}
+        - {x: -82.70953, y: -42.5}
+        - {x: -47.709534, y: -84.5}
+        - {x: -26.709534, y: -84.5}
+        - {x: -24.709534, y: -80.5}
+        - {x: -28.709534, y: -75.5}
+        - {x: 44.290466, y: -71.5}
+    - name: opposing spearman attack_24
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 1928
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.446045, y: -84.5}
+        - {x: 23.553955, y: -84.5}
+        - {x: 52.553955, y: -72.5}
+        - {x: 52.553955, y: -31.5}
+        - {x: 14.553955, y: 9.5}
+        - {x: -30.446045, y: 9.5}
+        - {x: -77.446045, y: -15.5}
+        - {x: -77.446045, y: -57.5}
+    - name: opposing spearman attack_25
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1928
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.182556, y: 9.5}
+        - {x: -71.182556, y: -15.5}
+        - {x: -71.182556, y: -39.5}
+        - {x: -68.182556, y: -41.5}
+        - {x: -51.182556, y: -80.5}
+        - {x: -44.182556, y: -84.5}
+        - {x: -22.182556, y: -84.5}
+        - {x: 59.817444, y: -64.5}
+        - {x: 59.817444, y: -47.5}
+        - {x: 15.817444, y: 9.5}
+    - name: opposing spearman attack_26
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 1928
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.41906738, y: 8.5}
+        - {x: -35.419067, y: 8.5}
+        - {x: -49.419067, y: -11.5}
+        - {x: -66.41907, y: -36.5}
+        - {x: -66.41907, y: -54.5}
+        - {x: -54.419067, y: -83.5}
+        - {x: -51.419067, y: -84.5}
+        - {x: 5.5809326, y: -84.5}
+        - {x: 64.58093, y: -59.5}
+        - {x: 64.58093, y: -45.5}
+        - {x: 44.580933, y: -21.5}
+    - name: opposing spearman attack_27
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 1928
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.344482, y: 0.5}
+        - {x: 20.344482, y: 7.5}
+        - {x: -61.655518, y: 7.5}
+        - {x: -61.655518, y: -72.5}
+        - {x: -60.655518, y: -84.5}
+        - {x: 14.344482, y: -84.5}
+        - {x: 69.34448, y: -57.5}
+        - {x: 69.34448, y: -49.5}
+    - name: opposing spearman attack_28
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 1928
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.39209, y: 6.5}
+        - {x: -58.39209, y: -21.5}
+        - {x: -58.39209, y: -52.5}
+        - {x: -49.39209, y: -84.5}
+        - {x: 47.60791, y: -84.5}
+        - {x: 74.60791, y: -66.5}
+        - {x: 74.60791, y: -12.5}
+        - {x: 33.60791, y: 6.5}
+    - name: opposing spearman attack_29
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 1928
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.87146, y: 5.5}
+        - {x: -22.12854, y: 5.5}
+        - {x: -49.12854, y: -21.5}
+        - {x: -57.12854, y: -30.5}
+        - {x: -57.12854, y: -55.5}
+        - {x: -50.12854, y: -84.5}
+        - {x: 18.87146, y: -84.5}
+        - {x: 72.87146, y: -59.5}
+        - {x: 81.87146, y: -49.5}
+        - {x: 81.87146, y: -43.5}
+        - {x: 63.87146, y: -35.5}
+    - name: opposing spearman attack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1446
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 4.5}
+        - {x: -59.5, y: 4.5}
+        - {x: -59.5, y: -84.5}
+        - {x: 13.5, y: -84.5}
+        - {x: 74.5, y: -69.5}
+        - {x: 84.5, y: -53.5}
+        - {x: 84.5, y: -38.5}
+        - {x: 70.5, y: -7.5}
+    - name: opposing spearman attack_31
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1446
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91.76349, y: -22.5}
+        - {x: 53.76349, y: 3.5}
+        - {x: -27.236511, y: 3.5}
+        - {x: -34.23651, y: -4.5}
+        - {x: -58.23651, y: -32.5}
+        - {x: -58.23651, y: -42.5}
+        - {x: -57.23651, y: -43.5}
+        - {x: -50.23651, y: -81.5}
+        - {x: -45.23651, y: -84.5}
+        - {x: -22.236511, y: -84.5}
+        - {x: -24.236511, y: -77.5}
+        - {x: 68.76349, y: -59.5}
+        - {x: 91.76349, y: -54.5}
+    - name: opposing spearman attack_32
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1446
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.526978, y: 2.5}
+        - {x: -36.473022, y: 2.5}
+        - {x: -58.473022, y: -20.5}
+        - {x: -58.473022, y: -73.5}
+        - {x: -53.473022, y: -81.5}
+        - {x: -47.473022, y: -84.5}
+        - {x: -25.473022, y: -84.5}
+        - {x: -23.473022, y: -83.5}
+        - {x: 83.52698, y: -55.5}
+        - {x: 96.52698, y: -46.5}
+        - {x: 96.52698, y: -25.5}
+    - name: opposing spearman attack_33
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1446
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.290466, y: 1.5}
+        - {x: -26.709534, y: 1.5}
+        - {x: -58.709534, y: -28.5}
+        - {x: -58.709534, y: -57.5}
+        - {x: -50.709534, y: -84.5}
+        - {x: 1.2904663, y: -84.5}
+        - {x: 101.29047, y: -55.5}
+        - {x: 101.29047, y: -32.5}
+        - {x: 83.29047, y: -26.5}
+    - name: opposing spearman attack_34
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 1446
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.446045, y: 1.5}
+        - {x: -58.446045, y: -13.5}
+        - {x: -58.446045, y: -84.5}
+        - {x: 8.553955, y: -84.5}
+        - {x: 102.553955, y: -57.5}
+        - {x: 102.553955, y: -16.5}
+        - {x: 60.553955, y: 1.5}
+    - name: opposing spearman attack_35
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1446
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103.817444, y: -21.5}
+        - {x: 89.817444, y: -12.5}
+        - {x: 46.817444, y: 2.5}
+        - {x: -37.182556, y: 2.5}
+        - {x: -58.182556, y: -23.5}
+        - {x: -58.182556, y: -67.5}
+        - {x: -49.182556, y: -81.5}
+        - {x: -45.182556, y: -84.5}
+        - {x: -26.182556, y: -84.5}
+        - {x: -24.182556, y: -83.5}
+        - {x: 88.817444, y: -44.5}
+        - {x: 103.817444, y: -28.5}
+    - name: opposing spearman attack_36
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 1446
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100.58093, y: -13.5}
+        - {x: 79.58093, y: -11.5}
+        - {x: 23.580933, y: 3.5}
+        - {x: -19.419067, y: 3.5}
+        - {x: -40.419067, y: -2.5}
+        - {x: -58.419067, y: -29.5}
+        - {x: -58.419067, y: -52.5}
+        - {x: -50.419067, y: -81.5}
+        - {x: -45.419067, y: -84.5}
+        - {x: -19.419067, y: -84.5}
+        - {x: 91.58093, y: -34.5}
+        - {x: 102.58093, y: -22.5}
+        - {x: 102.58093, y: -17.5}
+    - name: opposing spearman attack_37
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 1446
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98.34448, y: -6.5}
+        - {x: 83.34448, y: 4.5}
+        - {x: -58.655518, y: 4.5}
+        - {x: -58.655518, y: -57.5}
+        - {x: -49.655518, y: -84.5}
+        - {x: -8.655518, y: -84.5}
+        - {x: 80.34448, y: -30.5}
+        - {x: 99.34448, y: -14.5}
+        - {x: 99.34448, y: -7.5}
+    - name: opposing spearman attack_38
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 1446
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.60791, y: 2.5}
+        - {x: 50.60791, y: 6.5}
+        - {x: -26.39209, y: 6.5}
+        - {x: -58.39209, y: -25.5}
+        - {x: -58.39209, y: -61.5}
+        - {x: -49.39209, y: -84.5}
+        - {x: 1.6079102, y: -84.5}
+        - {x: 88.60791, y: -25.5}
+        - {x: 97.60791, y: -8.5}
+        - {x: 97.60791, y: 0.5}
+    - name: opposing spearman attack_39
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 1446
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.12854, y: 7.5}
+        - {x: -57.12854, y: -19.5}
+        - {x: -57.12854, y: -67.5}
+        - {x: -49.12854, y: -84.5}
+        - {x: -20.12854, y: -84.5}
+        - {x: 83.87146, y: -16.5}
+        - {x: 95.87146, y: 0.5}
+        - {x: 95.87146, y: 7.5}
+    - name: opposing spearman attack_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 13.5}
+        - {x: -53.5, y: -8.5}
+        - {x: -59.5, y: -20.5}
+        - {x: -59.5, y: -80.5}
+        - {x: -57.5, y: -84.5}
+        - {x: 0.5, y: -84.5}
+        - {x: 86.5, y: -25.5}
+        - {x: 91.5, y: -7.5}
+        - {x: 91.5, y: 13.5}
+    - name: opposing spearman attack_41
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 964
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89.76349, y: 19.5}
+        - {x: -26.236511, y: 19.5}
+        - {x: -58.23651, y: -23.5}
+        - {x: -58.23651, y: -69.5}
+        - {x: -51.23651, y: -84.5}
+        - {x: -27.236511, y: -84.5}
+        - {x: -25.236511, y: -82.5}
+        - {x: -24.236511, y: -77.5}
+        - {x: 89.76349, y: -0.5}
+    - name: opposing spearman attack_42
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 964
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.52698, y: 26.5}
+        - {x: 74.52698, y: 26.5}
+        - {x: 62.526978, y: 24.5}
+        - {x: -4.4730225, y: -22.5}
+        - {x: -13.473022, y: -23.5}
+        - {x: -12.473022, y: -23.5}
+        - {x: -3.4730225, y: -10.5}
+        - {x: -7.4730225, y: 12.5}
+        - {x: -29.473022, y: 5.5}
+        - {x: -47.473022, y: -15.5}
+        - {x: -58.473022, y: -37.5}
+        - {x: -58.473022, y: -51.5}
+        - {x: -50.473022, y: -80.5}
+        - {x: -47.473022, y: -83.5}
+        - {x: -45.473022, y: -84.5}
+        - {x: -26.473022, y: -84.5}
+        - {x: -23.473022, y: -78.5}
+        - {x: 85.52698, y: 5.5}
+        - {x: 85.52698, y: 24.5}
+    - name: opposing spearman attack_43
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 964
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.29047, y: 13.5}
+        - {x: 81.29047, y: 32.5}
+        - {x: 71.29047, y: 32.5}
+        - {x: 58.290466, y: 29.5}
+        - {x: -6.7095337, y: 17.5}
+        - {x: -33.709534, y: 5.5}
+        - {x: -58.709534, y: -26.5}
+        - {x: -58.709534, y: -59.5}
+        - {x: -48.709534, y: -84.5}
+        - {x: -26.709534, y: -84.5}
+        - {x: -24.709534, y: -80.5}
+        - {x: -28.709534, y: -75.5}
+        - {x: 54.290466, y: -8.5}
+    - name: opposing spearman attack_44
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 964
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.553955, y: 37.5}
+        - {x: 51.553955, y: 31.5}
+        - {x: 49.553955, y: 27.5}
+        - {x: 7.553955, y: -7.5}
+        - {x: -7.446045, y: 11.5}
+        - {x: -27.446045, y: 21.5}
+        - {x: -58.446045, y: -25.5}
+        - {x: -58.446045, y: -68.5}
+        - {x: -49.446045, y: -84.5}
+        - {x: -17.446045, y: -84.5}
+        - {x: 76.553955, y: 15.5}
+        - {x: 76.553955, y: 37.5}
+    - name: opposing spearman attack_45
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 964
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.182556, y: 43.5}
+        - {x: -58.182556, y: -71.5}
+        - {x: -53.182556, y: -83.5}
+        - {x: -50.182556, y: -84.5}
+        - {x: -13.182556, y: -84.5}
+        - {x: 72.817444, y: 8.5}
+        - {x: 72.817444, y: 43.5}
+    - name: opposing spearman attack_46
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 964
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.58093, y: 48.5}
+        - {x: 59.580933, y: 48.5}
+        - {x: 43.580933, y: 38.5}
+        - {x: -11.419067, y: -16.5}
+        - {x: -11.419067, y: -18.5}
+        - {x: -15.419067, y: -18.5}
+        - {x: -14.419067, y: -18.5}
+        - {x: -12.419067, y: -17.5}
+        - {x: -6.4190674, y: -7.5}
+        - {x: -10.419067, y: 12.5}
+        - {x: -19.419067, y: 18.5}
+        - {x: -50.419067, y: -12.5}
+        - {x: -58.419067, y: -36.5}
+        - {x: -58.419067, y: -45.5}
+        - {x: -50.419067, y: -80.5}
+        - {x: -44.419067, y: -84.5}
+        - {x: -18.419067, y: -84.5}
+        - {x: 65.58093, y: 31.5}
+        - {x: 68.58093, y: 41.5}
+        - {x: 68.58093, y: 47.5}
+    - name: opposing spearman attack_47
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 964
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.344482, y: 53.5}
+        - {x: 39.344482, y: 49.5}
+        - {x: -19.655518, y: 19.5}
+        - {x: -58.655518, y: -5.5}
+        - {x: -58.655518, y: -84.5}
+        - {x: -13.655518, y: -84.5}
+        - {x: 25.344482, y: -37.5}
+        - {x: 62.344482, y: 22.5}
+        - {x: 62.344482, y: 53.5}
+    - name: opposing spearman attack_48
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 964
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.60791, y: 57.5}
+        - {x: 33.60791, y: 45.5}
+        - {x: -32.39209, y: 15.5}
+        - {x: -54.39209, y: -22.5}
+        - {x: -58.39209, y: -34.5}
+        - {x: -58.39209, y: -58.5}
+        - {x: -51.39209, y: -84.5}
+        - {x: -19.39209, y: -84.5}
+        - {x: 57.60791, y: 34.5}
+        - {x: 57.60791, y: 56.5}
+        - {x: 55.60791, y: 57.5}
+    - name: opposing spearman attack_49
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 964
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.12854, y: -84.5}
+        - {x: -14.12854, y: -84.5}
+        - {x: 52.87146, y: -0.5}
+        - {x: 52.87146, y: 62.5}
+        - {x: 44.87146, y: 62.5}
+        - {x: 12.87146, y: 53.5}
+        - {x: -57.12854, y: -9.5}
+    - name: opposing spearman attack_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 66.5}
+        - {x: 22.5, y: 66.5}
+        - {x: -39.5, y: 26.5}
+        - {x: -58.5, y: -9.5}
+        - {x: -58.5, y: -72.5}
+        - {x: -57.5, y: -84.5}
+        - {x: -23.5, y: -84.5}
+        - {x: -25.5, y: -77.5}
+        - {x: 45.5, y: 36.5}
+    - name: opposing spearman attack_51
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 482
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.763489, y: 69.5}
+        - {x: -57.23651, y: 41.5}
+        - {x: -57.23651, y: -84.5}
+        - {x: -20.236511, y: -84.5}
+        - {x: 41.76349, y: 43.5}
+        - {x: 41.76349, y: 69.5}
+    - name: opposing spearman attack_52
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 482
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.473022, y: -84.5}
+        - {x: 35.526978, y: 6.5}
+        - {x: 35.526978, y: 72.5}
+        - {x: 24.526978, y: 72.5}
+        - {x: -58.473022, y: 18.5}
+        - {x: -58.473022, y: -84.5}
+    - name: opposing spearman attack_53
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 482
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.709534, y: -27.5}
+        - {x: -24.709534, y: -33.5}
+        - {x: -24.709534, y: -35.5}
+        - {x: -26.709534, y: -39.5}
+        - {x: -26.709534, y: -44.5}
+        - {x: -23.709534, y: -55.5}
+        - {x: 29.290466, y: 28.5}
+        - {x: 29.290466, y: 75.5}
+        - {x: 22.290466, y: 75.5}
+        - {x: 8.290466, y: 62.5}
+        - {x: -30.709534, y: 22.5}
+        - {x: -57.709534, y: -16.5}
+        - {x: -58.709534, y: -20.5}
+        - {x: -58.709534, y: -58.5}
+        - {x: -48.709534, y: -84.5}
+        - {x: -22.709534, y: -84.5}
+        - {x: -24.709534, y: -77.5}
+        - {x: -26.709534, y: -39.5}
+        - {x: -24.709534, y: -34.5}
+    - name: opposing spearman attack_54
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 482
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.446045, y: -32.5}
+        - {x: -25.446045, y: -36.5}
+        - {x: -26.446045, y: -42.5}
+        - {x: -24.446045, y: -46.5}
+        - {x: -13.446045, y: -40.5}
+        - {x: 24.553955, y: 41.5}
+        - {x: 24.553955, y: 78.5}
+        - {x: -54.446045, y: 78.5}
+        - {x: -58.446045, y: 51.5}
+        - {x: -58.446045, y: -84.5}
+        - {x: -23.446045, y: -84.5}
+        - {x: -25.446045, y: -76.5}
+        - {x: -28.446045, y: -52.5}
+        - {x: -25.446045, y: -35.5}
+    - name: opposing spearman attack_55
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 482
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.817444, y: 80.5}
+        - {x: 1.8174438, y: 80.5}
+        - {x: -16.182556, y: 74.5}
+        - {x: -57.182556, y: -12.5}
+        - {x: -57.182556, y: -71.5}
+        - {x: -48.182556, y: -84.5}
+        - {x: -24.182556, y: -84.5}
+        - {x: 19.817444, y: 38.5}
+        - {x: 19.817444, y: 74.5}
+        - {x: 18.817444, y: 79.5}
+    - name: opposing spearman attack_56
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 482
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.419067, y: 82.5}
+        - {x: -57.419067, y: 11.5}
+        - {x: -57.419067, y: -81.5}
+        - {x: -53.419067, y: -84.5}
+        - {x: -22.419067, y: -84.5}
+        - {x: 14.580933, y: 33.5}
+        - {x: 14.580933, y: 77.5}
+        - {x: 13.580933, y: 82.5}
+    - name: opposing spearman attack_57
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 482
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.6555176, y: 83.5}
+        - {x: -3.6555176, y: 81.5}
+        - {x: -12.655518, y: 62.5}
+        - {x: -56.655518, y: 26.5}
+        - {x: -57.655518, y: 19.5}
+        - {x: -57.655518, y: -65.5}
+        - {x: -55.655518, y: -84.5}
+        - {x: -19.655518, y: -84.5}
+        - {x: 8.344482, y: 33.5}
+        - {x: 8.344482, y: 72.5}
+        - {x: 5.3444824, y: 83.5}
+    - name: opposing spearman attack_58
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 482
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.39209, y: 60.5}
+        - {x: -50.39209, y: 6.5}
+        - {x: -57.39209, y: -13.5}
+        - {x: -57.39209, y: -54.5}
+        - {x: -47.39209, y: -84.5}
+        - {x: -15.39209, y: -84.5}
+        - {x: 2.6079102, y: -81.5}
+        - {x: 3.6079102, y: -64.5}
+        - {x: 3.6079102, y: 84.5}
+        - {x: -8.39209, y: 84.5}
+        - {x: -11.39209, y: 81.5}
+    - name: opposing spearman attack_59
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 482
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.12854004, y: 49.5}
+        - {x: -0.12854004, y: 84.5}
+        - {x: -33.12854, y: 84.5}
+        - {x: -58.12854, y: 48.5}
+        - {x: -58.12854, y: -74.5}
+        - {x: -51.12854, y: -83.5}
+        - {x: -46.12854, y: -84.5}
+        - {x: -25.12854, y: -84.5}
+        - {x: -24.12854, y: -81.5}
+        - {x: -11.12854, y: -38.5}
+        - {x: -8.12854, y: 1.5}
+    - name: opposing spearman attack_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 84.5}
+        - {x: -60.5, y: 18.5}
+        - {x: -60.5, y: -60.5}
+        - {x: -49.5, y: -84.5}
+        - {x: -18.5, y: -84.5}
+        - {x: -7.5, y: -0.5}
+        - {x: -7.5, y: 77.5}
+        - {x: -9.5, y: 84.5}
+    - name: opposing spearman attack_61
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 584
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.236511, y: 84.5}
+        - {x: -34.23651, y: 69.5}
+        - {x: -51.23651, y: 15.5}
+        - {x: -60.23651, y: -14.5}
+        - {x: -60.23651, y: -35.5}
+        - {x: -57.23651, y: -46.5}
+        - {x: -54.23651, y: -50.5}
+        - {x: -49.23651, y: -80.5}
+        - {x: -44.23651, y: -84.5}
+        - {x: -11.236511, y: -84.5}
+        - {x: -11.236511, y: 81.5}
+        - {x: -16.236511, y: 84.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2262 @@
+fileFormatVersion: 2
+guid: b3921174d60485c4687606eef4a849d9
+timeCreated: 1456313270
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: opposing Swordsman attack_0
+    21300002: opposing Swordsman attack_1
+    21300004: opposing Swordsman attack_2
+    21300006: opposing Swordsman attack_3
+    21300008: opposing Swordsman attack_4
+    21300010: opposing Swordsman attack_5
+    21300012: opposing Swordsman attack_6
+    21300014: opposing Swordsman attack_7
+    21300016: opposing Swordsman attack_8
+    21300018: opposing Swordsman attack_9
+    21300020: opposing Swordsman attack_10
+    21300022: opposing Swordsman attack_11
+    21300024: opposing Swordsman attack_12
+    21300026: opposing Swordsman attack_13
+    21300028: opposing Swordsman attack_14
+    21300030: opposing Swordsman attack_15
+    21300032: opposing Swordsman attack_16
+    21300034: opposing Swordsman attack_17
+    21300036: opposing Swordsman attack_18
+    21300038: opposing Swordsman attack_19
+    21300040: opposing Swordsman attack_20
+    21300042: opposing Swordsman attack_21
+    21300044: opposing Swordsman attack_22
+    21300046: opposing Swordsman attack_23
+    21300048: opposing Swordsman attack_24
+    21300050: opposing Swordsman attack_25
+    21300052: opposing Swordsman attack_26
+    21300054: opposing Swordsman attack_27
+    21300056: opposing Swordsman attack_28
+    21300058: opposing Swordsman attack_29
+    21300060: opposing Swordsman attack_30
+    21300062: opposing Swordsman attack_31
+    21300064: opposing Swordsman attack_32
+    21300066: opposing Swordsman attack_33
+    21300068: opposing Swordsman attack_34
+    21300070: opposing Swordsman attack_35
+    21300072: opposing Swordsman attack_36
+    21300074: opposing Swordsman attack_37
+    21300076: opposing Swordsman attack_38
+    21300078: opposing Swordsman attack_39
+    21300080: opposing Swordsman attack_40
+    21300082: opposing Swordsman attack_41
+    21300084: opposing Swordsman attack_42
+    21300086: opposing Swordsman attack_43
+    21300088: opposing Swordsman attack_44
+    21300090: opposing Swordsman attack_45
+    21300092: opposing Swordsman attack_46
+    21300094: opposing Swordsman attack_47
+    21300096: opposing Swordsman attack_48
+    21300098: opposing Swordsman attack_49
+    21300100: opposing Swordsman attack_50
+    21300102: opposing Swordsman attack_51
+    21300104: opposing Swordsman attack_52
+    21300106: opposing Swordsman attack_53
+    21300108: opposing Swordsman attack_54
+    21300110: opposing Swordsman attack_55
+    21300112: opposing Swordsman attack_56
+    21300114: opposing Swordsman attack_57
+    21300116: opposing Swordsman attack_58
+    21300118: opposing Swordsman attack_59
+    21300120: opposing Swordsman attack_60
+    21300122: opposing Swordsman attack_61
+    21300124: opposing Swordsman attack_62
+    21300126: opposing Swordsman attack_63
+    21300128: opposing Swordsman attack_64
+    21300130: opposing Swordsman attack_65
+    21300132: opposing Swordsman attack_66
+    21300134: opposing Swordsman attack_67
+    21300136: opposing Swordsman attack_68
+    21300138: opposing Swordsman attack_69
+    21300140: opposing Swordsman attack_70
+    21300142: opposing Swordsman attack_71
+    21300144: opposing Swordsman attack_72
+    21300146: opposing Swordsman attack_73
+    21300148: opposing Swordsman attack_74
+    21300150: opposing Swordsman attack_75
+    21300152: opposing Swordsman attack_76
+    21300154: opposing Swordsman attack_77
+    21300156: opposing Swordsman attack_78
+    21300158: opposing Swordsman attack_79
+    21300160: opposing Swordsman attack_80
+    21300162: opposing Swordsman attack_81
+    21300164: opposing Swordsman attack_82
+    21300166: opposing Swordsman attack_83
+    21300168: opposing Swordsman attack_84
+    21300170: opposing Swordsman attack_85
+    21300172: opposing Swordsman attack_86
+    21300174: opposing Swordsman attack_87
+    21300176: opposing Swordsman attack_88
+    21300178: opposing Swordsman attack_89
+    21300180: opposing Swordsman attack_90
+    21300182: opposing Swordsman attack_91
+    21300184: opposing Swordsman attack_92
+    21300186: opposing Swordsman attack_93
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: opposing Swordsman attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3123
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 62.700073}
+        - {x: -29, y: 62.700073}
+        - {x: -42, y: 60.700073}
+        - {x: -87, y: -6.2999268}
+        - {x: -87, y: -17.299927}
+        - {x: -86, y: -23.299927}
+        - {x: -78, y: -19.299927}
+        - {x: -65, y: -3.2999268}
+        - {x: -46, y: -97.29993}
+        - {x: -35, y: -102.29993}
+        - {x: 18, y: -102.29993}
+        - {x: 22, y: -70.29993}
+        - {x: 22, y: 28.700073}
+    - name: opposing Swordsman attack_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 3123
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.454758, y: 62.700073}
+        - {x: -37.545242, y: 62.700073}
+        - {x: -89.54524, y: 1.7000732}
+        - {x: -90.54524, y: -3.2999268}
+        - {x: -90.54524, y: -7.2999268}
+        - {x: -88.54524, y: -10.299927}
+        - {x: -79.54524, y: -9.299927}
+        - {x: -37.545242, y: -97.29993}
+        - {x: -33.545242, y: -102.29993}
+        - {x: 7.4547577, y: -102.29993}
+        - {x: 22.454758, y: -98.29993}
+        - {x: 22.454758, y: -93.29993}
+        - {x: 16.454758, y: -84.29993}
+        - {x: 22.454758, y: -51.299927}
+        - {x: 22.454758, y: 13.700073}
+    - name: opposing Swordsman attack_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 3123
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.590485, y: 62.700073}
+        - {x: -91.590485, y: 14.700073}
+        - {x: -91.590485, y: -4.2999268}
+        - {x: -67.590485, y: -82.29993}
+        - {x: -50.590485, y: -102.29993}
+        - {x: 21.409515, y: -102.29993}
+        - {x: 21.409515, y: 62.700073}
+    - name: opposing Swordsman attack_3
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 3123
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.6357422, y: 63.700073}
+        - {x: -32.635742, y: 63.700073}
+        - {x: -88.63574, y: 28.700073}
+        - {x: -93.63574, y: 18.700073}
+        - {x: -93.63574, y: 14.700073}
+        - {x: -90.63574, y: 12.700073}
+        - {x: -42.635742, y: -102.29993}
+        - {x: 20.364258, y: -102.29993}
+        - {x: 20.364258, y: 42.700073}
+        - {x: 16.364258, y: 56.700073}
+    - name: opposing Swordsman attack_4
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 3123
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.68097, y: 63.700073}
+        - {x: -85.68097, y: 35.700073}
+        - {x: -91.68097, y: 30.700073}
+        - {x: -91.68097, y: 0.70007324}
+        - {x: -49.68097, y: -101.29993}
+        - {x: -45.68097, y: -102.29993}
+        - {x: 9.319031, y: -102.29993}
+        - {x: 19.31903, y: -100.29993}
+        - {x: 20.31903, y: -99.29993}
+        - {x: 20.31903, y: 63.700073}
+    - name: opposing Swordsman attack_5
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 3123
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.726196, y: 63.700073}
+        - {x: -85.7262, y: 47.700073}
+        - {x: -89.7262, y: 41.700073}
+        - {x: -89.7262, y: 34.700073}
+        - {x: -83.7262, y: 31.700073}
+        - {x: -42.726196, y: -102.29993}
+        - {x: 18.273804, y: -102.29993}
+        - {x: 18.273804, y: 50.700073}
+        - {x: 9.273804, y: 63.700073}
+    - name: opposing Swordsman attack_6
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 3123
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.771484, y: 62.700073}
+        - {x: -80.771484, y: 56.700073}
+        - {x: -84.771484, y: 50.700073}
+        - {x: -84.771484, y: 45.700073}
+        - {x: -78.771484, y: 42.700073}
+        - {x: -39.771484, y: -100.29993}
+        - {x: -31.771484, y: -102.29993}
+        - {x: 18.228516, y: -102.29993}
+        - {x: 18.228516, y: 50.700073}
+        - {x: 10.228516, y: 62.700073}
+    - name: opposing Swordsman attack_7
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 3123
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.81665, y: 65.70007}
+        - {x: -77.81665, y: 65.70007}
+        - {x: -79.81665, y: 63.700073}
+        - {x: -79.81665, y: 31.700073}
+        - {x: -40.81665, y: -100.29993}
+        - {x: -33.81665, y: -102.29993}
+        - {x: 16.18335, y: -102.29993}
+        - {x: 16.18335, y: 59.700073}
+        - {x: 15.18335, y: 64.70007}
+    - name: opposing Swordsman attack_8
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 3123
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.86194, y: 74.70007}
+        - {x: -70.86194, y: 65.70007}
+        - {x: -67.86194, y: 60.700073}
+        - {x: -35.86194, y: -102.29993}
+        - {x: 8.138062, y: -102.29993}
+        - {x: 20.138062, y: -98.29993}
+        - {x: 20.138062, y: 62.700073}
+        - {x: -28.861938, y: 74.70007}
+    - name: opposing Swordsman attack_9
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 3123
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.907227, y: 81.70007}
+        - {x: -63.907227, y: 76.70007}
+        - {x: -58.907227, y: 70.70007}
+        - {x: -51.907227, y: -17.299927}
+        - {x: -33.907227, y: -102.29993}
+        - {x: 22.092773, y: -102.29993}
+        - {x: 25.092773, y: -101.29993}
+        - {x: 25.092773, y: 61.700073}
+        - {x: -47.907227, y: 81.70007}
+    - name: opposing Swordsman attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2776
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 89.400024}
+        - {x: -54, y: 88.400024}
+        - {x: -54, y: 68.400024}
+        - {x: -47, y: -102.599976}
+        - {x: 16, y: -102.599976}
+        - {x: 29, y: -47.599976}
+        - {x: 29, y: 75.400024}
+        - {x: -34, y: 89.400024}
+      - - {x: -22, y: 103.400024}
+        - {x: -21, y: 100.400024}
+        - {x: -12, y: 100.400024}
+        - {x: -10, y: 102.400024}
+        - {x: -10, y: 103.400024}
+    - name: opposing Swordsman attack_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2776
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.454758, y: 53.400024}
+        - {x: -31.545242, y: 93.400024}
+        - {x: -39.545242, y: 94.400024}
+        - {x: -41.545242, y: 94.400024}
+        - {x: -41.545242, y: -53.599976}
+        - {x: -40.545242, y: -101.599976}
+        - {x: -36.545242, y: -102.599976}
+        - {x: 20.454758, y: -102.599976}
+        - {x: 26.454758, y: -100.599976}
+        - {x: 35.454758, y: 11.400024}
+        - {x: 35.454758, y: 43.400024}
+      - - {x: -20.545242, y: 103.400024}
+        - {x: -19.545242, y: 100.400024}
+        - {x: -11.545242, y: 100.400024}
+        - {x: -9.545242, y: 102.400024}
+        - {x: -9.545242, y: 103.400024}
+    - name: opposing Swordsman attack_12
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2776
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.590485, y: 98.400024}
+        - {x: -36.590485, y: 98.400024}
+        - {x: -36.590485, y: -102.599976}
+        - {x: 23.409515, y: -102.599976}
+        - {x: 25.409515, y: -96.599976}
+        - {x: 39.409515, y: -0.5999756}
+        - {x: 39.409515, y: 46.400024}
+      - - {x: -19.590485, y: 103.400024}
+        - {x: -18.590485, y: 100.400024}
+        - {x: -10.590485, y: 100.400024}
+        - {x: -8.590485, y: 102.400024}
+        - {x: -8.590485, y: 103.400024}
+    - name: opposing Swordsman attack_13
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2776
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.635742, y: 103.400024}
+        - {x: -37.635742, y: 20.400024}
+        - {x: -37.635742, y: -77.599976}
+        - {x: -31.635742, y: -98.599976}
+        - {x: -29.635742, y: -102.599976}
+        - {x: 11.364258, y: -102.599976}
+        - {x: 26.364258, y: -99.599976}
+        - {x: 41.364258, y: -5.5999756}
+        - {x: 41.364258, y: 51.400024}
+        - {x: -8.635742, y: 103.400024}
+    - name: opposing Swordsman attack_14
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 2776
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.680969, y: 101.400024}
+        - {x: -36.68097, y: 54.400024}
+        - {x: -37.68097, y: 34.400024}
+        - {x: -37.68097, y: -102.599976}
+        - {x: 13.319031, y: -102.599976}
+        - {x: 44.31903, y: -82.599976}
+        - {x: 44.31903, y: 101.400024}
+      - - {x: -18.68097, y: 103.400024}
+        - {x: -17.68097, y: 100.400024}
+        - {x: -10.680969, y: 100.400024}
+        - {x: -8.680969, y: 102.400024}
+        - {x: -8.680969, y: 103.400024}
+    - name: opposing Swordsman attack_15
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2776
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.273804, y: 98.400024}
+        - {x: 15.273804, y: 101.400024}
+        - {x: 10.273804, y: 101.400024}
+        - {x: 6.2738037, y: 99.400024}
+        - {x: 5.2738037, y: 92.400024}
+        - {x: 18.273804, y: 51.400024}
+        - {x: 21.273804, y: 30.400024}
+        - {x: 24.273804, y: 26.400024}
+        - {x: 20.273804, y: 27.400024}
+        - {x: 20.273804, y: 34.400024}
+        - {x: 16.273804, y: 53.400024}
+        - {x: 11.273804, y: 63.400024}
+        - {x: -17.726196, y: 66.400024}
+        - {x: -37.726196, y: -7.5999756}
+        - {x: -37.726196, y: -85.599976}
+        - {x: -35.726196, y: -98.599976}
+        - {x: -27.726196, y: -102.599976}
+        - {x: 11.273804, y: -102.599976}
+        - {x: 20.273804, y: -96.599976}
+        - {x: 45.273804, y: -15.599976}
+        - {x: 45.273804, y: 36.400024}
+      - - {x: -19.726196, y: 103.400024}
+        - {x: -18.726196, y: 100.400024}
+        - {x: -11.726196, y: 100.400024}
+        - {x: -9.726196, y: 102.400024}
+        - {x: -9.726196, y: 103.400024}
+    - name: opposing Swordsman attack_16
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 2776
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.228516, y: 98.400024}
+        - {x: 18.228516, y: 96.400024}
+        - {x: 18.228516, y: 84.400024}
+        - {x: -24.771484, y: 53.400024}
+        - {x: -37.771484, y: -18.599976}
+        - {x: -37.771484, y: -73.599976}
+        - {x: -33.771484, y: -102.599976}
+        - {x: 46.228516, y: -102.599976}
+        - {x: 47.228516, y: -64.599976}
+        - {x: 47.228516, y: 98.400024}
+      - - {x: -18.771484, y: 103.400024}
+        - {x: -17.771484, y: 100.400024}
+        - {x: -10.771484, y: 100.400024}
+        - {x: -8.771484, y: 102.400024}
+        - {x: -8.771484, y: 103.400024}
+    - name: opposing Swordsman attack_17
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2776
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.18335, y: -10.599976}
+        - {x: 47.18335, y: 89.400024}
+        - {x: 39.18335, y: 93.400024}
+        - {x: 34.18335, y: 93.400024}
+        - {x: 30.18335, y: 86.400024}
+        - {x: 30.18335, y: 36.400024}
+        - {x: 11.18335, y: 63.400024}
+        - {x: -15.81665, y: 63.400024}
+        - {x: -37.81665, y: 4.4000244}
+        - {x: -37.81665, y: -102.599976}
+        - {x: 10.18335, y: -102.599976}
+        - {x: 17.18335, y: -97.599976}
+        - {x: 12.18335, y: -86.599976}
+        - {x: 9.18335, y: -85.599976}
+      - - {x: -18.81665, y: 103.400024}
+        - {x: -17.81665, y: 100.400024}
+        - {x: -10.81665, y: 100.400024}
+        - {x: -8.81665, y: 102.400024}
+        - {x: -8.81665, y: 103.400024}
+    - name: opposing Swordsman attack_18
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 2776
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.13806, y: 87.400024}
+        - {x: 27.138062, y: 87.400024}
+        - {x: -36.86194, y: 53.400024}
+        - {x: -37.86194, y: 33.400024}
+        - {x: -37.86194, y: -101.599976}
+        - {x: -33.86194, y: -102.599976}
+        - {x: 8.138062, y: -102.599976}
+        - {x: 18.138062, y: -93.599976}
+        - {x: 27.138062, y: -67.599976}
+        - {x: 53.13806, y: 12.400024}
+      - - {x: -18.861938, y: 103.400024}
+        - {x: -17.861938, y: 100.400024}
+        - {x: -9.861938, y: 100.400024}
+        - {x: -7.8619385, y: 102.400024}
+        - {x: -7.8619385, y: 103.400024}
+    - name: opposing Swordsman attack_19
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 2776
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.092773, y: 79.400024}
+        - {x: 56.092773, y: 79.400024}
+        - {x: 51.092773, y: 74.400024}
+        - {x: -38.907227, y: 65.400024}
+        - {x: -38.907227, y: -102.599976}
+        - {x: 21.092773, y: -102.599976}
+        - {x: 25.092773, y: -101.599976}
+        - {x: 59.092773, y: 6.4000244}
+        - {x: 63.092773, y: 58.400024}
+      - - {x: -18.907227, y: 103.400024}
+        - {x: -17.907227, y: 100.400024}
+        - {x: -9.907227, y: 100.400024}
+        - {x: -7.9072266, y: 102.400024}
+        - {x: -7.9072266, y: 103.400024}
+    - name: opposing Swordsman attack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2429
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 70.599976}
+        - {x: -39, y: 46.599976}
+        - {x: -39, y: -102.400024}
+        - {x: 27, y: -102.400024}
+        - {x: 71, y: 14.599976}
+        - {x: 71, y: 70.599976}
+      - - {x: -19, y: 103.599976}
+        - {x: -18, y: 100.599976}
+        - {x: -11, y: 100.599976}
+        - {x: -9, y: 102.599976}
+        - {x: -9, y: 103.599976}
+    - name: opposing Swordsman attack_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2429
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.45476, y: 61.599976}
+        - {x: 78.45476, y: 61.599976}
+        - {x: 65.45476, y: 55.599976}
+        - {x: 28.454758, y: 61.599976}
+        - {x: -23.545242, y: 61.599976}
+        - {x: -38.545242, y: 0.5999756}
+        - {x: -38.545242, y: -79.400024}
+        - {x: -31.545242, y: -102.400024}
+        - {x: 15.454758, y: -102.400024}
+        - {x: 20.454758, y: -101.400024}
+        - {x: 62.454758, y: -10.400024}
+        - {x: 80.45476, y: 49.599976}
+        - {x: 80.45476, y: 60.599976}
+      - - {x: -17.545242, y: 103.599976}
+        - {x: -16.545242, y: 100.599976}
+        - {x: -9.545242, y: 100.599976}
+        - {x: -7.5452423, y: 102.599976}
+        - {x: -7.5452423, y: 103.599976}
+    - name: opposing Swordsman attack_22
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2429
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.409515, y: 45.599976}
+        - {x: 85.409515, y: 50.599976}
+        - {x: 78.409515, y: 48.599976}
+        - {x: 61.409515, y: 29.599976}
+        - {x: 9.409515, y: 61.599976}
+        - {x: -13.590485, y: 61.599976}
+        - {x: -37.590485, y: 17.599976}
+        - {x: -37.590485, y: -55.400024}
+        - {x: -29.590485, y: -98.400024}
+        - {x: -23.590485, y: -102.400024}
+        - {x: 10.409515, y: -102.400024}
+        - {x: 17.409515, y: -93.400024}
+        - {x: 9.409515, y: -83.400024}
+        - {x: 87.409515, y: 36.599976}
+      - - {x: -16.590485, y: 103.599976}
+        - {x: -15.590485, y: 100.599976}
+        - {x: -8.590485, y: 100.599976}
+        - {x: -6.5904846, y: 102.599976}
+        - {x: -6.5904846, y: 103.599976}
+    - name: opposing Swordsman attack_23
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2429
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.36426, y: 37.599976}
+        - {x: 78.36426, y: 32.599976}
+        - {x: 33.364258, y: -2.4000244}
+        - {x: 28.364258, y: -7.4000244}
+        - {x: 28.364258, y: -9.400024}
+        - {x: 28.364258, y: -7.4000244}
+        - {x: 24.364258, y: 52.599976}
+        - {x: 23.364258, y: 61.599976}
+        - {x: -21.635742, y: 61.599976}
+        - {x: -26.635742, y: 60.599976}
+        - {x: -38.635742, y: 21.599976}
+        - {x: -38.635742, y: -102.400024}
+        - {x: 17.364258, y: -102.400024}
+        - {x: 21.364258, y: -97.400024}
+        - {x: 92.36426, y: 25.599976}
+        - {x: 92.36426, y: 35.599976}
+      - - {x: -16.635742, y: 103.599976}
+        - {x: -15.635742, y: 100.599976}
+        - {x: -8.635742, y: 100.599976}
+        - {x: -6.635742, y: 102.599976}
+        - {x: -6.635742, y: 103.599976}
+    - name: opposing Swordsman attack_24
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 2429
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94.31903, y: 54.599976}
+        - {x: 88.31903, y: 60.599976}
+        - {x: -12.680969, y: 60.599976}
+        - {x: -37.68097, y: 8.599976}
+        - {x: -37.68097, y: -67.400024}
+        - {x: -28.68097, y: -102.400024}
+        - {x: 15.319031, y: -102.400024}
+        - {x: 15.319031, y: -86.400024}
+        - {x: 8.319031, y: -84.400024}
+        - {x: 94.31903, y: -28.400024}
+      - - {x: -16.68097, y: 103.599976}
+        - {x: -15.680969, y: 100.599976}
+        - {x: -8.680969, y: 100.599976}
+        - {x: -6.680969, y: 102.599976}
+        - {x: -6.680969, y: 103.599976}
+    - name: opposing Swordsman attack_25
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2429
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.273804, y: 60.599976}
+        - {x: -9.726196, y: 60.599976}
+        - {x: -11.726196, y: 58.599976}
+        - {x: -38.726196, y: 25.599976}
+        - {x: -38.726196, y: -102.400024}
+        - {x: 18.273804, y: -102.400024}
+        - {x: 20.273804, y: -101.400024}
+        - {x: 94.2738, y: -9.400024}
+        - {x: 94.2738, y: 35.599976}
+      - - {x: -16.726196, y: 103.599976}
+        - {x: -15.726196, y: 100.599976}
+        - {x: -8.726196, y: 100.599976}
+        - {x: -6.7261963, y: 102.599976}
+        - {x: -6.7261963, y: 103.599976}
+    - name: opposing Swordsman attack_26
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 2429
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.771484, y: 60.599976}
+        - {x: -38.771484, y: 27.599976}
+        - {x: -38.771484, y: -102.400024}
+        - {x: 27.228516, y: -102.400024}
+        - {x: 94.228516, y: -21.400024}
+        - {x: 94.228516, y: 31.599976}
+        - {x: 46.228516, y: 60.599976}
+      - - {x: -15.771484, y: 103.599976}
+        - {x: -14.771484, y: 100.599976}
+        - {x: -7.7714844, y: 100.599976}
+        - {x: -5.7714844, y: 102.599976}
+        - {x: -5.7714844, y: 103.599976}
+    - name: opposing Swordsman attack_27
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2429
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.81665, y: 60.599976}
+        - {x: -38.81665, y: 19.599976}
+        - {x: -38.81665, y: -89.400024}
+        - {x: -33.81665, y: -100.400024}
+        - {x: -28.81665, y: -102.400024}
+        - {x: 44.18335, y: -102.400024}
+        - {x: 92.18335, y: -57.400024}
+        - {x: 92.18335, y: 46.599976}
+        - {x: 80.18335, y: 60.599976}
+      - - {x: -15.81665, y: 103.599976}
+        - {x: -14.81665, y: 100.599976}
+        - {x: -7.8166504, y: 100.599976}
+        - {x: -5.8166504, y: 102.599976}
+        - {x: -5.8166504, y: 103.599976}
+    - name: opposing Swordsman attack_28
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 2429
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.13806, y: 60.599976}
+        - {x: -14.861938, y: 60.599976}
+        - {x: -38.86194, y: 28.599976}
+        - {x: -38.86194, y: -56.400024}
+        - {x: -25.861938, y: -102.400024}
+        - {x: 12.138062, y: -102.400024}
+        - {x: 20.138062, y: -97.400024}
+        - {x: 90.13806, y: -26.400024}
+        - {x: 90.13806, y: 11.599976}
+      - - {x: -14.861938, y: 103.599976}
+        - {x: -13.861938, y: 100.599976}
+        - {x: -7.8619385, y: 100.599976}
+        - {x: -5.8619385, y: 102.599976}
+        - {x: -5.8619385, y: 103.599976}
+    - name: opposing Swordsman attack_29
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 2429
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.092773, y: 60.599976}
+        - {x: -16.907227, y: 60.599976}
+        - {x: -39.907227, y: 28.599976}
+        - {x: -39.907227, y: -75.400024}
+        - {x: -35.907227, y: -102.400024}
+        - {x: 10.092773, y: -102.400024}
+        - {x: 14.092773, y: -96.400024}
+        - {x: 86.09277, y: -30.400024}
+        - {x: 86.09277, y: -3.4000244}
+      - - {x: -14.907227, y: 103.599976}
+        - {x: -13.907227, y: 100.599976}
+        - {x: -7.9072266, y: 100.599976}
+        - {x: -5.9072266, y: 102.599976}
+        - {x: -5.9072266, y: 103.599976}
+    - name: opposing Swordsman attack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2082
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: -39.19995}
+        - {x: 82, y: -33.19995}
+        - {x: 82, y: -26.199951}
+        - {x: 50, y: -20.199951}
+        - {x: 36, y: 58.80005}
+        - {x: 23, y: 60.80005}
+        - {x: -15, y: 60.80005}
+        - {x: -40, y: 31.800049}
+        - {x: -40, y: -102.19995}
+        - {x: 7, y: -102.19995}
+        - {x: 13, y: -97.19995}
+        - {x: 11, y: -88.19995}
+        - {x: 6, y: -85.19995}
+      - - {x: -15, y: 103.80005}
+        - {x: -14, y: 100.80005}
+        - {x: -9, y: 100.80005}
+        - {x: -7, y: 102.80005}
+        - {x: -7, y: 103.80005}
+    - name: opposing Swordsman attack_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2082
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.545242, y: 59.80005}
+        - {x: -39.545242, y: 37.80005}
+        - {x: -39.545242, y: -96.19995}
+        - {x: -38.545242, y: -102.19995}
+        - {x: 30.454758, y: -102.19995}
+        - {x: 78.45476, y: -58.19995}
+        - {x: 78.45476, y: -6.199951}
+        - {x: 36.454758, y: 59.80005}
+      - - {x: -12.545242, y: 103.80005}
+        - {x: -11.545242, y: 100.80005}
+        - {x: -7.5452423, y: 100.80005}
+        - {x: -5.5452423, y: 102.80005}
+        - {x: -5.5452423, y: 103.80005}
+    - name: opposing Swordsman attack_32
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2082
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.409515, y: -47.19995}
+        - {x: 73.409515, y: -42.19995}
+        - {x: 67.409515, y: -38.19995}
+        - {x: 34.409515, y: 58.80005}
+        - {x: 32.409515, y: 59.80005}
+        - {x: -13.590485, y: 59.80005}
+        - {x: -38.590485, y: 35.80005}
+        - {x: -38.590485, y: -102.19995}
+        - {x: 8.409515, y: -102.19995}
+        - {x: 15.409515, y: -97.19995}
+        - {x: 12.409515, y: -89.19995}
+        - {x: 72.409515, y: -52.19995}
+    - name: opposing Swordsman attack_33
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2082
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.635742, y: -102.19995}
+        - {x: 64.36426, y: -102.19995}
+        - {x: 67.36426, y: -101.19995}
+        - {x: 67.36426, y: 17.800049}
+        - {x: 40.364258, y: 59.80005}
+        - {x: -7.635742, y: 59.80005}
+        - {x: -21.635742, y: 55.80005}
+        - {x: -39.635742, y: 41.80005}
+    - name: opposing Swordsman attack_34
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 2082
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.680969, y: 59.80005}
+        - {x: -39.68097, y: 33.80005}
+        - {x: -39.68097, y: -61.19995}
+        - {x: -32.68097, y: -102.19995}
+        - {x: 59.31903, y: -102.19995}
+        - {x: 61.31903, y: -101.19995}
+        - {x: 61.31903, y: 59.80005}
+    - name: opposing Swordsman attack_35
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2082
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.726196, y: 30.800049}
+        - {x: -39.726196, y: -56.19995}
+        - {x: -32.726196, y: -102.19995}
+        - {x: 53.273804, y: -102.19995}
+        - {x: 53.273804, y: 59.80005}
+        - {x: -15.726196, y: 59.80005}
+        - {x: -16.726196, y: 58.80005}
+    - name: opposing Swordsman attack_36
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 2082
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.7714844, y: 59.80005}
+        - {x: -39.771484, y: 25.800049}
+        - {x: -39.771484, y: -102.19995}
+        - {x: 34.228516, y: -102.19995}
+        - {x: 46.228516, y: -95.19995}
+        - {x: 46.228516, y: 25.800049}
+        - {x: 27.228516, y: 59.80005}
+    - name: opposing Swordsman attack_37
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2082
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.18335, y: 59.80005}
+        - {x: -7.8166504, y: 59.80005}
+        - {x: -43.81665, y: 36.80005}
+        - {x: -43.81665, y: -74.19995}
+        - {x: -38.81665, y: -102.19995}
+        - {x: 9.18335, y: -102.19995}
+        - {x: 39.18335, y: -72.19995}
+        - {x: 39.18335, y: -13.199951}
+        - {x: 36.18335, y: 50.80005}
+    - name: opposing Swordsman attack_38
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 2082
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.138062, y: 58.80005}
+        - {x: -7.8619385, y: 58.80005}
+        - {x: -46.86194, y: 33.80005}
+        - {x: -46.86194, y: -42.19995}
+        - {x: -45.86194, y: -49.19995}
+        - {x: -21.861938, y: -102.19995}
+        - {x: 9.138062, y: -102.19995}
+        - {x: 14.138062, y: -100.19995}
+        - {x: 12.138062, y: -89.19995}
+        - {x: 32.13806, y: -76.19995}
+        - {x: 32.13806, y: 56.80005}
+    - name: opposing Swordsman attack_39
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 2082
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.092773, y: -79.19995}
+        - {x: 23.092773, y: -76.19995}
+        - {x: 30.092773, y: 8.800049}
+        - {x: 30.092773, y: 51.80005}
+        - {x: 22.092773, y: 58.80005}
+        - {x: 4.0927734, y: 58.80005}
+        - {x: -9.907227, y: 51.80005}
+        - {x: -46.907227, y: 15.800049}
+        - {x: -50.907227, y: 5.800049}
+        - {x: -50.907227, y: -45.19995}
+        - {x: -29.907227, y: -102.19995}
+        - {x: 6.0927734, y: -102.19995}
+        - {x: 11.092773, y: -97.19995}
+        - {x: 11.092773, y: -88.19995}
+        - {x: 1.0927734, y: -84.19995}
+    - name: opposing Swordsman attack_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1735
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 57.5}
+        - {x: -48, y: 37.5}
+        - {x: -54, y: 7.5}
+        - {x: -54, y: -36.5}
+        - {x: -23, y: -102.5}
+        - {x: 25, y: -102.5}
+        - {x: 30, y: -12.5}
+        - {x: 30, y: 51.5}
+        - {x: 27, y: 57.5}
+    - name: opposing Swordsman attack_41
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1735
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.454758, y: 57.5}
+        - {x: 6.4547577, y: 57.5}
+        - {x: -31.545242, y: 34.5}
+        - {x: -54.545242, y: 4.5}
+        - {x: -54.545242, y: -20.5}
+        - {x: -23.545242, y: -102.5}
+        - {x: 16.454758, y: -102.5}
+        - {x: 18.454758, y: -101.5}
+        - {x: 31.454758, y: 12.5}
+        - {x: 31.454758, y: 51.5}
+    - name: opposing Swordsman attack_42
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1735
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.590485, y: 57.5}
+        - {x: -55.590485, y: 8.5}
+        - {x: -55.590485, y: -48.5}
+        - {x: -34.590485, y: -102.5}
+        - {x: 16.409515, y: -102.5}
+        - {x: 32.409515, y: -53.5}
+        - {x: 32.409515, y: 57.5}
+    - name: opposing Swordsman attack_43
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1735
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.3642578, y: 56.5}
+        - {x: -56.635742, y: 15.5}
+        - {x: -56.635742, y: -24.5}
+        - {x: -24.635742, y: -102.5}
+        - {x: 26.364258, y: -102.5}
+        - {x: 32.364258, y: -40.5}
+        - {x: 32.364258, y: 56.5}
+    - name: opposing Swordsman attack_44
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1735
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.31903, y: 56.5}
+        - {x: -4.680969, y: 56.5}
+        - {x: -56.68097, y: 11.5}
+        - {x: -56.68097, y: -68.5}
+        - {x: -31.68097, y: -102.5}
+        - {x: 20.31903, y: -102.5}
+        - {x: 33.31903, y: -9.5}
+        - {x: 33.31903, y: 52.5}
+    - name: opposing Swordsman attack_45
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1735
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.2738037, y: 56.5}
+        - {x: -56.726196, y: 21.5}
+        - {x: -56.726196, y: -17.5}
+        - {x: -27.726196, y: -101.5}
+        - {x: -23.726196, y: -102.5}
+        - {x: 8.273804, y: -102.5}
+        - {x: 33.273804, y: 12.5}
+        - {x: 33.273804, y: 54.5}
+        - {x: 31.273804, y: 56.5}
+    - name: opposing Swordsman attack_46
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1735
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.2285156, y: 56.5}
+        - {x: -56.771484, y: 27.5}
+        - {x: -56.771484, y: -29.5}
+        - {x: -22.771484, y: -102.5}
+        - {x: 18.228516, y: -102.5}
+        - {x: 33.228516, y: 10.5}
+        - {x: 33.228516, y: 50.5}
+        - {x: 26.228516, y: 56.5}
+    - name: opposing Swordsman attack_47
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1735
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.81665, y: -32.5}
+        - {x: -27.81665, y: -102.5}
+        - {x: 32.18335, y: -102.5}
+        - {x: 32.18335, y: 56.5}
+        - {x: -13.81665, y: 56.5}
+        - {x: -54.81665, y: 13.5}
+    - name: opposing Swordsman attack_48
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1735
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.138062, y: -75.5}
+        - {x: 23.138062, y: -72.5}
+        - {x: 21.138062, y: -64.5}
+        - {x: 33.13806, y: 9.5}
+        - {x: 33.13806, y: 47.5}
+        - {x: 24.138062, y: 56.5}
+        - {x: 6.1380615, y: 56.5}
+        - {x: 4.1380615, y: 55.5}
+        - {x: -2.8619385, y: 47.5}
+        - {x: -6.8619385, y: 42.5}
+        - {x: -37.86194, y: 25.5}
+        - {x: -51.86194, y: -6.5}
+        - {x: -51.86194, y: -23.5}
+        - {x: -40.86194, y: -41.5}
+        - {x: -26.861938, y: -49.5}
+        - {x: -22.861938, y: -98.5}
+        - {x: -20.861938, y: -102.5}
+        - {x: 7.1380615, y: -102.5}
+        - {x: 10.138062, y: -99.5}
+        - {x: 10.138062, y: -90.5}
+        - {x: 5.1380615, y: -87.5}
+    - name: opposing Swordsman attack_49
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 1735
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.907227, y: 57.5}
+        - {x: -46.907227, y: 12.5}
+        - {x: -46.907227, y: -102.5}
+        - {x: 36.092773, y: -102.5}
+        - {x: 36.092773, y: 52.5}
+        - {x: 30.092773, y: 57.5}
+    - name: opposing Swordsman attack_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1388
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 57.700012}
+        - {x: -41, y: 54.700012}
+        - {x: -41, y: -81.29999}
+        - {x: -38, y: -102.29999}
+        - {x: 10, y: -102.29999}
+        - {x: 17, y: -100.29999}
+        - {x: 50, y: -73.29999}
+        - {x: 50, y: 17.700012}
+        - {x: 34, y: 57.700012}
+    - name: opposing Swordsman attack_51
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1388
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.454758, y: -39.299988}
+        - {x: 59.454758, y: -35.299988}
+        - {x: 42.454758, y: 42.700012}
+        - {x: 31.454758, y: 57.700012}
+        - {x: -17.545242, y: 57.700012}
+        - {x: -40.545242, y: 46.700012}
+        - {x: -40.545242, y: -60.299988}
+        - {x: -32.545242, y: -102.29999}
+        - {x: 9.454758, y: -102.29999}
+        - {x: 12.454758, y: -97.29999}
+        - {x: 7.4547577, y: -85.29999}
+        - {x: 62.454758, y: -49.299988}
+    - name: opposing Swordsman attack_52
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1388
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.409515, y: 58.700012}
+        - {x: -10.590485, y: 58.700012}
+        - {x: -39.590485, y: 38.700012}
+        - {x: -39.590485, y: -94.29999}
+        - {x: -28.590485, y: -102.29999}
+        - {x: 12.409515, y: -102.29999}
+        - {x: 18.409515, y: -101.29999}
+        - {x: 71.409515, y: -44.299988}
+        - {x: 71.409515, y: 10.700012}
+        - {x: 56.409515, y: 32.700012}
+    - name: opposing Swordsman attack_53
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1388
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.635742, y: 58.700012}
+        - {x: -39.635742, y: 18.700012}
+        - {x: -39.635742, y: -81.29999}
+        - {x: -26.635742, y: -102.29999}
+        - {x: 24.364258, y: -102.29999}
+        - {x: 77.36426, y: -36.299988}
+        - {x: 77.36426, y: 18.700012}
+        - {x: 33.364258, y: 58.700012}
+    - name: opposing Swordsman attack_54
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1388
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.680969, y: 58.700012}
+        - {x: -39.68097, y: 40.700012}
+        - {x: -39.68097, y: -102.29999}
+        - {x: 40.31903, y: -102.29999}
+        - {x: 80.31903, y: -62.299988}
+        - {x: 80.31903, y: 58.700012}
+    - name: opposing Swordsman attack_55
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1388
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.2738, y: 58.700012}
+        - {x: -21.726196, y: 58.700012}
+        - {x: -39.726196, y: 35.700012}
+        - {x: -39.726196, y: -80.29999}
+        - {x: -36.726196, y: -102.29999}
+        - {x: 7.2738037, y: -102.29999}
+        - {x: 12.273804, y: -94.29999}
+        - {x: 79.2738, y: -43.299988}
+        - {x: 79.2738, y: 46.700012}
+    - name: opposing Swordsman attack_56
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1388
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.228516, y: 58.700012}
+        - {x: -6.7714844, y: 58.700012}
+        - {x: -39.771484, y: 30.700012}
+        - {x: -39.771484, y: -53.299988}
+        - {x: -24.771484, y: -102.29999}
+        - {x: 25.228516, y: -102.29999}
+        - {x: 77.228516, y: 13.700012}
+        - {x: 77.228516, y: 27.700012}
+        - {x: 76.228516, y: 30.700012}
+    - name: opposing Swordsman attack_57
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1388
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.18335, y: 36.700012}
+        - {x: 63.18335, y: 33.700012}
+        - {x: 57.18335, y: 25.700012}
+        - {x: 44.18335, y: 9.700012}
+        - {x: 40.18335, y: 4.700012}
+        - {x: 34.18335, y: -2.2999878}
+        - {x: 31.18335, y: -6.299988}
+        - {x: 37.18335, y: 43.700012}
+        - {x: 22.18335, y: 58.700012}
+        - {x: -20.81665, y: 58.700012}
+        - {x: -39.81665, y: 39.700012}
+        - {x: -39.81665, y: -68.29999}
+        - {x: -33.81665, y: -102.29999}
+        - {x: 21.18335, y: -102.29999}
+        - {x: 75.18335, y: 25.700012}
+        - {x: 75.18335, y: 34.700012}
+        - {x: 73.18335, y: 37.700012}
+    - name: opposing Swordsman attack_58
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1388
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.13806, y: 24.700012}
+        - {x: 72.13806, y: 40.700012}
+        - {x: 71.13806, y: 43.700012}
+        - {x: 63.13806, y: 42.700012}
+        - {x: 57.13806, y: 34.700012}
+        - {x: 23.138062, y: 59.700012}
+        - {x: -4.8619385, y: 59.700012}
+        - {x: -25.861938, y: 50.700012}
+        - {x: -38.86194, y: 12.700012}
+        - {x: -38.86194, y: -79.29999}
+        - {x: -30.861938, y: -100.29999}
+        - {x: -23.861938, y: -102.29999}
+        - {x: 10.138062, y: -102.29999}
+        - {x: 14.138062, y: -89.29999}
+        - {x: 9.138062, y: -87.29999}
+    - name: opposing Swordsman attack_59
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 1388
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.092773, y: 59.700012}
+        - {x: -9.907227, y: 59.700012}
+        - {x: -39.907227, y: 33.700012}
+        - {x: -39.907227, y: -59.299988}
+        - {x: -25.907227, y: -102.29999}
+        - {x: 24.092773, y: -102.29999}
+        - {x: 68.09277, y: 30.700012}
+        - {x: 68.09277, y: 50.700012}
+        - {x: 62.092773, y: 50.700012}
+    - name: opposing Swordsman attack_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1041
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 59.400024}
+        - {x: -40, y: 32.400024}
+        - {x: -40, y: -76.599976}
+        - {x: -37, y: -102.599976}
+        - {x: 20, y: -102.599976}
+        - {x: 64, y: -16.599976}
+        - {x: 64, y: 59.400024}
+    - name: opposing Swordsman attack_61
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1041
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.454758, y: -29.599976}
+        - {x: 61.454758, y: 30.400024}
+        - {x: 61.454758, y: 60.400024}
+        - {x: 53.454758, y: 60.400024}
+        - {x: 46.454758, y: 50.400024}
+        - {x: 31.454758, y: 60.400024}
+        - {x: -1.5452423, y: 60.400024}
+        - {x: -16.545242, y: 45.400024}
+        - {x: -39.545242, y: 13.400024}
+        - {x: -39.545242, y: -48.599976}
+        - {x: -27.545242, y: -97.599976}
+        - {x: -21.545242, y: -102.599976}
+        - {x: 7.4547577, y: -102.599976}
+        - {x: 11.454758, y: -98.599976}
+        - {x: 12.454758, y: -94.599976}
+        - {x: 11.454758, y: -90.599976}
+    - name: opposing Swordsman attack_62
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1041
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.409515, y: 64.400024}
+        - {x: 53.409515, y: 65.400024}
+        - {x: 49.409515, y: 65.400024}
+        - {x: 45.409515, y: 59.400024}
+        - {x: 38.409515, y: 32.400024}
+        - {x: 27.409515, y: 54.400024}
+        - {x: 15.409515, y: 65.400024}
+        - {x: -1.5904846, y: 65.400024}
+        - {x: -38.590485, y: 27.400024}
+        - {x: -38.590485, y: -51.599976}
+        - {x: -26.590485, y: -97.599976}
+        - {x: -20.590485, y: -102.599976}
+        - {x: 10.409515, y: -102.599976}
+        - {x: 20.409515, y: -90.599976}
+        - {x: 43.409515, y: -29.599976}
+        - {x: 57.409515, y: 38.400024}
+    - name: opposing Swordsman attack_63
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1041
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.635742, y: 70.400024}
+        - {x: -39.635742, y: 30.400024}
+        - {x: -39.635742, y: -50.599976}
+        - {x: -27.635742, y: -102.599976}
+        - {x: 18.364258, y: -102.599976}
+        - {x: 48.364258, y: -23.599976}
+        - {x: 52.364258, y: 0.4000244}
+        - {x: 52.364258, y: 70.400024}
+    - name: opposing Swordsman attack_64
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1041
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.31903, y: 74.400024}
+        - {x: 33.31903, y: 68.400024}
+        - {x: 30.31903, y: 11.400024}
+        - {x: 27.31903, y: 51.400024}
+        - {x: 20.31903, y: 67.400024}
+        - {x: -28.68097, y: 61.400024}
+        - {x: -38.68097, y: 17.400024}
+        - {x: -38.68097, y: -74.599976}
+        - {x: -24.68097, y: -102.599976}
+        - {x: 12.319031, y: -102.599976}
+        - {x: 33.31903, y: -92.599976}
+        - {x: 47.31903, y: -15.599976}
+        - {x: 47.31903, y: 74.400024}
+    - name: opposing Swordsman attack_65
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1041
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.273804, y: 50.400024}
+        - {x: 41.273804, y: 72.400024}
+        - {x: 36.273804, y: 78.400024}
+        - {x: 31.273804, y: 76.400024}
+        - {x: 29.273804, y: 71.400024}
+        - {x: 29.273804, y: 12.400024}
+        - {x: 23.273804, y: 14.400024}
+        - {x: 28.273804, y: 24.400024}
+        - {x: 26.273804, y: 51.400024}
+        - {x: 2.2738037, y: 76.400024}
+        - {x: -38.726196, y: 33.400024}
+        - {x: -38.726196, y: -69.599976}
+        - {x: -30.726196, y: -102.599976}
+        - {x: 12.273804, y: -102.599976}
+        - {x: 16.273804, y: -100.599976}
+        - {x: 12.273804, y: -88.599976}
+        - {x: 5.2738037, y: -84.599976}
+        - {x: 46.273804, y: -21.599976}
+    - name: opposing Swordsman attack_66
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1041
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.228516, y: 81.400024}
+        - {x: 26.228516, y: 81.400024}
+        - {x: 23.228516, y: 76.400024}
+        - {x: 24.228516, y: 53.400024}
+        - {x: 28.228516, y: 20.400024}
+        - {x: 26.228516, y: 14.400024}
+        - {x: 25.228516, y: 9.400024}
+        - {x: 28.228516, y: 4.4000244}
+        - {x: 27.228516, y: 5.4000244}
+        - {x: 16.228516, y: 10.400024}
+        - {x: 26.228516, y: 24.400024}
+        - {x: 24.228516, y: 51.400024}
+        - {x: 9.228516, y: 68.400024}
+        - {x: -22.771484, y: 46.400024}
+        - {x: -38.771484, y: 13.400024}
+        - {x: -38.771484, y: -62.599976}
+        - {x: -27.771484, y: -98.599976}
+        - {x: -22.771484, y: -102.599976}
+        - {x: 11.228516, y: -102.599976}
+        - {x: 15.228516, y: -96.599976}
+        - {x: 11.228516, y: -84.599976}
+        - {x: 47.228516, y: -29.599976}
+    - name: opposing Swordsman attack_67
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1041
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.18335, y: 84.400024}
+        - {x: 12.18335, y: 84.400024}
+        - {x: -38.81665, y: 30.400024}
+        - {x: -38.81665, y: -101.599976}
+        - {x: -36.81665, y: -102.599976}
+        - {x: 22.18335, y: -102.599976}
+        - {x: 47.18335, y: -40.599976}
+        - {x: 47.18335, y: 39.400024}
+        - {x: 35.18335, y: 83.400024}
+    - name: opposing Swordsman attack_68
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1041
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.138062, y: 86.400024}
+        - {x: 12.138062, y: 86.400024}
+        - {x: 11.138062, y: 85.400024}
+        - {x: -23.861938, y: 66.400024}
+        - {x: -37.86194, y: 14.400024}
+        - {x: -37.86194, y: -80.599976}
+        - {x: -26.861938, y: -102.599976}
+        - {x: 26.138062, y: -102.599976}
+        - {x: 48.13806, y: -24.599976}
+        - {x: 48.13806, y: 20.400024}
+        - {x: 35.13806, y: 63.400024}
+    - name: opposing Swordsman attack_69
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 1041
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.0927734, y: 87.400024}
+        - {x: 3.0927734, y: 86.400024}
+        - {x: -38.907227, y: 27.400024}
+        - {x: -38.907227, y: -102.599976}
+        - {x: 14.092773, y: -102.599976}
+        - {x: 47.092773, y: -17.599976}
+        - {x: 47.092773, y: 40.400024}
+        - {x: 16.092773, y: 87.400024}
+    - name: opposing Swordsman attack_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 694
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 89.600006}
+        - {x: -1, y: 89.600006}
+        - {x: -4, y: 87.600006}
+        - {x: -39, y: 32.600006}
+        - {x: -39, y: -102.399994}
+        - {x: 14, y: -102.399994}
+        - {x: 46, y: -21.399994}
+        - {x: 46, y: 44.600006}
+        - {x: 8, y: 87.600006}
+    - name: opposing Swordsman attack_71
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 694
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.545242, y: 89.600006}
+        - {x: -38.545242, y: -102.399994}
+        - {x: 15.454758, y: -102.399994}
+        - {x: 46.454758, y: -85.399994}
+        - {x: 46.454758, y: 89.600006}
+    - name: opposing Swordsman attack_72
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 694
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.590485, y: 89.600006}
+        - {x: -37.590485, y: 17.600006}
+        - {x: -37.590485, y: -42.399994}
+        - {x: -36.590485, y: -47.399994}
+        - {x: -29.590485, y: -102.399994}
+        - {x: 19.409515, y: -102.399994}
+        - {x: 46.409515, y: -43.399994}
+        - {x: 46.409515, y: 50.600006}
+        - {x: -1.5904846, y: 89.600006}
+    - name: opposing Swordsman attack_73
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 694
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.635742, y: 88.600006}
+        - {x: -36.635742, y: 1.6000061}
+        - {x: -38.635742, y: -20.399994}
+        - {x: -38.635742, y: -51.399994}
+        - {x: -27.635742, y: -102.399994}
+        - {x: 24.364258, y: -102.399994}
+        - {x: 44.364258, y: -40.399994}
+        - {x: 44.364258, y: 36.600006}
+        - {x: 5.364258, y: 88.600006}
+    - name: opposing Swordsman attack_74
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 694
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.68097, y: 87.600006}
+        - {x: -33.68097, y: 87.600006}
+        - {x: -37.68097, y: 51.600006}
+        - {x: -37.68097, y: -74.399994}
+        - {x: -32.68097, y: -94.399994}
+        - {x: -27.68097, y: -102.399994}
+        - {x: 6.319031, y: -102.399994}
+        - {x: 25.31903, y: -98.399994}
+        - {x: 43.31903, y: 8.600006}
+        - {x: 43.31903, y: 32.600006}
+        - {x: 38.31903, y: 38.600006}
+    - name: opposing Swordsman attack_75
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 694
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.726196, y: 86.600006}
+        - {x: -35.726196, y: 86.600006}
+        - {x: -37.726196, y: 85.600006}
+        - {x: -37.726196, y: -63.399994}
+        - {x: -30.726196, y: -97.399994}
+        - {x: -26.726196, y: -102.399994}
+        - {x: 14.273804, y: -102.399994}
+        - {x: 22.273804, y: -98.399994}
+        - {x: 41.273804, y: -23.399994}
+        - {x: 41.273804, y: 37.600006}
+    - name: opposing Swordsman attack_76
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 694
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.771484, y: 83.600006}
+        - {x: -40.771484, y: -102.399994}
+        - {x: 14.228516, y: -102.399994}
+        - {x: 29.228516, y: -99.399994}
+        - {x: 39.228516, y: 15.600006}
+        - {x: 39.228516, y: 44.600006}
+        - {x: -12.771484, y: 83.600006}
+    - name: opposing Swordsman attack_77
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 694
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.1833496, y: 68.600006}
+        - {x: -36.81665, y: 80.600006}
+        - {x: -47.81665, y: 80.600006}
+        - {x: -47.81665, y: -0.3999939}
+        - {x: -38.81665, y: -99.399994}
+        - {x: -28.81665, y: -102.399994}
+        - {x: 20.18335, y: -102.399994}
+        - {x: 26.18335, y: -100.399994}
+        - {x: 36.18335, y: -8.399994}
+        - {x: 36.18335, y: 44.600006}
+    - name: opposing Swordsman attack_78
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 694
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.86194, y: 77.600006}
+        - {x: -52.86194, y: -85.399994}
+        - {x: -39.86194, y: -102.399994}
+        - {x: 26.138062, y: -102.399994}
+        - {x: 34.13806, y: -58.399994}
+        - {x: 34.13806, y: 60.600006}
+        - {x: -0.8619385, y: 77.600006}
+    - name: opposing Swordsman attack_79
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 694
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.907227, y: 74.600006}
+        - {x: -59.907227, y: 74.600006}
+        - {x: -59.907227, y: 66.600006}
+        - {x: -51.907227, y: 60.600006}
+        - {x: -44.907227, y: -45.399994}
+        - {x: -30.907227, y: -102.399994}
+        - {x: 13.092773, y: -102.399994}
+        - {x: 25.092773, y: -98.399994}
+        - {x: 30.092773, y: -24.399994}
+        - {x: 30.092773, y: 48.600006}
+        - {x: 0.09277344, y: 66.600006}
+    - name: opposing Swordsman attack_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 27.800003}
+        - {x: 27, y: 51.800003}
+        - {x: -2, y: 66.8}
+        - {x: -41, y: 70.8}
+        - {x: -65, y: 70.8}
+        - {x: -65, y: 63.800003}
+        - {x: -60, y: 58.800003}
+        - {x: -41, y: -102.2}
+        - {x: 12, y: -102.2}
+        - {x: 15, y: -96.2}
+        - {x: 13, y: -84.2}
+        - {x: 9, y: -84.2}
+    - name: opposing Swordsman attack_81
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 347
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.54524, y: 66.8}
+        - {x: -68.54524, y: 57.800003}
+        - {x: -60.545242, y: 52.800003}
+        - {x: -48.545242, y: -48.199997}
+        - {x: -31.545242, y: -102.2}
+        - {x: 22.454758, y: -102.2}
+        - {x: 24.454758, y: -101.2}
+        - {x: 24.454758, y: 53.800003}
+        - {x: 6.4547577, y: 66.8}
+      - - {x: -12.545242, y: 103.8}
+        - {x: -11.545242, y: 100.8}
+        - {x: -7.5452423, y: 100.8}
+        - {x: -5.5452423, y: 102.8}
+        - {x: -5.5452423, y: 103.8}
+    - name: opposing Swordsman attack_82
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 347
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.590485, y: 62.800003}
+        - {x: -72.590485, y: 9.800003}
+        - {x: -31.590485, y: -97.2}
+        - {x: -27.590485, y: -102.2}
+        - {x: 7.4095154, y: -102.2}
+        - {x: 21.409515, y: -100.2}
+        - {x: 21.409515, y: 58.800003}
+        - {x: 9.409515, y: 62.800003}
+      - - {x: -12.590485, y: 103.8}
+        - {x: -11.590485, y: 100.8}
+        - {x: -7.5904846, y: 100.8}
+        - {x: -5.5904846, y: 102.8}
+        - {x: -5.5904846, y: 103.8}
+    - name: opposing Swordsman attack_83
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 347
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.63574, y: 62.800003}
+        - {x: -77.63574, y: 57.800003}
+        - {x: -77.63574, y: 49.800003}
+        - {x: -73.63574, y: 44.800003}
+        - {x: -31.635742, y: -102.2}
+        - {x: 11.364258, y: -102.2}
+        - {x: 18.364258, y: -99.2}
+        - {x: 18.364258, y: 62.800003}
+      - - {x: -14.635742, y: 103.8}
+        - {x: -13.635742, y: 100.8}
+        - {x: -7.635742, y: 100.8}
+        - {x: -5.635742, y: 102.8}
+        - {x: -5.635742, y: 103.8}
+    - name: opposing Swordsman attack_84
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 347
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.68097, y: 62.800003}
+        - {x: -79.68097, y: -16.199997}
+        - {x: -41.68097, y: -102.2}
+        - {x: 18.31903, y: -102.2}
+        - {x: 18.31903, y: 52.800003}
+        - {x: 17.31903, y: 59.800003}
+        - {x: 8.319031, y: 62.800003}
+      - - {x: -14.680969, y: 103.8}
+        - {x: -13.680969, y: 100.8}
+        - {x: -7.680969, y: 100.8}
+        - {x: -5.680969, y: 102.8}
+        - {x: -5.680969, y: 103.8}
+    - name: opposing Swordsman attack_85
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 347
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.273804, y: 62.800003}
+        - {x: -47.726196, y: 62.800003}
+        - {x: -83.7262, y: 45.800003}
+        - {x: -83.7262, y: -18.199997}
+        - {x: -30.726196, y: -102.2}
+        - {x: 3.2738037, y: -102.2}
+        - {x: 12.273804, y: -99.2}
+        - {x: 17.273804, y: -97.2}
+        - {x: 17.273804, y: 61.800003}
+      - - {x: -14.726196, y: 103.8}
+        - {x: -13.726196, y: 100.8}
+        - {x: -7.7261963, y: 100.8}
+        - {x: -5.7261963, y: 102.8}
+        - {x: -5.7261963, y: 103.8}
+    - name: opposing Swordsman attack_86
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 347
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.771484, y: -11.199997}
+        - {x: -31.771484, y: -102.2}
+        - {x: 10.228516, y: -102.2}
+        - {x: 17.228516, y: -100.2}
+        - {x: 17.228516, y: 62.800003}
+        - {x: -48.771484, y: 62.800003}
+        - {x: -85.771484, y: 59.800003}
+      - - {x: -14.771484, y: 103.8}
+        - {x: -13.771484, y: 100.8}
+        - {x: -7.7714844, y: 100.8}
+        - {x: -5.7714844, y: 102.8}
+        - {x: -5.7714844, y: 103.8}
+    - name: opposing Swordsman attack_87
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 347
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.81665, y: 62.800003}
+        - {x: -85.81665, y: 35.800003}
+        - {x: -87.81665, y: 30.800003}
+        - {x: -87.81665, y: 22.800003}
+        - {x: -76.81665, y: 20.800003}
+        - {x: -40.81665, y: -96.2}
+        - {x: -30.81665, y: -102.2}
+        - {x: 17.18335, y: -102.2}
+        - {x: 17.18335, y: 62.800003}
+      - - {x: -16.81665, y: 103.8}
+        - {x: -15.81665, y: 100.8}
+        - {x: -8.81665, y: 100.8}
+        - {x: -6.8166504, y: 102.8}
+        - {x: -6.8166504, y: 103.8}
+    - name: opposing Swordsman attack_88
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 347
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.861938, y: 63.800003}
+        - {x: -88.86194, y: 29.800003}
+        - {x: -88.86194, y: 15.800003}
+        - {x: -38.86194, y: -102.2}
+        - {x: 18.138062, y: -102.2}
+        - {x: 18.138062, y: 63.800003}
+      - - {x: -15.861938, y: 103.8}
+        - {x: -14.861938, y: 100.8}
+        - {x: -8.861938, y: 100.8}
+        - {x: -6.8619385, y: 102.8}
+        - {x: -6.8619385, y: 103.8}
+    - name: opposing Swordsman attack_89
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 347
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.90723, y: 17.800003}
+        - {x: -90.90723, y: 6.800003}
+        - {x: -33.907227, y: -102.2}
+        - {x: 19.092773, y: -102.2}
+        - {x: 19.092773, y: 63.800003}
+        - {x: -32.907227, y: 63.800003}
+        - {x: -86.90723, y: 24.800003}
+      - - {x: -16.907227, y: 103.8}
+        - {x: -15.907227, y: 100.8}
+        - {x: -8.907227, y: 100.8}
+        - {x: -6.9072266, y: 102.8}
+        - {x: -6.9072266, y: 103.8}
+    - name: opposing Swordsman attack_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91, y: 11.5}
+        - {x: -91, y: -5.5}
+        - {x: -46, y: -96.5}
+        - {x: -42, y: -102.5}
+        - {x: 13, y: -102.5}
+        - {x: 19, y: -101.5}
+        - {x: 19, y: 44.5}
+        - {x: 18, y: 59.5}
+        - {x: 8, y: 62.5}
+        - {x: -36, y: 62.5}
+        - {x: -88, y: 18.5}
+    - name: opposing Swordsman attack_91
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.545242, y: 62.5}
+        - {x: -86.54524, y: 14.5}
+        - {x: -90.54524, y: 4.5}
+        - {x: -90.54524, y: -1.5}
+        - {x: -88.54524, y: -4.5}
+        - {x: -40.545242, y: -102.5}
+        - {x: 20.454758, y: -102.5}
+        - {x: 20.454758, y: 60.5}
+        - {x: 10.454758, y: 62.5}
+    - name: opposing Swordsman attack_92
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.590485, y: 62.5}
+        - {x: -87.590485, y: 0.5}
+        - {x: -88.590485, y: -3.5}
+        - {x: -88.590485, y: -88.5}
+        - {x: -59.590485, y: -102.5}
+        - {x: 22.409515, y: -102.5}
+        - {x: 22.409515, y: 46.5}
+        - {x: 15.409515, y: 62.5}
+    - name: opposing Swordsman attack_93
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 0
+        width: 321
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
