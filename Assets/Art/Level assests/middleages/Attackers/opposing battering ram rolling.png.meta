@@ -1,0 +1,1309 @@
+fileFormatVersion: 2
+guid: da168ffddc353f54b81e533e405f20ea
+timeCreated: 1458733074
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: opposing battering ram rolling_0
+    21300002: opposing battering ram rolling_1
+    21300004: opposing battering ram rolling_2
+    21300006: opposing battering ram rolling_3
+    21300008: opposing battering ram rolling_4
+    21300010: opposing battering ram rolling_5
+    21300012: opposing battering ram rolling_6
+    21300014: opposing battering ram rolling_7
+    21300016: opposing battering ram rolling_8
+    21300018: opposing battering ram rolling_9
+    21300020: opposing battering ram rolling_10
+    21300022: opposing battering ram rolling_11
+    21300024: opposing battering ram rolling_12
+    21300026: opposing battering ram rolling_13
+    21300028: opposing battering ram rolling_14
+    21300030: opposing battering ram rolling_15
+    21300032: opposing battering ram rolling_16
+    21300034: opposing battering ram rolling_17
+    21300036: opposing battering ram rolling_18
+    21300038: opposing battering ram rolling_19
+    21300040: opposing battering ram rolling_20
+    21300042: opposing battering ram rolling_21
+    21300044: opposing battering ram rolling_22
+    21300046: opposing battering ram rolling_23
+    21300048: opposing battering ram rolling_24
+    21300050: opposing battering ram rolling_25
+    21300052: opposing battering ram rolling_26
+    21300054: opposing battering ram rolling_27
+    21300056: opposing battering ram rolling_28
+    21300058: opposing battering ram rolling_29
+    21300060: opposing battering ram rolling_30
+    21300062: opposing battering ram rolling_31
+    21300064: opposing battering ram rolling_32
+    21300066: opposing battering ram rolling_33
+    21300068: opposing battering ram rolling_34
+    21300070: opposing battering ram rolling_35
+    21300072: opposing battering ram rolling_36
+    21300074: opposing battering ram rolling_37
+    21300076: opposing battering ram rolling_38
+    21300078: opposing battering ram rolling_39
+    21300080: opposing battering ram rolling_40
+    21300082: opposing battering ram rolling_41
+    21300084: opposing battering ram rolling_42
+    21300086: opposing battering ram rolling_43
+    21300088: opposing battering ram rolling_44
+    21300090: opposing battering ram rolling_45
+    21300092: opposing battering ram rolling_46
+    21300094: opposing battering ram rolling_47
+    21300096: opposing battering ram rolling_48
+    21300098: opposing battering ram rolling_49
+    21300100: opposing battering ram rolling_50
+    21300102: opposing battering ram rolling_51
+    21300104: opposing battering ram rolling_52
+    21300106: opposing battering ram rolling_53
+    21300108: opposing battering ram rolling_54
+    21300110: opposing battering ram rolling_55
+    21300112: opposing battering ram rolling_56
+    21300114: opposing battering ram rolling_57
+    21300116: opposing battering ram rolling_58
+    21300118: opposing battering ram rolling_59
+    21300120: opposing battering ram rolling_60
+    21300122: opposing battering ram rolling_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: opposing battering ram rolling_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: -23}
+        - {x: 83, y: 26}
+        - {x: 73, y: 42}
+        - {x: -73, y: 42}
+        - {x: -83, y: 10}
+        - {x: -83, y: -22}
+        - {x: -74, y: -38}
+        - {x: -55, y: -38}
+        - {x: -53, y: -37}
+        - {x: -45, y: -38}
+        - {x: 1, y: -38}
+        - {x: 7, y: -32}
+        - {x: 26, y: -38}
+        - {x: 62, y: -38}
+    - name: opposing battering ram rolling_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 588
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 7}
+        - {x: -83, y: -25}
+        - {x: -76, y: -38}
+        - {x: 51, y: -38}
+        - {x: 83, y: -19}
+        - {x: 83, y: 27}
+        - {x: 75, y: 42}
+    - name: opposing battering ram rolling_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 588
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 42}
+        - {x: -83, y: 24}
+        - {x: -83, y: -38}
+        - {x: 71, y: -38}
+        - {x: 83, y: -24}
+        - {x: 83, y: 20}
+        - {x: 69, y: 42}
+    - name: opposing battering ram rolling_3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 588
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 42}
+        - {x: -74, y: 42}
+        - {x: -83, y: 22}
+        - {x: -83, y: -38}
+        - {x: 64, y: -38}
+        - {x: 70, y: -31}
+        - {x: 83, y: -3}
+        - {x: 83, y: 20}
+    - name: opposing battering ram rolling_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 588
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 42}
+        - {x: -83, y: 31}
+        - {x: -83, y: -35}
+        - {x: -81, y: -38}
+        - {x: 62, y: -38}
+        - {x: 83, y: -2}
+        - {x: 83, y: 24}
+        - {x: 60, y: 42}
+    - name: opposing battering ram rolling_5
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 588
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: -8}
+        - {x: 83, y: -3}
+        - {x: 83, y: 21}
+        - {x: 59, y: 42}
+        - {x: -73, y: 42}
+        - {x: -83, y: 10}
+        - {x: -83, y: -23}
+        - {x: -74, y: -38}
+        - {x: 43, y: -38}
+        - {x: 45, y: -37}
+        - {x: 50, y: -35}
+        - {x: 59, y: -29}
+    - name: opposing battering ram rolling_6
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 588
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: 25}
+        - {x: 73, y: 42}
+        - {x: -74, y: 42}
+        - {x: -83, y: 24}
+        - {x: -83, y: -38}
+        - {x: 48, y: -38}
+        - {x: 63, y: -34}
+        - {x: 83, y: -20}
+    - name: opposing battering ram rolling_7
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 588
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 42}
+        - {x: -83, y: 42}
+        - {x: -83, y: -38}
+        - {x: 61, y: -38}
+        - {x: 83, y: -13}
+        - {x: 83, y: 13}
+        - {x: 82, y: 14}
+    - name: opposing battering ram rolling_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 23}
+        - {x: -83, y: -24}
+        - {x: -77, y: -38}
+        - {x: 70, y: -38}
+        - {x: 83, y: -18}
+        - {x: 83, y: 13}
+        - {x: 63, y: 42}
+    - name: opposing battering ram rolling_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 504
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 18}
+        - {x: -83, y: -21}
+        - {x: -77, y: -38}
+        - {x: 62, y: -38}
+        - {x: 83, y: -26}
+        - {x: 83, y: 18}
+        - {x: 68, y: 42}
+    - name: opposing battering ram rolling_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 504
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 13}
+        - {x: -83, y: -18}
+        - {x: -80, y: -32}
+        - {x: -78, y: -38}
+        - {x: 66, y: -38}
+        - {x: 83, y: -7}
+        - {x: 83, y: 23}
+        - {x: 60, y: 42}
+    - name: opposing battering ram rolling_11
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 504
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 42}
+        - {x: -83, y: 26}
+        - {x: -83, y: -24}
+        - {x: -79, y: -38}
+        - {x: 64, y: -38}
+        - {x: 83, y: -4}
+        - {x: 83, y: 22}
+        - {x: 60, y: 42}
+    - name: opposing battering ram rolling_12
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 504
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 42}
+        - {x: -83, y: 7}
+        - {x: -83, y: -31}
+        - {x: -81, y: -38}
+        - {x: 69, y: -38}
+        - {x: 83, y: -14}
+        - {x: 83, y: 15}
+        - {x: 59, y: 42}
+    - name: opposing battering ram rolling_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 504
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -74, y: 38}
+        - {x: -83, y: 5}
+        - {x: -83, y: -38}
+        - {x: 69, y: -38}
+        - {x: 83, y: -24}
+        - {x: 83, y: 27}
+        - {x: 73, y: 42}
+    - name: opposing battering ram rolling_14
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 504
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 7}
+        - {x: -83, y: -14}
+        - {x: -77, y: -30}
+        - {x: -70, y: -38}
+        - {x: 80, y: -38}
+        - {x: 83, y: -36}
+        - {x: 83, y: 18}
+        - {x: 59, y: 42}
+    - name: opposing battering ram rolling_15
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 504
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 42}
+        - {x: -83, y: 26}
+        - {x: -83, y: -29}
+        - {x: -80, y: -38}
+        - {x: 71, y: -38}
+        - {x: 83, y: -31}
+        - {x: 83, y: 15}
+        - {x: 59, y: 42}
+    - name: opposing battering ram rolling_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 18}
+        - {x: -83, y: -38}
+        - {x: 83, y: -38}
+        - {x: 83, y: 21}
+        - {x: 60, y: 42}
+    - name: opposing battering ram rolling_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 420
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 18}
+        - {x: -83, y: -38}
+        - {x: 60, y: -38}
+        - {x: 83, y: -18}
+        - {x: 83, y: 24}
+        - {x: 72, y: 42}
+    - name: opposing battering ram rolling_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 420
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -73, y: 41}
+        - {x: -83, y: 7}
+        - {x: -83, y: -16}
+        - {x: -82, y: -26}
+        - {x: -77, y: -38}
+        - {x: 75, y: -38}
+        - {x: 83, y: -27}
+        - {x: 83, y: 23}
+        - {x: 70, y: 42}
+    - name: opposing battering ram rolling_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 420
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79, y: 42}
+        - {x: -83, y: 24}
+        - {x: -83, y: -22}
+        - {x: -72, y: -38}
+        - {x: 61, y: -38}
+        - {x: 83, y: -27}
+        - {x: 83, y: 17}
+        - {x: 66, y: 42}
+    - name: opposing battering ram rolling_20
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 420
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 42}
+        - {x: -73, y: 42}
+        - {x: -73, y: 41}
+        - {x: -83, y: 8}
+        - {x: -83, y: -38}
+        - {x: 64, y: -38}
+        - {x: 82, y: -5}
+        - {x: 83, y: -3}
+        - {x: 83, y: 15}
+    - name: opposing battering ram rolling_21
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 420
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: 42}
+        - {x: -83, y: 33}
+        - {x: -83, y: -24}
+        - {x: -75, y: -38}
+        - {x: 63, y: -38}
+        - {x: 83, y: -5}
+        - {x: 83, y: 22}
+        - {x: 62, y: 42}
+    - name: opposing battering ram rolling_22
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 420
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 42}
+        - {x: -83, y: -37}
+        - {x: -81, y: -38}
+        - {x: 70, y: -38}
+        - {x: 83, y: -9}
+        - {x: 83, y: 22}
+        - {x: 62, y: 42}
+    - name: opposing battering ram rolling_23
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 420
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: -38}
+        - {x: 62, y: -38}
+        - {x: 83, y: -28}
+        - {x: 83, y: 16}
+        - {x: 65, y: 42}
+        - {x: -73, y: 42}
+        - {x: -83, y: 23}
+    - name: opposing battering ram rolling_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 42}
+        - {x: -76, y: 39}
+        - {x: -83, y: 9}
+        - {x: -83, y: -29}
+        - {x: -81, y: -38}
+        - {x: 59, y: -38}
+        - {x: 83, y: -17}
+        - {x: 83, y: 15}
+        - {x: 56, y: 42}
+    - name: opposing battering ram rolling_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 336
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 42}
+        - {x: -83, y: 32}
+        - {x: -83, y: -29}
+        - {x: -78, y: -38}
+        - {x: 72, y: -38}
+        - {x: 83, y: -4}
+        - {x: 83, y: 18}
+        - {x: 56, y: 42}
+    - name: opposing battering ram rolling_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 336
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: 42}
+        - {x: -83, y: 29}
+        - {x: -83, y: -26}
+        - {x: -80, y: -38}
+        - {x: 83, y: -38}
+        - {x: 83, y: 25}
+        - {x: 64, y: 42}
+    - name: opposing battering ram rolling_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 336
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 29}
+        - {x: -83, y: -33}
+        - {x: -81, y: -38}
+        - {x: 53, y: -38}
+        - {x: 83, y: -15}
+        - {x: 83, y: 15}
+        - {x: 56, y: 42}
+    - name: opposing battering ram rolling_28
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 336
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 42}
+        - {x: -83, y: 42}
+        - {x: -83, y: -38}
+        - {x: 56, y: -38}
+        - {x: 82, y: -5}
+        - {x: 83, y: -3}
+        - {x: 83, y: 15}
+    - name: opposing battering ram rolling_29
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 336
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 42}
+        - {x: -82, y: 42}
+        - {x: -83, y: 38}
+        - {x: -83, y: -28}
+        - {x: -74, y: -38}
+        - {x: 67, y: -38}
+        - {x: 83, y: -8}
+        - {x: 83, y: 24}
+    - name: opposing battering ram rolling_30
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 336
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 42}
+        - {x: -83, y: 42}
+        - {x: -83, y: -38}
+        - {x: 64, y: -38}
+        - {x: 82, y: -5}
+        - {x: 83, y: -3}
+        - {x: 83, y: 15}
+    - name: opposing battering ram rolling_31
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 336
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: 42}
+        - {x: -83, y: 29}
+        - {x: -83, y: -38}
+        - {x: 76, y: -38}
+        - {x: 83, y: -30}
+        - {x: 83, y: 18}
+        - {x: 71, y: 42}
+    - name: opposing battering ram rolling_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 42}
+        - {x: -83, y: 37}
+        - {x: -83, y: -38}
+        - {x: 66, y: -38}
+        - {x: 83, y: -4}
+        - {x: 83, y: 22}
+        - {x: 57, y: 42}
+    - name: opposing battering ram rolling_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 252
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 42}
+        - {x: -73, y: 42}
+        - {x: -83, y: 15}
+        - {x: -83, y: -14}
+        - {x: -74, y: -36}
+        - {x: -62, y: -38}
+        - {x: 69, y: -38}
+        - {x: 82, y: -5}
+        - {x: 83, y: -3}
+        - {x: 83, y: 15}
+    - name: opposing battering ram rolling_34
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 252
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: 42}
+        - {x: -83, y: 31}
+        - {x: -83, y: -35}
+        - {x: -82, y: -38}
+        - {x: 66, y: -38}
+        - {x: 83, y: -13}
+        - {x: 83, y: 28}
+        - {x: 64, y: 42}
+    - name: opposing battering ram rolling_35
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 252
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 23}
+        - {x: -83, y: -36}
+        - {x: -79, y: -38}
+        - {x: 82, y: -38}
+        - {x: 83, y: -33}
+        - {x: 83, y: 21}
+        - {x: 57, y: 42}
+    - name: opposing battering ram rolling_36
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 252
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 42}
+        - {x: -83, y: 24}
+        - {x: -83, y: -38}
+        - {x: 68, y: -38}
+        - {x: 83, y: -4}
+        - {x: 83, y: 20}
+        - {x: 57, y: 42}
+    - name: opposing battering ram rolling_37
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 252
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 42}
+        - {x: -83, y: -38}
+        - {x: 69, y: -38}
+        - {x: 83, y: -8}
+        - {x: 83, y: 22}
+        - {x: 63, y: 42}
+    - name: opposing battering ram rolling_38
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 252
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: 42}
+        - {x: -83, y: 29}
+        - {x: -83, y: -26}
+        - {x: -81, y: -34}
+        - {x: -67, y: -38}
+        - {x: -53, y: -38}
+        - {x: -45, y: -29}
+        - {x: -16, y: -38}
+        - {x: 58, y: -38}
+        - {x: 83, y: -15}
+        - {x: 83, y: 16}
+        - {x: 62, y: 42}
+    - name: opposing battering ram rolling_39
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 252
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: 42}
+        - {x: -83, y: 31}
+        - {x: -83, y: -38}
+        - {x: 77, y: -38}
+        - {x: 83, y: -17}
+        - {x: 83, y: 29}
+        - {x: 66, y: 42}
+    - name: opposing battering ram rolling_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 42}
+        - {x: -83, y: 23}
+        - {x: -83, y: -38}
+        - {x: 65, y: -38}
+        - {x: 83, y: -29}
+        - {x: 83, y: 26}
+        - {x: 73, y: 42}
+    - name: opposing battering ram rolling_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 168
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79, y: 42}
+        - {x: -83, y: 24}
+        - {x: -83, y: -30}
+        - {x: -79, y: -38}
+        - {x: 64, y: -38}
+        - {x: 83, y: -18}
+        - {x: 83, y: 15}
+        - {x: 62, y: 42}
+    - name: opposing battering ram rolling_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 168
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 42}
+        - {x: -73, y: 42}
+        - {x: -83, y: 26}
+        - {x: -83, y: -31}
+        - {x: -80, y: -38}
+        - {x: 51, y: -38}
+        - {x: 59, y: -32}
+        - {x: 83, y: -15}
+        - {x: 83, y: 23}
+    - name: opposing battering ram rolling_43
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 168
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 9}
+        - {x: -83, y: -36}
+        - {x: -74, y: -38}
+        - {x: 60, y: -38}
+        - {x: 83, y: -7}
+        - {x: 83, y: 26}
+        - {x: 60, y: 42}
+    - name: opposing battering ram rolling_44
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 168
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 14}
+        - {x: -83, y: -13}
+        - {x: -74, y: -38}
+        - {x: 67, y: -38}
+        - {x: 83, y: -27}
+        - {x: 83, y: 17}
+        - {x: 67, y: 42}
+    - name: opposing battering ram rolling_45
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 168
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 42}
+        - {x: -83, y: -38}
+        - {x: 75, y: -38}
+        - {x: 83, y: -26}
+        - {x: 83, y: 22}
+        - {x: 72, y: 42}
+    - name: opposing battering ram rolling_46
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 168
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 11}
+        - {x: -83, y: -38}
+        - {x: 78, y: -38}
+        - {x: 83, y: -14}
+        - {x: 83, y: 17}
+        - {x: 59, y: 42}
+    - name: opposing battering ram rolling_47
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 168
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 9}
+        - {x: -83, y: -25}
+        - {x: -77, y: -38}
+        - {x: 57, y: -38}
+        - {x: 83, y: -11}
+        - {x: 83, y: 15}
+        - {x: 59, y: 42}
+    - name: opposing battering ram rolling_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 20}
+        - {x: -83, y: -33}
+        - {x: -74, y: -38}
+        - {x: 76, y: -38}
+        - {x: 83, y: -13}
+        - {x: 83, y: 20}
+        - {x: 61, y: 42}
+    - name: opposing battering ram rolling_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 84
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 42}
+        - {x: -83, y: 10}
+        - {x: -83, y: -23}
+        - {x: -79, y: -38}
+        - {x: 64, y: -38}
+        - {x: 83, y: -19}
+        - {x: 83, y: 21}
+        - {x: 69, y: 42}
+    - name: opposing battering ram rolling_50
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 84
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 42}
+        - {x: -83, y: 42}
+        - {x: -83, y: -38}
+        - {x: 62, y: -38}
+        - {x: 82, y: -5}
+        - {x: 83, y: -3}
+        - {x: 83, y: 16}
+    - name: opposing battering ram rolling_51
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 84
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 42}
+        - {x: -83, y: 18}
+        - {x: -83, y: -38}
+        - {x: 80, y: -38}
+        - {x: 83, y: -37}
+        - {x: 83, y: 17}
+        - {x: 59, y: 42}
+    - name: opposing battering ram rolling_52
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 84
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 42}
+        - {x: -83, y: 21}
+        - {x: -83, y: -38}
+        - {x: 65, y: -38}
+        - {x: 83, y: -16}
+        - {x: 83, y: 16}
+        - {x: 68, y: 42}
+    - name: opposing battering ram rolling_53
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 84
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 42}
+        - {x: -83, y: 22}
+        - {x: -83, y: -22}
+        - {x: -76, y: -38}
+        - {x: 67, y: -38}
+        - {x: 83, y: -17}
+        - {x: 83, y: 15}
+        - {x: 65, y: 42}
+    - name: opposing battering ram rolling_54
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 84
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -38}
+        - {x: 5, y: -32}
+        - {x: 25, y: -38}
+        - {x: 45, y: -38}
+        - {x: 57, y: -34}
+        - {x: 80, y: -7}
+        - {x: 83, y: -2}
+        - {x: 83, y: 12}
+        - {x: 82, y: 14}
+        - {x: 59, y: 42}
+        - {x: -76, y: 42}
+        - {x: -78, y: 40}
+        - {x: -83, y: 12}
+        - {x: -83, y: -20}
+        - {x: -71, y: -37}
+        - {x: -63, y: -38}
+        - {x: -56, y: -38}
+        - {x: -47, y: -30}
+        - {x: -45, y: -25}
+        - {x: -22, y: -38}
+    - name: opposing battering ram rolling_55
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 84
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 42}
+        - {x: -83, y: 15}
+        - {x: -83, y: -38}
+        - {x: 61, y: -38}
+        - {x: 83, y: -24}
+        - {x: 83, y: 26}
+        - {x: 66, y: 42}
+    - name: opposing battering ram rolling_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79, y: 42}
+        - {x: -83, y: 27}
+        - {x: -83, y: -38}
+        - {x: 49, y: -38}
+        - {x: 83, y: -19}
+        - {x: 83, y: 21}
+        - {x: 59, y: 42}
+    - name: opposing battering ram rolling_57
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 42}
+        - {x: -83, y: 26}
+        - {x: -83, y: -35}
+        - {x: -82, y: -38}
+        - {x: 75, y: -38}
+        - {x: 83, y: -14}
+        - {x: 83, y: 22}
+        - {x: 60, y: 42}
+    - name: opposing battering ram rolling_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 42}
+        - {x: -83, y: 19}
+        - {x: -83, y: -38}
+        - {x: 58, y: -38}
+        - {x: 83, y: -14}
+        - {x: 83, y: 21}
+        - {x: 59, y: 42}
+    - name: opposing battering ram rolling_59
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 42}
+        - {x: -83, y: 27}
+        - {x: -83, y: -38}
+        - {x: 73, y: -38}
+        - {x: 83, y: -27}
+        - {x: 83, y: 26}
+        - {x: 73, y: 42}
+    - name: opposing battering ram rolling_60
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 42}
+        - {x: -83, y: 28}
+        - {x: -83, y: -36}
+        - {x: -82, y: -38}
+        - {x: 67, y: -38}
+        - {x: 83, y: -24}
+        - {x: 83, y: 27}
+        - {x: 75, y: 42}
+    - name: opposing battering ram rolling_61
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 166
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -35}
+        - {x: 83, y: -2}
+        - {x: 83, y: 23}
+        - {x: 60, y: 42}
+        - {x: -73, y: 42}
+        - {x: -83, y: 12}
+        - {x: -83, y: -38}
+        - {x: -2, y: -38}
+        - {x: 5, y: -30}
+        - {x: 7, y: -25}
+        - {x: 34, y: -38}
+        - {x: 47, y: -38}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

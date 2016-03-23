@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 3ce9f7b52f2bf2949993e232dee50768
+timeCreated: 1458722829
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: opposing elephant walk_0
+    21300002: opposing elephant walk_1
+    21300004: opposing elephant walk_2
+    21300006: opposing elephant walk_3
+    21300008: opposing elephant walk_4
+    21300010: opposing elephant walk_5
+    21300012: opposing elephant walk_6
+    21300014: opposing elephant walk_7
+    21300016: opposing elephant walk_8
+    21300018: opposing elephant walk_9
+    21300020: opposing elephant walk_10
+    21300022: opposing elephant walk_11
+    21300024: opposing elephant walk_12
+    21300026: opposing elephant walk_13
+    21300028: opposing elephant walk_14
+    21300030: opposing elephant walk_15
+    21300032: opposing elephant walk_16
+    21300034: opposing elephant walk_17
+    21300036: opposing elephant walk_18
+    21300038: opposing elephant walk_19
+    21300040: opposing elephant walk_20
+    21300042: opposing elephant walk_21
+    21300044: opposing elephant walk_22
+    21300046: opposing elephant walk_23
+    21300048: opposing elephant walk_24
+    21300050: opposing elephant walk_25
+    21300052: opposing elephant walk_26
+    21300054: opposing elephant walk_27
+    21300056: opposing elephant walk_28
+    21300058: opposing elephant walk_29
+    21300060: opposing elephant walk_30
+    21300062: opposing elephant walk_31
+    21300064: opposing elephant walk_32
+    21300066: opposing elephant walk_33
+    21300068: opposing elephant walk_34
+    21300070: opposing elephant walk_35
+    21300072: opposing elephant walk_36
+    21300074: opposing elephant walk_37
+    21300076: opposing elephant walk_38
+    21300078: opposing elephant walk_39
+    21300080: opposing elephant walk_40
+    21300082: opposing elephant walk_41
+    21300084: opposing elephant walk_42
+    21300086: opposing elephant walk_43
+    21300088: opposing elephant walk_44
+    21300090: opposing elephant walk_45
+    21300092: opposing elephant walk_46
+    21300094: opposing elephant walk_47
+    21300096: opposing elephant walk_48
+    21300098: opposing elephant walk_49
+    21300100: opposing elephant walk_50
+    21300102: opposing elephant walk_51
+    21300104: opposing elephant walk_52
+    21300106: opposing elephant walk_53
+    21300108: opposing elephant walk_54
+    21300110: opposing elephant walk_55
+    21300112: opposing elephant walk_56
+    21300114: opposing elephant walk_57
+    21300116: opposing elephant walk_58
+    21300118: opposing elephant walk_59
+    21300120: opposing elephant walk_60
+    21300122: opposing elephant walk_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: opposing elephant walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2051
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: 96.57922}
+        - {x: 65, y: 102.57922}
+        - {x: 12, y: 102.57922}
+        - {x: -55, y: 59.579224}
+        - {x: -108, y: -43.420776}
+        - {x: -112, y: -60.420776}
+        - {x: -112, y: -93.42078}
+        - {x: -100, y: -94.42078}
+        - {x: -45, y: -91.42078}
+        - {x: -41, y: -69.42078}
+        - {x: -46, y: -66.42078}
+        - {x: -37, y: -56.420776}
+        - {x: -43, y: -84.42078}
+        - {x: -44, y: -95.42078}
+        - {x: -1, y: -101.42078}
+        - {x: 84, y: -101.42078}
+        - {x: 105, y: -93.42078}
+        - {x: 128, y: -76.42078}
+        - {x: 128, y: 8.579224}
+    - name: opposing elephant walk_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2051
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 102.57922}
+        - {x: -14, y: 102.57922}
+        - {x: -85, y: 41.579224}
+        - {x: -113, y: -63.420776}
+        - {x: -113, y: -94.42078}
+        - {x: -48, y: -91.42078}
+        - {x: -43, y: -69.42078}
+        - {x: -43, y: -85.42078}
+        - {x: -36, y: -101.42078}
+        - {x: 118, y: -101.42078}
+        - {x: 128, y: -73.42078}
+        - {x: 128, y: -12.420776}
+        - {x: 80, y: 98.57922}
+    - name: opposing elephant walk_2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2051
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 97.57922}
+        - {x: 74, y: 102.57922}
+        - {x: 0, y: 102.57922}
+        - {x: -94, y: 51.579224}
+        - {x: -94, y: -53.420776}
+        - {x: -92, y: -62.420776}
+        - {x: -115, y: -82.42078}
+        - {x: -115, y: -86.42078}
+        - {x: -106, y: -89.42078}
+        - {x: -92, y: -86.42078}
+        - {x: -50, y: -87.42078}
+        - {x: -44, y: -83.42078}
+        - {x: -47, y: -63.420776}
+        - {x: -35, y: -39.420776}
+        - {x: -44, y: -85.42078}
+        - {x: -28, y: -95.42078}
+        - {x: 0, y: -96.42078}
+        - {x: 30, y: -101.42078}
+        - {x: 78, y: -101.42078}
+        - {x: 115, y: -90.42078}
+        - {x: 128, y: -51.420776}
+        - {x: 128, y: -15.420776}
+    - name: opposing elephant walk_3
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 2051
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: 102.57922}
+        - {x: 25, y: 102.57922}
+        - {x: 3, y: 96.57922}
+        - {x: -82, y: 44.579224}
+        - {x: -116, y: -66.42078}
+        - {x: -116, y: -97.42078}
+        - {x: -51, y: -88.42078}
+        - {x: -44, y: -75.42078}
+        - {x: -46, y: -67.42078}
+        - {x: -38, y: -23.420776}
+        - {x: -43, y: -87.42078}
+        - {x: -41, y: -100.42078}
+        - {x: 128, y: -100.42078}
+        - {x: 128, y: 8.579224}
+        - {x: 97, y: 94.57922}
+    - name: opposing elephant walk_4
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2051
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120, y: -53.420776}
+        - {x: 128, y: -49.420776}
+        - {x: 128, y: -33.420776}
+        - {x: 114, y: 0.57922363}
+        - {x: 86, y: 90.57922}
+        - {x: 78, y: 102.57922}
+        - {x: -27, y: 102.57922}
+        - {x: -90, y: 68.57922}
+        - {x: -117, y: -36.420776}
+        - {x: -117, y: -89.42078}
+        - {x: -73, y: -91.42078}
+        - {x: -42, y: -84.42078}
+        - {x: -45, y: -68.42078}
+        - {x: -58, y: -62.420776}
+        - {x: -39, y: -52.420776}
+        - {x: -41, y: -95.42078}
+        - {x: 52, y: -100.42078}
+        - {x: 69, y: -100.42078}
+        - {x: 103, y: -94.42078}
+        - {x: 107, y: -77.42078}
+        - {x: 104, y: -50.420776}
+    - name: opposing elephant walk_5
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2051
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 102.57922}
+        - {x: 15, y: 102.57922}
+        - {x: -72, y: 51.579224}
+        - {x: -118, y: -51.420776}
+        - {x: -118, y: -85.42078}
+        - {x: -115, y: -87.42078}
+        - {x: -53, y: -85.42078}
+        - {x: -48, y: -73.42078}
+        - {x: -49, y: -68.42078}
+        - {x: -54, y: -64.42078}
+        - {x: -57, y: -64.42078}
+        - {x: -37, y: -23.420776}
+        - {x: -43, y: -89.42078}
+        - {x: -11, y: -99.42078}
+        - {x: 89, y: -99.42078}
+        - {x: 105, y: -98.42078}
+        - {x: 128, y: -49.420776}
+        - {x: 128, y: -10.420776}
+        - {x: 88, y: 91.57922}
+    - name: opposing elephant walk_6
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 2051
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 102.57922}
+        - {x: 14, y: 102.57922}
+        - {x: -73, y: 51.579224}
+        - {x: -120, y: -70.42078}
+        - {x: -120, y: -83.42078}
+        - {x: -94, y: -91.42078}
+        - {x: -47, y: -83.42078}
+        - {x: -49, y: -68.42078}
+        - {x: -53, y: -64.42078}
+        - {x: -33, y: -22.420776}
+        - {x: -47, y: -89.42078}
+        - {x: -14, y: -98.42078}
+        - {x: 12, y: -98.42078}
+        - {x: 33, y: -83.42078}
+        - {x: 33, y: -77.42078}
+        - {x: 32, y: -72.42078}
+        - {x: 38, y: -53.420776}
+        - {x: 33, y: -80.42078}
+        - {x: 33, y: -89.42078}
+        - {x: 30, y: -98.42078}
+        - {x: 111, y: -98.42078}
+        - {x: 128, y: -59.420776}
+        - {x: 128, y: -16.420776}
+        - {x: 87, y: 89.57922}
+    - name: opposing elephant walk_7
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 2051
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 102.57922}
+        - {x: 30, y: 102.57922}
+        - {x: 17, y: 91.57922}
+        - {x: -68, y: 57.579224}
+        - {x: -121, y: -21.420776}
+        - {x: -121, y: -98.42078}
+        - {x: 31, y: -98.42078}
+        - {x: 34, y: -82.42078}
+        - {x: 31, y: -67.42078}
+        - {x: 34, y: -80.42078}
+        - {x: 35, y: -97.42078}
+        - {x: 44, y: -98.42078}
+        - {x: 110, y: -98.42078}
+        - {x: 128, y: -73.42078}
+        - {x: 128, y: -19.420776}
+        - {x: 86, y: 95.57922}
+    - name: opposing elephant walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1758
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 102.63928}
+        - {x: 36, y: 102.63928}
+        - {x: 23, y: 100.63928}
+        - {x: -76, y: 40.639282}
+        - {x: -93, y: -12.360718}
+        - {x: -122, y: -63.360718}
+        - {x: -122, y: -85.36072}
+        - {x: -114, y: -88.36072}
+        - {x: -44, y: -85.36072}
+        - {x: -41, y: -88.36072}
+        - {x: -25, y: -96.36072}
+        - {x: -10, y: -96.36072}
+        - {x: 4, y: -94.36072}
+        - {x: 32, y: -85.36072}
+        - {x: 32, y: -71.36072}
+        - {x: 34, y: -90.36072}
+        - {x: 41, y: -96.36072}
+        - {x: 98, y: -96.36072}
+        - {x: 127, y: -71.36072}
+        - {x: 127, y: 10.639282}
+        - {x: 85, y: 89.63928}
+    - name: opposing elephant walk_9
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1758
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 103.63928}
+        - {x: -28, y: 103.63928}
+        - {x: -84, y: 63.639282}
+        - {x: -123, y: -54.360718}
+        - {x: -123, y: -83.36072}
+        - {x: -62, y: -96.36072}
+        - {x: -54, y: -81.36072}
+        - {x: -51, y: -63.360718}
+        - {x: -41, y: -90.36072}
+        - {x: -33, y: -96.36072}
+        - {x: 105, y: -96.36072}
+        - {x: 108, y: -95.36072}
+        - {x: 127, y: -52.360718}
+        - {x: 127, y: -1.3607178}
+        - {x: 124, y: 10.639282}
+    - name: opposing elephant walk_10
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1758
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 103.63928}
+        - {x: 27, y: 103.63928}
+        - {x: 18, y: 91.63928}
+        - {x: -65, y: 44.639282}
+        - {x: -125, y: -63.360718}
+        - {x: -125, y: -88.36072}
+        - {x: -115, y: -96.36072}
+        - {x: 126, y: -96.36072}
+        - {x: 127, y: -89.36072}
+        - {x: 127, y: -4.360718}
+        - {x: 84, y: 88.63928}
+    - name: opposing elephant walk_11
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1758
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 103.63928}
+        - {x: -97, y: 65.63928}
+        - {x: -125, y: -62.360718}
+        - {x: -125, y: -75.36072}
+        - {x: -82, y: -96.36072}
+        - {x: 15, y: -96.36072}
+        - {x: 30, y: -82.36072}
+        - {x: 26, y: -49.360718}
+        - {x: 41, y: -92.36072}
+        - {x: 51, y: -96.36072}
+        - {x: 113, y: -96.36072}
+        - {x: 127, y: -71.36072}
+        - {x: 127, y: 7.639282}
+        - {x: 91, y: 103.63928}
+    - name: opposing elephant walk_12
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1758
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127, y: -28.360718}
+        - {x: -127, y: -80.36072}
+        - {x: -44, y: -87.36072}
+        - {x: -38, y: -96.36072}
+        - {x: 109, y: -96.36072}
+        - {x: 127, y: -85.36072}
+        - {x: 127, y: 14.639282}
+        - {x: 85, y: 90.63928}
+        - {x: 76, y: 103.63928}
+        - {x: -31, y: 103.63928}
+        - {x: -99, y: 68.63928}
+    - name: opposing elephant walk_13
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1758
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: 91.63928}
+        - {x: 77, y: 103.63928}
+        - {x: -13, y: 103.63928}
+        - {x: -87, y: 65.63928}
+        - {x: -128, y: -52.360718}
+        - {x: -128, y: -74.36072}
+        - {x: -61, y: -84.36072}
+        - {x: -45, y: -71.36072}
+        - {x: -32, y: -88.36072}
+        - {x: -23, y: -96.36072}
+        - {x: 2, y: -96.36072}
+        - {x: 26, y: -90.36072}
+        - {x: 28, y: -72.36072}
+        - {x: 49, y: -96.36072}
+        - {x: 95, y: -96.36072}
+        - {x: 123, y: -69.36072}
+        - {x: 126, y: -66.36072}
+        - {x: 126, y: 2.6392822}
+    - name: opposing elephant walk_14
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1758
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 103.63928}
+        - {x: -112, y: -13.360718}
+        - {x: -128, y: -51.360718}
+        - {x: -128, y: -73.36072}
+        - {x: -66, y: -86.36072}
+        - {x: -34, y: -96.36072}
+        - {x: 23, y: -96.36072}
+        - {x: 28, y: -82.36072}
+        - {x: 48, y: -96.36072}
+        - {x: 103, y: -96.36072}
+        - {x: 126, y: -91.36072}
+        - {x: 126, y: 46.639282}
+        - {x: 113, y: 103.63928}
+    - name: opposing elephant walk_15
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1758
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 103.63928}
+        - {x: -86, y: 65.63928}
+        - {x: -128, y: -49.360718}
+        - {x: -128, y: -78.36072}
+        - {x: -63, y: -80.36072}
+        - {x: -57, y: -59.360718}
+        - {x: -63, y: -58.360718}
+        - {x: -72, y: -57.360718}
+        - {x: -46, y: -22.360718}
+        - {x: -36, y: -94.36072}
+        - {x: -20, y: -96.36072}
+        - {x: 17, y: -96.36072}
+        - {x: 26, y: -85.36072}
+        - {x: 49, y: -96.36072}
+        - {x: 96, y: -96.36072}
+        - {x: 126, y: -54.360718}
+        - {x: 126, y: -6.360718}
+        - {x: 78, y: 103.63928}
+    - name: opposing elephant walk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1465
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -40.300537}
+        - {x: -128, y: -71.30054}
+        - {x: -72, y: -82.30054}
+        - {x: -61, y: -75.30054}
+        - {x: -60, y: -62.300537}
+        - {x: -64, y: -56.300537}
+        - {x: -32, y: -89.30054}
+        - {x: -17, y: -96.30054}
+        - {x: 102, y: -96.30054}
+        - {x: 125, y: -77.30054}
+        - {x: 125, y: 13.699463}
+        - {x: 86, y: 103.69946}
+        - {x: -21, y: 103.69946}
+        - {x: -85, y: 64.69946}
+    - name: opposing elephant walk_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1465
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 103.69946}
+        - {x: -128, y: -14.300537}
+        - {x: -128, y: -96.30054}
+        - {x: 4, y: -96.30054}
+        - {x: 12, y: -93.30054}
+        - {x: 22, y: -83.30054}
+        - {x: 39, y: -96.30054}
+        - {x: 93, y: -96.30054}
+        - {x: 125, y: -52.300537}
+        - {x: 125, y: 13.699463}
+        - {x: 105, y: 103.69946}
+    - name: opposing elephant walk_18
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1465
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: -17.300537}
+        - {x: 99, y: -16.300537}
+        - {x: 99, y: -18.300537}
+        - {x: 103, y: -24.300537}
+        - {x: 109, y: -50.300537}
+        - {x: 116, y: -55.300537}
+        - {x: 125, y: -50.300537}
+        - {x: 125, y: -19.300537}
+        - {x: 85, y: 103.69946}
+        - {x: 9, y: 103.69946}
+        - {x: -59, y: 73.69946}
+        - {x: -128, y: -34.300537}
+        - {x: -128, y: -73.30054}
+        - {x: -125, y: -74.30054}
+        - {x: -66, y: -80.30054}
+        - {x: -56, y: -67.30054}
+        - {x: -60, y: -58.300537}
+        - {x: -26, y: -95.30054}
+        - {x: 14, y: -94.30054}
+        - {x: 20, y: -85.30054}
+        - {x: 20, y: -43.300537}
+        - {x: 47, y: -92.30054}
+        - {x: 57, y: -96.30054}
+        - {x: 92, y: -96.30054}
+        - {x: 101, y: -79.30054}
+        - {x: 100, y: -31.300537}
+        - {x: 98, y: -31.300537}
+    - name: opposing elephant walk_19
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1465
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 103.69946}
+        - {x: -51, y: 103.69946}
+        - {x: -73, y: 91.69946}
+        - {x: -128, y: -4.300537}
+        - {x: -128, y: -96.30054}
+        - {x: 15, y: -96.30054}
+        - {x: 15, y: -95.30054}
+        - {x: 20, y: -89.30054}
+        - {x: 38, y: -96.30054}
+        - {x: 102, y: -96.30054}
+        - {x: 125, y: -73.30054}
+        - {x: 125, y: 8.699463}
+        - {x: 99, y: 96.69946}
+    - name: opposing elephant walk_20
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1465
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 102.69946}
+        - {x: -75, y: 94.69946}
+        - {x: -118, y: -8.300537}
+        - {x: -128, y: -54.300537}
+        - {x: -128, y: -83.30054}
+        - {x: -90, y: -96.30054}
+        - {x: 19, y: -96.30054}
+        - {x: 22, y: -77.30054}
+        - {x: 21, y: -60.300537}
+        - {x: 48, y: -96.30054}
+        - {x: 100, y: -96.30054}
+        - {x: 125, y: -63.300537}
+        - {x: 125, y: 19.699463}
+        - {x: 95, y: 102.69946}
+    - name: opposing elephant walk_21
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1465
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: 99.69946}
+        - {x: 64, y: 102.69946}
+        - {x: 23, y: 102.69946}
+        - {x: 16, y: 94.69946}
+        - {x: -71, y: 47.699463}
+        - {x: -128, y: -44.300537}
+        - {x: -128, y: -80.30054}
+        - {x: -48, y: -96.30054}
+        - {x: 111, y: -96.30054}
+        - {x: 125, y: -74.30054}
+        - {x: 125, y: -27.300537}
+        - {x: 113, y: -11.300537}
+    - name: opposing elephant walk_22
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1465
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 102.69946}
+        - {x: 27, y: 102.69946}
+        - {x: 7, y: 89.69946}
+        - {x: -50, y: 67.69946}
+        - {x: -128, y: -41.300537}
+        - {x: -128, y: -87.30054}
+        - {x: -88, y: -96.30054}
+        - {x: 102, y: -96.30054}
+        - {x: 110, y: -92.30054}
+        - {x: 124, y: -60.300537}
+        - {x: 124, y: -18.300537}
+        - {x: 82, y: 95.69946}
+    - name: opposing elephant walk_23
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1465
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 102.69946}
+        - {x: 22, y: 102.69946}
+        - {x: 18, y: 101.69946}
+        - {x: -68, y: 52.699463}
+        - {x: -128, y: -48.300537}
+        - {x: -128, y: -91.30054}
+        - {x: -107, y: -96.30054}
+        - {x: 106, y: -96.30054}
+        - {x: 124, y: -54.300537}
+        - {x: 124, y: -18.300537}
+        - {x: 82, y: 90.69946}
+    - name: opposing elephant walk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1172
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 60.75952}
+        - {x: -128, y: -51.24048}
+        - {x: -128, y: -78.24048}
+        - {x: -58, y: -91.24048}
+        - {x: -54, y: -62.24048}
+        - {x: -61, y: -60.24048}
+        - {x: -32, y: -57.24048}
+        - {x: -36, y: -90.24048}
+        - {x: -35, y: -97.24048}
+        - {x: 124, y: -97.24048}
+        - {x: 124, y: 45.75952}
+        - {x: 81, y: 90.75952}
+        - {x: 64, y: 102.75952}
+        - {x: 26, y: 102.75952}
+        - {x: 9, y: 92.75952}
+    - name: opposing elephant walk_25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1172
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 102.75952}
+        - {x: 15, y: 102.75952}
+        - {x: -62, y: 41.75952}
+        - {x: -98, y: -13.2404785}
+        - {x: -127, y: -61.24048}
+        - {x: -127, y: -74.24048}
+        - {x: -62, y: -81.24048}
+        - {x: -58, y: -77.24048}
+        - {x: -56, y: -63.24048}
+        - {x: -62, y: -60.24048}
+        - {x: -73, y: -60.24048}
+        - {x: -76, y: -58.24048}
+        - {x: -76, y: -59.24048}
+        - {x: -74, y: -58.24048}
+        - {x: -61, y: -47.24048}
+        - {x: -46, y: -97.24048}
+        - {x: 123, y: -97.24048}
+        - {x: 123, y: -24.240479}
+        - {x: 79, y: 99.75952}
+    - name: opposing elephant walk_26
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1172
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118, y: -60.24048}
+        - {x: 123, y: -58.24048}
+        - {x: 123, y: 20.759521}
+        - {x: 80, y: 102.75952}
+        - {x: -37, y: 102.75952}
+        - {x: -70, y: 79.75952}
+        - {x: -127, y: -32.24048}
+        - {x: -127, y: -82.24048}
+        - {x: -55, y: -97.24048}
+        - {x: 88, y: -97.24048}
+        - {x: 114, y: -87.24048}
+        - {x: 103, y: -59.24048}
+        - {x: 102, y: -39.24048}
+        - {x: 103, y: -51.24048}
+    - name: opposing elephant walk_27
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1172
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 102.75952}
+        - {x: -127, y: -22.240479}
+        - {x: -127, y: -85.24048}
+        - {x: -62, y: -83.24048}
+        - {x: -58, y: -79.24048}
+        - {x: -55, y: -64.24048}
+        - {x: -60, y: -60.24048}
+        - {x: -35, y: -28.240479}
+        - {x: -47, y: -88.24048}
+        - {x: -39, y: -97.24048}
+        - {x: 123, y: -97.24048}
+        - {x: 123, y: 53.75952}
+        - {x: 77, y: 102.75952}
+    - name: opposing elephant walk_28
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1172
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: 101.75952}
+        - {x: 2, y: 101.75952}
+        - {x: -68, y: 46.75952}
+        - {x: -126, y: -69.24048}
+        - {x: -126, y: -75.24048}
+        - {x: -124, y: -77.24048}
+        - {x: -60, y: -84.24048}
+        - {x: -56, y: -97.24048}
+        - {x: 93, y: -97.24048}
+        - {x: 119, y: -89.24048}
+        - {x: 123, y: -56.24048}
+        - {x: 123, y: -36.24048}
+        - {x: 96, y: 100.75952}
+    - name: opposing elephant walk_29
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1172
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: -53.24048}
+        - {x: 116, y: -61.24048}
+        - {x: 122, y: -54.24048}
+        - {x: 122, y: -16.240479}
+        - {x: 75, y: 98.75952}
+        - {x: 69, y: 101.75952}
+        - {x: 0, y: 101.75952}
+        - {x: -52, y: 59.75952}
+        - {x: -126, y: -48.24048}
+        - {x: -126, y: -78.24048}
+        - {x: -65, y: -88.24048}
+        - {x: -50, y: -71.24048}
+        - {x: -57, y: -60.24048}
+        - {x: -44, y: -77.24048}
+        - {x: -41, y: -91.24048}
+        - {x: -35, y: -97.24048}
+        - {x: 90, y: -97.24048}
+        - {x: 108, y: -88.24048}
+        - {x: 109, y: -78.24048}
+        - {x: 105, y: -61.24048}
+        - {x: 105, y: -39.24048}
+    - name: opposing elephant walk_30
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1172
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: -53.24048}
+        - {x: 108, y: -56.24048}
+        - {x: 119, y: -58.24048}
+        - {x: 123, y: -52.24048}
+        - {x: 123, y: -3.2404785}
+        - {x: 75, y: 101.75952}
+        - {x: -46, y: 101.75952}
+        - {x: -73, y: 84.75952}
+        - {x: -125, y: -48.24048}
+        - {x: -125, y: -94.24048}
+        - {x: -104, y: -97.24048}
+        - {x: 98, y: -97.24048}
+        - {x: 113, y: -90.24048}
+        - {x: 106, y: -48.24048}
+        - {x: 105, y: -36.24048}
+        - {x: 104, y: -36.24048}
+    - name: opposing elephant walk_31
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1172
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125, y: -49.24048}
+        - {x: -125, y: -78.24048}
+        - {x: -66, y: -87.24048}
+        - {x: -50, y: -97.24048}
+        - {x: 105, y: -97.24048}
+        - {x: 122, y: -83.24048}
+        - {x: 122, y: 15.7595215}
+        - {x: 90, y: 99.75952}
+        - {x: 75, y: 101.75952}
+        - {x: 7, y: 101.75952}
+        - {x: -69, y: 48.75952}
+    - name: opposing elephant walk_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: -35.18036}
+        - {x: 106, y: -39.18036}
+        - {x: 106, y: -51.18036}
+        - {x: 110, y: -56.18036}
+        - {x: 114, y: -59.18036}
+        - {x: 122, y: -62.18036}
+        - {x: 122, y: 101.81964}
+        - {x: -68, y: 101.81964}
+        - {x: -94, y: 93.81964}
+        - {x: -125, y: -65.18036}
+        - {x: -125, y: -93.18036}
+        - {x: -99, y: -97.18036}
+        - {x: 101, y: -97.18036}
+        - {x: 111, y: -96.18036}
+        - {x: 112, y: -78.18036}
+        - {x: 106, y: -57.18036}
+        - {x: 106, y: -45.18036}
+    - name: opposing elephant walk_33
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 879
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: -37.18036}
+        - {x: 107, y: -38.18036}
+        - {x: 107, y: -52.18036}
+        - {x: 109, y: -56.18036}
+        - {x: 117, y: -58.18036}
+        - {x: 121, y: -53.18036}
+        - {x: 122, y: -49.18036}
+        - {x: 122, y: 61.81964}
+        - {x: 81, y: 101.81964}
+        - {x: -51, y: 101.81964}
+        - {x: -77, y: 57.81964}
+        - {x: -124, y: -47.18036}
+        - {x: -124, y: -76.18036}
+        - {x: -74, y: -96.18036}
+        - {x: 84, y: -96.18036}
+        - {x: 109, y: -88.18036}
+        - {x: 107, y: -74.18036}
+        - {x: 106, y: -45.18036}
+    - name: opposing elephant walk_34
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 879
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: 101.81964}
+        - {x: -33, y: 101.81964}
+        - {x: -110, y: 79.81964}
+        - {x: -106, y: -19.180359}
+        - {x: -124, y: -59.18036}
+        - {x: -124, y: -80.18036}
+        - {x: -51, y: -94.18036}
+        - {x: -39, y: -96.18036}
+        - {x: 111, y: -96.18036}
+        - {x: 123, y: -51.18036}
+        - {x: 123, y: -40.18036}
+        - {x: 77, y: 89.81964}
+    - name: opposing elephant walk_35
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 879
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 102.81964}
+        - {x: -102, y: 80.81964}
+        - {x: -123, y: -62.18036}
+        - {x: -123, y: -91.18036}
+        - {x: -47, y: -83.18036}
+        - {x: -53, y: -64.18036}
+        - {x: -57, y: -61.18036}
+        - {x: -36, y: -44.18036}
+        - {x: -41, y: -85.18036}
+        - {x: -41, y: -96.18036}
+        - {x: 102, y: -96.18036}
+        - {x: 104, y: -94.18036}
+        - {x: 123, y: -71.18036}
+        - {x: 123, y: -4.180359}
+        - {x: 97, y: 102.81964}
+    - name: opposing elephant walk_36
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 879
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 102.81964}
+        - {x: -116, y: 80.81964}
+        - {x: -123, y: 34.81964}
+        - {x: -123, y: -82.18036}
+        - {x: -119, y: -82.18036}
+        - {x: -56, y: -85.18036}
+        - {x: -51, y: -70.18036}
+        - {x: -55, y: -62.18036}
+        - {x: -60, y: -62.18036}
+        - {x: -35, y: -58.18036}
+        - {x: -46, y: -96.18036}
+        - {x: 104, y: -96.18036}
+        - {x: 123, y: -53.18036}
+        - {x: 123, y: 46.81964}
+        - {x: 120, y: 102.81964}
+    - name: opposing elephant walk_37
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 879
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: -46.18036}
+        - {x: -123, y: -81.18036}
+        - {x: -57, y: -83.18036}
+        - {x: -55, y: -79.18036}
+        - {x: -53, y: -71.18036}
+        - {x: -52, y: -65.18036}
+        - {x: -43, y: -96.18036}
+        - {x: 123, y: -96.18036}
+        - {x: 123, y: 80.81964}
+        - {x: 120, y: 102.81964}
+        - {x: 14, y: 102.81964}
+        - {x: -52, y: 72.81964}
+    - name: opposing elephant walk_38
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 879
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 124, y: -27.180359}
+        - {x: 89, y: 102.81964}
+        - {x: -2, y: 102.81964}
+        - {x: -71, y: 49.81964}
+        - {x: -123, y: -70.18036}
+        - {x: -123, y: -81.18036}
+        - {x: -99, y: -89.18036}
+        - {x: -83, y: -96.18036}
+        - {x: 6, y: -96.18036}
+        - {x: 23, y: -91.18036}
+        - {x: 28, y: -78.18036}
+        - {x: 46, y: -96.18036}
+        - {x: 89, y: -96.18036}
+        - {x: 103, y: -91.18036}
+        - {x: 103, y: -57.18036}
+        - {x: 124, y: -57.18036}
+    - name: opposing elephant walk_39
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 879
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: 93.81964}
+        - {x: 62, y: 102.81964}
+        - {x: 18, y: 102.81964}
+        - {x: 11, y: 91.81964}
+        - {x: -73, y: 42.81964}
+        - {x: -122, y: -50.18036}
+        - {x: -122, y: -86.18036}
+        - {x: -57, y: -88.18036}
+        - {x: -53, y: -80.18036}
+        - {x: -51, y: -65.18036}
+        - {x: -56, y: -63.18036}
+        - {x: -39, y: -22.180359}
+        - {x: -34, y: -95.18036}
+        - {x: -30, y: -96.18036}
+        - {x: 10, y: -96.18036}
+        - {x: 29, y: -85.18036}
+        - {x: 42, y: -94.18036}
+        - {x: 51, y: -96.18036}
+        - {x: 100, y: -96.18036}
+        - {x: 124, y: -60.18036}
+        - {x: 124, y: -16.180359}
+    - name: opposing elephant walk_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 102.87976}
+        - {x: -56, y: 65.87976}
+        - {x: -122, y: -52.12024}
+        - {x: -122, y: -83.12024}
+        - {x: -120, y: -84.12024}
+        - {x: -56, y: -86.12024}
+        - {x: -53, y: -80.12024}
+        - {x: -51, y: -65.12024}
+        - {x: -55, y: -63.12024}
+        - {x: -32, y: -50.12024}
+        - {x: -34, y: -87.12024}
+        - {x: -24, y: -96.12024}
+        - {x: 124, y: -96.12024}
+        - {x: 124, y: 102.87976}
+    - name: opposing elephant walk_41
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 586
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 103.87976}
+        - {x: 1, y: 103.87976}
+        - {x: -65, y: 44.87976}
+        - {x: -121, y: -58.12024}
+        - {x: -121, y: -82.12024}
+        - {x: -55, y: -90.12024}
+        - {x: -51, y: -65.12024}
+        - {x: -31, y: -93.12024}
+        - {x: -29, y: -96.12024}
+        - {x: 124, y: -96.12024}
+        - {x: 124, y: 32.87976}
+        - {x: 74, y: 101.87976}
+    - name: opposing elephant walk_42
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 586
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 103.87976}
+        - {x: 20, y: 103.87976}
+        - {x: -68, y: 44.87976}
+        - {x: -121, y: -60.12024}
+        - {x: -121, y: -91.12024}
+        - {x: -54, y: -91.12024}
+        - {x: -45, y: -65.12024}
+        - {x: -31, y: -93.12024}
+        - {x: -25, y: -96.12024}
+        - {x: 0, y: -96.12024}
+        - {x: 27, y: -88.12024}
+        - {x: 51, y: -96.12024}
+        - {x: 105, y: -96.12024}
+        - {x: 125, y: -53.12024}
+        - {x: 125, y: -37.12024}
+        - {x: 79, y: 98.87976}
+    - name: opposing elephant walk_43
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 586
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 103.87976}
+        - {x: 13, y: 101.87976}
+        - {x: 10, y: 87.87976}
+        - {x: -67, y: 43.87976}
+        - {x: -120, y: -67.12024}
+        - {x: -120, y: -90.12024}
+        - {x: -119, y: -91.12024}
+        - {x: -97, y: -96.12024}
+        - {x: 122, y: -96.12024}
+        - {x: 125, y: -88.12024}
+        - {x: 125, y: -14.120239}
+        - {x: 71, y: 103.87976}
+    - name: opposing elephant walk_44
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 586
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 103.87976}
+        - {x: -65, y: 55.87976}
+        - {x: -120, y: -53.12024}
+        - {x: -120, y: -84.12024}
+        - {x: -117, y: -84.12024}
+        - {x: -55, y: -86.12024}
+        - {x: -52, y: -80.12024}
+        - {x: -50, y: -68.12024}
+        - {x: -28, y: -95.12024}
+        - {x: -16, y: -96.12024}
+        - {x: -1, y: -94.12024}
+        - {x: 20, y: -88.12024}
+        - {x: 25, y: -96.12024}
+        - {x: 125, y: -96.12024}
+        - {x: 125, y: -14.120239}
+        - {x: 76, y: 91.87976}
+        - {x: 58, y: 103.87976}
+    - name: opposing elephant walk_45
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 586
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: -16.12024}
+        - {x: 98, y: -14.120239}
+        - {x: 98, y: -16.12024}
+        - {x: 101, y: -19.12024}
+        - {x: 111, y: -52.12024}
+        - {x: 125, y: -53.12024}
+        - {x: 125, y: 58.87976}
+        - {x: 74, y: 103.87976}
+        - {x: -46, y: 103.87976}
+        - {x: -79, y: 46.87976}
+        - {x: -120, y: -60.12024}
+        - {x: -120, y: -86.12024}
+        - {x: -112, y: -93.12024}
+        - {x: -45, y: -84.12024}
+        - {x: -49, y: -65.12024}
+        - {x: -53, y: -62.12024}
+        - {x: -29, y: -44.12024}
+        - {x: -26, y: -88.12024}
+        - {x: -19, y: -96.12024}
+        - {x: 93, y: -96.12024}
+        - {x: 99, y: -87.12024}
+        - {x: 100, y: -36.12024}
+        - {x: 99, y: -17.12024}
+    - name: opposing elephant walk_46
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 586
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 103.87976}
+        - {x: -87, y: 90.87976}
+        - {x: -119, y: -58.12024}
+        - {x: -119, y: -82.12024}
+        - {x: -95, y: -85.12024}
+        - {x: -54, y: -84.12024}
+        - {x: -50, y: -97.12024}
+        - {x: 125, y: -97.12024}
+        - {x: 125, y: 39.87976}
+        - {x: 102, y: 103.87976}
+    - name: opposing elephant walk_47
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 586
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 103.87976}
+        - {x: -10, y: 103.87976}
+        - {x: -81, y: 54.87976}
+        - {x: -119, y: -71.12024}
+        - {x: -119, y: -83.12024}
+        - {x: -90, y: -98.12024}
+        - {x: 126, y: -98.12024}
+        - {x: 126, y: -32.12024}
+    - name: opposing elephant walk_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 103.93988}
+        - {x: -85, y: 57.93988}
+        - {x: -118, y: -47.06012}
+        - {x: -118, y: -88.06012}
+        - {x: -42, y: -85.06012}
+        - {x: -28, y: -98.06012}
+        - {x: 95, y: -98.06012}
+        - {x: 126, y: -71.06012}
+        - {x: 126, y: 13.93988}
+        - {x: 98, y: 103.93988}
+    - name: opposing elephant walk_49
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 293
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 103.93988}
+        - {x: 27, y: 103.93988}
+        - {x: -77, y: 38.93988}
+        - {x: -118, y: -62.06012}
+        - {x: -118, y: -88.06012}
+        - {x: -109, y: -89.06012}
+        - {x: -36, y: -86.06012}
+        - {x: -22, y: -94.06012}
+        - {x: -8, y: -98.06012}
+        - {x: 109, y: -98.06012}
+        - {x: 126, y: -63.06012}
+        - {x: 126, y: -16.06012}
+        - {x: 72, y: 100.93988}
+    - name: opposing elephant walk_50
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 293
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: 99.93988}
+        - {x: 68, y: 103.93988}
+        - {x: 15, y: 103.93988}
+        - {x: 11, y: 89.93988}
+        - {x: -71, y: 45.93988}
+        - {x: -118, y: -63.06012}
+        - {x: -118, y: -87.06012}
+        - {x: -63, y: -99.06012}
+        - {x: -12, y: -99.06012}
+        - {x: 22, y: -91.06012}
+        - {x: 26, y: -74.06012}
+        - {x: 34, y: -92.06012}
+        - {x: 53, y: -99.06012}
+        - {x: 90, y: -99.06012}
+        - {x: 104, y: -91.06012}
+        - {x: 126, y: -54.06012}
+        - {x: 126, y: -30.06012}
+    - name: opposing elephant walk_51
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 293
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 103.93988}
+        - {x: -117, y: 70.93988}
+        - {x: -117, y: -91.06012}
+        - {x: -50, y: -89.06012}
+        - {x: -45, y: -81.06012}
+        - {x: -50, y: -60.06012}
+        - {x: -32, y: -86.06012}
+        - {x: -24, y: -99.06012}
+        - {x: -10, y: -99.06012}
+        - {x: 29, y: -86.06012}
+        - {x: 39, y: -99.06012}
+        - {x: 86, y: -99.06012}
+        - {x: 116, y: -92.06012}
+        - {x: 127, y: -53.06012}
+        - {x: 127, y: -26.06012}
+        - {x: 106, y: 103.93988}
+    - name: opposing elephant walk_52
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 293
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117, y: -46.06012}
+        - {x: -117, y: -87.06012}
+        - {x: -107, y: -89.06012}
+        - {x: -51, y: -85.06012}
+        - {x: -44, y: -73.06012}
+        - {x: -49, y: -64.06012}
+        - {x: -54, y: -64.06012}
+        - {x: -33, y: -39.06012}
+        - {x: -50, y: -100.06012}
+        - {x: 127, y: -100.06012}
+        - {x: 127, y: 9.93988}
+        - {x: 94, y: 103.93988}
+        - {x: -27, y: 103.93988}
+        - {x: -91, y: 64.93988}
+    - name: opposing elephant walk_53
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 293
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 103.93988}
+        - {x: -82, y: 56.93988}
+        - {x: -116, y: -28.06012}
+        - {x: -116, y: -100.06012}
+        - {x: 14, y: -100.06012}
+        - {x: 31, y: -93.06012}
+        - {x: 30, y: -80.06012}
+        - {x: 25, y: -70.06012}
+        - {x: 41, y: -52.06012}
+        - {x: 32, y: -88.06012}
+        - {x: 48, y: -100.06012}
+        - {x: 96, y: -100.06012}
+        - {x: 127, y: -73.06012}
+        - {x: 127, y: 23.93988}
+        - {x: 90, y: 103.93988}
+    - name: opposing elephant walk_54
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 293
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 103.93988}
+        - {x: 0, y: 103.93988}
+        - {x: -70, y: 36.93988}
+        - {x: -93, y: -31.06012}
+        - {x: -96, y: -49.06012}
+        - {x: -93, y: -61.06012}
+        - {x: -114, y: -78.06012}
+        - {x: -116, y: -81.06012}
+        - {x: -116, y: -86.06012}
+        - {x: -113, y: -90.06012}
+        - {x: -56, y: -90.06012}
+        - {x: -46, y: -82.06012}
+        - {x: -47, y: -68.06012}
+        - {x: -51, y: -65.06012}
+        - {x: -55, y: -65.06012}
+        - {x: -32, y: -24.06012}
+        - {x: -33, y: -88.06012}
+        - {x: -30, y: -97.06012}
+        - {x: 27, y: -91.06012}
+        - {x: 31, y: -83.06012}
+        - {x: 30, y: -90.06012}
+        - {x: 35, y: -101.06012}
+        - {x: 89, y: -101.06012}
+        - {x: 120, y: -95.06012}
+        - {x: 127, y: -58.06012}
+        - {x: 127, y: -33.06012}
+        - {x: 89, y: 99.93988}
+    - name: opposing elephant walk_55
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 293
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: 101.93988}
+        - {x: 78, y: 103.93988}
+        - {x: 27, y: 103.93988}
+        - {x: -53, y: 69.93988}
+        - {x: -115, y: -38.06012}
+        - {x: -116, y: -49.06012}
+        - {x: -116, y: -90.06012}
+        - {x: -51, y: -93.06012}
+        - {x: -41, y: -70.06012}
+        - {x: -48, y: -66.06012}
+        - {x: -36, y: -24.06012}
+        - {x: -36, y: -90.06012}
+        - {x: -13, y: -98.06012}
+        - {x: 29, y: -88.06012}
+        - {x: 33, y: -75.06012}
+        - {x: 30, y: -84.06012}
+        - {x: 29, y: -88.06012}
+        - {x: 43, y: -99.06012}
+        - {x: 60, y: -101.06012}
+        - {x: 72, y: -101.06012}
+        - {x: 107, y: -88.06012}
+        - {x: 128, y: -69.06012}
+        - {x: 128, y: 6.9398804}
+    - name: opposing elephant walk_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 102.5}
+        - {x: -57, y: 59.5}
+        - {x: -115, y: -66.5}
+        - {x: -115, y: -92.5}
+        - {x: -41, y: -87.5}
+        - {x: -47, y: -64.5}
+        - {x: -39, y: -93.5}
+        - {x: 2, y: -100.5}
+        - {x: 27, y: -87.5}
+        - {x: 31, y: -83.5}
+        - {x: 31, y: -77.5}
+        - {x: 29, y: -71.5}
+        - {x: 40, y: -45.5}
+        - {x: 31, y: -80.5}
+        - {x: 30, y: -88.5}
+        - {x: 25, y: -102.5}
+        - {x: 124, y: -102.5}
+        - {x: 128, y: -96.5}
+        - {x: 128, y: 13.5}
+        - {x: 90, y: 102.5}
+    - name: opposing elephant walk_57
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99, y: 101.5}
+        - {x: -115, y: -20.5}
+        - {x: -115, y: -96.5}
+        - {x: -55, y: -89.5}
+        - {x: -45, y: -84.5}
+        - {x: -39, y: -70.5}
+        - {x: -38, y: -79.5}
+        - {x: -33, y: -94.5}
+        - {x: -15, y: -102.5}
+        - {x: 99, y: -102.5}
+        - {x: 128, y: -58.5}
+        - {x: 128, y: 45.5}
+        - {x: 121, y: 101.5}
+    - name: opposing elephant walk_58
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 101.5}
+        - {x: 14, y: 101.5}
+        - {x: 1, y: 96.5}
+        - {x: -74, y: 37.5}
+        - {x: -114, y: -60.5}
+        - {x: -114, y: -92.5}
+        - {x: -42, y: -99.5}
+        - {x: -42, y: -75.5}
+        - {x: -48, y: -66.5}
+        - {x: -33, y: -25.5}
+        - {x: -40, y: -88.5}
+        - {x: -24, y: -98.5}
+        - {x: 38, y: -102.5}
+        - {x: 71, y: -102.5}
+        - {x: 115, y: -90.5}
+        - {x: 128, y: -73.5}
+        - {x: 128, y: -8.5}
+    - name: opposing elephant walk_59
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 0
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -2.5}
+        - {x: 90, y: 93.5}
+        - {x: 65, y: 101.5}
+        - {x: 6, y: 101.5}
+        - {x: -54, y: 59.5}
+        - {x: -102, y: -37.5}
+        - {x: -114, y: -72.5}
+        - {x: -114, y: -92.5}
+        - {x: -111, y: -94.5}
+        - {x: -62, y: -102.5}
+        - {x: 77, y: -102.5}
+        - {x: 113, y: -89.5}
+        - {x: 106, y: -48.5}
+        - {x: 123, y: -54.5}
+        - {x: 128, y: -54.5}
+    - name: opposing elephant walk_60
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125, y: -53.5}
+        - {x: 128, y: -48.5}
+        - {x: 128, y: -20.5}
+        - {x: 79, y: 97.5}
+        - {x: 68, y: 101.5}
+        - {x: 0, y: 101.5}
+        - {x: -61, y: 59.5}
+        - {x: -113, y: -48.5}
+        - {x: -113, y: -92.5}
+        - {x: -49, y: -88.5}
+        - {x: -45, y: -83.5}
+        - {x: -40, y: -67.5}
+        - {x: -41, y: -77.5}
+        - {x: -39, y: -94.5}
+        - {x: -4, y: -101.5}
+        - {x: 3, y: -102.5}
+        - {x: 75, y: -102.5}
+        - {x: 111, y: -90.5}
+        - {x: 103, y: -36.5}
+        - {x: 110, y: -47.5}
+    - name: opposing elephant walk_61
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 0
+        width: 366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105, y: -53.5}
+        - {x: -113, y: -81.5}
+        - {x: -113, y: -98.5}
+        - {x: -46, y: -93.5}
+        - {x: -41, y: -75.5}
+        - {x: -46, y: -67.5}
+        - {x: -39, y: -29.5}
+        - {x: -41, y: -88.5}
+        - {x: -21, y: -102.5}
+        - {x: 111, y: -102.5}
+        - {x: 128, y: -85.5}
+        - {x: 128, y: 45.5}
+        - {x: 90, y: 94.5}
+        - {x: 64, y: 101.5}
+        - {x: 10, y: 101.5}
+        - {x: -75, y: 39.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

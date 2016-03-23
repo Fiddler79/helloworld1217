@@ -1,0 +1,1465 @@
+fileFormatVersion: 2
+guid: adf8a43c909a9e54fbf89e8440ec5f1a
+timeCreated: 1458721420
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: opposing beserker attack_0
+    21300002: opposing beserker attack_1
+    21300004: opposing beserker attack_2
+    21300006: opposing beserker attack_3
+    21300008: opposing beserker attack_4
+    21300010: opposing beserker attack_5
+    21300012: opposing beserker attack_6
+    21300014: opposing beserker attack_7
+    21300016: opposing beserker attack_8
+    21300018: opposing beserker attack_9
+    21300020: opposing beserker attack_10
+    21300022: opposing beserker attack_11
+    21300024: opposing beserker attack_12
+    21300026: opposing beserker attack_13
+    21300028: opposing beserker attack_14
+    21300030: opposing beserker attack_15
+    21300032: opposing beserker attack_16
+    21300034: opposing beserker attack_17
+    21300036: opposing beserker attack_18
+    21300038: opposing beserker attack_19
+    21300040: opposing beserker attack_20
+    21300042: opposing beserker attack_21
+    21300044: opposing beserker attack_22
+    21300046: opposing beserker attack_23
+    21300048: opposing beserker attack_24
+    21300050: opposing beserker attack_25
+    21300052: opposing beserker attack_26
+    21300054: opposing beserker attack_27
+    21300056: opposing beserker attack_28
+    21300058: opposing beserker attack_29
+    21300060: opposing beserker attack_30
+    21300062: opposing beserker attack_31
+    21300064: opposing beserker attack_32
+    21300066: opposing beserker attack_33
+    21300068: opposing beserker attack_34
+    21300070: opposing beserker attack_35
+    21300072: opposing beserker attack_36
+    21300074: opposing beserker attack_37
+    21300076: opposing beserker attack_38
+    21300078: opposing beserker attack_39
+    21300080: opposing beserker attack_40
+    21300082: opposing beserker attack_41
+    21300084: opposing beserker attack_42
+    21300086: opposing beserker attack_43
+    21300088: opposing beserker attack_44
+    21300090: opposing beserker attack_45
+    21300092: opposing beserker attack_46
+    21300094: opposing beserker attack_47
+    21300096: opposing beserker attack_48
+    21300098: opposing beserker attack_49
+    21300100: opposing beserker attack_50
+    21300102: opposing beserker attack_51
+    21300104: opposing beserker attack_52
+    21300106: opposing beserker attack_53
+    21300108: opposing beserker attack_54
+    21300110: opposing beserker attack_55
+    21300112: opposing beserker attack_56
+    21300114: opposing beserker attack_57
+    21300116: opposing beserker attack_58
+    21300118: opposing beserker attack_59
+    21300120: opposing beserker attack_60
+    21300122: opposing beserker attack_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: opposing beserker attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2202
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 81.92859}
+        - {x: 2.5, y: 81.92859}
+        - {x: -0.5, y: 80.92859}
+        - {x: -38.5, y: 55.92859}
+        - {x: -38.5, y: -62.07141}
+        - {x: -20.5, y: -86.07141}
+        - {x: 6.5, y: -86.07141}
+        - {x: 25.5, y: -78.07141}
+        - {x: 32.5, y: -34.07141}
+        - {x: 32.5, y: 74.92859}
+    - name: opposing beserker attack_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2202
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.220703, y: 86.92859}
+        - {x: -37.220703, y: -85.07141}
+        - {x: -35.220703, y: -86.07141}
+        - {x: 16.779297, y: -86.07141}
+        - {x: 34.779297, y: -45.07141}
+        - {x: 34.779297, y: 49.92859}
+        - {x: 16.779297, y: 86.92859}
+    - name: opposing beserker attack_2
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2202
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.441406, y: -86.07141}
+        - {x: 13.558594, y: -86.07141}
+        - {x: 33.558594, y: -59.07141}
+        - {x: 33.558594, y: 64.92859}
+        - {x: 16.558594, y: 83.92859}
+        - {x: 10.558594, y: 88.92859}
+        - {x: -22.441406, y: 88.92859}
+        - {x: -37.441406, y: 40.92859}
+    - name: opposing beserker attack_3
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 2202
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.66211, y: 89.92859}
+        - {x: -34.66211, y: 80.92859}
+        - {x: -38.66211, y: 27.928589}
+        - {x: -38.66211, y: -39.07141}
+        - {x: -17.66211, y: -85.07141}
+        - {x: 16.33789, y: -85.07141}
+        - {x: 32.33789, y: -2.0714111}
+        - {x: 32.33789, y: 44.92859}
+        - {x: -4.6621094, y: 89.92859}
+    - name: opposing beserker attack_4
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 2202
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.382812, y: 89.92859}
+        - {x: -39.382812, y: -69.07141}
+        - {x: -36.382812, y: -85.07141}
+        - {x: 4.6171875, y: -85.07141}
+        - {x: 12.6171875, y: -83.07141}
+        - {x: 30.617188, y: -17.071411}
+        - {x: 30.617188, y: 39.92859}
+        - {x: -8.3828125, y: 89.92859}
+    - name: opposing beserker attack_5
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 2202
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.103516, y: 87.92859}
+        - {x: -48.103516, y: 84.92859}
+        - {x: -48.103516, y: 13.928589}
+        - {x: -39.103516, y: -51.07141}
+        - {x: -20.103516, y: -81.07141}
+        - {x: -16.103516, y: -85.07141}
+        - {x: 8.896484, y: -85.07141}
+        - {x: 18.896484, y: -83.07141}
+        - {x: 28.896484, y: -24.071411}
+        - {x: 28.896484, y: 40.92859}
+        - {x: -16.103516, y: 87.92859}
+    - name: opposing beserker attack_6
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 2202
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.6757812, y: -13.071411}
+        - {x: 24.675781, y: 25.928589}
+        - {x: 24.675781, y: 52.92859}
+        - {x: -29.324219, y: 84.92859}
+        - {x: -57.32422, y: 84.92859}
+        - {x: -57.32422, y: -41.07141}
+        - {x: -14.324219, y: -85.07141}
+        - {x: 8.675781, y: -85.07141}
+        - {x: 14.675781, y: -82.07141}
+        - {x: 9.675781, y: -66.07141}
+        - {x: 7.6757812, y: -33.07141}
+    - name: opposing beserker attack_7
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 2202
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.544922, y: 80.92859}
+        - {x: -65.54492, y: 80.92859}
+        - {x: -65.54492, y: -29.071411}
+        - {x: -37.54492, y: -85.07141}
+        - {x: 8.455078, y: -85.07141}
+        - {x: 16.455078, y: -80.07141}
+        - {x: 19.455078, y: -26.071411}
+        - {x: 19.455078, y: 54.92859}
+    - name: opposing beserker attack_8
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 2202
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.765625, y: 75.92859}
+        - {x: -72.765625, y: 43.92859}
+        - {x: -68.765625, y: 37.92859}
+        - {x: -58.765625, y: 33.92859}
+        - {x: -55.765625, y: 34.92859}
+        - {x: -54.765625, y: 38.92859}
+        - {x: -44.765625, y: -34.07141}
+        - {x: -20.765625, y: -85.07141}
+        - {x: 14.234375, y: -85.07141}
+        - {x: 14.234375, y: 57.92859}
+        - {x: -43.765625, y: 75.92859}
+    - name: opposing beserker attack_9
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 2202
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.48633, y: 70.92859}
+        - {x: -79.48633, y: 68.92859}
+        - {x: -79.48633, y: 41.92859}
+        - {x: -67.48633, y: 19.928589}
+        - {x: -39.48633, y: -36.07141}
+        - {x: -31.486328, y: -40.07141}
+        - {x: -22.486328, y: -83.07141}
+        - {x: -16.486328, y: -85.07141}
+        - {x: 12.513672, y: -85.07141}
+        - {x: 13.513672, y: -84.07141}
+        - {x: 13.513672, y: 67.92859}
+        - {x: -24.486328, y: 70.92859}
+    - name: opposing beserker attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1835
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 64.85718}
+        - {x: -86.5, y: 64.85718}
+        - {x: -86.5, y: 34.857178}
+        - {x: -62.5, y: 18.857178}
+        - {x: -39.5, y: -34.142822}
+        - {x: -18.5, y: -84.14282}
+        - {x: 13.5, y: -84.14282}
+        - {x: 13.5, y: -11.142822}
+        - {x: 5.5, y: 61.857178}
+    - name: opposing beserker attack_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1835
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.2207, y: 66.85718}
+        - {x: -91.2207, y: 29.857178}
+        - {x: -73.2207, y: -10.142822}
+        - {x: -22.220703, y: -84.14282}
+        - {x: 11.779297, y: -84.14282}
+        - {x: 15.779297, y: -82.14282}
+        - {x: 15.779297, y: -46.142822}
+        - {x: 0.7792969, y: 66.85718}
+    - name: opposing beserker attack_12
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1835
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.441406, y: 67.85718}
+        - {x: -46.441406, y: 67.85718}
+        - {x: -96.44141, y: 47.857178}
+        - {x: -96.44141, y: 26.857178}
+        - {x: -92.44141, y: 20.857178}
+        - {x: -66.44141, y: 7.8571777}
+        - {x: -64.44141, y: 11.857178}
+        - {x: -65.44141, y: 18.857178}
+        - {x: -22.441406, y: -83.14282}
+        - {x: -17.441406, y: -84.14282}
+        - {x: 15.558594, y: -84.14282}
+        - {x: 15.558594, y: -41.142822}
+        - {x: -2.4414062, y: 60.857178}
+    - name: opposing beserker attack_13
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1835
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.662109, y: 67.85718}
+        - {x: -34.66211, y: 67.85718}
+        - {x: -87.66211, y: 43.857178}
+        - {x: -100.66211, y: 33.857178}
+        - {x: -100.66211, y: 12.857178}
+        - {x: -71.66211, y: -7.1428223}
+        - {x: -30.66211, y: -84.14282}
+        - {x: 15.337891, y: -84.14282}
+        - {x: 16.33789, y: -81.14282}
+        - {x: 16.33789, y: -63.142822}
+        - {x: 1.3378906, y: 40.857178}
+    - name: opposing beserker attack_14
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1835
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.38281, y: 26.857178}
+        - {x: -102.38281, y: 4.8571777}
+        - {x: -94.38281, y: -9.142822}
+        - {x: -60.382812, y: -2.1428223}
+        - {x: -15.3828125, y: -84.14282}
+        - {x: 12.6171875, y: -84.14282}
+        - {x: 16.617188, y: -82.14282}
+        - {x: 16.617188, y: -32.142822}
+        - {x: 4.6171875, y: 42.857178}
+        - {x: -19.382812, y: 66.85718}
+        - {x: -38.382812, y: 66.85718}
+        - {x: -41.382812, y: 63.857178}
+    - name: opposing beserker attack_15
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1835
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.103516, y: 67.85718}
+        - {x: -100.103516, y: 16.857178}
+        - {x: -83.103516, y: -4.1428223}
+        - {x: -57.103516, y: -0.14282227}
+        - {x: -15.103516, y: -84.14282}
+        - {x: 16.896484, y: -84.14282}
+        - {x: 16.896484, y: 67.85718}
+    - name: opposing beserker attack_16
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1835
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.675781, y: 66.85718}
+        - {x: -89.32422, y: 66.85718}
+        - {x: -89.32422, y: 39.857178}
+        - {x: -88.32422, y: 35.857178}
+        - {x: -82.32422, y: 33.857178}
+        - {x: -74.32422, y: 25.857178}
+        - {x: -65.32422, y: 19.857178}
+        - {x: -63.32422, y: 22.857178}
+        - {x: -63.32422, y: 28.857178}
+        - {x: -40.32422, y: -37.142822}
+        - {x: -22.324219, y: -83.14282}
+        - {x: -18.324219, y: -84.14282}
+        - {x: 13.675781, y: -84.14282}
+        - {x: 15.675781, y: -80.14282}
+        - {x: 15.675781, y: -55.142822}
+    - name: opposing beserker attack_17
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 1835
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.54492, y: -85.14282}
+        - {x: 18.455078, y: -85.14282}
+        - {x: 18.455078, y: 75.85718}
+        - {x: 17.455078, y: 82.85718}
+        - {x: -69.54492, y: 82.85718}
+        - {x: -69.54492, y: -34.142822}
+    - name: opposing beserker attack_18
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 1835
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.765625, y: 95.85718}
+        - {x: -43.765625, y: 95.85718}
+        - {x: -43.765625, y: -63.142822}
+        - {x: -29.765625, y: -82.14282}
+        - {x: -20.765625, y: -85.14282}
+        - {x: 8.234375, y: -85.14282}
+        - {x: 14.234375, y: -77.14282}
+        - {x: 32.234375, y: 20.857178}
+        - {x: 32.234375, y: 48.857178}
+    - name: opposing beserker attack_19
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 1835
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.486328, y: 61.857178}
+        - {x: -22.486328, y: 42.857178}
+        - {x: -39.48633, y: 2.8571777}
+        - {x: -39.48633, y: -47.142822}
+        - {x: -25.486328, y: -79.14282}
+        - {x: -18.486328, y: -85.14282}
+        - {x: 6.513672, y: -85.14282}
+        - {x: 42.51367, y: -62.142822}
+        - {x: 42.51367, y: 98.85718}
+        - {x: -3.4863281, y: 98.85718}
+        - {x: -11.486328, y: 94.85718}
+    - name: opposing beserker attack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1468
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 87.78577}
+        - {x: 23.5, y: 84.78577}
+        - {x: 20.5, y: 81.78577}
+        - {x: 5.5, y: 67.78577}
+        - {x: 8.5, y: 62.785767}
+        - {x: 15.5, y: 62.785767}
+        - {x: 21.5, y: 63.785767}
+        - {x: 4.5, y: 57.785767}
+        - {x: -10.5, y: 44.785767}
+        - {x: -40.5, y: -1.2142334}
+        - {x: -40.5, y: -50.214233}
+        - {x: -26.5, y: -86.21423}
+        - {x: 6.5, y: -86.21423}
+        - {x: 11.5, y: -76.21423}
+        - {x: 49.5, y: -7.2142334}
+        - {x: 49.5, y: 87.78577}
+    - name: opposing beserker attack_21
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1468
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.7793, y: 68.78577}
+        - {x: 15.779297, y: 68.78577}
+        - {x: -39.220703, y: 3.7857666}
+        - {x: -39.220703, y: -68.21423}
+        - {x: -32.220703, y: -87.21423}
+        - {x: 14.779297, y: -87.21423}
+        - {x: 59.779297, y: -18.214233}
+        - {x: 75.7793, y: 43.785767}
+        - {x: 75.7793, y: 67.78577}
+    - name: opposing beserker attack_22
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1468
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.55859375, y: 48.785767}
+        - {x: -39.441406, y: -7.2142334}
+        - {x: -39.441406, y: -51.214233}
+        - {x: -31.441406, y: -88.21423}
+        - {x: 15.558594, y: -88.21423}
+        - {x: 94.55859, y: 13.785767}
+        - {x: 94.55859, y: 48.785767}
+    - name: opposing beserker attack_23
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1468
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.33789, y: 38.785767}
+        - {x: 36.33789, y: 44.785767}
+        - {x: 15.337891, y: 44.785767}
+        - {x: -38.66211, y: -12.214233}
+        - {x: -39.66211, y: -19.214233}
+        - {x: -39.66211, y: -59.214233}
+        - {x: -38.66211, y: -82.21423}
+        - {x: -31.66211, y: -88.21423}
+        - {x: 34.33789, y: -88.21423}
+        - {x: 101.33789, y: -31.214233}
+        - {x: 101.33789, y: 16.785767}
+        - {x: 67.33789, y: 26.785767}
+    - name: opposing beserker attack_24
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1468
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.3828125, y: -37.214233}
+        - {x: -0.3828125, y: -39.214233}
+        - {x: 4.6171875, y: -44.214233}
+        - {x: 7.6171875, y: -53.214233}
+        - {x: 25.617188, y: -49.214233}
+        - {x: 68.61719, y: -56.214233}
+        - {x: 83.61719, y: -57.214233}
+        - {x: 94.61719, y: -51.214233}
+        - {x: 94.61719, y: 24.785767}
+        - {x: 75.61719, y: 39.785767}
+        - {x: 10.6171875, y: 39.785767}
+        - {x: -39.382812, y: -13.214233}
+        - {x: -39.382812, y: -51.214233}
+        - {x: -37.382812, y: -81.21423}
+        - {x: -22.382812, y: -89.21423}
+        - {x: -0.3828125, y: -89.21423}
+        - {x: 2.6171875, y: -87.21423}
+        - {x: -1.3828125, y: -74.21423}
+        - {x: 1.6171875, y: -41.214233}
+        - {x: -0.3828125, y: -41.214233}
+    - name: opposing beserker attack_25
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1468
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.896484, y: 12.785767}
+        - {x: 49.896484, y: 34.785767}
+        - {x: 5.8964844, y: 34.785767}
+        - {x: -38.103516, y: -5.2142334}
+        - {x: -38.103516, y: -89.21423}
+        - {x: 79.896484, y: -89.21423}
+        - {x: 79.896484, y: -50.214233}
+        - {x: 70.896484, y: -34.214233}
+    - name: opposing beserker attack_26
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1468
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.675781, y: 35.785767}
+        - {x: -38.32422, y: -1.2142334}
+        - {x: -38.32422, y: -71.21423}
+        - {x: -34.32422, y: -89.21423}
+        - {x: 38.67578, y: -89.21423}
+        - {x: 74.67578, y: -84.21423}
+        - {x: 79.67578, y: -82.21423}
+        - {x: 79.67578, y: 31.785767}
+        - {x: 55.67578, y: 35.785767}
+    - name: opposing beserker attack_27
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 1468
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.45508, y: 30.785767}
+        - {x: 52.45508, y: 36.785767}
+        - {x: 17.455078, y: 36.785767}
+        - {x: -39.54492, y: 9.785767}
+        - {x: -39.54492, y: -89.21423}
+        - {x: 81.45508, y: -89.21423}
+        - {x: 81.45508, y: -40.214233}
+        - {x: 79.45508, y: -36.214233}
+        - {x: 66.45508, y: -36.214233}
+        - {x: 64.45508, y: -38.214233}
+    - name: opposing beserker attack_28
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 1468
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.234375, y: 22.785767}
+        - {x: 48.234375, y: 37.785767}
+        - {x: 17.234375, y: 37.785767}
+        - {x: -39.765625, y: 9.785767}
+        - {x: -39.765625, y: -89.21423}
+        - {x: 54.234375, y: -89.21423}
+        - {x: 83.234375, y: -79.21423}
+        - {x: 83.234375, y: -40.214233}
+        - {x: 66.234375, y: -26.214233}
+    - name: opposing beserker attack_29
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 1468
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.51367, y: -26.214233}
+        - {x: 56.51367, y: 13.785767}
+        - {x: 48.51367, y: 39.785767}
+        - {x: 18.513672, y: 39.785767}
+        - {x: -39.48633, y: -6.2142334}
+        - {x: -39.48633, y: -82.21423}
+        - {x: -17.486328, y: -89.21423}
+        - {x: 14.513672, y: -89.21423}
+        - {x: 84.51367, y: -71.21423}
+        - {x: 84.51367, y: -37.214233}
+        - {x: 72.51367, y: -25.214233}
+    - name: opposing beserker attack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1101
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: -3.2857056}
+        - {x: 47.5, y: 40.714294}
+        - {x: 18.5, y: 40.714294}
+        - {x: -40.5, y: -13.285706}
+        - {x: -40.5, y: -50.285706}
+        - {x: -34.5, y: -88.285706}
+        - {x: 20.5, y: -88.285706}
+        - {x: 74.5, y: -69.285706}
+        - {x: 86.5, y: -62.285706}
+        - {x: 86.5, y: -36.285706}
+    - name: opposing beserker attack_31
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1101
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.779297, y: 27.714294}
+        - {x: 40.779297, y: 41.714294}
+        - {x: 23.779297, y: 41.714294}
+        - {x: 20.779297, y: 40.714294}
+        - {x: -39.220703, y: -7.2857056}
+        - {x: -39.220703, y: -61.285706}
+        - {x: -31.220703, y: -88.285706}
+        - {x: 19.779297, y: -88.285706}
+        - {x: 88.7793, y: -69.285706}
+        - {x: 88.7793, y: -25.285706}
+        - {x: 71.7793, y: -12.285706}
+    - name: opposing beserker attack_32
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1101
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.55859, y: -12.285706}
+        - {x: 66.55859, y: -17.285706}
+        - {x: 53.558594, y: 21.714294}
+        - {x: 43.558594, y: 42.714294}
+        - {x: 23.558594, y: 42.714294}
+        - {x: 19.558594, y: 41.714294}
+        - {x: -39.441406, y: -12.285706}
+        - {x: -39.441406, y: -83.285706}
+        - {x: -26.441406, y: -88.285706}
+        - {x: 29.558594, y: -88.285706}
+        - {x: 90.55859, y: -62.285706}
+        - {x: 90.55859, y: -25.285706}
+        - {x: 79.55859, y: -15.285706}
+    - name: opposing beserker attack_33
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1101
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91.33789, y: -21.285706}
+        - {x: 66.33789, y: -5.2857056}
+        - {x: 49.33789, y: 29.714294}
+        - {x: 37.33789, y: 43.714294}
+        - {x: 17.33789, y: 43.714294}
+        - {x: -39.66211, y: -10.285706}
+        - {x: -39.66211, y: -58.285706}
+        - {x: -35.66211, y: -84.285706}
+        - {x: -24.66211, y: -88.285706}
+        - {x: -1.6621094, y: -88.285706}
+        - {x: 1.3378906, y: -87.285706}
+        - {x: 1.3378906, y: -77.285706}
+        - {x: -3.6621094, y: -74.285706}
+        - {x: 91.33789, y: -53.285706}
+    - name: opposing beserker attack_34
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1101
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90.61719, y: -43.285706}
+        - {x: 92.61719, y: -38.285706}
+        - {x: 92.61719, y: -20.285706}
+        - {x: 80.61719, y: -4.2857056}
+        - {x: 66.61719, y: -6.2857056}
+        - {x: 65.61719, y: -9.285706}
+        - {x: 47.617188, y: 44.714294}
+        - {x: 16.617188, y: 44.714294}
+        - {x: -39.382812, y: 2.7142944}
+        - {x: -39.382812, y: -75.285706}
+        - {x: -27.382812, y: -88.285706}
+        - {x: -3.3828125, y: -88.285706}
+        - {x: 1.6171875, y: -87.285706}
+        - {x: 0.6171875, y: -79.285706}
+        - {x: -3.3828125, y: -74.285706}
+        - {x: 80.61719, y: -50.285706}
+    - name: opposing beserker attack_35
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1101
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.8964844, y: 45.714294}
+        - {x: -39.103516, y: -17.285706}
+        - {x: -39.103516, y: -88.285706}
+        - {x: 77.896484, y: -88.285706}
+        - {x: 93.896484, y: -65.285706}
+        - {x: 93.896484, y: 37.714294}
+        - {x: 54.896484, y: 45.714294}
+    - name: opposing beserker attack_36
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1101
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.32422, y: -27.285706}
+        - {x: -38.32422, y: -29.285706}
+        - {x: -32.32422, y: -68.285706}
+        - {x: -28.324219, y: -86.285706}
+        - {x: -26.324219, y: -88.285706}
+        - {x: 22.675781, y: -88.285706}
+        - {x: 94.67578, y: -33.285706}
+        - {x: 94.67578, y: -5.2857056}
+        - {x: 59.67578, y: 46.714294}
+        - {x: 6.6757812, y: 46.714294}
+        - {x: -39.32422, y: -15.285706}
+    - name: opposing beserker attack_37
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 1101
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.54492, y: -88.285706}
+        - {x: 26.455078, y: -88.285706}
+        - {x: 94.45508, y: -55.285706}
+        - {x: 94.45508, y: 4.7142944}
+        - {x: 68.45508, y: 36.714294}
+        - {x: 46.45508, y: 47.714294}
+        - {x: -6.544922, y: 47.714294}
+        - {x: -39.54492, y: 16.714294}
+    - name: opposing beserker attack_38
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 1101
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.234375, y: 48.714294}
+        - {x: -7.765625, y: 48.714294}
+        - {x: -39.765625, y: -3.2857056}
+        - {x: -39.765625, y: -42.285706}
+        - {x: -33.765625, y: -87.285706}
+        - {x: -32.765625, y: -88.285706}
+        - {x: 27.234375, y: -88.285706}
+        - {x: 94.234375, y: -23.285706}
+        - {x: 94.234375, y: -1.2857056}
+        - {x: 54.234375, y: 36.714294}
+    - name: opposing beserker attack_39
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 1101
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94.51367, y: -17.285706}
+        - {x: 94.51367, y: -6.2857056}
+        - {x: 84.51367, y: 8.714294}
+        - {x: 61.51367, y: 17.714294}
+        - {x: 59.51367, y: 12.714294}
+        - {x: 62.51367, y: 2.7142944}
+        - {x: 40.51367, y: 42.714294}
+        - {x: 34.51367, y: 49.714294}
+        - {x: 13.513672, y: 49.714294}
+        - {x: -0.48632812, y: 44.714294}
+        - {x: -39.48633, y: 7.7142944}
+        - {x: -39.48633, y: -76.285706}
+        - {x: -37.48633, y: -88.285706}
+        - {x: 3.5136719, y: -88.285706}
+        - {x: 2.5136719, y: -77.285706}
+        - {x: -0.48632812, y: -74.285706}
+        - {x: 75.51367, y: -29.285706}
+    - name: opposing beserker attack_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 734
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.5, y: 20.642883}
+        - {x: 56.5, y: 15.642883}
+        - {x: 34.5, y: 47.642883}
+        - {x: 30.5, y: 49.642883}
+        - {x: 4.5, y: 49.642883}
+        - {x: -40.5, y: 1.6428833}
+        - {x: -40.5, y: -44.357117}
+        - {x: -32.5, y: -88.35712}
+        - {x: 8.5, y: -88.35712}
+        - {x: 93.5, y: -16.357117}
+        - {x: 93.5, y: 9.642883}
+        - {x: 85.5, y: 12.642883}
+    - name: opposing beserker attack_41
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 734
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.7793, y: 51.642883}
+        - {x: 5.779297, y: 51.642883}
+        - {x: -38.220703, y: -9.357117}
+        - {x: -39.220703, y: -15.357117}
+        - {x: -39.220703, y: -40.357117}
+        - {x: -27.220703, y: -86.35712}
+        - {x: -21.220703, y: -88.35712}
+        - {x: 9.779297, y: -88.35712}
+        - {x: 89.7793, y: -18.357117}
+        - {x: 93.7793, y: -7.3571167}
+        - {x: 93.7793, y: 41.642883}
+    - name: opposing beserker attack_42
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 734
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.55859375, y: 52.642883}
+        - {x: -39.441406, y: -11.357117}
+        - {x: -39.441406, y: -72.35712}
+        - {x: -37.441406, y: -88.35712}
+        - {x: 21.558594, y: -88.35712}
+        - {x: 52.558594, y: -65.35712}
+        - {x: 91.55859, y: -24.357117}
+        - {x: 91.55859, y: 26.642883}
+        - {x: 67.55859, y: 52.642883}
+    - name: opposing beserker attack_43
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 734
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.337891, y: -88.35712}
+        - {x: 90.33789, y: -38.357117}
+        - {x: 90.33789, y: 22.642883}
+        - {x: 61.33789, y: 52.642883}
+        - {x: -1.6621094, y: 52.642883}
+        - {x: -39.66211, y: 11.642883}
+        - {x: -39.66211, y: -88.35712}
+    - name: opposing beserker attack_44
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 734
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.617188, y: 29.642883}
+        - {x: 29.617188, y: 53.642883}
+        - {x: 6.6171875, y: 53.642883}
+        - {x: -9.3828125, y: 45.642883}
+        - {x: -39.382812, y: -5.3571167}
+        - {x: -39.382812, y: -55.357117}
+        - {x: -31.382812, y: -88.35712}
+        - {x: 25.617188, y: -88.35712}
+        - {x: 59.617188, y: -50.357117}
+        - {x: 88.61719, y: -8.357117}
+        - {x: 88.61719, y: 28.642883}
+        - {x: 80.61719, y: 38.642883}
+    - name: opposing beserker attack_45
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 734
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.896484, y: 54.642883}
+        - {x: -38.103516, y: 54.642883}
+        - {x: -39.103516, y: 46.642883}
+        - {x: -39.103516, y: -82.35712}
+        - {x: -33.103516, y: -88.35712}
+        - {x: 22.896484, y: -88.35712}
+        - {x: 87.896484, y: 7.6428833}
+        - {x: 87.896484, y: 30.642883}
+        - {x: 78.896484, y: 35.642883}
+    - name: opposing beserker attack_46
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 734
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.67578, y: 28.642883}
+        - {x: 40.67578, y: 23.642883}
+        - {x: 27.675781, y: 55.642883}
+        - {x: 5.6757812, y: 55.642883}
+        - {x: -6.3242188, y: 50.642883}
+        - {x: -39.32422, y: -13.357117}
+        - {x: -39.32422, y: -56.357117}
+        - {x: -29.324219, y: -88.35712}
+        - {x: 20.675781, y: -88.35712}
+        - {x: 85.67578, y: -20.357117}
+        - {x: 85.67578, y: 38.642883}
+        - {x: 65.67578, y: 41.642883}
+        - {x: 42.67578, y: 36.642883}
+    - name: opposing beserker attack_47
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 734
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.45508, y: 18.642883}
+        - {x: 82.45508, y: 55.642883}
+        - {x: -12.544922, y: 55.642883}
+        - {x: -39.54492, y: -8.357117}
+        - {x: -39.54492, y: -56.357117}
+        - {x: -34.54492, y: -83.35712}
+        - {x: -20.544922, y: -88.35712}
+        - {x: 1.4550781, y: -88.35712}
+        - {x: 3.4550781, y: -87.35712}
+        - {x: 3.4550781, y: -77.35712}
+        - {x: 0.45507812, y: -73.35712}
+        - {x: 71.45508, y: 3.6428833}
+    - name: opposing beserker attack_48
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 734
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.234375, y: 41.642883}
+        - {x: 44.234375, y: 33.642883}
+        - {x: 15.234375, y: 56.642883}
+        - {x: -4.765625, y: 56.642883}
+        - {x: -39.765625, y: -9.357117}
+        - {x: -39.765625, y: -51.357117}
+        - {x: -31.765625, y: -84.35712}
+        - {x: -26.765625, y: -88.35712}
+        - {x: 21.234375, y: -88.35712}
+        - {x: 80.234375, y: 16.642883}
+        - {x: 80.234375, y: 45.642883}
+        - {x: 50.234375, y: 52.642883}
+    - name: opposing beserker attack_49
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 734
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.51367, y: 43.642883}
+        - {x: 34.51367, y: 39.642883}
+        - {x: 22.513672, y: 57.642883}
+        - {x: 3.5136719, y: 57.642883}
+        - {x: -9.486328, y: 50.642883}
+        - {x: -39.48633, y: 9.642883}
+        - {x: -39.48633, y: -87.35712}
+        - {x: 9.513672, y: -87.35712}
+        - {x: 62.51367, y: -45.357117}
+        - {x: 77.51367, y: 2.6428833}
+        - {x: 77.51367, y: 55.642883}
+        - {x: 45.51367, y: 47.642883}
+    - name: opposing beserker attack_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.5, y: 58.57144}
+        - {x: 47.5, y: 58.57144}
+        - {x: 31.5, y: 46.57144}
+        - {x: 32.5, y: 42.57144}
+        - {x: 34.5, y: 40.57144}
+        - {x: 31.5, y: 15.571442}
+        - {x: 21.5, y: 55.57144}
+        - {x: 16.5, y: 58.57144}
+        - {x: 2.5, y: 58.57144}
+        - {x: -13.5, y: 50.57144}
+        - {x: -39.5, y: 0.57144165}
+        - {x: -39.5, y: -87.42856}
+        - {x: 25.5, y: -87.42856}
+        - {x: 51.5, y: -49.42856}
+        - {x: 73.5, y: 10.571442}
+        - {x: 73.5, y: 53.57144}
+    - name: opposing beserker attack_51
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 367
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.7793, y: 51.57144}
+        - {x: 60.779297, y: 58.57144}
+        - {x: 46.779297, y: 58.57144}
+        - {x: 24.779297, y: 50.57144}
+        - {x: 29.779297, y: 42.57144}
+        - {x: 26.779297, y: 47.57144}
+        - {x: 16.779297, y: 58.57144}
+        - {x: -1.2207031, y: 58.57144}
+        - {x: -16.220703, y: 51.57144}
+        - {x: -38.220703, y: 2.5714417}
+        - {x: -38.220703, y: -63.42856}
+        - {x: -32.220703, y: -85.42856}
+        - {x: -18.220703, y: -87.42856}
+        - {x: 4.779297, y: -87.42856}
+        - {x: 6.779297, y: -75.42856}
+        - {x: 1.7792969, y: -72.42856}
+        - {x: 71.7793, y: 26.571442}
+    - name: opposing beserker attack_52
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 367
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.441406, y: 59.57144}
+        - {x: -39.441406, y: 1.5714417}
+        - {x: -39.441406, y: -61.42856}
+        - {x: -28.441406, y: -82.42856}
+        - {x: -18.441406, y: -87.42856}
+        - {x: 14.558594, y: -87.42856}
+        - {x: 67.55859, y: 8.571442}
+        - {x: 67.55859, y: 59.57144}
+    - name: opposing beserker attack_53
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 367
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.33789, y: 62.57144}
+        - {x: 22.33789, y: 52.57144}
+        - {x: 20.33789, y: 47.57144}
+        - {x: 33.33789, y: 42.57144}
+        - {x: 20.33789, y: 44.57144}
+        - {x: 19.33789, y: 51.57144}
+        - {x: 5.3378906, y: 61.57144}
+        - {x: -11.662109, y: 59.57144}
+        - {x: -39.66211, y: 20.571442}
+        - {x: -39.66211, y: -87.42856}
+        - {x: 4.3378906, y: -87.42856}
+        - {x: 15.337891, y: -76.42856}
+        - {x: 64.33789, y: 33.57144}
+        - {x: 64.33789, y: 62.57144}
+    - name: opposing beserker attack_54
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 367
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.617188, y: 65.57144}
+        - {x: 17.617188, y: 53.57144}
+        - {x: 18.617188, y: 50.57144}
+        - {x: 20.617188, y: 48.57144}
+        - {x: 17.617188, y: 50.57144}
+        - {x: 10.6171875, y: 56.57144}
+        - {x: 0.6171875, y: 65.57144}
+        - {x: -3.3828125, y: 65.57144}
+        - {x: -27.382812, y: 44.57144}
+        - {x: -39.382812, y: 12.571442}
+        - {x: -39.382812, y: -50.42856}
+        - {x: -28.382812, y: -87.42856}
+        - {x: 20.617188, y: -87.42856}
+        - {x: 60.617188, y: -14.428558}
+        - {x: 60.617188, y: 65.57144}
+    - name: opposing beserker attack_55
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 367
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.896484, y: 63.57144}
+        - {x: 54.896484, y: 67.57144}
+        - {x: 32.896484, y: 67.57144}
+        - {x: 29.896484, y: 66.57144}
+        - {x: 14.896484, y: 54.57144}
+        - {x: 17.896484, y: 48.57144}
+        - {x: 15.896484, y: 53.57144}
+        - {x: 1.8964844, y: 65.57144}
+        - {x: -38.103516, y: 63.57144}
+        - {x: -38.103516, y: -87.42856}
+        - {x: 3.8964844, y: -87.42856}
+        - {x: 8.896484, y: -86.42856}
+        - {x: 5.8964844, y: -75.42856}
+        - {x: 38.896484, y: -16.428558}
+        - {x: 58.896484, y: 45.57144}
+    - name: opposing beserker attack_56
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 367
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.32422, y: 69.57144}
+        - {x: -38.32422, y: -87.42856}
+        - {x: 5.6757812, y: -87.42856}
+        - {x: 8.675781, y: -73.42856}
+        - {x: 54.67578, y: 31.571442}
+        - {x: 54.67578, y: 69.57144}
+    - name: opposing beserker attack_57
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 367
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.544922, y: 71.57144}
+        - {x: -19.544922, y: 69.57144}
+        - {x: -38.54492, y: -15.428558}
+        - {x: -38.54492, y: -43.42856}
+        - {x: -23.544922, y: -86.42856}
+        - {x: 15.455078, y: -86.42856}
+        - {x: 42.45508, y: -18.428558}
+        - {x: 50.45508, y: 34.57144}
+        - {x: 50.45508, y: 71.57144}
+    - name: opposing beserker attack_58
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 367
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.765625, y: 73.57144}
+        - {x: -38.765625, y: 71.57144}
+        - {x: -38.765625, y: -79.42856}
+        - {x: -37.765625, y: -86.42856}
+        - {x: 15.234375, y: -86.42856}
+        - {x: 46.234375, y: 17.571442}
+        - {x: 46.234375, y: 73.57144}
+    - name: opposing beserker attack_59
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 367
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.486328, y: 75.57144}
+        - {x: -38.48633, y: 18.571442}
+        - {x: -38.48633, y: -49.42856}
+        - {x: -23.486328, y: -86.42856}
+        - {x: 17.513672, y: -86.42856}
+        - {x: 42.51367, y: 7.5714417}
+        - {x: 42.51367, y: 73.57144}
+        - {x: 41.51367, y: 75.57144}
+    - name: opposing beserker attack_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 77.5}
+        - {x: -10.5, y: 77.5}
+        - {x: -21.5, y: 75.5}
+        - {x: -38.5, y: 16.5}
+        - {x: -38.5, y: -49.5}
+        - {x: -20.5, y: -87.5}
+        - {x: 17.5, y: -87.5}
+        - {x: 34.5, y: -6.5}
+        - {x: 38.5, y: 38.5}
+        - {x: 38.5, y: 65.5}
+    - name: opposing beserker attack_61
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.220703, y: 79.5}
+        - {x: -37.220703, y: 68.5}
+        - {x: -37.220703, y: -87.5}
+        - {x: 16.779297, y: -87.5}
+        - {x: 35.779297, y: -45.5}
+        - {x: 35.779297, y: 79.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

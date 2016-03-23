@@ -1,0 +1,1474 @@
+fileFormatVersion: 2
+guid: f5c46b752a4e43348b516dbd36665321
+timeCreated: 1458722884
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: opposing elephant attack_0
+    21300002: opposing elephant attack_1
+    21300004: opposing elephant attack_2
+    21300006: opposing elephant attack_3
+    21300008: opposing elephant attack_4
+    21300010: opposing elephant attack_5
+    21300012: opposing elephant attack_6
+    21300014: opposing elephant attack_7
+    21300016: opposing elephant attack_8
+    21300018: opposing elephant attack_9
+    21300020: opposing elephant attack_10
+    21300022: opposing elephant attack_11
+    21300024: opposing elephant attack_12
+    21300026: opposing elephant attack_13
+    21300028: opposing elephant attack_14
+    21300030: opposing elephant attack_15
+    21300032: opposing elephant attack_16
+    21300034: opposing elephant attack_17
+    21300036: opposing elephant attack_18
+    21300038: opposing elephant attack_19
+    21300040: opposing elephant attack_20
+    21300042: opposing elephant attack_21
+    21300044: opposing elephant attack_22
+    21300046: opposing elephant attack_23
+    21300048: opposing elephant attack_24
+    21300050: opposing elephant attack_25
+    21300052: opposing elephant attack_26
+    21300054: opposing elephant attack_27
+    21300056: opposing elephant attack_28
+    21300058: opposing elephant attack_29
+    21300060: opposing elephant attack_30
+    21300062: opposing elephant attack_31
+    21300064: opposing elephant attack_32
+    21300066: opposing elephant attack_33
+    21300068: opposing elephant attack_34
+    21300070: opposing elephant attack_35
+    21300072: opposing elephant attack_36
+    21300074: opposing elephant attack_37
+    21300076: opposing elephant attack_38
+    21300078: opposing elephant attack_39
+    21300080: opposing elephant attack_40
+    21300082: opposing elephant attack_41
+    21300084: opposing elephant attack_42
+    21300086: opposing elephant attack_43
+    21300088: opposing elephant attack_44
+    21300090: opposing elephant attack_45
+    21300092: opposing elephant attack_46
+    21300094: opposing elephant attack_47
+    21300096: opposing elephant attack_48
+    21300098: opposing elephant attack_49
+    21300100: opposing elephant attack_50
+    21300102: opposing elephant attack_51
+    21300104: opposing elephant attack_52
+    21300106: opposing elephant attack_53
+    21300108: opposing elephant attack_54
+    21300110: opposing elephant attack_55
+    21300112: opposing elephant attack_56
+    21300114: opposing elephant attack_57
+    21300116: opposing elephant attack_58
+    21300118: opposing elephant attack_59
+    21300120: opposing elephant attack_60
+    21300122: opposing elephant attack_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: opposing elephant attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2121
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -97.8772}
+        - {x: 100, y: -97.8772}
+        - {x: 127, y: -69.8772}
+        - {x: 127, y: 89.1228}
+        - {x: -68, y: 89.1228}
+        - {x: -88, y: 84.1228}
+        - {x: -93, y: 4.1228027}
+        - {x: -93, y: -97.8772}
+        - {x: -35, y: -97.8772}
+        - {x: -31, y: -96.8772}
+        - {x: -27, y: -84.8772}
+        - {x: -32, y: -71.8772}
+        - {x: -21, y: -92.8772}
+    - name: opposing elephant attack_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2121
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 90.1228}
+        - {x: -22, y: 90.1228}
+        - {x: -95, y: 44.122803}
+        - {x: -95, y: -94.8772}
+        - {x: -90, y: -95.8772}
+        - {x: -62, y: -95.8772}
+        - {x: -57, y: -94.8772}
+        - {x: -26, y: -90.8772}
+        - {x: -35, y: -70.8772}
+        - {x: -16, y: -95.8772}
+        - {x: 108, y: -95.8772}
+        - {x: 123, y: -91.8772}
+        - {x: 126, y: -82.8772}
+        - {x: 126, y: 16.122803}
+    - name: opposing elephant attack_2
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2121
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 90.1228}
+        - {x: 15, y: 86.1228}
+        - {x: -64, y: 37.122803}
+        - {x: -97, y: -47.877197}
+        - {x: -97, y: -91.8772}
+        - {x: -75, y: -95.8772}
+        - {x: 113, y: -95.8772}
+        - {x: 124, y: -66.8772}
+        - {x: 124, y: 8.122803}
+        - {x: 79, y: 90.1228}
+    - name: opposing elephant attack_3
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 2121
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: 90.1228}
+        - {x: 16, y: 90.1228}
+        - {x: -74, y: 31.122803}
+        - {x: -99, y: -77.8772}
+        - {x: -99, y: -93.8772}
+        - {x: -94, y: -94.8772}
+        - {x: 99, y: -94.8772}
+        - {x: 122, y: -63.877197}
+        - {x: 122, y: -30.877197}
+        - {x: 87, y: 89.1228}
+    - name: opposing elephant attack_4
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2121
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101, y: -90.8772}
+        - {x: -94, y: -94.8772}
+        - {x: 16, y: -94.8772}
+        - {x: 21, y: -90.8772}
+        - {x: 22, y: -94.8772}
+        - {x: 120, y: -94.8772}
+        - {x: 120, y: 55.122803}
+        - {x: 105, y: 91.1228}
+        - {x: -10, y: 91.1228}
+        - {x: -68, y: 73.1228}
+        - {x: -101, y: -47.877197}
+    - name: opposing elephant attack_5
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 2121
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 92.1228}
+        - {x: 18, y: 92.1228}
+        - {x: -51, y: 53.122803}
+        - {x: -103, y: -36.877197}
+        - {x: -103, y: -93.8772}
+        - {x: 109, y: -93.8772}
+        - {x: 118, y: -82.8772}
+        - {x: 118, y: 32.122803}
+        - {x: 108, y: 85.1228}
+    - name: opposing elephant attack_6
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 2121
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 92.1228}
+        - {x: -104, y: 1.1228027}
+        - {x: -104, y: -81.8772}
+        - {x: -46, y: -87.8772}
+        - {x: -30, y: -93.8772}
+        - {x: 105, y: -93.8772}
+        - {x: 115, y: -85.8772}
+        - {x: 115, y: 30.122803}
+        - {x: 97, y: 78.1228}
+        - {x: 73, y: 92.1228}
+    - name: opposing elephant attack_7
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 2121
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 92.1228}
+        - {x: -2, y: 92.1228}
+        - {x: -67, y: 64.1228}
+        - {x: -98, y: -6.8771973}
+        - {x: -106, y: -55.877197}
+        - {x: -106, y: -81.8772}
+        - {x: -75, y: -93.8772}
+        - {x: 85, y: -93.8772}
+        - {x: 88, y: -92.8772}
+        - {x: 113, y: -78.8772}
+        - {x: 113, y: 12.122803}
+        - {x: 99, y: 74.1228}
+    - name: opposing elephant attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1818
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 91.74817}
+        - {x: -73, y: 66.74817}
+        - {x: -95, y: -33.25183}
+        - {x: -93, y: -42.25183}
+        - {x: -91, y: -48.25183}
+        - {x: -105, y: -58.25183}
+        - {x: -108, y: -61.25183}
+        - {x: -107, y: -65.25183}
+        - {x: -95, y: -66.25183}
+        - {x: -60, y: -69.25183}
+        - {x: -53, y: -58.25183}
+        - {x: -53, y: -53.25183}
+        - {x: -19, y: -85.25183}
+        - {x: 17, y: -84.25183}
+        - {x: 21, y: -73.25183}
+        - {x: 46, y: -94.25183}
+        - {x: 94, y: -94.25183}
+        - {x: 111, y: -78.25183}
+        - {x: 111, y: 49.74817}
+        - {x: 101, y: 91.74817}
+    - name: opposing elephant attack_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1818
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 91.74817}
+        - {x: -52, y: 52.74817}
+        - {x: -97, y: 1.748169}
+        - {x: -109, y: -31.251831}
+        - {x: -109, y: -67.25183}
+        - {x: -55, y: -94.25183}
+        - {x: 108, y: -94.25183}
+        - {x: 108, y: 91.74817}
+    - name: opposing elephant attack_10
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1818
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 91.74817}
+        - {x: -60, y: 60.74817}
+        - {x: -94, y: -10.251831}
+        - {x: -110, y: -35.25183}
+        - {x: -110, y: -65.25183}
+        - {x: -23, y: -94.25183}
+        - {x: 95, y: -94.25183}
+        - {x: 106, y: -84.25183}
+        - {x: 106, y: 76.74817}
+        - {x: 98, y: 91.74817}
+    - name: opposing elephant attack_11
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1818
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 90.74817}
+        - {x: -111, y: -22.251831}
+        - {x: -111, y: -54.25183}
+        - {x: -109, y: -54.25183}
+        - {x: -69, y: -58.25183}
+        - {x: -11, y: -85.25183}
+        - {x: 13, y: -75.25183}
+        - {x: 18, y: -72.25183}
+        - {x: 30, y: -92.25183}
+        - {x: 32, y: -93.25183}
+        - {x: 101, y: -93.25183}
+        - {x: 108, y: -36.25183}
+        - {x: 108, y: 90.74817}
+    - name: opposing elephant attack_12
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1818
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: 90.74817}
+        - {x: 0, y: 90.74817}
+        - {x: -112, y: 22.748169}
+        - {x: -112, y: -91.25183}
+        - {x: -103, y: -93.25183}
+        - {x: 102, y: -93.25183}
+        - {x: 110, y: -26.251831}
+        - {x: 110, y: 81.74817}
+        - {x: 106, y: 89.74817}
+    - name: opposing elephant attack_13
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1818
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 90.74817}
+        - {x: -113, y: -7.251831}
+        - {x: -113, y: -51.25183}
+        - {x: -47, y: -93.25183}
+        - {x: -9, y: -93.25183}
+        - {x: 26, y: -80.25183}
+        - {x: 36, y: -93.25183}
+        - {x: 87, y: -93.25183}
+        - {x: 113, y: -72.25183}
+        - {x: 113, y: 90.74817}
+    - name: opposing elephant attack_14
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1818
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 90.74817}
+        - {x: -32, y: 88.74817}
+        - {x: -113, y: -0.25183105}
+        - {x: -113, y: -49.25183}
+        - {x: -72, y: -71.25183}
+        - {x: -15, y: -92.25183}
+        - {x: 101, y: -92.25183}
+        - {x: 115, y: -23.251831}
+        - {x: 115, y: 86.74817}
+        - {x: 104, y: 90.74817}
+    - name: opposing elephant attack_15
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 1818
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 89.74817}
+        - {x: -112, y: 1.748169}
+        - {x: -114, y: -13.251831}
+        - {x: -114, y: -32.25183}
+        - {x: -100, y: -37.25183}
+        - {x: -78, y: -39.25183}
+        - {x: -59, y: -23.251831}
+        - {x: -33, y: -74.25183}
+        - {x: 30, y: -92.25183}
+        - {x: 91, y: -92.25183}
+        - {x: 117, y: 14.748169}
+        - {x: 117, y: 89.74817}
+    - name: opposing elephant attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1515
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 89.87341}
+        - {x: -38, y: 75.87341}
+        - {x: -91, y: 39.873413}
+        - {x: -114, y: -6.126587}
+        - {x: -114, y: -39.126587}
+        - {x: -76, y: -63.126587}
+        - {x: 38, y: -91.12659}
+        - {x: 94, y: -91.12659}
+        - {x: 119, y: 8.873413}
+        - {x: 119, y: 76.87341}
+        - {x: 99, y: 89.87341}
+    - name: opposing elephant attack_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1515
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 89.87341}
+        - {x: -116, y: 24.873413}
+        - {x: -116, y: -51.126587}
+        - {x: -51, y: -91.12659}
+        - {x: 93, y: -91.12659}
+        - {x: 121, y: 16.873413}
+        - {x: 121, y: 79.87341}
+        - {x: 96, y: 89.87341}
+    - name: opposing elephant attack_18
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1515
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 89.87341}
+        - {x: -31, y: 72.87341}
+        - {x: -105, y: 33.873413}
+        - {x: -119, y: -1.1265869}
+        - {x: -119, y: -18.126587}
+        - {x: -113, y: -20.126587}
+        - {x: -98, y: -24.126587}
+        - {x: -83, y: -24.126587}
+        - {x: -48, y: -53.126587}
+        - {x: -10, y: -80.12659}
+        - {x: 15, y: -66.12659}
+        - {x: 45, y: -91.12659}
+        - {x: 87, y: -91.12659}
+        - {x: 120, y: -0.12658691}
+        - {x: 120, y: 74.87341}
+        - {x: 108, y: 89.87341}
+    - name: opposing elephant attack_19
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1515
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 90.87341}
+        - {x: -28, y: 83.87341}
+        - {x: -99, y: 43.873413}
+        - {x: -122, y: 6.873413}
+        - {x: -122, y: -16.126587}
+        - {x: -90, y: -26.126587}
+        - {x: -28, y: -86.12659}
+        - {x: 12, y: -67.12659}
+        - {x: 16, y: -54.126587}
+        - {x: 40, y: -83.12659}
+        - {x: 51, y: -91.12659}
+        - {x: 93, y: -91.12659}
+        - {x: 119, y: -7.126587}
+        - {x: 119, y: 74.87341}
+        - {x: 103, y: 90.87341}
+    - name: opposing elephant attack_20
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1515
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 90.87341}
+        - {x: -113, y: 32.873413}
+        - {x: -124, y: -2.126587}
+        - {x: -124, y: -9.126587}
+        - {x: -123, y: -13.126587}
+        - {x: -85, y: -19.126587}
+        - {x: -34, y: -74.12659}
+        - {x: 46, y: -92.12659}
+        - {x: 82, y: -92.12659}
+        - {x: 88, y: -91.12659}
+        - {x: 118, y: 13.873413}
+        - {x: 118, y: 71.87341}
+        - {x: 104, y: 90.87341}
+    - name: opposing elephant attack_21
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1515
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 90.87341}
+        - {x: 8, y: 90.87341}
+        - {x: -97, y: 68.87341}
+        - {x: -126, y: 25.873413}
+        - {x: -126, y: -17.126587}
+        - {x: -50, y: -92.12659}
+        - {x: 101, y: -92.12659}
+        - {x: 117, y: 56.873413}
+        - {x: 117, y: 65.87341}
+        - {x: 98, y: 89.87341}
+    - name: opposing elephant attack_22
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1515
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 90.87341}
+        - {x: -40, y: 71.87341}
+        - {x: -112, y: 51.873413}
+        - {x: -128, y: 30.873413}
+        - {x: -128, y: -22.126587}
+        - {x: -26, y: -79.12659}
+        - {x: 39, y: -92.12659}
+        - {x: 95, y: -92.12659}
+        - {x: 116, y: -0.12658691}
+        - {x: 116, y: 78.87341}
+        - {x: 97, y: 90.87341}
+    - name: opposing elephant attack_23
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 1515
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 90.87341}
+        - {x: -128, y: 49.873413}
+        - {x: -128, y: 3.873413}
+        - {x: -101, y: -9.126587}
+        - {x: -39, y: -92.12659}
+        - {x: 104, y: -92.12659}
+        - {x: 115, y: 9.873413}
+        - {x: 115, y: 86.87341}
+        - {x: 109, y: 90.87341}
+    - name: opposing elephant attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 90.99872}
+        - {x: -12, y: 90.99872}
+        - {x: -128, y: 51.99872}
+        - {x: -128, y: 0.99871826}
+        - {x: -110, y: -10.001282}
+        - {x: -28, y: -75.00128}
+        - {x: 13, y: -74.00128}
+        - {x: 16, y: -67.00128}
+        - {x: 44, y: -89.00128}
+        - {x: 53, y: -92.00128}
+        - {x: 88, y: -92.00128}
+        - {x: 100, y: -36.00128}
+        - {x: 115, y: 44.99872}
+        - {x: 115, y: 67.99872}
+    - name: opposing elephant attack_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1212
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 90.99872}
+        - {x: -128, y: -4.0012817}
+        - {x: -90, y: -16.001282}
+        - {x: -24, y: -74.00128}
+        - {x: 14, y: -74.00128}
+        - {x: 17, y: -57.00128}
+        - {x: 47, y: -92.00128}
+        - {x: 95, y: -92.00128}
+        - {x: 114, y: -49.00128}
+        - {x: 114, y: 90.99872}
+    - name: opposing elephant attack_26
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1212
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 25.998718}
+        - {x: -128, y: -67.00128}
+        - {x: -78, y: -93.00128}
+        - {x: 113, y: -93.00128}
+        - {x: 113, y: 90.99872}
+        - {x: -50, y: 90.99872}
+        - {x: -99, y: 63.99872}
+    - name: opposing elephant attack_27
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1212
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: 90.99872}
+        - {x: 42, y: 90.99872}
+        - {x: -95, y: 70.99872}
+        - {x: -128, y: 28.998718}
+        - {x: -128, y: -26.001282}
+        - {x: -121, y: -37.00128}
+        - {x: -9, y: -93.00128}
+        - {x: 100, y: -93.00128}
+        - {x: 112, y: 39.99872}
+        - {x: 112, y: 69.99872}
+        - {x: 94, y: 88.99872}
+    - name: opposing elephant attack_28
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1212
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 90.99872}
+        - {x: -106, y: 58.99872}
+        - {x: -128, y: 19.998718}
+        - {x: -128, y: -6.0012817}
+        - {x: -118, y: -13.001282}
+        - {x: -103, y: -17.001282}
+        - {x: -91, y: -18.001282}
+        - {x: -23, y: -77.00128}
+        - {x: 39, y: -93.00128}
+        - {x: 98, y: -93.00128}
+        - {x: 111, y: -3.0012817}
+        - {x: 111, y: 78.99872}
+        - {x: 95, y: 90.99872}
+    - name: opposing elephant attack_29
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1212
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 90.99872}
+        - {x: -121, y: 33.99872}
+        - {x: -128, y: 17.998718}
+        - {x: -128, y: -19.001282}
+        - {x: -87, y: -52.00128}
+        - {x: 18, y: -93.00128}
+        - {x: 93, y: -93.00128}
+        - {x: 110, y: -8.001282}
+        - {x: 110, y: 85.99872}
+        - {x: 99, y: 90.99872}
+    - name: opposing elephant attack_30
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1212
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 90.99872}
+        - {x: -128, y: 63.99872}
+        - {x: -128, y: -33.00128}
+        - {x: -122, y: -54.00128}
+        - {x: -54, y: -93.00128}
+        - {x: 93, y: -93.00128}
+        - {x: 110, y: -0.0012817383}
+        - {x: 110, y: 87.99872}
+        - {x: 109, y: 90.99872}
+    - name: opposing elephant attack_31
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 1212
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 90.99872}
+        - {x: -128, y: 59.99872}
+        - {x: -128, y: -20.001282}
+        - {x: -90, y: -58.00128}
+        - {x: -1, y: -93.00128}
+        - {x: 95, y: -93.00128}
+        - {x: 109, y: 48.99872}
+        - {x: 109, y: 77.99872}
+        - {x: 105, y: 90.99872}
+    - name: opposing elephant attack_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 909
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 90.624084}
+        - {x: -47, y: 77.624084}
+        - {x: -124, y: 18.624084}
+        - {x: -128, y: 12.624084}
+        - {x: -128, y: -55.375916}
+        - {x: -61, y: -93.375916}
+        - {x: -6, y: -93.375916}
+        - {x: 15, y: -80.375916}
+        - {x: 19, y: -63.375916}
+        - {x: 45, y: -93.375916}
+        - {x: 91, y: -93.375916}
+        - {x: 108, y: -68.375916}
+        - {x: 108, y: 90.624084}
+    - name: opposing elephant attack_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 909
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 90.624084}
+        - {x: -128, y: 43.624084}
+        - {x: -128, y: -22.375916}
+        - {x: -121, y: -27.375916}
+        - {x: -88, y: -31.375916}
+        - {x: -23, y: -84.375916}
+        - {x: 30, y: -94.375916}
+        - {x: 98, y: -94.375916}
+        - {x: 107, y: -9.375916}
+        - {x: 107, y: 84.624084}
+        - {x: 101, y: 90.624084}
+    - name: opposing elephant attack_34
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 909
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 76.624084}
+        - {x: 90, y: 91.624084}
+        - {x: 14, y: 91.624084}
+        - {x: -87, y: 52.624084}
+        - {x: -128, y: 9.624084}
+        - {x: -128, y: -72.375916}
+        - {x: -90, y: -94.375916}
+        - {x: 2, y: -94.375916}
+        - {x: 16, y: -80.375916}
+        - {x: 19, y: -67.375916}
+        - {x: 48, y: -94.375916}
+        - {x: 79, y: -94.375916}
+        - {x: 86, y: -93.375916}
+        - {x: 91, y: -83.375916}
+        - {x: 98, y: -38.375916}
+        - {x: 106, y: 16.624084}
+    - name: opposing elephant attack_35
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 909
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 91.624084}
+        - {x: -103, y: 52.624084}
+        - {x: -127, y: 12.624084}
+        - {x: -127, y: -34.375916}
+        - {x: -122, y: -39.375916}
+        - {x: -30, y: -94.375916}
+        - {x: 100, y: -94.375916}
+        - {x: 105, y: -38.375916}
+        - {x: 105, y: 85.624084}
+        - {x: 86, y: 91.624084}
+    - name: opposing elephant attack_36
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 909
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79, y: 91.624084}
+        - {x: -126, y: -0.37591553}
+        - {x: -126, y: -39.375916}
+        - {x: -86, y: -41.375916}
+        - {x: -39, y: -94.375916}
+        - {x: 102, y: -94.375916}
+        - {x: 104, y: -83.375916}
+        - {x: 104, y: 91.624084}
+    - name: opposing elephant attack_37
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 909
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 91.624084}
+        - {x: -126, y: 6.6240845}
+        - {x: -126, y: -51.375916}
+        - {x: -21, y: -85.375916}
+        - {x: 17, y: -83.375916}
+        - {x: 19, y: -71.375916}
+        - {x: 42, y: -94.375916}
+        - {x: 91, y: -94.375916}
+        - {x: 96, y: -93.375916}
+        - {x: 103, y: -29.375916}
+        - {x: 103, y: 79.624084}
+        - {x: 84, y: 91.624084}
+    - name: opposing elephant attack_38
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 909
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 91.624084}
+        - {x: -125, y: 21.624084}
+        - {x: -125, y: -88.375916}
+        - {x: -117, y: -94.375916}
+        - {x: 90, y: -94.375916}
+        - {x: 102, y: -74.375916}
+        - {x: 102, y: 75.624084}
+        - {x: 84, y: 91.624084}
+    - name: opposing elephant attack_39
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 909
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 91.624084}
+        - {x: -124, y: 11.624084}
+        - {x: -124, y: -40.375916}
+        - {x: -64, y: -94.375916}
+        - {x: 99, y: -94.375916}
+        - {x: 101, y: -82.375916}
+        - {x: 101, y: 91.624084}
+    - name: opposing elephant attack_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 91.74936}
+        - {x: -123, y: 37.74936}
+        - {x: -123, y: -70.25064}
+        - {x: -22, y: -88.25064}
+        - {x: 28, y: -94.25064}
+        - {x: 100, y: -94.25064}
+        - {x: 100, y: 91.74936}
+    - name: opposing elephant attack_41
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 606
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 91.74936}
+        - {x: -97, y: 19.74936}
+        - {x: -122, y: -9.250641}
+        - {x: -122, y: -67.25064}
+        - {x: -30, y: -94.25064}
+        - {x: 99, y: -94.25064}
+        - {x: 99, y: 89.74936}
+        - {x: 98, y: 91.74936}
+    - name: opposing elephant attack_42
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 606
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 91.74936}
+        - {x: -49, y: 88.74936}
+        - {x: -114, y: 6.749359}
+        - {x: -121, y: -22.25064}
+        - {x: -121, y: -54.25064}
+        - {x: -93, y: -94.25064}
+        - {x: 100, y: -94.25064}
+        - {x: 100, y: 78.74936}
+        - {x: 93, y: 91.74936}
+    - name: opposing elephant attack_43
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 606
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 91.74936}
+        - {x: -55, y: 71.74936}
+        - {x: -120, y: -15.250641}
+        - {x: -120, y: -67.25064}
+        - {x: -90, y: -90.25064}
+        - {x: -70, y: -94.25064}
+        - {x: 101, y: -94.25064}
+        - {x: 101, y: 87.74936}
+        - {x: 91, y: 91.74936}
+    - name: opposing elephant attack_44
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 606
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 91.74936}
+        - {x: -119, y: -3.2506409}
+        - {x: -119, y: -94.25064}
+        - {x: 95, y: -94.25064}
+        - {x: 102, y: -90.25064}
+        - {x: 102, y: 60.74936}
+        - {x: 99, y: 71.74936}
+        - {x: 85, y: 89.74936}
+        - {x: 74, y: 91.74936}
+    - name: opposing elephant attack_45
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 606
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119, y: -59.25064}
+        - {x: -115, y: -60.25064}
+        - {x: -74, y: -94.25064}
+        - {x: 101, y: -94.25064}
+        - {x: 104, y: -91.25064}
+        - {x: 104, y: 71.74936}
+        - {x: 100, y: 91.74936}
+        - {x: 25, y: 91.74936}
+        - {x: -70, y: 54.74936}
+        - {x: -119, y: -37.25064}
+    - name: opposing elephant attack_46
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 606
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 91.74936}
+        - {x: 10, y: 91.74936}
+        - {x: -117, y: 2.7493591}
+        - {x: -117, y: -80.25064}
+        - {x: -51, y: -94.25064}
+        - {x: 2, y: -94.25064}
+        - {x: 20, y: -89.25064}
+        - {x: 23, y: -69.25064}
+        - {x: 46, y: -94.25064}
+        - {x: 89, y: -94.25064}
+        - {x: 106, y: -65.25064}
+        - {x: 106, y: -5.250641}
+        - {x: 96, y: 84.74936}
+    - name: opposing elephant attack_47
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 606
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116, y: -62.25064}
+        - {x: -77, y: -72.25064}
+        - {x: -59, y: -94.25064}
+        - {x: 108, y: -94.25064}
+        - {x: 108, y: 69.74936}
+        - {x: 102, y: 78.74936}
+        - {x: 73, y: 91.74936}
+        - {x: -3, y: 91.74936}
+        - {x: -116, y: 6.749359}
+    - name: opposing elephant attack_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: -55.12532}
+        - {x: 94, y: -61.12532}
+        - {x: 109, y: -84.12532}
+        - {x: 109, y: 90.87468}
+        - {x: -12, y: 90.87468}
+        - {x: -115, y: -4.1253204}
+        - {x: -115, y: -69.12532}
+        - {x: -104, y: -95.12532}
+        - {x: 109, y: -95.12532}
+        - {x: 109, y: -91.12532}
+        - {x: 94, y: -62.12532}
+        - {x: 94, y: -49.12532}
+        - {x: 95, y: -47.12532}
+    - name: opposing elephant attack_49
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 303
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 90.87468}
+        - {x: -114, y: -17.12532}
+        - {x: -114, y: -79.12532}
+        - {x: -69, y: -83.12532}
+        - {x: -19, y: -95.12532}
+        - {x: 110, y: -95.12532}
+        - {x: 110, y: 23.87468}
+        - {x: 89, y: 90.87468}
+    - name: opposing elephant attack_50
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 303
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 90.87468}
+        - {x: 7, y: 90.87468}
+        - {x: -62, y: 48.87468}
+        - {x: -100, y: -30.12532}
+        - {x: -113, y: -57.12532}
+        - {x: -113, y: -72.12532}
+        - {x: -75, y: -78.12532}
+        - {x: -64, y: -75.12532}
+        - {x: -61, y: -61.12532}
+        - {x: -66, y: -58.12532}
+        - {x: -68, y: -58.12532}
+        - {x: -61, y: -57.12532}
+        - {x: -28, y: -82.12532}
+        - {x: -13, y: -94.12532}
+        - {x: 19, y: -90.12532}
+        - {x: 24, y: -84.12532}
+        - {x: 24, y: -53.12532}
+        - {x: 49, y: -95.12532}
+        - {x: 104, y: -95.12532}
+        - {x: 112, y: -89.12532}
+        - {x: 112, y: -11.12532}
+        - {x: 90, y: 81.87468}
+    - name: opposing elephant attack_51
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 303
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: -40.12532}
+        - {x: -111, y: -61.12532}
+        - {x: -111, y: -75.12532}
+        - {x: -83, y: -95.12532}
+        - {x: 113, y: -95.12532}
+        - {x: 113, y: 80.87468}
+        - {x: 110, y: 90.87468}
+        - {x: 21, y: 90.87468}
+        - {x: -58, y: 40.87468}
+    - name: opposing elephant attack_52
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 303
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: -62.12532}
+        - {x: 111, y: -62.12532}
+        - {x: 115, y: -60.12532}
+        - {x: 115, y: 90.87468}
+        - {x: -63, y: 90.87468}
+        - {x: -90, y: 86.87468}
+        - {x: -110, y: 36.87468}
+        - {x: -110, y: -95.12532}
+        - {x: 98, y: -95.12532}
+        - {x: 94, y: -85.12532}
+        - {x: 98, y: -57.12532}
+        - {x: 97, y: -58.12532}
+    - name: opposing elephant attack_53
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 303
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 90.87468}
+        - {x: 9, y: 90.87468}
+        - {x: -57, y: 73.87468}
+        - {x: -108, y: -29.12532}
+        - {x: -108, y: -95.12532}
+        - {x: 20, y: -95.12532}
+        - {x: 22, y: -94.12532}
+        - {x: 26, y: -78.12532}
+        - {x: 44, y: -95.12532}
+        - {x: 91, y: -95.12532}
+        - {x: 116, y: -66.12532}
+        - {x: 116, y: -27.12532}
+        - {x: 114, y: -19.12532}
+    - name: opposing elephant attack_54
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 303
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 89.87468}
+        - {x: -107, y: 2.8746796}
+        - {x: -107, y: -89.12532}
+        - {x: -99, y: -89.12532}
+        - {x: -48, y: -85.12532}
+        - {x: -51, y: -67.12532}
+        - {x: -55, y: -65.12532}
+        - {x: -24, y: -82.12532}
+        - {x: -18, y: -95.12532}
+        - {x: 99, y: -95.12532}
+        - {x: 118, y: -78.12532}
+        - {x: 118, y: 89.87468}
+    - name: opposing elephant attack_55
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 303
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 89.87468}
+        - {x: -48, y: 46.87468}
+        - {x: -95, y: -39.12532}
+        - {x: -106, y: -63.12532}
+        - {x: -106, y: -90.12532}
+        - {x: -75, y: -95.12532}
+        - {x: 119, y: -95.12532}
+        - {x: 119, y: 89.87468}
+    - name: opposing elephant attack_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 89.5}
+        - {x: 15, y: 89.5}
+        - {x: -58, y: 32.5}
+        - {x: -104, y: -76.5}
+        - {x: -104, y: -96.5}
+        - {x: 120, y: -96.5}
+        - {x: 120, y: -10.5}
+        - {x: 82, y: 85.5}
+    - name: opposing elephant attack_57
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103, y: 80.5}
+        - {x: 89, y: 89.5}
+        - {x: 7, y: 89.5}
+        - {x: -76, y: 36.5}
+        - {x: -102, y: -65.5}
+        - {x: -102, y: -96.5}
+        - {x: 92, y: -96.5}
+        - {x: 121, y: -76.5}
+        - {x: 121, y: 25.5}
+    - name: opposing elephant attack_58
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 0
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 88.5}
+        - {x: -64, y: 26.5}
+        - {x: -100, y: -73.5}
+        - {x: -100, y: -96.5}
+        - {x: 123, y: -96.5}
+        - {x: 123, y: -18.5}
+        - {x: 86, y: 88.5}
+    - name: opposing elephant attack_59
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 0
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 124, y: -70.5}
+        - {x: 124, y: 16.5}
+        - {x: 82, y: 88.5}
+        - {x: 18, y: 88.5}
+        - {x: -65, y: 24.5}
+        - {x: -99, y: -82.5}
+        - {x: -99, y: -90.5}
+        - {x: -97, y: -93.5}
+        - {x: -45, y: -91.5}
+        - {x: -40, y: -88.5}
+        - {x: -38, y: -74.5}
+        - {x: -42, y: -72.5}
+        - {x: -44, y: -61.5}
+        - {x: -14, y: -97.5}
+        - {x: 10, y: -97.5}
+        - {x: 23, y: -95.5}
+        - {x: 27, y: -86.5}
+        - {x: 55, y: -97.5}
+        - {x: 103, y: -97.5}
+    - name: opposing elephant attack_60
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 0
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 88.5}
+        - {x: 3, y: 88.5}
+        - {x: -53, y: 54.5}
+        - {x: -97, y: -76.5}
+        - {x: -97, y: -98.5}
+        - {x: 100, y: -98.5}
+        - {x: 125, y: -69.5}
+        - {x: 125, y: 19.5}
+        - {x: 79, y: 86.5}
+    - name: opposing elephant attack_61
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 0
+        width: 395
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: 80.5}
+        - {x: 78, y: 87.5}
+        - {x: -20, y: 87.5}
+        - {x: -96, y: -15.5}
+        - {x: -96, y: -98.5}
+        - {x: 105, y: -98.5}
+        - {x: 126, y: -48.5}
+        - {x: 126, y: -6.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

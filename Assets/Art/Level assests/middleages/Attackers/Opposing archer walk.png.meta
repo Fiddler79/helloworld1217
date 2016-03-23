@@ -1,0 +1,2217 @@
+fileFormatVersion: 2
+guid: 9fe4aa8782678d44ba888f5adf5cb96f
+timeCreated: 1456409238
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Opposing archer walk_0
+    21300002: Opposing archer walk_1
+    21300004: Opposing archer walk_2
+    21300006: Opposing archer walk_3
+    21300008: Opposing archer walk_4
+    21300010: Opposing archer walk_5
+    21300012: Opposing archer walk_6
+    21300014: Opposing archer walk_7
+    21300016: Opposing archer walk_8
+    21300018: Opposing archer walk_9
+    21300020: Opposing archer walk_10
+    21300022: Opposing archer walk_11
+    21300024: Opposing archer walk_12
+    21300026: Opposing archer walk_13
+    21300028: Opposing archer walk_14
+    21300030: Opposing archer walk_15
+    21300032: Opposing archer walk_16
+    21300034: Opposing archer walk_17
+    21300036: Opposing archer walk_18
+    21300038: Opposing archer walk_19
+    21300040: Opposing archer walk_20
+    21300042: Opposing archer walk_21
+    21300044: Opposing archer walk_22
+    21300046: Opposing archer walk_23
+    21300048: Opposing archer walk_24
+    21300050: Opposing archer walk_25
+    21300052: Opposing archer walk_26
+    21300054: Opposing archer walk_27
+    21300056: Opposing archer walk_28
+    21300058: Opposing archer walk_29
+    21300060: Opposing archer walk_30
+    21300062: Opposing archer walk_31
+    21300064: Opposing archer walk_32
+    21300066: Opposing archer walk_33
+    21300068: Opposing archer walk_34
+    21300070: Opposing archer walk_35
+    21300072: Opposing archer walk_36
+    21300074: Opposing archer walk_37
+    21300076: Opposing archer walk_38
+    21300078: Opposing archer walk_39
+    21300080: Opposing archer walk_40
+    21300082: Opposing archer walk_41
+    21300084: Opposing archer walk_42
+    21300086: Opposing archer walk_43
+    21300088: Opposing archer walk_44
+    21300090: Opposing archer walk_45
+    21300092: Opposing archer walk_46
+    21300094: Opposing archer walk_47
+    21300096: Opposing archer walk_48
+    21300098: Opposing archer walk_49
+    21300100: Opposing archer walk_50
+    21300102: Opposing archer walk_51
+    21300104: Opposing archer walk_52
+    21300106: Opposing archer walk_53
+    21300108: Opposing archer walk_54
+    21300110: Opposing archer walk_55
+    21300112: Opposing archer walk_56
+    21300114: Opposing archer walk_57
+    21300116: Opposing archer walk_58
+    21300118: Opposing archer walk_59
+    21300120: Opposing archer walk_60
+    21300122: Opposing archer walk_61
+    21300124: Opposing archer walk_62
+    21300126: Opposing archer walk_63
+    21300128: Opposing archer walk_64
+    21300130: Opposing archer walk_65
+    21300132: Opposing archer walk_66
+    21300134: Opposing archer walk_67
+    21300136: Opposing archer walk_68
+    21300138: Opposing archer walk_69
+    21300140: Opposing archer walk_70
+    21300142: Opposing archer walk_71
+    21300144: Opposing archer walk_72
+    21300146: Opposing archer walk_73
+    21300148: Opposing archer walk_74
+    21300150: Opposing archer walk_75
+    21300152: Opposing archer walk_76
+    21300154: Opposing archer walk_77
+    21300156: Opposing archer walk_78
+    21300158: Opposing archer walk_79
+    21300160: Opposing archer walk_80
+    21300162: Opposing archer walk_81
+    21300164: Opposing archer walk_82
+    21300166: Opposing archer walk_83
+    21300168: Opposing archer walk_84
+    21300170: Opposing archer walk_85
+    21300172: Opposing archer walk_86
+    21300174: Opposing archer walk_87
+    21300176: Opposing archer walk_88
+    21300178: Opposing archer walk_89
+    21300180: Opposing archer walk_90
+    21300182: Opposing archer walk_91
+    21300184: Opposing archer walk_92
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Opposing archer walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2826
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 100.70679}
+        - {x: -28.5, y: 100.70679}
+        - {x: -70.5, y: 12.706787}
+        - {x: -70.5, y: -69.29321}
+        - {x: -55.5, y: -82.29321}
+        - {x: 55.5, y: -82.29321}
+        - {x: 63.5, y: -81.29321}
+        - {x: 63.5, y: -0.2932129}
+        - {x: 56.5, y: 54.706787}
+    - name: Opposing archer walk_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2826
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.800003, y: 100.70679}
+        - {x: -20.199997, y: 100.70679}
+        - {x: -44.199997, y: 89.70679}
+        - {x: -68.2, y: 20.706787}
+        - {x: -68.2, y: -80.29321}
+        - {x: -58.199997, y: -83.29321}
+        - {x: 61.800003, y: -83.29321}
+        - {x: 63.800003, y: -78.29321}
+        - {x: 63.800003, y: 26.706787}
+        - {x: 53.800003, y: 65.70679}
+    - name: Opposing archer walk_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2826
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.399994, y: 101.70679}
+        - {x: -44.399994, y: 86.70679}
+        - {x: -66.399994, y: -33.293213}
+        - {x: -66.399994, y: -81.29321}
+        - {x: -45.399994, y: -84.29321}
+        - {x: -42.399994, y: -84.29321}
+        - {x: -38.399994, y: -75.29321}
+        - {x: 8.600006, y: -84.29321}
+        - {x: 61.600006, y: -84.29321}
+        - {x: 61.600006, y: 74.70679}
+        - {x: 10.600006, y: 101.70679}
+    - name: Opposing archer walk_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2826
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.399994, y: -6.293213}
+        - {x: 53.399994, y: 53.706787}
+        - {x: 14.399994, y: 95.70679}
+        - {x: -7.600006, y: 101.70679}
+        - {x: -14.600006, y: 101.70679}
+        - {x: -26.600006, y: 81.70679}
+        - {x: -65.600006, y: -35.293213}
+        - {x: -65.600006, y: -83.29321}
+        - {x: -48.600006, y: -85.29321}
+        - {x: -35.600006, y: -77.29321}
+        - {x: -12.600006, y: -85.29321}
+        - {x: 46.399994, y: -85.29321}
+        - {x: 50.399994, y: -83.29321}
+        - {x: 48.399994, y: -71.29321}
+        - {x: 41.399994, y: -67.29321}
+        - {x: 60.399994, y: -27.293213}
+    - name: Opposing archer walk_4
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2826
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.299988, y: -86.29321}
+        - {x: -62.299988, y: -87.29321}
+        - {x: 59.700012, y: -87.29321}
+        - {x: 59.700012, y: 97.70679}
+        - {x: 56.700012, y: 101.70679}
+        - {x: -52.299988, y: 101.70679}
+        - {x: -63.299988, y: 55.706787}
+    - name: Opposing archer walk_5
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 2826
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 101.70679}
+        - {x: -45.5, y: 90.70679}
+        - {x: -62.5, y: -22.293213}
+        - {x: -62.5, y: -78.29321}
+        - {x: -59.5, y: -88.29321}
+        - {x: 58.5, y: -88.29321}
+        - {x: 58.5, y: 56.706787}
+        - {x: 19.5, y: 101.70679}
+    - name: Opposing archer walk_6
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2826
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.200012, y: 101.70679}
+        - {x: -33.200012, y: 54.706787}
+        - {x: -59.200012, y: -46.293213}
+        - {x: -59.200012, y: -89.29321}
+        - {x: 58.799988, y: -89.29321}
+        - {x: 58.799988, y: 86.70679}
+        - {x: 55.799988, y: 101.70679}
+    - name: Opposing archer walk_7
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2826
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.400024, y: 101.70679}
+        - {x: -58.400024, y: -26.293213}
+        - {x: -58.400024, y: -83.29321}
+        - {x: -57.400024, y: -84.29321}
+        - {x: -34.400024, y: -90.29321}
+        - {x: -30.400024, y: -90.29321}
+        - {x: -28.400024, y: -83.29321}
+        - {x: -5.4000244, y: -90.29321}
+        - {x: 50.599976, y: -90.29321}
+        - {x: 57.599976, y: -72.29321}
+        - {x: 57.599976, y: 55.706787}
+        - {x: 43.599976, y: 101.70679}
+    - name: Opposing archer walk_8
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2826
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.4000244, y: 101.70679}
+        - {x: -31.599976, y: 101.70679}
+        - {x: -49.599976, y: 90.70679}
+        - {x: -56.599976, y: 11.706787}
+        - {x: -56.599976, y: -91.29321}
+        - {x: -22.599976, y: -91.29321}
+        - {x: -18.599976, y: -90.29321}
+        - {x: -7.5999756, y: -64.29321}
+        - {x: -3.5999756, y: -83.29321}
+        - {x: 13.400024, y: -91.29321}
+        - {x: 37.400024, y: -91.29321}
+        - {x: 38.400024, y: -89.29321}
+        - {x: 55.400024, y: -57.293213}
+        - {x: 55.400024, y: 69.70679}
+    - name: Opposing archer walk_9
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2826
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.699951, y: 101.70679}
+        - {x: -34.30005, y: 101.70679}
+        - {x: -54.30005, y: -23.293213}
+        - {x: -54.30005, y: -91.29321}
+        - {x: 48.69995, y: -91.29321}
+        - {x: 54.69995, y: -53.293213}
+        - {x: 54.69995, y: 68.70679}
+        - {x: 37.69995, y: 95.70679}
+    - name: Opposing archer walk_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2512
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 102.96167}
+        - {x: -52.5, y: -24.03833}
+        - {x: -52.5, y: -83.03833}
+        - {x: -47.5, y: -89.03833}
+        - {x: -41.5, y: -92.03833}
+        - {x: 47.5, y: -92.03833}
+        - {x: 53.5, y: -71.03833}
+        - {x: 53.5, y: 89.96167}
+        - {x: 32.5, y: 102.96167}
+    - name: Opposing archer walk_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2512
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.199997, y: 102.96167}
+        - {x: -35.199997, y: 86.96167}
+        - {x: -49.199997, y: -48.03833}
+        - {x: -49.199997, y: -85.03833}
+        - {x: -32.199997, y: -93.03833}
+        - {x: -22.199997, y: -93.03833}
+        - {x: -17.199997, y: -86.03833}
+        - {x: -18.199997, y: -81.03833}
+        - {x: -22.199997, y: -77.03833}
+        - {x: 2.800003, y: -93.03833}
+        - {x: 46.800003, y: -93.03833}
+        - {x: 54.800003, y: -35.03833}
+        - {x: 54.800003, y: 77.96167}
+        - {x: 8.800003, y: 102.96167}
+    - name: Opposing archer walk_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2512
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.600006, y: 102.96167}
+        - {x: -33.399994, y: 102.96167}
+        - {x: -47.399994, y: 36.96167}
+        - {x: -47.399994, y: -94.03833}
+        - {x: 39.600006, y: -94.03833}
+        - {x: 54.600006, y: -61.03833}
+        - {x: 54.600006, y: 59.96167}
+        - {x: 41.600006, y: 100.96167}
+    - name: Opposing archer walk_13
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2512
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.399994, y: 70.96167}
+        - {x: 20.399994, y: 68.96167}
+        - {x: 24.399994, y: 73.96167}
+        - {x: 25.399994, y: 82.96167}
+        - {x: 6.399994, y: 102.96167}
+        - {x: -28.600006, y: 102.96167}
+        - {x: -45.600006, y: 27.96167}
+        - {x: -45.600006, y: -94.03833}
+        - {x: 40.399994, y: -94.03833}
+        - {x: 54.399994, y: -71.03833}
+        - {x: 54.399994, y: 58.96167}
+        - {x: 31.399994, y: 74.96167}
+    - name: Opposing archer walk_14
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2512
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.2999878, y: -94.03833}
+        - {x: 39.700012, y: -94.03833}
+        - {x: 54.700012, y: -46.03833}
+        - {x: 54.700012, y: 60.96167}
+        - {x: 30.700012, y: 84.96167}
+        - {x: 21.700012, y: 67.96167}
+        - {x: 21.700012, y: 63.96167}
+        - {x: 23.700012, y: 61.96167}
+        - {x: 22.700012, y: 60.96167}
+        - {x: 22.700012, y: 47.96167}
+        - {x: 20.700012, y: 47.96167}
+        - {x: 22.700012, y: 55.96167}
+        - {x: 22.700012, y: 61.96167}
+        - {x: 19.700012, y: 65.96167}
+        - {x: 24.700012, y: 76.96167}
+        - {x: 27.700012, y: 83.96167}
+        - {x: 8.700012, y: 102.96167}
+        - {x: -16.299988, y: 102.96167}
+        - {x: -39.299988, y: 59.96167}
+        - {x: -42.299988, y: 25.96167}
+        - {x: -42.299988, y: -91.03833}
+        - {x: -39.299988, y: -93.03833}
+        - {x: -32.299988, y: -94.03833}
+        - {x: -11.299988, y: -94.03833}
+        - {x: -11.299988, y: -90.03833}
+        - {x: -10.299988, y: -82.03833}
+        - {x: -8.299988, y: -93.03833}
+    - name: Opposing archer walk_15
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 2512
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 69.96167}
+        - {x: 25.5, y: 71.96167}
+        - {x: 22.5, y: 67.96167}
+        - {x: 22.5, y: 51.96167}
+        - {x: 20.5, y: 40.96167}
+        - {x: 22.5, y: 55.96167}
+        - {x: 22.5, y: 69.96167}
+        - {x: 28.5, y: 82.96167}
+        - {x: 7.5, y: 97.96167}
+        - {x: -4.5, y: 102.96167}
+        - {x: -12.5, y: 102.96167}
+        - {x: -27.5, y: 85.96167}
+        - {x: -40.5, y: -22.03833}
+        - {x: -40.5, y: -88.03833}
+        - {x: -37.5, y: -95.03833}
+        - {x: 36.5, y: -95.03833}
+        - {x: 54.5, y: -25.03833}
+        - {x: 54.5, y: 58.96167}
+    - name: Opposing archer walk_16
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2512
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.799988, y: 73.96167}
+        - {x: 21.799988, y: 68.96167}
+        - {x: 24.799988, y: 62.96167}
+        - {x: 21.799988, y: 69.96167}
+        - {x: 26.799988, y: 76.96167}
+        - {x: 30.799988, y: 83.96167}
+        - {x: -0.2000122, y: 103.96167}
+        - {x: -23.200012, y: 103.96167}
+        - {x: -28.200012, y: 101.96167}
+        - {x: -37.200012, y: 35.96167}
+        - {x: -37.200012, y: -96.03833}
+        - {x: 39.799988, y: -96.03833}
+        - {x: 55.799988, y: -32.03833}
+        - {x: 55.799988, y: 67.96167}
+    - name: Opposing archer walk_17
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2512
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.599976, y: 56.96167}
+        - {x: 40.599976, y: 71.96167}
+        - {x: 27.599976, y: 68.96167}
+        - {x: 25.599976, y: 66.96167}
+        - {x: 25.599976, y: 55.96167}
+        - {x: 24.599976, y: 55.96167}
+        - {x: 26.599976, y: 81.96167}
+        - {x: 9.599976, y: 97.96167}
+        - {x: -5.4000244, y: 103.96167}
+        - {x: -10.400024, y: 103.96167}
+        - {x: -22.400024, y: 85.96167}
+        - {x: -34.400024, y: 19.96167}
+        - {x: -34.400024, y: -94.03833}
+        - {x: -27.400024, y: -96.03833}
+        - {x: 12.599976, y: -96.03833}
+        - {x: 16.599976, y: -90.03833}
+        - {x: 44.599976, y: -54.03833}
+        - {x: 55.599976, y: -9.03833}
+    - name: Opposing archer walk_18
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2512
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.400024, y: 63.96167}
+        - {x: 28.400024, y: 82.96167}
+        - {x: 0.4000244, y: 103.96167}
+        - {x: -11.599976, y: 103.96167}
+        - {x: -29.599976, y: 86.96167}
+        - {x: -32.599976, y: 26.96167}
+        - {x: -32.599976, y: -95.03833}
+        - {x: -23.599976, y: -97.03833}
+        - {x: 26.400024, y: -97.03833}
+        - {x: 55.400024, y: -78.03833}
+        - {x: 55.400024, y: 96.96167}
+        - {x: 28.400024, y: 69.96167}
+    - name: Opposing archer walk_19
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2512
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.699951, y: 71.96167}
+        - {x: 26.699951, y: 64.96167}
+        - {x: 28.699951, y: 81.96167}
+        - {x: 0.6999512, y: 103.96167}
+        - {x: -30.300049, y: 103.96167}
+        - {x: -30.300049, y: -97.03833}
+        - {x: 20.699951, y: -97.03833}
+        - {x: 55.69995, y: -30.03833}
+        - {x: 55.69995, y: 64.96167}
+    - name: Opposing archer walk_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2198
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 67.71643}
+        - {x: 31.5, y: 66.71643}
+        - {x: 27.5, y: 63.71643}
+        - {x: 22.5, y: 36.71643}
+        - {x: 30.5, y: 81.71643}
+        - {x: 1.5, y: 102.71643}
+        - {x: -16.5, y: 102.71643}
+        - {x: -30.5, y: 76.71643}
+        - {x: -30.5, y: -98.28357}
+        - {x: 0.5, y: -98.28357}
+        - {x: 12.5, y: -95.28357}
+        - {x: 42.5, y: -41.28357}
+        - {x: 55.5, y: 12.716431}
+        - {x: 55.5, y: 52.71643}
+    - name: Opposing archer walk_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2198
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.199997, y: 102.71643}
+        - {x: -22.199997, y: 90.71643}
+        - {x: -29.199997, y: 39.71643}
+        - {x: -29.199997, y: -97.28357}
+        - {x: -28.199997, y: -98.28357}
+        - {x: 18.800003, y: -98.28357}
+        - {x: 57.800003, y: -31.28357}
+        - {x: 57.800003, y: 75.71643}
+        - {x: 15.800003, y: 102.71643}
+    - name: Opposing archer walk_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2198
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.600006, y: 73.71643}
+        - {x: 30.600006, y: 63.71643}
+        - {x: 29.600006, y: 75.71643}
+        - {x: 27.600006, y: 85.71643}
+        - {x: 0.6000061, y: 102.71643}
+        - {x: -13.399994, y: 102.71643}
+        - {x: -20.399994, y: 94.71643}
+        - {x: -30.399994, y: 58.71643}
+        - {x: -30.399994, y: -98.28357}
+        - {x: 19.600006, y: -98.28357}
+        - {x: 46.600006, y: -33.28357}
+        - {x: 57.600006, y: 16.71643}
+        - {x: 57.600006, y: 48.71643}
+    - name: Opposing archer walk_23
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2198
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.600006, y: 102.71643}
+        - {x: -30.600006, y: 93.71643}
+        - {x: -30.600006, y: -90.28357}
+        - {x: -22.600006, y: -98.28357}
+        - {x: 28.399994, y: -98.28357}
+        - {x: 57.399994, y: -12.283569}
+        - {x: 57.399994, y: 77.71643}
+        - {x: 12.399994, y: 102.71643}
+    - name: Opposing archer walk_24
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2198
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.700012, y: 102.71643}
+        - {x: -29.299988, y: 102.71643}
+        - {x: -31.299988, y: 88.71643}
+        - {x: -31.299988, y: -84.28357}
+        - {x: -13.299988, y: -99.28357}
+        - {x: 10.700012, y: -99.28357}
+        - {x: 22.700012, y: -94.28357}
+        - {x: 38.700012, y: -80.28357}
+        - {x: 57.700012, y: 10.716431}
+        - {x: 57.700012, y: 71.71643}
+    - name: Opposing archer walk_25
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 2198
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 60.71643}
+        - {x: 31.5, y: 81.71643}
+        - {x: 1.5, y: 102.71643}
+        - {x: -12.5, y: 102.71643}
+        - {x: -33.5, y: 68.71643}
+        - {x: -33.5, y: -96.28357}
+        - {x: -24.5, y: -99.28357}
+        - {x: 21.5, y: -99.28357}
+        - {x: 57.5, y: 14.716431}
+        - {x: 57.5, y: 50.71643}
+        - {x: 44.5, y: 64.71643}
+    - name: Opposing archer walk_26
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2198
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.799988, y: 95.71643}
+        - {x: 41.799988, y: 102.71643}
+        - {x: -28.200012, y: 102.71643}
+        - {x: -35.200012, y: 79.71643}
+        - {x: -35.200012, y: -86.28357}
+        - {x: -16.200012, y: -99.28357}
+        - {x: 20.799988, y: -99.28357}
+        - {x: 33.799988, y: -94.28357}
+        - {x: 59.799988, y: 1.7164307}
+        - {x: 59.799988, y: 62.71643}
+        - {x: 56.799988, y: 81.71643}
+    - name: Opposing archer walk_27
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2198
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.599976, y: 102.71643}
+        - {x: -23.400024, y: 102.71643}
+        - {x: -37.400024, y: 60.71643}
+        - {x: -37.400024, y: -84.28357}
+        - {x: -27.400024, y: -92.28357}
+        - {x: -21.400024, y: -98.28357}
+        - {x: 20.599976, y: -98.28357}
+        - {x: 33.599976, y: -95.28357}
+        - {x: 59.599976, y: -50.28357}
+        - {x: 59.599976, y: 59.71643}
+    - name: Opposing archer walk_28
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2198
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.400024, y: 43.71643}
+        - {x: 52.400024, y: 50.71643}
+        - {x: 43.400024, y: 60.71643}
+        - {x: 35.400024, y: 55.71643}
+        - {x: 33.400024, y: 82.71643}
+        - {x: 6.4000244, y: 102.71643}
+        - {x: -13.599976, y: 102.71643}
+        - {x: -32.599976, y: 60.71643}
+        - {x: -39.599976, y: -45.28357}
+        - {x: -39.599976, y: -83.28357}
+        - {x: -26.599976, y: -96.28357}
+        - {x: -13.599976, y: -91.28357}
+        - {x: -13.599976, y: -81.28357}
+        - {x: -12.599976, y: -84.28357}
+        - {x: -4.5999756, y: -98.28357}
+        - {x: 18.400024, y: -98.28357}
+        - {x: 22.400024, y: -97.28357}
+        - {x: 26.400024, y: -91.28357}
+        - {x: 59.400024, y: 22.71643}
+        - {x: 59.400024, y: 34.71643}
+    - name: Opposing archer walk_29
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2198
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.69995, y: 53.71643}
+        - {x: 38.69995, y: 77.71643}
+        - {x: 7.699951, y: 102.71643}
+        - {x: -14.300049, y: 102.71643}
+        - {x: -35.30005, y: 87.71643}
+        - {x: -41.30005, y: 42.71643}
+        - {x: -41.30005, y: -98.28357}
+        - {x: 37.69995, y: -98.28357}
+        - {x: 59.69995, y: -9.283569}
+        - {x: 59.69995, y: 53.71643}
+        - {x: 40.69995, y: 59.71643}
+    - name: Opposing archer walk_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1884
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 103.47119}
+        - {x: -20.5, y: 86.47119}
+        - {x: -44.5, y: -19.528809}
+        - {x: -44.5, y: -84.52881}
+        - {x: -28.5, y: -98.52881}
+        - {x: 25.5, y: -98.52881}
+        - {x: 37.5, y: -91.52881}
+        - {x: 59.5, y: -56.52881}
+        - {x: 59.5, y: 68.47119}
+        - {x: 37.5, y: 103.47119}
+    - name: Opposing archer walk_31
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1884
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.800003, y: 14.471191}
+        - {x: 60.800003, y: 44.47119}
+        - {x: 15.800003, y: 101.47119}
+        - {x: 11.800003, y: 103.47119}
+        - {x: -13.199997, y: 103.47119}
+        - {x: -35.199997, y: 59.47119}
+        - {x: -45.199997, y: -26.528809}
+        - {x: -45.199997, y: -95.52881}
+        - {x: -32.199997, y: -94.52881}
+        - {x: -17.199997, y: -87.52881}
+        - {x: -5.199997, y: -96.52881}
+        - {x: 2.800003, y: -98.52881}
+        - {x: 19.800003, y: -98.52881}
+        - {x: 32.800003, y: -89.52881}
+        - {x: 26.800003, y: -75.52881}
+        - {x: 58.800003, y: 4.4711914}
+    - name: Opposing archer walk_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1884
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.399994, y: 4.4711914}
+        - {x: -47.399994, y: -97.52881}
+        - {x: 29.600006, y: -97.52881}
+        - {x: 60.600006, y: -49.52881}
+        - {x: 60.600006, y: 75.47119}
+        - {x: 46.600006, y: 91.47119}
+        - {x: 14.600006, y: 103.47119}
+        - {x: -11.399994, y: 103.47119}
+        - {x: -21.399994, y: 83.47119}
+    - name: Opposing archer walk_33
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1884
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.399994, y: 78.47119}
+        - {x: 3.399994, y: 103.47119}
+        - {x: -12.600006, y: 103.47119}
+        - {x: -31.600006, y: 64.47119}
+        - {x: -49.600006, y: -12.528809}
+        - {x: -49.600006, y: -97.52881}
+        - {x: 30.399994, y: -97.52881}
+        - {x: 38.399994, y: -89.52881}
+        - {x: 60.399994, y: 7.4711914}
+        - {x: 60.399994, y: 44.47119}
+        - {x: 43.399994, y: 57.47119}
+    - name: Opposing archer walk_34
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1884
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.299988, y: 103.47119}
+        - {x: -51.299988, y: -3.5288086}
+        - {x: -51.299988, y: -86.52881}
+        - {x: -23.299988, y: -97.52881}
+        - {x: 60.700012, y: -97.52881}
+        - {x: 60.700012, y: 103.47119}
+    - name: Opposing archer walk_35
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1884
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 103.47119}
+        - {x: -17.5, y: 103.47119}
+        - {x: -53.5, y: 14.471191}
+        - {x: -53.5, y: -96.52881}
+        - {x: 33.5, y: -96.52881}
+        - {x: 51.5, y: -68.52881}
+        - {x: 59.5, y: -27.528809}
+        - {x: 59.5, y: 87.47119}
+    - name: Opposing archer walk_36
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1884
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.200012, y: 103.47119}
+        - {x: -22.200012, y: 92.47119}
+        - {x: -54.200012, y: 5.4711914}
+        - {x: -54.200012, y: -96.52881}
+        - {x: 60.799988, y: -96.52881}
+        - {x: 60.799988, y: 93.47119}
+        - {x: 36.799988, y: 103.47119}
+    - name: Opposing archer walk_37
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1884
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.400024, y: 103.47119}
+        - {x: -56.400024, y: -4.5288086}
+        - {x: -56.400024, y: -83.52881}
+        - {x: -47.400024, y: -87.52881}
+        - {x: -18.400024, y: -96.52881}
+        - {x: 51.599976, y: -96.52881}
+        - {x: 60.599976, y: -68.52881}
+        - {x: 60.599976, y: 98.47119}
+        - {x: 50.599976, y: 103.47119}
+    - name: Opposing archer walk_38
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1884
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.400024, y: 50.47119}
+        - {x: 42.400024, y: 42.47119}
+        - {x: 31.400024, y: 78.47119}
+        - {x: 3.4000244, y: 103.47119}
+        - {x: -20.599976, y: 103.47119}
+        - {x: -58.599976, y: -42.52881}
+        - {x: -58.599976, y: -86.52881}
+        - {x: -25.599976, y: -95.52881}
+        - {x: 40.400024, y: -95.52881}
+        - {x: 48.400024, y: -78.52881}
+        - {x: 60.400024, y: 7.4711914}
+        - {x: 60.400024, y: 33.47119}
+    - name: Opposing archer walk_39
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1884
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.300049, y: 103.47119}
+        - {x: -60.30005, y: -15.528809}
+        - {x: -60.30005, y: -90.52881}
+        - {x: -50.30005, y: -94.52881}
+        - {x: 60.69995, y: -94.52881}
+        - {x: 60.69995, y: 70.47119}
+        - {x: 18.699951, y: 103.47119}
+    - name: Opposing archer walk_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1570
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 44.726013}
+        - {x: 31.5, y: 80.72601}
+        - {x: 3.5, y: 103.72601}
+        - {x: -5.5, y: 103.72601}
+        - {x: -23.5, y: 83.72601}
+        - {x: -62.5, y: -36.273987}
+        - {x: -62.5, y: -70.27399}
+        - {x: -56.5, y: -85.27399}
+        - {x: -41.5, y: -78.27399}
+        - {x: -8.5, y: -94.27399}
+        - {x: 39.5, y: -94.27399}
+        - {x: 53.5, y: -87.27399}
+        - {x: 60.5, y: -5.273987}
+        - {x: 60.5, y: 39.726013}
+        - {x: 51.5, y: 44.726013}
+    - name: Opposing archer walk_41
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1570
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.199997, y: 103.72601}
+        - {x: -27.199997, y: 92.72601}
+        - {x: -63.199997, y: -34.273987}
+        - {x: -63.199997, y: -77.27399}
+        - {x: -56.199997, y: -78.27399}
+        - {x: -45.199997, y: -78.27399}
+        - {x: -17.199997, y: -93.27399}
+        - {x: 46.800003, y: -93.27399}
+        - {x: 61.800003, y: -68.27399}
+        - {x: 61.800003, y: 81.72601}
+        - {x: 8.800003, y: 103.72601}
+    - name: Opposing archer walk_42
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1570
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.399994, y: 103.72601}
+        - {x: -65.399994, y: 5.726013}
+        - {x: -65.399994, y: -81.27399}
+        - {x: -61.399994, y: -87.27399}
+        - {x: -44.399994, y: -93.27399}
+        - {x: 49.600006, y: -93.27399}
+        - {x: 61.600006, y: -51.273987}
+        - {x: 61.600006, y: 48.726013}
+        - {x: 15.600006, y: 103.72601}
+    - name: Opposing archer walk_43
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1570
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.600006, y: 103.72601}
+        - {x: -66.600006, y: 13.726013}
+        - {x: -66.600006, y: -89.27399}
+        - {x: -63.600006, y: -92.27399}
+        - {x: 60.399994, y: -92.27399}
+        - {x: 60.399994, y: 69.72601}
+        - {x: 26.399994, y: 103.72601}
+    - name: Opposing archer walk_44
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1570
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.299988, y: 103.72601}
+        - {x: -68.29999, y: -37.273987}
+        - {x: -68.29999, y: -68.27399}
+        - {x: -61.299988, y: -72.27399}
+        - {x: -52.299988, y: -73.27399}
+        - {x: 3.7000122, y: -92.27399}
+        - {x: 51.700012, y: -92.27399}
+        - {x: 60.700012, y: -51.273987}
+        - {x: 60.700012, y: 102.72601}
+        - {x: 55.700012, y: 103.72601}
+    - name: Opposing archer walk_45
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1570
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 102.72601}
+        - {x: -69.5, y: -29.273987}
+        - {x: -69.5, y: -65.27399}
+        - {x: -66.5, y: -75.27399}
+        - {x: -54.5, y: -71.27399}
+        - {x: 13.5, y: -91.27399}
+        - {x: 32.5, y: -91.27399}
+        - {x: 59.5, y: -85.27399}
+        - {x: 59.5, y: 59.726013}
+        - {x: 13.5, y: 102.72601}
+    - name: Opposing archer walk_46
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1570
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.200012, y: 102.72601}
+        - {x: -14.200012, y: 88.72601}
+        - {x: -16.200012, y: 82.72601}
+        - {x: -24.200012, y: 66.72601}
+        - {x: -69.20001, y: -34.273987}
+        - {x: -69.20001, y: -80.27399}
+        - {x: -43.200012, y: -90.27399}
+        - {x: 56.799988, y: -90.27399}
+        - {x: 60.799988, y: -67.27399}
+        - {x: 60.799988, y: 77.72601}
+        - {x: 25.799988, y: 102.72601}
+    - name: Opposing archer walk_47
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1570
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.599976, y: -10.273987}
+        - {x: 60.599976, y: 73.72601}
+        - {x: 50.599976, y: 85.72601}
+        - {x: 16.599976, y: 102.72601}
+        - {x: -2.4000244, y: 102.72601}
+        - {x: -14.400024, y: 94.72601}
+        - {x: -18.400024, y: 81.72601}
+        - {x: -68.400024, y: -23.273987}
+        - {x: -68.400024, y: -77.27399}
+        - {x: 5.5999756, y: -91.27399}
+        - {x: 41.599976, y: -91.27399}
+        - {x: 50.599976, y: -76.27399}
+        - {x: 42.599976, y: -68.27399}
+        - {x: 37.599976, y: -69.27399}
+    - name: Opposing archer walk_48
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1570
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.599976, y: 102.72601}
+        - {x: -67.599976, y: 4.726013}
+        - {x: -67.599976, y: -88.27399}
+        - {x: -26.599976, y: -92.27399}
+        - {x: 48.400024, y: -92.27399}
+        - {x: 60.400024, y: -71.27399}
+        - {x: 60.400024, y: 102.72601}
+    - name: Opposing archer walk_49
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1570
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.69995, y: 43.726013}
+        - {x: 55.69995, y: 45.726013}
+        - {x: 33.69995, y: 78.72601}
+        - {x: 12.699951, y: 95.72601}
+        - {x: 4.699951, y: 102.72601}
+        - {x: -7.300049, y: 102.72601}
+        - {x: -34.30005, y: 62.726013}
+        - {x: -66.30005, y: -44.273987}
+        - {x: -66.30005, y: -69.27399}
+        - {x: -60.30005, y: -75.27399}
+        - {x: -50.30005, y: -75.27399}
+        - {x: -46.30005, y: -69.27399}
+        - {x: 15.699951, y: -93.27399}
+        - {x: 34.69995, y: -93.27399}
+        - {x: 45.69995, y: -86.27399}
+        - {x: 45.69995, y: -71.27399}
+        - {x: 60.69995, y: -16.273987}
+    - name: Opposing archer walk_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1256
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.5, y: 55.980835}
+        - {x: 4.5, y: 102.980835}
+        - {x: -15.5, y: 102.980835}
+        - {x: -65.5, y: -30.019165}
+        - {x: -65.5, y: -84.019165}
+        - {x: -58.5, y: -86.019165}
+        - {x: -39.5, y: -93.019165}
+        - {x: 44.5, y: -93.019165}
+        - {x: 44.5, y: -74.019165}
+        - {x: 39.5, y: -71.019165}
+        - {x: 60.5, y: -4.019165}
+    - name: Opposing archer walk_51
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1256
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.800003, y: 102.980835}
+        - {x: -8.199997, y: 102.980835}
+        - {x: -26.199997, y: 79.980835}
+        - {x: -62.199997, y: -34.019165}
+        - {x: -62.199997, y: -79.019165}
+        - {x: -56.199997, y: -80.019165}
+        - {x: -45.199997, y: -78.019165}
+        - {x: -3.199997, y: -94.019165}
+        - {x: 34.800003, y: -94.019165}
+        - {x: 53.800003, y: -86.019165}
+        - {x: 61.800003, y: -19.019165}
+        - {x: 61.800003, y: 65.980835}
+        - {x: 49.800003, y: 89.980835}
+    - name: Opposing archer walk_52
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1256
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.399994, y: 102.980835}
+        - {x: -39.399994, y: 87.980835}
+        - {x: -61.399994, y: -19.019165}
+        - {x: -61.399994, y: -93.019165}
+        - {x: -58.399994, y: -95.019165}
+        - {x: 61.600006, y: -95.019165}
+        - {x: 61.600006, y: 65.980835}
+        - {x: 21.600006, y: 102.980835}
+    - name: Opposing archer walk_53
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1256
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.399994, y: 44.980835}
+        - {x: 44.399994, y: 42.980835}
+        - {x: 30.399994, y: 77.980835}
+        - {x: 7.399994, y: 102.980835}
+        - {x: -48.600006, y: 102.980835}
+        - {x: -60.600006, y: -5.019165}
+        - {x: -60.600006, y: -95.019165}
+        - {x: 53.399994, y: -95.019165}
+        - {x: 60.399994, y: -74.019165}
+        - {x: 60.399994, y: 43.980835}
+    - name: Opposing archer walk_54
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1256
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.700012, y: 42.980835}
+        - {x: 32.700012, y: 79.980835}
+        - {x: 2.7000122, y: 102.980835}
+        - {x: -8.299988, y: 102.980835}
+        - {x: -23.299988, y: 84.980835}
+        - {x: -58.299988, y: -38.019165}
+        - {x: -58.299988, y: -96.019165}
+        - {x: 53.700012, y: -96.019165}
+        - {x: 60.700012, y: -78.019165}
+        - {x: 60.700012, y: 46.980835}
+        - {x: 52.700012, y: 53.980835}
+    - name: Opposing archer walk_55
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1256
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 48.980835}
+        - {x: 33.5, y: 33.980835}
+        - {x: 33.5, y: 76.980835}
+        - {x: 6.5, y: 102.980835}
+        - {x: -5.5, y: 102.980835}
+        - {x: -22.5, y: 85.980835}
+        - {x: -57.5, y: -41.019165}
+        - {x: -57.5, y: -77.019165}
+        - {x: -48.5, y: -88.019165}
+        - {x: -37.5, y: -93.019165}
+        - {x: -24.5, y: -97.019165}
+        - {x: 51.5, y: -97.019165}
+        - {x: 60.5, y: -64.019165}
+        - {x: 60.5, y: 43.980835}
+        - {x: 54.5, y: 49.980835}
+    - name: Opposing archer walk_56
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1256
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.200012, y: 102.980835}
+        - {x: -54.200012, y: 29.980835}
+        - {x: -54.200012, y: -97.019165}
+        - {x: 60.799988, y: -97.019165}
+        - {x: 60.799988, y: 75.980835}
+        - {x: 40.799988, y: 102.980835}
+    - name: Opposing archer walk_57
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1256
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.599976, y: 101.980835}
+        - {x: -12.400024, y: 101.980835}
+        - {x: -32.400024, y: 64.980835}
+        - {x: -52.400024, y: -33.019165}
+        - {x: -52.400024, y: -85.019165}
+        - {x: -37.400024, y: -92.019165}
+        - {x: -29.400024, y: -83.019165}
+        - {x: -8.400024, y: -97.019165}
+        - {x: 48.599976, y: -97.019165}
+        - {x: 60.599976, y: -69.019165}
+        - {x: 60.599976, y: 63.980835}
+        - {x: 46.599976, y: 95.980835}
+    - name: Opposing archer walk_58
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1256
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.400024, y: 78.980835}
+        - {x: 6.4000244, y: 98.980835}
+        - {x: -0.5999756, y: 101.980835}
+        - {x: -7.5999756, y: 101.980835}
+        - {x: -12.599976, y: 93.980835}
+        - {x: -26.599976, y: 81.980835}
+        - {x: -51.599976, y: -35.019165}
+        - {x: -51.599976, y: -76.019165}
+        - {x: -46.599976, y: -91.019165}
+        - {x: -32.599976, y: -95.019165}
+        - {x: -8.599976, y: -98.019165}
+        - {x: 22.400024, y: -98.019165}
+        - {x: 29.400024, y: -97.019165}
+        - {x: 47.400024, y: -89.019165}
+        - {x: 60.400024, y: -19.019165}
+        - {x: 60.400024, y: 45.980835}
+    - name: Opposing archer walk_59
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1256
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.699951, y: 101.980835}
+        - {x: -10.300049, y: 101.980835}
+        - {x: -33.30005, y: 92.980835}
+        - {x: -50.30005, y: -19.019165}
+        - {x: -50.30005, y: -99.019165}
+        - {x: 38.69995, y: -99.019165}
+        - {x: 60.69995, y: -16.019165}
+        - {x: 60.69995, y: 50.980835}
+        - {x: 55.69995, y: 65.980835}
+    - name: Opposing archer walk_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 942
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 101.735596}
+        - {x: -48.5, y: -4.2644043}
+        - {x: -48.5, y: -100.264404}
+        - {x: 47.5, y: -100.264404}
+        - {x: 59.5, y: -78.264404}
+        - {x: 59.5, y: 51.735596}
+        - {x: 11.5, y: 101.735596}
+    - name: Opposing archer walk_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 942
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.800003, y: 77.735596}
+        - {x: 10.800003, y: 101.735596}
+        - {x: -17.199997, y: 101.735596}
+        - {x: -45.199997, y: 47.735596}
+        - {x: -45.199997, y: -100.264404}
+        - {x: 60.800003, y: -100.264404}
+        - {x: 60.800003, y: 45.735596}
+        - {x: 46.800003, y: 55.735596}
+    - name: Opposing archer walk_62
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 942
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.600006, y: 100.735596}
+        - {x: -10.399994, y: 100.735596}
+        - {x: -25.399994, y: 92.735596}
+        - {x: -44.399994, y: -55.264404}
+        - {x: -44.399994, y: -83.264404}
+        - {x: -30.399994, y: -97.264404}
+        - {x: -23.399994, y: -101.264404}
+        - {x: 59.600006, y: -101.264404}
+        - {x: 59.600006, y: 76.735596}
+        - {x: 41.600006, y: 87.735596}
+    - name: Opposing archer walk_63
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 942
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.399994, y: 53.735596}
+        - {x: 44.399994, y: 55.735596}
+        - {x: 37.399994, y: 52.735596}
+        - {x: 34.399994, y: 79.735596}
+        - {x: 4.399994, y: 100.735596}
+        - {x: -17.600006, y: 100.735596}
+        - {x: -27.600006, y: 90.735596}
+        - {x: -42.600006, y: 6.7355957}
+        - {x: -42.600006, y: -91.264404}
+        - {x: -29.600006, y: -101.264404}
+        - {x: 27.399994, y: -101.264404}
+        - {x: 34.399994, y: -93.264404}
+        - {x: 25.399994, y: -78.264404}
+        - {x: 59.399994, y: -1.2644043}
+        - {x: 59.399994, y: 38.735596}
+    - name: Opposing archer walk_64
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 942
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.700012, y: 100.735596}
+        - {x: -21.299988, y: 100.735596}
+        - {x: -40.299988, y: 88.735596}
+        - {x: -40.299988, y: -86.264404}
+        - {x: -25.299988, y: -101.264404}
+        - {x: 28.700012, y: -101.264404}
+        - {x: 40.700012, y: -96.264404}
+        - {x: 59.700012, y: -35.264404}
+        - {x: 59.700012, y: 79.735596}
+    - name: Opposing archer walk_65
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 942
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.5, y: 15.735596}
+        - {x: 58.5, y: 45.735596}
+        - {x: 37.5, y: 61.735596}
+        - {x: 17.5, y: 100.735596}
+        - {x: -39.5, y: 100.735596}
+        - {x: -39.5, y: -102.264404}
+        - {x: 24.5, y: -102.264404}
+        - {x: 28.5, y: -93.264404}
+        - {x: 26.5, y: -84.264404}
+        - {x: 20.5, y: -80.264404}
+    - name: Opposing archer walk_66
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 942
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.200012, y: 100.735596}
+        - {x: -35.200012, y: -102.264404}
+        - {x: 56.799988, y: -102.264404}
+        - {x: 59.799988, y: -101.264404}
+        - {x: 59.799988, y: 100.735596}
+    - name: Opposing archer walk_67
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 942
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.599976, y: 62.735596}
+        - {x: 36.599976, y: 59.735596}
+        - {x: 30.599976, y: 43.735596}
+        - {x: 32.599976, y: 77.735596}
+        - {x: 0.5999756, y: 100.735596}
+        - {x: -9.400024, y: 100.735596}
+        - {x: -20.400024, y: 83.735596}
+        - {x: -30.400024, y: 57.735596}
+        - {x: -34.400024, y: -2.2644043}
+        - {x: -34.400024, y: -89.264404}
+        - {x: -14.400024, y: -102.264404}
+        - {x: 16.599976, y: -102.264404}
+        - {x: 19.599976, y: -101.264404}
+        - {x: 31.599976, y: -89.264404}
+        - {x: 58.599976, y: -2.2644043}
+        - {x: 58.599976, y: 43.735596}
+    - name: Opposing archer walk_68
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 942
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.400024, y: 58.735596}
+        - {x: 32.400024, y: 54.735596}
+        - {x: 29.400024, y: 78.735596}
+        - {x: 6.4000244, y: 100.735596}
+        - {x: -27.599976, y: 100.735596}
+        - {x: -32.599976, y: 86.735596}
+        - {x: -32.599976, y: -97.264404}
+        - {x: -30.599976, y: -102.264404}
+        - {x: 17.400024, y: -102.264404}
+        - {x: 30.400024, y: -96.264404}
+        - {x: 58.400024, y: 10.735596}
+        - {x: 58.400024, y: 47.735596}
+        - {x: 44.400024, y: 58.735596}
+    - name: Opposing archer walk_69
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 942
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.699951, y: 100.735596}
+        - {x: -9.300049, y: 100.735596}
+        - {x: -26.300049, y: 77.735596}
+        - {x: -30.300049, y: 39.735596}
+        - {x: -30.300049, y: -102.264404}
+        - {x: 32.69995, y: -102.264404}
+        - {x: 57.69995, y: -19.264404}
+        - {x: 57.69995, y: 49.735596}
+        - {x: 46.69995, y: 89.735596}
+    - name: Opposing archer walk_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 100.49042}
+        - {x: -30.5, y: 87.49042}
+        - {x: -30.5, y: -94.50958}
+        - {x: -13.5, y: -102.50958}
+        - {x: 57.5, y: -102.50958}
+        - {x: 57.5, y: 100.49042}
+    - name: Opposing archer walk_71
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 628
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.800003, y: -47.509583}
+        - {x: 57.800003, y: 2.4904175}
+        - {x: 57.800003, y: 46.490417}
+        - {x: 45.800003, y: 66.49042}
+        - {x: 32.800003, y: 62.490417}
+        - {x: 30.800003, y: 60.490417}
+        - {x: 28.800003, y: 78.49042}
+        - {x: 9.800003, y: 93.49042}
+        - {x: -4.199997, y: 100.49042}
+        - {x: -29.199997, y: 100.49042}
+        - {x: -29.199997, y: -100.50958}
+        - {x: -17.199997, y: -102.50958}
+        - {x: 4.800003, y: -102.50958}
+        - {x: 17.800003, y: -97.50958}
+        - {x: 14.800003, y: -86.50958}
+        - {x: 9.800003, y: -83.50958}
+    - name: Opposing archer walk_72
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 628
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.399994, y: 100.49042}
+        - {x: -30.399994, y: 90.49042}
+        - {x: -30.399994, y: -101.50958}
+        - {x: 24.600006, y: -101.50958}
+        - {x: 56.600006, y: -37.509583}
+        - {x: 56.600006, y: 92.49042}
+        - {x: 23.600006, y: 100.49042}
+    - name: Opposing archer walk_73
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 628
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.399994, y: -34.509583}
+        - {x: 56.399994, y: 13.4904175}
+        - {x: 56.399994, y: 49.490417}
+        - {x: 38.399994, y: 64.49042}
+        - {x: 31.399994, y: 63.490417}
+        - {x: 27.399994, y: 61.490417}
+        - {x: 21.399994, y: 25.490417}
+        - {x: 21.399994, y: 21.490417}
+        - {x: 20.399994, y: 26.490417}
+        - {x: 19.399994, y: 32.490417}
+        - {x: 17.399994, y: 37.490417}
+        - {x: 25.399994, y: 51.490417}
+        - {x: 29.399994, y: 80.49042}
+        - {x: 11.399994, y: 100.49042}
+        - {x: -15.600006, y: 100.49042}
+        - {x: -30.600006, y: 79.49042}
+        - {x: -30.600006, y: -101.50958}
+        - {x: -2.600006, y: -101.50958}
+        - {x: 2.399994, y: -100.50958}
+        - {x: 8.399994, y: -96.50958}
+        - {x: 8.399994, y: -89.50958}
+        - {x: 4.399994, y: -84.50958}
+    - name: Opposing archer walk_74
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 628
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.700012, y: 69.49042}
+        - {x: 25.700012, y: 63.490417}
+        - {x: 28.700012, y: 79.49042}
+        - {x: 14.700012, y: 100.49042}
+        - {x: -20.299988, y: 100.49042}
+        - {x: -30.299988, y: 79.49042}
+        - {x: -30.299988, y: -100.50958}
+        - {x: 17.700012, y: -100.50958}
+        - {x: 55.700012, y: -60.509583}
+        - {x: 55.700012, y: 68.49042}
+    - name: Opposing archer walk_75
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 628
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 64.49042}
+        - {x: 25.5, y: 60.490417}
+        - {x: 26.5, y: 73.49042}
+        - {x: 26.5, y: 82.49042}
+        - {x: 11.5, y: 100.49042}
+        - {x: -25.5, y: 100.49042}
+        - {x: -30.5, y: 91.49042}
+        - {x: -30.5, y: -100.50958}
+        - {x: 25.5, y: -100.50958}
+        - {x: 31.5, y: -97.50958}
+        - {x: 55.5, y: -4.5095825}
+        - {x: 55.5, y: 56.490417}
+        - {x: 36.5, y: 68.49042}
+    - name: Opposing archer walk_76
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 628
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.200012, y: 100.49042}
+        - {x: -32.200012, y: 84.49042}
+        - {x: -32.200012, y: -99.50958}
+        - {x: -30.200012, y: -100.50958}
+        - {x: 32.799988, y: -100.50958}
+        - {x: 55.799988, y: -38.509583}
+        - {x: 55.799988, y: 70.49042}
+        - {x: 18.799988, y: 100.49042}
+    - name: Opposing archer walk_77
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 628
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.599976, y: 68.49042}
+        - {x: 26.599976, y: 66.49042}
+        - {x: 24.599976, y: 64.49042}
+        - {x: 24.599976, y: 51.490417}
+        - {x: 23.599976, y: 46.490417}
+        - {x: 24.599976, y: 52.490417}
+        - {x: 23.599976, y: 57.490417}
+        - {x: 25.599976, y: 73.49042}
+        - {x: 25.599976, y: 78.49042}
+        - {x: 7.5999756, y: 94.49042}
+        - {x: -4.4000244, y: 100.49042}
+        - {x: -12.400024, y: 100.49042}
+        - {x: -34.400024, y: 85.49042}
+        - {x: -35.400024, y: 75.49042}
+        - {x: -35.400024, y: -98.50958}
+        - {x: -32.400024, y: -99.50958}
+        - {x: 12.599976, y: -99.50958}
+        - {x: 21.599976, y: -98.50958}
+        - {x: 51.599976, y: -49.509583}
+        - {x: 55.599976, y: -17.509583}
+        - {x: 55.599976, y: 56.490417}
+    - name: Opposing archer walk_78
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 628
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.400024, y: 46.490417}
+        - {x: 40.400024, y: 65.49042}
+        - {x: 24.400024, y: 69.49042}
+        - {x: 23.400024, y: 65.49042}
+        - {x: 23.400024, y: 53.490417}
+        - {x: 21.400024, y: 37.490417}
+        - {x: 23.400024, y: 54.490417}
+        - {x: 23.400024, y: 57.490417}
+        - {x: 22.400024, y: 67.49042}
+        - {x: 27.400024, y: 77.49042}
+        - {x: 16.400024, y: 100.49042}
+        - {x: -14.599976, y: 100.49042}
+        - {x: -38.599976, y: 94.49042}
+        - {x: -38.599976, y: -95.50958}
+        - {x: -30.599976, y: -98.50958}
+        - {x: 28.400024, y: -98.50958}
+        - {x: 45.400024, y: -45.509583}
+        - {x: 54.400024, y: -5.5095825}
+    - name: Opposing archer walk_79
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 628
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.3000488, y: -94.50958}
+        - {x: 2.6999512, y: -98.50958}
+        - {x: 28.699951, y: -98.50958}
+        - {x: 54.69995, y: -51.509583}
+        - {x: 54.69995, y: 60.490417}
+        - {x: 2.6999512, y: 100.49042}
+        - {x: -18.300049, y: 100.49042}
+        - {x: -33.30005, y: 56.490417}
+        - {x: -40.30005, y: -41.509583}
+        - {x: -40.30005, y: -97.50958}
+        - {x: -39.30005, y: -98.50958}
+        - {x: -2.3000488, y: -98.50958}
+        - {x: -7.300049, y: -88.50958}
+        - {x: -12.300049, y: -82.50958}
+        - {x: -9.300049, y: -81.50958}
+    - name: Opposing archer walk_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -91.25479}
+        - {x: 7.5, y: -97.25479}
+        - {x: 31.5, y: -97.25479}
+        - {x: 53.5, y: -80.25479}
+        - {x: 53.5, y: 81.74521}
+        - {x: 48.5, y: 100.74521}
+        - {x: -16.5, y: 100.74521}
+        - {x: -34.5, y: 59.74521}
+        - {x: -43.5, y: -49.25479}
+        - {x: -43.5, y: -92.25479}
+        - {x: -32.5, y: -97.25479}
+        - {x: -15.5, y: -97.25479}
+        - {x: -12.5, y: -96.25479}
+        - {x: -11.5, y: -87.25479}
+        - {x: -12.5, y: -84.25479}
+        - {x: -16.5, y: -81.25479}
+    - name: Opposing archer walk_81
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 314
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.800003, y: -96.25479}
+        - {x: 54.800003, y: -70.25479}
+        - {x: 54.800003, y: 52.74521}
+        - {x: 51.800003, y: 55.74521}
+        - {x: 31.800003, y: 70.74521}
+        - {x: 22.800003, y: 68.74521}
+        - {x: 20.800003, y: 66.74521}
+        - {x: 24.800003, y: 73.74521}
+        - {x: 27.800003, y: 80.74521}
+        - {x: -1.199997, y: 100.74521}
+        - {x: -28.199997, y: 100.74521}
+        - {x: -45.199997, y: -9.254791}
+        - {x: -45.199997, y: -90.25479}
+        - {x: -38.199997, y: -93.25479}
+        - {x: -27.199997, y: -96.25479}
+        - {x: -15.199997, y: -96.25479}
+        - {x: -10.199997, y: -85.25479}
+        - {x: -10.199997, y: -87.25479}
+        - {x: -1.199997, y: -96.25479}
+    - name: Opposing archer walk_82
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 314
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.600006, y: -94.25479}
+        - {x: 32.600006, y: -88.25479}
+        - {x: 54.600006, y: -41.25479}
+        - {x: 54.600006, y: 78.74521}
+        - {x: 23.600006, y: 100.74521}
+        - {x: -30.399994, y: 100.74521}
+        - {x: -43.399994, y: 88.74521}
+        - {x: -47.399994, y: 45.74521}
+        - {x: -47.399994, y: -94.25479}
+        - {x: -45.399994, y: -95.25479}
+        - {x: -20.399994, y: -95.25479}
+        - {x: -14.399994, y: -93.25479}
+        - {x: -16.399994, y: -82.25479}
+        - {x: 6.600006, y: -95.25479}
+        - {x: 25.600006, y: -95.25479}
+    - name: Opposing archer walk_83
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 314
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.399994, y: -94.25479}
+        - {x: 54.399994, y: -53.25479}
+        - {x: 54.399994, y: 67.74521}
+        - {x: 8.399994, y: 96.74521}
+        - {x: -4.600006, y: 100.74521}
+        - {x: -13.600006, y: 100.74521}
+        - {x: -26.600006, y: 80.74521}
+        - {x: -50.600006, y: -53.25479}
+        - {x: -50.600006, y: -91.25479}
+        - {x: -41.600006, y: -94.25479}
+        - {x: -22.600006, y: -94.25479}
+        - {x: -16.600006, y: -88.25479}
+        - {x: -22.600006, y: -77.25479}
+        - {x: 9.399994, y: -94.25479}
+    - name: Opposing archer walk_84
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 314
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.299988, y: 100.74521}
+        - {x: -52.299988, y: 35.74521}
+        - {x: -52.299988, y: -94.25479}
+        - {x: 54.700012, y: -94.25479}
+        - {x: 54.700012, y: 65.74521}
+        - {x: 16.700012, y: 100.74521}
+    - name: Opposing archer walk_85
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 314
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 100.74521}
+        - {x: -36.5, y: 98.74521}
+        - {x: -54.5, y: 38.74521}
+        - {x: -54.5, y: -92.25479}
+        - {x: 55.5, y: -92.25479}
+        - {x: 55.5, y: 51.74521}
+        - {x: 42.5, y: 100.74521}
+    - name: Opposing archer walk_86
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 314
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.799988, y: 100.74521}
+        - {x: -26.200012, y: 100.74521}
+        - {x: -40.200012, y: 85.74521}
+        - {x: -56.200012, y: -6.2547913}
+        - {x: -56.200012, y: -87.25479}
+        - {x: -45.200012, y: -92.25479}
+        - {x: 56.799988, y: -92.25479}
+        - {x: 56.799988, y: 55.74521}
+        - {x: 55.799988, y: 62.74521}
+    - name: Opposing archer walk_87
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 314
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.400024, y: -90.25479}
+        - {x: 57.599976, y: -90.25479}
+        - {x: 57.599976, y: 97.74521}
+        - {x: 56.599976, y: 100.74521}
+        - {x: -26.400024, y: 100.74521}
+        - {x: -58.400024, y: -23.254791}
+    - name: Opposing archer walk_88
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 314
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.599976, y: 100.74521}
+        - {x: -53.599976, y: 24.745209}
+        - {x: -60.599976, y: 6.7452087}
+        - {x: -60.599976, y: -89.25479}
+        - {x: 58.400024, y: -89.25479}
+        - {x: 58.400024, y: 60.74521}
+        - {x: 40.400024, y: 100.74521}
+    - name: Opposing archer walk_89
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 314
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.30005, y: 100.74521}
+        - {x: -62.30005, y: 18.745209}
+        - {x: -62.30005, y: -88.25479}
+        - {x: 44.69995, y: -88.25479}
+        - {x: 59.69995, y: -43.25479}
+        - {x: 59.69995, y: 86.74521}
+        - {x: 38.69995, y: 100.74521}
+    - name: Opposing archer walk_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 99.5}
+        - {x: -64.5, y: 12.5}
+        - {x: -64.5, y: -88.5}
+        - {x: 47.5, y: -88.5}
+        - {x: 59.5, y: -81.5}
+        - {x: 59.5, y: 70.5}
+        - {x: 25.5, y: 99.5}
+    - name: Opposing archer walk_91
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.199997, y: 99.5}
+        - {x: -65.2, y: 48.5}
+        - {x: -65.2, y: -87.5}
+        - {x: 61.800003, y: -87.5}
+        - {x: 61.800003, y: 31.5}
+        - {x: 33.800003, y: 99.5}
+    - name: Opposing archer walk_92
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 219
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.600006, y: 13.5}
+        - {x: 54.600006, y: 73.5}
+        - {x: 10.600006, y: 99.5}
+        - {x: -34.399994, y: 99.5}
+        - {x: -67.399994, y: -18.5}
+        - {x: -67.399994, y: -85.5}
+        - {x: 51.600006, y: -85.5}
+        - {x: 53.600006, y: -73.5}
+        - {x: 45.600006, y: -67.5}
+        - {x: 62.600006, y: -33.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

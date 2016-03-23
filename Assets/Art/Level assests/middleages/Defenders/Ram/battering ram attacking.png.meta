@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: af18e5fe785dbcf46b6e3746251a4412
+timeCreated: 1457092490
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: battering ram attacking_0
+    21300002: battering ram attacking_1
+    21300004: battering ram attacking_2
+    21300006: battering ram attacking_3
+    21300008: battering ram attacking_4
+    21300010: battering ram attacking_5
+    21300012: battering ram attacking_6
+    21300014: battering ram attacking_7
+    21300016: battering ram attacking_8
+    21300018: battering ram attacking_9
+    21300020: battering ram attacking_10
+    21300022: battering ram attacking_11
+    21300024: battering ram attacking_12
+    21300026: battering ram attacking_13
+    21300028: battering ram attacking_14
+    21300030: battering ram attacking_15
+    21300032: battering ram attacking_16
+    21300034: battering ram attacking_17
+    21300036: battering ram attacking_18
+    21300038: battering ram attacking_19
+    21300040: battering ram attacking_20
+    21300042: battering ram attacking_21
+    21300044: battering ram attacking_22
+    21300046: battering ram attacking_23
+    21300048: battering ram attacking_24
+    21300050: battering ram attacking_25
+    21300052: battering ram attacking_26
+    21300054: battering ram attacking_27
+    21300056: battering ram attacking_28
+    21300058: battering ram attacking_29
+    21300060: battering ram attacking_30
+    21300062: battering ram attacking_31
+    21300064: battering ram attacking_32
+    21300066: battering ram attacking_33
+    21300068: battering ram attacking_34
+    21300070: battering ram attacking_35
+    21300072: battering ram attacking_36
+    21300074: battering ram attacking_37
+    21300076: battering ram attacking_38
+    21300078: battering ram attacking_39
+    21300080: battering ram attacking_40
+    21300082: battering ram attacking_41
+    21300084: battering ram attacking_42
+    21300086: battering ram attacking_43
+    21300088: battering ram attacking_44
+    21300090: battering ram attacking_45
+    21300092: battering ram attacking_46
+    21300094: battering ram attacking_47
+    21300096: battering ram attacking_48
+    21300098: battering ram attacking_49
+    21300100: battering ram attacking_50
+    21300102: battering ram attacking_51
+    21300104: battering ram attacking_52
+    21300106: battering ram attacking_53
+    21300108: battering ram attacking_54
+    21300110: battering ram attacking_55
+    21300112: battering ram attacking_56
+    21300114: battering ram attacking_57
+    21300116: battering ram attacking_58
+    21300118: battering ram attacking_59
+    21300120: battering ram attacking_60
+    21300122: battering ram attacking_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: battering ram attacking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 581
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: 41.5}
+        - {x: -102, y: -38.5}
+        - {x: 46, y: -38.5}
+        - {x: 69, y: -11.5}
+        - {x: 69, y: 16.5}
+        - {x: 49, y: 41.5}
+    - name: battering ram attacking_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 581
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 41.5}
+        - {x: -101, y: 41.5}
+        - {x: -101, y: 39.5}
+        - {x: -102, y: 32.5}
+        - {x: -102, y: -38.5}
+        - {x: 47, y: -38.5}
+        - {x: 68, y: -6.5}
+        - {x: 71, y: 2.5}
+        - {x: 71, y: 37.5}
+    - name: battering ram attacking_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 581
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: 41.5}
+        - {x: -102, y: -28.5}
+        - {x: -95, y: -38.5}
+        - {x: 38, y: -38.5}
+        - {x: 74, y: -1.5}
+        - {x: 74, y: 38.5}
+        - {x: 53, y: 41.5}
+    - name: battering ram attacking_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 581
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 14.5}
+        - {x: 42, y: 41.5}
+        - {x: -91, y: 41.5}
+        - {x: -102, y: 13.5}
+        - {x: -102, y: -23.5}
+        - {x: -89, y: -38.5}
+        - {x: 47, y: -38.5}
+        - {x: 74, y: -9.5}
+        - {x: 76, y: -3.5}
+        - {x: 76, y: 10.5}
+    - name: battering ram attacking_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 581
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: 41.5}
+        - {x: -102, y: -15.5}
+        - {x: -97, y: -35.5}
+        - {x: -84, y: -38.5}
+        - {x: -70, y: -38.5}
+        - {x: -63, y: -28.5}
+        - {x: -39, y: -38.5}
+        - {x: -20, y: -38.5}
+        - {x: -17, y: -36.5}
+        - {x: -13, y: -38.5}
+        - {x: 42, y: -38.5}
+        - {x: 78, y: -19.5}
+        - {x: 78, y: 41.5}
+    - name: battering ram attacking_6
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 581
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 41.5}
+        - {x: -89, y: 41.5}
+        - {x: -102, y: 11.5}
+        - {x: -102, y: -17.5}
+        - {x: -90, y: -36.5}
+        - {x: -82, y: -37.5}
+        - {x: -74, y: -37.5}
+        - {x: -70, y: -38.5}
+        - {x: 47, y: -38.5}
+        - {x: 81, y: -3.5}
+        - {x: 81, y: 10.5}
+        - {x: 80, y: 14.5}
+    - name: battering ram attacking_7
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 581
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90, y: 41.5}
+        - {x: -102, y: 1.5}
+        - {x: -102, y: -38.5}
+        - {x: 52, y: -38.5}
+        - {x: 83, y: -2.5}
+        - {x: 83, y: 17.5}
+        - {x: 42, y: 41.5}
+    - name: battering ram attacking_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 41.5}
+        - {x: -102, y: 11.5}
+        - {x: -102, y: -38.5}
+        - {x: 67, y: -38.5}
+        - {x: 86, y: -11.5}
+        - {x: 86, y: 21.5}
+        - {x: 62, y: 41.5}
+    - name: battering ram attacking_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 498
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86, y: 41.5}
+        - {x: -91, y: 40.5}
+        - {x: -102, y: -3.5}
+        - {x: -102, y: -17.5}
+        - {x: -94, y: -38.5}
+        - {x: 55, y: -38.5}
+        - {x: 88, y: -2.5}
+        - {x: 88, y: 13.5}
+        - {x: 39, y: 41.5}
+    - name: battering ram attacking_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 498
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 41.5}
+        - {x: -101, y: 41.5}
+        - {x: -101, y: -20.5}
+        - {x: -90, y: -38.5}
+        - {x: 48, y: -38.5}
+        - {x: 89, y: -9.5}
+        - {x: 90, y: -4.5}
+        - {x: 90, y: 38.5}
+    - name: battering ram attacking_11
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 498
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 41.5}
+        - {x: -101, y: 41.5}
+        - {x: -101, y: -38.5}
+        - {x: 60, y: -38.5}
+        - {x: 93, y: -12.5}
+        - {x: 93, y: 15.5}
+    - name: battering ram attacking_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 498
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 41.5}
+        - {x: -88, y: 41.5}
+        - {x: -101, y: 13.5}
+        - {x: -101, y: -38.5}
+        - {x: 57, y: -38.5}
+        - {x: 91, y: -6.5}
+        - {x: 95, y: -1.5}
+        - {x: 95, y: 15.5}
+    - name: battering ram attacking_13
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 498
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86, y: 41.5}
+        - {x: -90, y: 35.5}
+        - {x: -101, y: 8.5}
+        - {x: -101, y: -31.5}
+        - {x: -98, y: -38.5}
+        - {x: 80, y: -38.5}
+        - {x: 98, y: -33.5}
+        - {x: 98, y: 14.5}
+        - {x: 42, y: 41.5}
+    - name: battering ram attacking_14
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 498
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 41.5}
+        - {x: -88, y: 40.5}
+        - {x: -100, y: 2.5}
+        - {x: -100, y: -15.5}
+        - {x: -87, y: -38.5}
+        - {x: 54, y: -38.5}
+        - {x: 100, y: -15.5}
+        - {x: 100, y: 21.5}
+        - {x: 76, y: 41.5}
+    - name: battering ram attacking_15
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 498
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 41.5}
+        - {x: -100, y: -19.5}
+        - {x: -87, y: -38.5}
+        - {x: 102, y: -38.5}
+        - {x: 102, y: 17.5}
+        - {x: 63, y: 41.5}
+    - name: battering ram attacking_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 41.5}
+        - {x: -84, y: 40.5}
+        - {x: -88, y: 36.5}
+        - {x: -100, y: -6.5}
+        - {x: -100, y: -15.5}
+        - {x: -89, y: -31.5}
+        - {x: -84, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 102, y: -21.5}
+        - {x: 102, y: 21.5}
+        - {x: 81, y: 41.5}
+    - name: battering ram attacking_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 415
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 41.5}
+        - {x: -100, y: 41.5}
+        - {x: -100, y: -38.5}
+        - {x: 61, y: -38.5}
+        - {x: 102, y: -18.5}
+        - {x: 102, y: 14.5}
+        - {x: 45, y: 39.5}
+    - name: battering ram attacking_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 415
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87, y: 41.5}
+        - {x: -100, y: 5.5}
+        - {x: -100, y: -17.5}
+        - {x: -89, y: -38.5}
+        - {x: 61, y: -38.5}
+        - {x: 102, y: -15.5}
+        - {x: 102, y: 19.5}
+        - {x: 76, y: 41.5}
+    - name: battering ram attacking_19
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 415
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 41.5}
+        - {x: -100, y: -38.5}
+        - {x: 69, y: -38.5}
+        - {x: 101, y: -5.5}
+        - {x: 101, y: 33.5}
+        - {x: 45, y: 41.5}
+    - name: battering ram attacking_20
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 415
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 41.5}
+        - {x: -100, y: 38.5}
+        - {x: -100, y: -38.5}
+        - {x: 69, y: -38.5}
+        - {x: 100, y: -14.5}
+        - {x: 100, y: 20.5}
+        - {x: 88, y: 41.5}
+    - name: battering ram attacking_21
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 415
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: 41.5}
+        - {x: -85, y: 40.5}
+        - {x: -90, y: 36.5}
+        - {x: -101, y: -4.5}
+        - {x: -101, y: -14.5}
+        - {x: -87, y: -38.5}
+        - {x: 66, y: -38.5}
+        - {x: 98, y: -8.5}
+        - {x: 98, y: 21.5}
+        - {x: 42, y: 41.5}
+    - name: battering ram attacking_22
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 415
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87, y: 41.5}
+        - {x: -101, y: 12.5}
+        - {x: -101, y: -23.5}
+        - {x: -91, y: -38.5}
+        - {x: 43, y: -38.5}
+        - {x: 97, y: -2.5}
+        - {x: 97, y: 17.5}
+        - {x: 46, y: 41.5}
+    - name: battering ram attacking_23
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 415
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 41.5}
+        - {x: -97, y: 41.5}
+        - {x: -98, y: 38.5}
+        - {x: -101, y: 22.5}
+        - {x: -101, y: -38.5}
+        - {x: 37, y: -38.5}
+        - {x: 95, y: -10.5}
+        - {x: 95, y: 38.5}
+    - name: battering ram attacking_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101, y: 41.5}
+        - {x: -101, y: -38.5}
+        - {x: 64, y: -38.5}
+        - {x: 94, y: 1.5}
+        - {x: 94, y: 33.5}
+        - {x: 41, y: 41.5}
+    - name: battering ram attacking_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 332
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87, y: 41.5}
+        - {x: -91, y: 36.5}
+        - {x: -101, y: -5.5}
+        - {x: -101, y: -24.5}
+        - {x: -99, y: -38.5}
+        - {x: 56, y: -38.5}
+        - {x: 92, y: -12.5}
+        - {x: 92, y: 25.5}
+        - {x: 73, y: 41.5}
+    - name: battering ram attacking_26
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 332
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 41.5}
+        - {x: -101, y: 41.5}
+        - {x: -101, y: -20.5}
+        - {x: -90, y: -38.5}
+        - {x: 48, y: -38.5}
+        - {x: 89, y: -9.5}
+        - {x: 90, y: -4.5}
+        - {x: 90, y: 38.5}
+    - name: battering ram attacking_27
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 332
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: -38.5}
+        - {x: 45, y: -38.5}
+        - {x: 89, y: -8.5}
+        - {x: 89, y: 10.5}
+        - {x: 43, y: 41.5}
+        - {x: -90, y: 41.5}
+        - {x: -102, y: 27.5}
+    - name: battering ram attacking_28
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 332
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90, y: 41.5}
+        - {x: -102, y: 4.5}
+        - {x: -102, y: -38.5}
+        - {x: 61, y: -38.5}
+        - {x: 87, y: -13.5}
+        - {x: 87, y: 23.5}
+        - {x: 42, y: 41.5}
+    - name: battering ram attacking_29
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 332
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: 41.5}
+        - {x: -102, y: 11.5}
+        - {x: -102, y: -38.5}
+        - {x: 67, y: -38.5}
+        - {x: 86, y: -11.5}
+        - {x: 86, y: 21.5}
+        - {x: 62, y: 41.5}
+    - name: battering ram attacking_30
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 332
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 41.5}
+        - {x: -102, y: 18.5}
+        - {x: -102, y: -38.5}
+        - {x: 58, y: -38.5}
+        - {x: 84, y: -8.5}
+        - {x: 84, y: 21.5}
+        - {x: 53, y: 41.5}
+    - name: battering ram attacking_31
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 332
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: 15.5}
+        - {x: 44, y: 41.5}
+        - {x: -90, y: 41.5}
+        - {x: -92, y: 36.5}
+        - {x: -102, y: 0.5}
+        - {x: -102, y: -11.5}
+        - {x: -96, y: -33.5}
+        - {x: -87, y: -38.5}
+        - {x: 63, y: -38.5}
+        - {x: 83, y: -29.5}
+        - {x: 83, y: 8.5}
+        - {x: 82, y: 9.5}
+    - name: battering ram attacking_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89, y: 41.5}
+        - {x: -102, y: 11.5}
+        - {x: -102, y: -17.5}
+        - {x: -90, y: -36.5}
+        - {x: -82, y: -37.5}
+        - {x: -74, y: -37.5}
+        - {x: -68, y: -38.5}
+        - {x: 54, y: -38.5}
+        - {x: 81, y: -6.5}
+        - {x: 81, y: 17.5}
+        - {x: 43, y: 41.5}
+    - name: battering ram attacking_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 249
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 15.5}
+        - {x: 41, y: 41.5}
+        - {x: -93, y: 41.5}
+        - {x: -102, y: 19.5}
+        - {x: -102, y: -22.5}
+        - {x: -91, y: -38.5}
+        - {x: 34, y: -38.5}
+        - {x: 76, y: -8.5}
+        - {x: 79, y: -3.5}
+    - name: battering ram attacking_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 249
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 41.5}
+        - {x: -102, y: 12.5}
+        - {x: -102, y: -38.5}
+        - {x: 60, y: -38.5}
+        - {x: 78, y: -18.5}
+        - {x: 78, y: 19.5}
+        - {x: 55, y: 41.5}
+    - name: battering ram attacking_35
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 249
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 14.5}
+        - {x: 40, y: 41.5}
+        - {x: -93, y: 41.5}
+        - {x: -102, y: 8.5}
+        - {x: -102, y: -28.5}
+        - {x: -99, y: -38.5}
+        - {x: 52, y: -38.5}
+        - {x: 74, y: -9.5}
+        - {x: 76, y: -3.5}
+        - {x: 76, y: 10.5}
+    - name: battering ram attacking_36
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 249
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101, y: 41.5}
+        - {x: -102, y: 39.5}
+        - {x: -102, y: -30.5}
+        - {x: -97, y: -38.5}
+        - {x: 42, y: -38.5}
+        - {x: 75, y: -5.5}
+        - {x: 75, y: 22.5}
+        - {x: 51, y: 41.5}
+    - name: battering ram attacking_37
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 249
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: -38.5}
+        - {x: 73, y: -38.5}
+        - {x: 73, y: 11.5}
+        - {x: 50, y: 41.5}
+        - {x: -96, y: 41.5}
+        - {x: -102, y: 32.5}
+    - name: battering ram attacking_38
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 249
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 41.5}
+        - {x: -93, y: 41.5}
+        - {x: -102, y: 15.5}
+        - {x: -102, y: -23.5}
+        - {x: -91, y: -38.5}
+        - {x: 47, y: -38.5}
+        - {x: 68, y: -7.5}
+        - {x: 71, y: -1.5}
+        - {x: 71, y: 15.5}
+    - name: battering ram attacking_39
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 249
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 41.5}
+        - {x: -95, y: 41.5}
+        - {x: -102, y: 9.5}
+        - {x: -102, y: -26.5}
+        - {x: -100, y: -32.5}
+        - {x: -90, y: -38.5}
+        - {x: 47, y: -38.5}
+        - {x: 70, y: -7.5}
+        - {x: 70, y: 20.5}
+    - name: battering ram attacking_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 41.5}
+        - {x: -102, y: 34.5}
+        - {x: -102, y: -32.5}
+        - {x: -91, y: -38.5}
+        - {x: 40, y: -38.5}
+        - {x: 68, y: -0.5}
+        - {x: 68, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 166
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: 41.5}
+        - {x: -102, y: -38.5}
+        - {x: 55, y: -38.5}
+        - {x: 67, y: -24.5}
+        - {x: 67, y: 24.5}
+        - {x: 53, y: 41.5}
+    - name: battering ram attacking_42
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 166
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_43
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 166
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_44
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 166
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_45
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 166
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_46
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 166
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_47
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 166
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 83
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_50
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 83
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_51
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 83
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_52
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 83
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_53
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 83
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_54
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 83
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_55
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 83
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_57
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_59
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_60
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    - name: battering ram attacking_61
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 204
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 41.5}
+        - {x: -102, y: 22.5}
+        - {x: -102, y: -38.5}
+        - {x: 44, y: -38.5}
+        - {x: 66, y: -25.5}
+        - {x: 66, y: 16.5}
+        - {x: 38, y: 41.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
